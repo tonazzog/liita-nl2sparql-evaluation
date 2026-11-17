@@ -1,0 +1,39 @@
+id,group,config,outcome,error
+4026,C1,NL2S-Mistral,no query: API error,"API error occurred: Status 520 Content-Type ""application/json; charset=utf-8"". Body: {""type"":""https://developers.cloudfl"
+4052,C6,NL2S-Mistral,no query: truncated/invalid output,Mistral response truncated before any answer text (max_tokens reached while reasoning)
+4058,C7,NL2S-Mistral,not executed: endpoint 500,"EndPointInternalError: The endpoint returned the HTTP status code 500. 
+
+Response:
+b'Virtuoso 42000 Error SR186:SECURITY"
+4034,C3,MoSAIC-Mistral,not executed: endpoint timeout,The read operation timed out
+4052,C6,MoSAIC-Mistral,not executed: malformed / rejected,"QueryBadFormed: A bad request has been sent to the endpoint: probably the SPARQL query is badly formed. 
+
+Response:
+b'Vi"
+4075,C11,MoSAIC-Mistral,no query: invalid plan,"MoSAIC translation failed: TreePlanError: Step 'c': reference 'd.sicLemma' is not visible here (visible: ['s.sicLemma', "
+4076,C11,MoSAIC-Mistral,no query: API error,"MoSAIC translation failed: API error occurred: Status 520 Content-Type ""application/json; charset=utf-8"". Body: {""type"":"
+4080,C13,MoSAIC-Mistral,not executed: endpoint 500,"EndPointInternalError: The endpoint returned the HTTP status code 500. 
+
+Response:
+b'Virtuoso 42000 Error The estimated "
+4081,C13,MoSAIC-Mistral,no query: invalid plan,"MoSAIC translation failed: TreePlanError: Step id 'a_lemma' must be alphanumeric (e.g. 'a', 'b2')"
+4083,C13,MoSAIC-Mistral,not executed: endpoint 500,"EndPointInternalError: The endpoint returned the HTTP status code 500. 
+
+Response:
+b'Virtuoso 42S22 Error SQ149: The col"
+4052,C6,NL2S-Claude,not executed: endpoint 500,"EndPointInternalError: The endpoint returned the HTTP status code 500. 
+
+Response:
+b'Virtuoso RDFZZ Error DB.DBA.SPARQL_"
+4034,C3,MoSAIC-Claude,not executed: endpoint timeout,The read operation timed out
+4052,C6,MoSAIC-Claude,not executed: malformed / rejected,"QueryBadFormed: A bad request has been sent to the endpoint: probably the SPARQL query is badly formed. 
+
+Response:
+b'Vi"
+4053,C6,MoSAIC-Claude,not executed: malformed / rejected,"QueryBadFormed: A bad request has been sent to the endpoint: probably the SPARQL query is badly formed. 
+
+Response:
+b'Vi"
+4075,C11,MoSAIC-Claude,not executed: endpoint timeout,The read operation timed out
+4076,C11,MoSAIC-Claude,no query: CLI timeout,"MoSAIC translation failed: Command '['<home>\\AppData\\Roaming\\npm\\claude.CMD', '-p', '--output-format', 'json', '--mo"
+4052,C6,NL2S-Agent-Claude,no query: CLI timeout,"Command '['<home>\\AppData\\Roaming\\npm\\claude.CMD', '-p', '--output-format', 'json', '--model', 'claude-sonnet-4-6', "

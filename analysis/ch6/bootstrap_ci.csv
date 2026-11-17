@@ -1,0 +1,6 @@
+config,mean,ci_lo,ci_hi
+NL2S-Mistral,0.778,0.698,0.852
+MoSAIC-Mistral,0.789,0.700,0.869
+NL2S-Claude,0.784,0.704,0.858
+MoSAIC-Claude,0.814,0.731,0.887
+NL2S-Agent-Claude,0.815,0.740,0.883

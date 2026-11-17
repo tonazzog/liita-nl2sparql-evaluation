@@ -1,0 +1,46 @@
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
+PREFIX elita: <http://w3id.org/elita/>
+PREFIX marl: <http://www.gsi.upm.es/ontologies/marl/ns#>
+PREFIX vartrans: <http://www.w3.org/ns/lemon/vartrans#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# "Which Italian words whose CompL-it definition mentions 'sentimento' (feeling) are associated with an
+#  emotion in ELIta? Give the definition, the emotions, the Sentix polarity and the Sicilian and
+#  Parmigiano translations."
+# Six resources: CompL-it, LiITA lemma bank, ELIta, Sentix, Sicilian, Parmigiano.
+SELECT DISTINCT ?italianWord ?definition ?emotion ?emotionLabel ?polarityValue ?sicilianWord ?parmigianoWord
+WHERE {
+  # 1. CompL-it: senses whose definition mentions 'sentimento' (regex with flags: required inside SERVICE)
+  SERVICE <https://klab.ilc.cnr.it/graphdb-compl-it/> {
+    ?word ontolex:sense ?sense .
+    ?sense skos:definition ?definition .
+    FILTER(REGEX(STR(?definition), "sentimento", "i"))
+  }
+  # 2. LiITA: the CompL-it word is linked to an Italian lemma (or hypolemma)
+  ?word ontolex:canonicalForm ?italianLemma .
+  GRAPH <http://liita.it/data> {
+    ?italianLemma a ?lemmaType ; ontolex:writtenRep ?italianWord .
+    FILTER(?lemmaType IN (lila:Lemma, lila:Hypolemma))
+  }
+  # 3. ELIta: emotions of the lemma
+  ?emotionEntry ontolex:canonicalForm ?italianLemma ; elita:HasEmotion ?emotion .
+  ?emotion rdfs:label ?emotionLabel .
+  # 4. Sentix: polarity of the lemma
+  ?polarityEntry ontolex:canonicalForm ?italianLemma ; marl:hasPolarityValue ?polarityRaw .
+  BIND(xsd:float(?polarityRaw) AS ?polarityValue)
+  # 5. Sicilian translation
+  ?sicEntryIt ontolex:canonicalForm ?italianLemma ; vartrans:translatableAs ?sicEntry .
+  ?sicEntry ontolex:canonicalForm ?sicilianLemma .
+  ?sicilianLemma dcterms:isPartOf <http://liita.it/data/id/DialettoSiciliano/lemma/LemmaBank> ;
+                 ontolex:writtenRep ?sicilianWord .
+  # 6. Parmigiano translation
+  ?parEntryIt ontolex:canonicalForm ?italianLemma ; vartrans:translatableAs ?parEntry .
+  ?parEntry ontolex:canonicalForm ?parmigianoLemma .
+  ?parmigianoLemma dcterms:isPartOf <http://liita.it/data/id/DialettoParmigiano/lemma/LemmaBank> ;
+                   ontolex:writtenRep ?parmigianoWord .
+}
+ORDER BY ?italianWord

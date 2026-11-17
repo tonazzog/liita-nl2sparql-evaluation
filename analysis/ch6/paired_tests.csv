@@ -1,0 +1,11 @@
+A,B,diff,ci_lo,ci_hi,p_perm,wins,ties,losses
+NL2S-Mistral,MoSAIC-Mistral,-0.011,-0.122,0.099,0.851,15,48,23
+NL2S-Mistral,NL2S-Claude,-0.006,-0.089,0.079,0.900,11,64,11
+NL2S-Mistral,MoSAIC-Claude,-0.036,-0.139,0.068,0.495,16,46,24
+NL2S-Mistral,NL2S-Agent-Claude,-0.036,-0.122,0.050,0.412,13,60,13
+MoSAIC-Mistral,NL2S-Claude,0.005,-0.089,0.098,0.922,18,55,13
+MoSAIC-Mistral,MoSAIC-Claude,-0.025,-0.069,0.012,0.249,5,76,5
+MoSAIC-Mistral,NL2S-Agent-Claude,-0.026,-0.115,0.062,0.581,17,56,13
+NL2S-Claude,MoSAIC-Claude,-0.030,-0.120,0.063,0.524,12,55,19
+NL2S-Claude,NL2S-Agent-Claude,-0.030,-0.087,0.021,0.292,6,74,6
+MoSAIC-Claude,NL2S-Agent-Claude,-0.000,-0.090,0.087,0.992,18,55,13

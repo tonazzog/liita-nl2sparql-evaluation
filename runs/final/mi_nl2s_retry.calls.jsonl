@@ -1,0 +1,2 @@
+{"ts": "2026-11-16T09:10:34", "requested_model": "mistral-large-4-0", "model_used": "mistral-large-4-0", "prompt_tokens": 5629, "completion_tokens": 6719, "reasoning_tokens": 6399, "finish_reason": "stop", "duration_s": 63.57}
+{"ts": "2026-11-16T09:13:04", "requested_model": "mistral-large-4-0", "model_used": "mistral-large-4-0", "prompt_tokens": 8768, "completion_tokens": 7016, "reasoning_tokens": 6711, "finish_reason": "stop", "duration_s": 78.06}

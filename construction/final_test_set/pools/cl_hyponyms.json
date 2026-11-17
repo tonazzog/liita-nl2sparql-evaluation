@@ -1,0 +1,7354 @@
+[
+{
+"wr": "immergere",
+"n": "1"
+},
+{
+"wr": "fabbrica",
+"n": "35"
+},
+{
+"wr": "odore",
+"n": "9"
+},
+{
+"wr": "idea",
+"n": "10"
+},
+{
+"wr": "avvenimento",
+"n": "28"
+},
+{
+"wr": "indirizzo",
+"n": "1"
+},
+{
+"wr": "scoprire",
+"n": "1"
+},
+{
+"wr": "sostegno",
+"n": "1"
+},
+{
+"wr": "conoscenza",
+"n": "6"
+},
+{
+"wr": "indebolire",
+"n": "6"
+},
+{
+"wr": "assorbire",
+"n": "1"
+},
+{
+"wr": "ammontare",
+"n": "1"
+},
+{
+"wr": "coppia",
+"n": "1"
+},
+{
+"wr": "frammento",
+"n": "4"
+},
+{
+"wr": "sprecare",
+"n": "1"
+},
+{
+"wr": "scrittore",
+"n": "12"
+},
+{
+"wr": "ripulire",
+"n": "1"
+},
+{
+"wr": "imbarcazione",
+"n": "49"
+},
+{
+"wr": "pattuglia",
+"n": "1"
+},
+{
+"wr": "esca",
+"n": "2"
+},
+{
+"wr": "muovere",
+"n": "123"
+},
+{
+"wr": "assistere",
+"n": "2"
+},
+{
+"wr": "autobus",
+"n": "3"
+},
+{
+"wr": "esame",
+"n": "19"
+},
+{
+"wr": "rumore",
+"n": "31"
+},
+{
+"wr": "sporcare",
+"n": "6"
+},
+{
+"wr": "relazione",
+"n": "29"
+},
+{
+"wr": "cortometraggio",
+"n": "2"
+},
+{
+"wr": "omicida",
+"n": "7"
+},
+{
+"wr": "elaboratore",
+"n": "2"
+},
+{
+"wr": "parente",
+"n": "2"
+},
+{
+"wr": "caffettiera",
+"n": "3"
+},
+{
+"wr": "petrolio",
+"n": "1"
+},
+{
+"wr": "lastra",
+"n": "6"
+},
+{
+"wr": "contrassegno",
+"n": "1"
+},
+{
+"wr": "ormone",
+"n": "8"
+},
+{
+"wr": "francobollo",
+"n": "1"
+},
+{
+"wr": "ambiente",
+"n": "1"
+},
+{
+"wr": "gruppo",
+"n": "223"
+},
+{
+"wr": "uovo",
+"n": "2"
+},
+{
+"wr": "accusa",
+"n": "2"
+},
+{
+"wr": "sosta",
+"n": "1"
+},
+{
+"wr": "imparare",
+"n": "2"
+},
+{
+"wr": "decorazione",
+"n": "2"
+},
+{
+"wr": "echeggiare",
+"n": "2"
+},
+{
+"wr": "tutelare",
+"n": "1"
+},
+{
+"wr": "camminare",
+"n": "2"
+},
+{
+"wr": "misurare",
+"n": "3"
+},
+{
+"wr": "corda",
+"n": "5"
+},
+{
+"wr": "professore",
+"n": "3"
+},
+{
+"wr": "steroide",
+"n": "1"
+},
+{
+"wr": "amalgamare",
+"n": "2"
+},
+{
+"wr": "mammifero",
+"n": "109"
+},
+{
+"wr": "abissino",
+"n": "1"
+},
+{
+"wr": "documento",
+"n": "34"
+},
+{
+"wr": "dedicare",
+"n": "1"
+},
+{
+"wr": "vino",
+"n": "29"
+},
+{
+"wr": "arrestare",
+"n": "1"
+},
+{
+"wr": "morso",
+"n": "1"
+},
+{
+"wr": "operaio",
+"n": "31"
+},
+{
+"wr": "mangiare",
+"n": "9"
+},
+{
+"wr": "artigiano",
+"n": "38"
+},
+{
+"wr": "chiavistello",
+"n": "1"
+},
+{
+"wr": "bastone",
+"n": "3"
+},
+{
+"wr": "cabina",
+"n": "2"
+},
+{
+"wr": "lacerazione",
+"n": "1"
+},
+{
+"wr": "qualità",
+"n": "1302"
+},
+{
+"wr": "provocare",
+"n": "3"
+},
+{
+"wr": "filo",
+"n": "5"
+},
+{
+"wr": "crostaceo",
+"n": "8"
+},
+{
+"wr": "ritratto",
+"n": "2"
+},
+{
+"wr": "installare",
+"n": "1"
+},
+{
+"wr": "ovino",
+"n": "10"
+},
+{
+"wr": "masticare",
+"n": "1"
+},
+{
+"wr": "interrogare",
+"n": "1"
+},
+{
+"wr": "aggrappare",
+"n": "2"
+},
+{
+"wr": "insenatura",
+"n": "2"
+},
+{
+"wr": "sorveglianza",
+"n": "1"
+},
+{
+"wr": "resina",
+"n": "4"
+},
+{
+"wr": "assegno",
+"n": "1"
+},
+{
+"wr": "aspetto",
+"n": "6"
+},
+{
+"wr": "foresta",
+"n": "1"
+},
+{
+"wr": "cassetta",
+"n": "1"
+},
+{
+"wr": "riprendere",
+"n": "1"
+},
+{
+"wr": "collezione",
+"n": "13"
+},
+{
+"wr": "indumento",
+"n": "169"
+},
+{
+"wr": "atomo",
+"n": "1"
+},
+{
+"wr": "sciarpa",
+"n": "1"
+},
+{
+"wr": "utensile",
+"n": "34"
+},
+{
+"wr": "villetta",
+"n": "2"
+},
+{
+"wr": "governo",
+"n": "3"
+},
+{
+"wr": "pulpito",
+"n": "1"
+},
+{
+"wr": "sparare",
+"n": "1"
+},
+{
+"wr": "dolce",
+"n": "43"
+},
+{
+"wr": "corrompere",
+"n": "3"
+},
+{
+"wr": "aspirazione",
+"n": "3"
+},
+{
+"wr": "sapone",
+"n": "1"
+},
+{
+"wr": "cavo",
+"n": "1"
+},
+{
+"wr": "cessare",
+"n": "4"
+},
+{
+"wr": "sale",
+"n": "8"
+},
+{
+"wr": "reazione",
+"n": "40"
+},
+{
+"wr": "bocciare",
+"n": "1"
+},
+{
+"wr": "batterio",
+"n": "2"
+},
+{
+"wr": "dire",
+"n": "113"
+},
+{
+"wr": "osso",
+"n": "17"
+},
+{
+"wr": "congratulare",
+"n": "2"
+},
+{
+"wr": "scatola",
+"n": "3"
+},
+{
+"wr": "carne",
+"n": "66"
+},
+{
+"wr": "esercizio",
+"n": "1"
+},
+{
+"wr": "scegliere",
+"n": "1"
+},
+{
+"wr": "riparare",
+"n": "3"
+},
+{
+"wr": "rappresentazione",
+"n": "25"
+},
+{
+"wr": "svolgere",
+"n": "3"
+},
+{
+"wr": "formazione",
+"n": "1"
+},
+{
+"wr": "quartiere",
+"n": "3"
+},
+{
+"wr": "vasca",
+"n": "2"
+},
+{
+"wr": "spennare",
+"n": "1"
+},
+{
+"wr": "scoglio",
+"n": "1"
+},
+{
+"wr": "elettrodomestico",
+"n": "21"
+},
+{
+"wr": "torta",
+"n": "1"
+},
+{
+"wr": "banconota",
+"n": "1"
+},
+{
+"wr": "abito",
+"n": "1"
+},
+{
+"wr": "dominare",
+"n": "1"
+},
+{
+"wr": "data",
+"n": "2"
+},
+{
+"wr": "infettare",
+"n": "1"
+},
+{
+"wr": "banchetto",
+"n": "1"
+},
+{
+"wr": "campana",
+"n": "2"
+},
+{
+"wr": "barba",
+"n": "1"
+},
+{
+"wr": "trasmissione",
+"n": "1"
+},
+{
+"wr": "colpa",
+"n": "1"
+},
+{
+"wr": "scusare",
+"n": "2"
+},
+{
+"wr": "cessazione",
+"n": "1"
+},
+{
+"wr": "fascicolo",
+"n": "3"
+},
+{
+"wr": "erba",
+"n": "4"
+},
+{
+"wr": "espressione",
+"n": "5"
+},
+{
+"wr": "meccanico",
+"n": "1"
+},
+{
+"wr": "situazione",
+"n": "20"
+},
+{
+"wr": "pelliccia",
+"n": "14"
+},
+{
+"wr": "chiesa",
+"n": "4"
+},
+{
+"wr": "giaciglio",
+"n": "1"
+},
+{
+"wr": "autobotte",
+"n": "1"
+},
+{
+"wr": "esortazione",
+"n": "1"
+},
+{
+"wr": "nuvola",
+"n": "2"
+},
+{
+"wr": "consonante",
+"n": "1"
+},
+{
+"wr": "gabbia",
+"n": "1"
+},
+{
+"wr": "deludere",
+"n": "1"
+},
+{
+"wr": "farcire",
+"n": "1"
+},
+{
+"wr": "alimentare",
+"n": "1"
+},
+{
+"wr": "pubblico",
+"n": "2"
+},
+{
+"wr": "linguaggio",
+"n": "1"
+},
+{
+"wr": "significare",
+"n": "1"
+},
+{
+"wr": "autista",
+"n": "1"
+},
+{
+"wr": "accendere",
+"n": "1"
+},
+{
+"wr": "rovinare",
+"n": "3"
+},
+{
+"wr": "anomalia",
+"n": "3"
+},
+{
+"wr": "ergere",
+"n": "2"
+},
+{
+"wr": "prescrivere",
+"n": "1"
+},
+{
+"wr": "traditore",
+"n": "3"
+},
+{
+"wr": "oleodotto",
+"n": "1"
+},
+{
+"wr": "edizione",
+"n": "1"
+},
+{
+"wr": "fodera",
+"n": "1"
+},
+{
+"wr": "ortaggio",
+"n": "17"
+},
+{
+"wr": "telefonare",
+"n": "1"
+},
+{
+"wr": "ascia",
+"n": "1"
+},
+{
+"wr": "colpo",
+"n": "44"
+},
+{
+"wr": "linea",
+"n": "19"
+},
+{
+"wr": "stimare",
+"n": "2"
+},
+{
+"wr": "giornale",
+"n": "9"
+},
+{
+"wr": "verdura",
+"n": "7"
+},
+{
+"wr": "preghiera",
+"n": "5"
+},
+{
+"wr": "calendario",
+"n": "2"
+},
+{
+"wr": "studente",
+"n": "7"
+},
+{
+"wr": "accordare",
+"n": "3"
+},
+{
+"wr": "tegame",
+"n": "1"
+},
+{
+"wr": "ideale",
+"n": "2"
+},
+{
+"wr": "certificato",
+"n": "1"
+},
+{
+"wr": "affaticare",
+"n": "1"
+},
+{
+"wr": "biglietteria",
+"n": "1"
+},
+{
+"wr": "insegnamento",
+"n": "3"
+},
+{
+"wr": "conservare",
+"n": "1"
+},
+{
+"wr": "pelo",
+"n": "4"
+},
+{
+"wr": "guardia",
+"n": "2"
+},
+{
+"wr": "avverare",
+"n": "2"
+},
+{
+"wr": "esistere",
+"n": "3"
+},
+{
+"wr": "pipistrello",
+"n": "3"
+},
+{
+"wr": "scivolo",
+"n": "1"
+},
+{
+"wr": "staccare",
+"n": "1"
+},
+{
+"wr": "uccello",
+"n": "83"
+},
+{
+"wr": "supporre",
+"n": "1"
+},
+{
+"wr": "tiro",
+"n": "2"
+},
+{
+"wr": "erede",
+"n": "1"
+},
+{
+"wr": "collina",
+"n": "1"
+},
+{
+"wr": "fenditura",
+"n": "1"
+},
+{
+"wr": "intervallo",
+"n": "2"
+},
+{
+"wr": "cotoletta",
+"n": "1"
+},
+{
+"wr": "collegare",
+"n": "2"
+},
+{
+"wr": "paragrafo",
+"n": "2"
+},
+{
+"wr": "maiale",
+"n": "2"
+},
+{
+"wr": "contenere",
+"n": "1"
+},
+{
+"wr": "sarcofago",
+"n": "1"
+},
+{
+"wr": "insulto",
+"n": "1"
+},
+{
+"wr": "conoscere",
+"n": "4"
+},
+{
+"wr": "azienda",
+"n": "1"
+},
+{
+"wr": "lavoratore",
+"n": "58"
+},
+{
+"wr": "circondare",
+"n": "2"
+},
+{
+"wr": "depurare",
+"n": "1"
+},
+{
+"wr": "spiegazione",
+"n": "3"
+},
+{
+"wr": "conversare",
+"n": "3"
+},
+{
+"wr": "decifrare",
+"n": "1"
+},
+{
+"wr": "contratto",
+"n": "4"
+},
+{
+"wr": "vetro",
+"n": "2"
+},
+{
+"wr": "associare",
+"n": "1"
+},
+{
+"wr": "pianta",
+"n": "366"
+},
+{
+"wr": "canotto",
+"n": "1"
+},
+{
+"wr": "bue",
+"n": "1"
+},
+{
+"wr": "orologio",
+"n": "1"
+},
+{
+"wr": "cicatrizzare",
+"n": "1"
+},
+{
+"wr": "infezione",
+"n": "3"
+},
+{
+"wr": "condizione",
+"n": "56"
+},
+{
+"wr": "bovino",
+"n": "3"
+},
+{
+"wr": "interprete",
+"n": "2"
+},
+{
+"wr": "contrattare",
+"n": "1"
+},
+{
+"wr": "comunità",
+"n": "8"
+},
+{
+"wr": "prospetto",
+"n": "1"
+},
+{
+"wr": "monile",
+"n": "1"
+},
+{
+"wr": "mantenere",
+"n": "1"
+},
+{
+"wr": "criterio",
+"n": "2"
+},
+{
+"wr": "manifestazione",
+"n": "2"
+},
+{
+"wr": "coltello",
+"n": "4"
+},
+{
+"wr": "contaminazione",
+"n": "1"
+},
+{
+"wr": "gomma",
+"n": "1"
+},
+{
+"wr": "agente",
+"n": "1"
+},
+{
+"wr": "orecchio",
+"n": "1"
+},
+{
+"wr": "bambola",
+"n": "1"
+},
+{
+"wr": "parete",
+"n": "1"
+},
+{
+"wr": "grido",
+"n": "1"
+},
+{
+"wr": "associazione",
+"n": "10"
+},
+{
+"wr": "raccogliere",
+"n": "2"
+},
+{
+"wr": "cadavere",
+"n": "1"
+},
+{
+"wr": "fazzoletto",
+"n": "1"
+},
+{
+"wr": "fuga",
+"n": "1"
+},
+{
+"wr": "accessorio",
+"n": "44"
+},
+{
+"wr": "sigaretta",
+"n": "2"
+},
+{
+"wr": "cancelliere",
+"n": "1"
+},
+{
+"wr": "distruggere",
+"n": "4"
+},
+{
+"wr": "meditazione",
+"n": "1"
+},
+{
+"wr": "cassettone",
+"n": "1"
+},
+{
+"wr": "commiserare",
+"n": "1"
+},
+{
+"wr": "esplodere",
+"n": "2"
+},
+{
+"wr": "attaccare",
+"n": "1"
+},
+{
+"wr": "custodia",
+"n": "5"
+},
+{
+"wr": "bacino",
+"n": "2"
+},
+{
+"wr": "sbarra",
+"n": "1"
+},
+{
+"wr": "tecnica",
+"n": "45"
+},
+{
+"wr": "lama",
+"n": "1"
+},
+{
+"wr": "concezione",
+"n": "1"
+},
+{
+"wr": "cuocere",
+"n": "15"
+},
+{
+"wr": "codice",
+"n": "1"
+},
+{
+"wr": "abitudine",
+"n": "3"
+},
+{
+"wr": "modellare",
+"n": "1"
+},
+{
+"wr": "spiazzo",
+"n": "1"
+},
+{
+"wr": "riccio",
+"n": "1"
+},
+{
+"wr": "automobile",
+"n": "19"
+},
+{
+"wr": "bevanda",
+"n": "73"
+},
+{
+"wr": "corteo",
+"n": "1"
+},
+{
+"wr": "valle",
+"n": "3"
+},
+{
+"wr": "accarezzare",
+"n": "1"
+},
+{
+"wr": "allontanare",
+"n": "1"
+},
+{
+"wr": "componimento",
+"n": "50"
+},
+{
+"wr": "dramma",
+"n": "1"
+},
+{
+"wr": "composizione",
+"n": "39"
+},
+{
+"wr": "finestrino",
+"n": "2"
+},
+{
+"wr": "decapitare",
+"n": "1"
+},
+{
+"wr": "piantare",
+"n": "2"
+},
+{
+"wr": "oscurare",
+"n": "1"
+},
+{
+"wr": "divano",
+"n": "2"
+},
+{
+"wr": "disgregare",
+"n": "1"
+},
+{
+"wr": "accennare",
+"n": "1"
+},
+{
+"wr": "alzare",
+"n": "1"
+},
+{
+"wr": "ordinare",
+"n": "5"
+},
+{
+"wr": "saltellare",
+"n": "1"
+},
+{
+"wr": "falce",
+"n": "1"
+},
+{
+"wr": "chip",
+"n": "1"
+},
+{
+"wr": "impegnare",
+"n": "1"
+},
+{
+"wr": "liquefare",
+"n": "1"
+},
+{
+"wr": "fango",
+"n": "3"
+},
+{
+"wr": "elaborare",
+"n": "1"
+},
+{
+"wr": "disgustare",
+"n": "2"
+},
+{
+"wr": "figlio",
+"n": "6"
+},
+{
+"wr": "brioche",
+"n": "1"
+},
+{
+"wr": "insegnare",
+"n": "4"
+},
+{
+"wr": "brodo",
+"n": "1"
+},
+{
+"wr": "ricoverare",
+"n": "1"
+},
+{
+"wr": "disastro",
+"n": "1"
+},
+{
+"wr": "punto",
+"n": "43"
+},
+{
+"wr": "assorbente",
+"n": "1"
+},
+{
+"wr": "oscillare",
+"n": "4"
+},
+{
+"wr": "dividere",
+"n": "19"
+},
+{
+"wr": "elenco",
+"n": "6"
+},
+{
+"wr": "fissare",
+"n": "1"
+},
+{
+"wr": "intuire",
+"n": "1"
+},
+{
+"wr": "tecnico",
+"n": "2"
+},
+{
+"wr": "ricevuta",
+"n": "1"
+},
+{
+"wr": "imballo",
+"n": "1"
+},
+{
+"wr": "esperto",
+"n": "9"
+},
+{
+"wr": "facoltà",
+"n": "3"
+},
+{
+"wr": "perturbazione",
+"n": "2"
+},
+{
+"wr": "cetaceo",
+"n": "3"
+},
+{
+"wr": "presentare",
+"n": "4"
+},
+{
+"wr": "direttore",
+"n": "6"
+},
+{
+"wr": "piede",
+"n": "1"
+},
+{
+"wr": "pietra",
+"n": "15"
+},
+{
+"wr": "intelaiatura",
+"n": "2"
+},
+{
+"wr": "contrattazione",
+"n": "1"
+},
+{
+"wr": "parte",
+"n": "1618"
+},
+{
+"wr": "condimento",
+"n": "3"
+},
+{
+"wr": "refurtiva",
+"n": "1"
+},
+{
+"wr": "batuffolo",
+"n": "1"
+},
+{
+"wr": "secrezione",
+"n": "1"
+},
+{
+"wr": "felino",
+"n": "14"
+},
+{
+"wr": "derisione",
+"n": "4"
+},
+{
+"wr": "lode",
+"n": "4"
+},
+{
+"wr": "arrossire",
+"n": "1"
+},
+{
+"wr": "simposio",
+"n": "1"
+},
+{
+"wr": "chiudere",
+"n": "4"
+},
+{
+"wr": "livido",
+"n": "1"
+},
+{
+"wr": "causare",
+"n": "185"
+},
+{
+"wr": "papiro",
+"n": "1"
+},
+{
+"wr": "baccello",
+"n": "1"
+},
+{
+"wr": "anticoncezionale",
+"n": "2"
+},
+{
+"wr": "amministrazione",
+"n": "1"
+},
+{
+"wr": "cannocchiale",
+"n": "1"
+},
+{
+"wr": "turbamento",
+"n": "1"
+},
+{
+"wr": "pneumatico",
+"n": "1"
+},
+{
+"wr": "estendere",
+"n": "1"
+},
+{
+"wr": "girare",
+"n": "1"
+},
+{
+"wr": "concilio",
+"n": "1"
+},
+{
+"wr": "immersione",
+"n": "1"
+},
+{
+"wr": "ospitare",
+"n": "3"
+},
+{
+"wr": "coprire",
+"n": "4"
+},
+{
+"wr": "suono",
+"n": "15"
+},
+{
+"wr": "malformazione",
+"n": "1"
+},
+{
+"wr": "spazzola",
+"n": "2"
+},
+{
+"wr": "nave",
+"n": "22"
+},
+{
+"wr": "disprezzare",
+"n": "2"
+},
+{
+"wr": "cucinare",
+"n": "1"
+},
+{
+"wr": "ombrello",
+"n": "3"
+},
+{
+"wr": "catturare",
+"n": "2"
+},
+{
+"wr": "indagare",
+"n": "1"
+},
+{
+"wr": "cristallo",
+"n": "1"
+},
+{
+"wr": "calzamaglia",
+"n": "1"
+},
+{
+"wr": "cancellare",
+"n": "1"
+},
+{
+"wr": "gnocco",
+"n": "1"
+},
+{
+"wr": "bancarella",
+"n": "1"
+},
+{
+"wr": "proposta",
+"n": "2"
+},
+{
+"wr": "antidepressivo",
+"n": "1"
+},
+{
+"wr": "riduzione",
+"n": "2"
+},
+{
+"wr": "contrazione",
+"n": "1"
+},
+{
+"wr": "appigliare",
+"n": "1"
+},
+{
+"wr": "volta",
+"n": "1"
+},
+{
+"wr": "litigare",
+"n": "2"
+},
+{
+"wr": "blocchetto",
+"n": "1"
+},
+{
+"wr": "lenzuolo",
+"n": "1"
+},
+{
+"wr": "collettività",
+"n": "2"
+},
+{
+"wr": "uomo",
+"n": "36"
+},
+{
+"wr": "zucchero",
+"n": "3"
+},
+{
+"wr": "ciclomotore",
+"n": "9"
+},
+{
+"wr": "raffreddare",
+"n": "3"
+},
+{
+"wr": "emporio",
+"n": "4"
+},
+{
+"wr": "giocatore",
+"n": "4"
+},
+{
+"wr": "incubatrice",
+"n": "1"
+},
+{
+"wr": "ansiolitico",
+"n": "1"
+},
+{
+"wr": "vincolo",
+"n": "1"
+},
+{
+"wr": "evento",
+"n": "575"
+},
+{
+"wr": "zappa",
+"n": "1"
+},
+{
+"wr": "sensazione",
+"n": "16"
+},
+{
+"wr": "cereale",
+"n": "4"
+},
+{
+"wr": "incidente",
+"n": "1"
+},
+{
+"wr": "norma",
+"n": "8"
+},
+{
+"wr": "setaccio",
+"n": "1"
+},
+{
+"wr": "espansione",
+"n": "1"
+},
+{
+"wr": "ventaglio",
+"n": "1"
+},
+{
+"wr": "rivelare",
+"n": "1"
+},
+{
+"wr": "protesi",
+"n": "1"
+},
+{
+"wr": "agenda",
+"n": "1"
+},
+{
+"wr": "zuppa",
+"n": "1"
+},
+{
+"wr": "lottare",
+"n": "3"
+},
+{
+"wr": "colore",
+"n": "119"
+},
+{
+"wr": "lampada",
+"n": "3"
+},
+{
+"wr": "stimolo",
+"n": "3"
+},
+{
+"wr": "licenziare",
+"n": "1"
+},
+{
+"wr": "divertimento",
+"n": "4"
+},
+{
+"wr": "cerimonia",
+"n": "2"
+},
+{
+"wr": "organizzatore",
+"n": "1"
+},
+{
+"wr": "tema",
+"n": "2"
+},
+{
+"wr": "bandiera",
+"n": "3"
+},
+{
+"wr": "penna",
+"n": "2"
+},
+{
+"wr": "presenza",
+"n": "1"
+},
+{
+"wr": "metro",
+"n": "1"
+},
+{
+"wr": "presumere",
+"n": "1"
+},
+{
+"wr": "accogliere",
+"n": "1"
+},
+{
+"wr": "azione",
+"n": "17"
+},
+{
+"wr": "rialzo",
+"n": "2"
+},
+{
+"wr": "candela",
+"n": "3"
+},
+{
+"wr": "gestore",
+"n": "8"
+},
+{
+"wr": "stile",
+"n": "2"
+},
+{
+"wr": "magistrato",
+"n": "8"
+},
+{
+"wr": "preparato",
+"n": "16"
+},
+{
+"wr": "contenitore",
+"n": "160"
+},
+{
+"wr": "biscotto",
+"n": "6"
+},
+{
+"wr": "giubba",
+"n": "1"
+},
+{
+"wr": "fine",
+"n": "1"
+},
+{
+"wr": "banda",
+"n": "2"
+},
+{
+"wr": "stampa",
+"n": "5"
+},
+{
+"wr": "concludere",
+"n": "1"
+},
+{
+"wr": "coppa",
+"n": "2"
+},
+{
+"wr": "disegnare",
+"n": "2"
+},
+{
+"wr": "bottone",
+"n": "1"
+},
+{
+"wr": "segno",
+"n": "127"
+},
+{
+"wr": "rilievo",
+"n": "9"
+},
+{
+"wr": "abitazione",
+"n": "15"
+},
+{
+"wr": "poliziotto",
+"n": "1"
+},
+{
+"wr": "messaggero",
+"n": "2"
+},
+{
+"wr": "marmellata",
+"n": "1"
+},
+{
+"wr": "vivanda",
+"n": "1"
+},
+{
+"wr": "botte",
+"n": "1"
+},
+{
+"wr": "cercare",
+"n": "6"
+},
+{
+"wr": "grattugiare",
+"n": "1"
+},
+{
+"wr": "forma",
+"n": "7"
+},
+{
+"wr": "asta",
+"n": "8"
+},
+{
+"wr": "fatto",
+"n": "2"
+},
+{
+"wr": "mancare",
+"n": "1"
+},
+{
+"wr": "stagione",
+"n": "7"
+},
+{
+"wr": "ammissione",
+"n": "1"
+},
+{
+"wr": "cartellone",
+"n": "2"
+},
+{
+"wr": "stupire",
+"n": "1"
+},
+{
+"wr": "sorgere",
+"n": "1"
+},
+{
+"wr": "borsa",
+"n": "9"
+},
+{
+"wr": "tradizione",
+"n": "2"
+},
+{
+"wr": "formula",
+"n": "5"
+},
+{
+"wr": "difetto",
+"n": "8"
+},
+{
+"wr": "cuneo",
+"n": "1"
+},
+{
+"wr": "dottrina",
+"n": "44"
+},
+{
+"wr": "serata",
+"n": "1"
+},
+{
+"wr": "distruzione",
+"n": "5"
+},
+{
+"wr": "offesa",
+"n": "5"
+},
+{
+"wr": "gru",
+"n": "2"
+},
+{
+"wr": "pedina",
+"n": "2"
+},
+{
+"wr": "salire",
+"n": "2"
+},
+{
+"wr": "ricevere",
+"n": "3"
+},
+{
+"wr": "trappola",
+"n": "1"
+},
+{
+"wr": "dimostrazione",
+"n": "1"
+},
+{
+"wr": "carattere",
+"n": "11"
+},
+{
+"wr": "frusta",
+"n": "2"
+},
+{
+"wr": "informare",
+"n": "17"
+},
+{
+"wr": "minerale",
+"n": "22"
+},
+{
+"wr": "treno",
+"n": "12"
+},
+{
+"wr": "scalpello",
+"n": "1"
+},
+{
+"wr": "distintivo",
+"n": "6"
+},
+{
+"wr": "cantante",
+"n": "5"
+},
+{
+"wr": "stadio",
+"n": "1"
+},
+{
+"wr": "reato",
+"n": "1"
+},
+{
+"wr": "mantello",
+"n": "5"
+},
+{
+"wr": "foto",
+"n": "3"
+},
+{
+"wr": "pena",
+"n": "3"
+},
+{
+"wr": "impedire",
+"n": "5"
+},
+{
+"wr": "ragno",
+"n": "1"
+},
+{
+"wr": "costume",
+"n": "3"
+},
+{
+"wr": "ingrassare",
+"n": "1"
+},
+{
+"wr": "limitare",
+"n": "1"
+},
+{
+"wr": "pesce",
+"n": "65"
+},
+{
+"wr": "conca",
+"n": "1"
+},
+{
+"wr": "filmato",
+"n": "1"
+},
+{
+"wr": "petardo",
+"n": "4"
+},
+{
+"wr": "luce",
+"n": "3"
+},
+{
+"wr": "capanna",
+"n": "3"
+},
+{
+"wr": "enzima",
+"n": "1"
+},
+{
+"wr": "strappare",
+"n": "1"
+},
+{
+"wr": "correggere",
+"n": "2"
+},
+{
+"wr": "restituire",
+"n": "1"
+},
+{
+"wr": "fallo",
+"n": "1"
+},
+{
+"wr": "perno",
+"n": "1"
+},
+{
+"wr": "capigliatura",
+"n": "1"
+},
+{
+"wr": "impoverire",
+"n": "1"
+},
+{
+"wr": "vivere",
+"n": "1"
+},
+{
+"wr": "principio",
+"n": "15"
+},
+{
+"wr": "ora",
+"n": "5"
+},
+{
+"wr": "dirigente",
+"n": "1"
+},
+{
+"wr": "area",
+"n": "186"
+},
+{
+"wr": "dimora",
+"n": "3"
+},
+{
+"wr": "traduttore",
+"n": "1"
+},
+{
+"wr": "rientranza",
+"n": "1"
+},
+{
+"wr": "quaderno",
+"n": "3"
+},
+{
+"wr": "tessuto",
+"n": "70"
+},
+{
+"wr": "travestimento",
+"n": "1"
+},
+{
+"wr": "mangiata",
+"n": "3"
+},
+{
+"wr": "italiano",
+"n": "1"
+},
+{
+"wr": "mescolare",
+"n": "2"
+},
+{
+"wr": "avviso",
+"n": "1"
+},
+{
+"wr": "interiora",
+"n": "2"
+},
+{
+"wr": "operazione",
+"n": "9"
+},
+{
+"wr": "infermiere",
+"n": "1"
+},
+{
+"wr": "scarpa",
+"n": "2"
+},
+{
+"wr": "seguace",
+"n": "4"
+},
+{
+"wr": "significato",
+"n": "3"
+},
+{
+"wr": "cessione",
+"n": "1"
+},
+{
+"wr": "alunno",
+"n": "1"
+},
+{
+"wr": "vendita",
+"n": "2"
+},
+{
+"wr": "nastro",
+"n": "1"
+},
+{
+"wr": "diffondere",
+"n": "1"
+},
+{
+"wr": "sonno",
+"n": "3"
+},
+{
+"wr": "fiore",
+"n": "48"
+},
+{
+"wr": "fabbricare",
+"n": "1"
+},
+{
+"wr": "malessere",
+"n": "4"
+},
+{
+"wr": "mobilia",
+"n": "5"
+},
+{
+"wr": "pelle",
+"n": "23"
+},
+{
+"wr": "avvilimento",
+"n": "1"
+},
+{
+"wr": "tumore",
+"n": "3"
+},
+{
+"wr": "misura",
+"n": "9"
+},
+{
+"wr": "vegetale",
+"n": "19"
+},
+{
+"wr": "favorire",
+"n": "1"
+},
+{
+"wr": "pachiderma",
+"n": "2"
+},
+{
+"wr": "muscolo",
+"n": "8"
+},
+{
+"wr": "ricercare",
+"n": "2"
+},
+{
+"wr": "ingrandire",
+"n": "2"
+},
+{
+"wr": "pietanza",
+"n": "23"
+},
+{
+"wr": "schiacciare",
+"n": "2"
+},
+{
+"wr": "esternare",
+"n": "2"
+},
+{
+"wr": "volume",
+"n": "1"
+},
+{
+"wr": "prelato",
+"n": "1"
+},
+{
+"wr": "trovare",
+"n": "1"
+},
+{
+"wr": "camino",
+"n": "1"
+},
+{
+"wr": "divertire",
+"n": "2"
+},
+{
+"wr": "convenzione",
+"n": "113"
+},
+{
+"wr": "intimo",
+"n": "7"
+},
+{
+"wr": "punizione",
+"n": "1"
+},
+{
+"wr": "mostrare",
+"n": "4"
+},
+{
+"wr": "tazza",
+"n": "1"
+},
+{
+"wr": "valico",
+"n": "1"
+},
+{
+"wr": "afferrare",
+"n": "4"
+},
+{
+"wr": "aspettare",
+"n": "1"
+},
+{
+"wr": "gioiello",
+"n": "31"
+},
+{
+"wr": "ragazzo",
+"n": "3"
+},
+{
+"wr": "lineetta",
+"n": "1"
+},
+{
+"wr": "denuncia",
+"n": "2"
+},
+{
+"wr": "iniziare",
+"n": "14"
+},
+{
+"wr": "pozza",
+"n": "1"
+},
+{
+"wr": "locale",
+"n": "75"
+},
+{
+"wr": "candeliere",
+"n": "2"
+},
+{
+"wr": "informazione",
+"n": "29"
+},
+{
+"wr": "sdraiare",
+"n": "2"
+},
+{
+"wr": "branca",
+"n": "50"
+},
+{
+"wr": "donare",
+"n": "3"
+},
+{
+"wr": "pinza",
+"n": "1"
+},
+{
+"wr": "valuta",
+"n": "12"
+},
+{
+"wr": "bottega",
+"n": "3"
+},
+{
+"wr": "cuscinetto",
+"n": "1"
+},
+{
+"wr": "ornamento",
+"n": "2"
+},
+{
+"wr": "ottenere",
+"n": "3"
+},
+{
+"wr": "tempo",
+"n": "6"
+},
+{
+"wr": "spazio",
+"n": "25"
+},
+{
+"wr": "tempesta",
+"n": "2"
+},
+{
+"wr": "portata",
+"n": "6"
+},
+{
+"wr": "polvere",
+"n": "3"
+},
+{
+"wr": "guarire",
+"n": "1"
+},
+{
+"wr": "rotolo",
+"n": "1"
+},
+{
+"wr": "paracadute",
+"n": "1"
+},
+{
+"wr": "grafico",
+"n": "2"
+},
+{
+"wr": "diaframma",
+"n": "1"
+},
+{
+"wr": "spostare",
+"n": "134"
+},
+{
+"wr": "disegnatore",
+"n": "3"
+},
+{
+"wr": "quantità",
+"n": "297"
+},
+{
+"wr": "gradire",
+"n": "1"
+},
+{
+"wr": "moneta",
+"n": "21"
+},
+{
+"wr": "rugiada",
+"n": "1"
+},
+{
+"wr": "lancio",
+"n": "1"
+},
+{
+"wr": "innamorare",
+"n": "1"
+},
+{
+"wr": "canto",
+"n": "2"
+},
+{
+"wr": "miscuglio",
+"n": "4"
+},
+{
+"wr": "bicchiere",
+"n": "2"
+},
+{
+"wr": "fattore",
+"n": "1"
+},
+{
+"wr": "torturare",
+"n": "2"
+},
+{
+"wr": "concetto",
+"n": "3"
+},
+{
+"wr": "stecca",
+"n": "1"
+},
+{
+"wr": "aspirare",
+"n": "8"
+},
+{
+"wr": "spettacolo",
+"n": "5"
+},
+{
+"wr": "medico",
+"n": "39"
+},
+{
+"wr": "liquore",
+"n": "21"
+},
+{
+"wr": "conduttura",
+"n": "3"
+},
+{
+"wr": "via",
+"n": "1"
+},
+{
+"wr": "ideologia",
+"n": "4"
+},
+{
+"wr": "arbusto",
+"n": "13"
+},
+{
+"wr": "dipinto",
+"n": "8"
+},
+{
+"wr": "risparmiare",
+"n": "1"
+},
+{
+"wr": "dispositivo",
+"n": "101"
+},
+{
+"wr": "giardino",
+"n": "2"
+},
+{
+"wr": "carrucola",
+"n": "1"
+},
+{
+"wr": "addolcire",
+"n": "1"
+},
+{
+"wr": "religioso",
+"n": "28"
+},
+{
+"wr": "involucro",
+"n": "1"
+},
+{
+"wr": "pigmento",
+"n": "2"
+},
+{
+"wr": "cesta",
+"n": "1"
+},
+{
+"wr": "stato",
+"n": "234"
+},
+{
+"wr": "superficie",
+"n": "3"
+},
+{
+"wr": "scrivere",
+"n": "7"
+},
+{
+"wr": "ingannatore",
+"n": "1"
+},
+{
+"wr": "ricoprire",
+"n": "1"
+},
+{
+"wr": "costa",
+"n": "2"
+},
+{
+"wr": "cuoco",
+"n": "1"
+},
+{
+"wr": "baciare",
+"n": "1"
+},
+{
+"wr": "giovane",
+"n": "4"
+},
+{
+"wr": "attrice",
+"n": "2"
+},
+{
+"wr": "cambiamento",
+"n": "217"
+},
+{
+"wr": "ghiacciaio",
+"n": "1"
+},
+{
+"wr": "defunto",
+"n": "1"
+},
+{
+"wr": "asticciola",
+"n": "1"
+},
+{
+"wr": "operatore",
+"n": "1"
+},
+{
+"wr": "sostenere",
+"n": "1"
+},
+{
+"wr": "continuazione",
+"n": "2"
+},
+{
+"wr": "superare",
+"n": "1"
+},
+{
+"wr": "zona",
+"n": "30"
+},
+{
+"wr": "frate",
+"n": "1"
+},
+{
+"wr": "illustrazione",
+"n": "2"
+},
+{
+"wr": "protesta",
+"n": "1"
+},
+{
+"wr": "indagine",
+"n": "1"
+},
+{
+"wr": "programma",
+"n": "3"
+},
+{
+"wr": "considerare",
+"n": "1"
+},
+{
+"wr": "sedile",
+"n": "19"
+},
+{
+"wr": "blocco",
+"n": "2"
+},
+{
+"wr": "entità",
+"n": "2647"
+},
+{
+"wr": "comunicare",
+"n": "4"
+},
+{
+"wr": "calcolatore",
+"n": "3"
+},
+{
+"wr": "introdurre",
+"n": "1"
+},
+{
+"wr": "separazione",
+"n": "3"
+},
+{
+"wr": "diplomatico",
+"n": "4"
+},
+{
+"wr": "abbellire",
+"n": "1"
+},
+{
+"wr": "matita",
+"n": "1"
+},
+{
+"wr": "pettegolezzo",
+"n": "2"
+},
+{
+"wr": "tassa",
+"n": "7"
+},
+{
+"wr": "argine",
+"n": "1"
+},
+{
+"wr": "avvoltoio",
+"n": "1"
+},
+{
+"wr": "guidare",
+"n": "3"
+},
+{
+"wr": "recitare",
+"n": "1"
+},
+{
+"wr": "spendere",
+"n": "1"
+},
+{
+"wr": "alimento",
+"n": "102"
+},
+{
+"wr": "atto",
+"n": "870"
+},
+{
+"wr": "calciatore",
+"n": "5"
+},
+{
+"wr": "categoria",
+"n": "32"
+},
+{
+"wr": "critica",
+"n": "2"
+},
+{
+"wr": "persona",
+"n": "11365"
+},
+{
+"wr": "lamentare",
+"n": "1"
+},
+{
+"wr": "comproprietà",
+"n": "1"
+},
+{
+"wr": "comico",
+"n": "2"
+},
+{
+"wr": "giaccone",
+"n": "1"
+},
+{
+"wr": "anno",
+"n": "1"
+},
+{
+"wr": "patologia",
+"n": "3"
+},
+{
+"wr": "convento",
+"n": "1"
+},
+{
+"wr": "agricoltore",
+"n": "2"
+},
+{
+"wr": "abitare",
+"n": "5"
+},
+{
+"wr": "timbro",
+"n": "1"
+},
+{
+"wr": "respirare",
+"n": "4"
+},
+{
+"wr": "rivestimento",
+"n": "7"
+},
+{
+"wr": "scopa",
+"n": "1"
+},
+{
+"wr": "randello",
+"n": "1"
+},
+{
+"wr": "velivolo",
+"n": "19"
+},
+{
+"wr": "voltare",
+"n": "1"
+},
+{
+"wr": "apparecchio",
+"n": "115"
+},
+{
+"wr": "creare",
+"n": "78"
+},
+{
+"wr": "frutto",
+"n": "74"
+},
+{
+"wr": "bruciare",
+"n": "3"
+},
+{
+"wr": "lamiera",
+"n": "1"
+},
+{
+"wr": "bosco",
+"n": "10"
+},
+{
+"wr": "analizzare",
+"n": "2"
+},
+{
+"wr": "lingua",
+"n": "164"
+},
+{
+"wr": "dialogo",
+"n": "1"
+},
+{
+"wr": "universo",
+"n": "2"
+},
+{
+"wr": "ghiandola",
+"n": "7"
+},
+{
+"wr": "condannato",
+"n": "1"
+},
+{
+"wr": "dimensione",
+"n": "7"
+},
+{
+"wr": "gelato",
+"n": "8"
+},
+{
+"wr": "festino",
+"n": "9"
+},
+{
+"wr": "ciclo",
+"n": "5"
+},
+{
+"wr": "pista",
+"n": "1"
+},
+{
+"wr": "congelare",
+"n": "1"
+},
+{
+"wr": "sigaro",
+"n": "1"
+},
+{
+"wr": "governante",
+"n": "1"
+},
+{
+"wr": "estetista",
+"n": "1"
+},
+{
+"wr": "intercettare",
+"n": "1"
+},
+{
+"wr": "chiedere",
+"n": "11"
+},
+{
+"wr": "modello",
+"n": "7"
+},
+{
+"wr": "impulso",
+"n": "4"
+},
+{
+"wr": "disapprovazione",
+"n": "3"
+},
+{
+"wr": "cucire",
+"n": "1"
+},
+{
+"wr": "fungo",
+"n": "7"
+},
+{
+"wr": "salto",
+"n": "1"
+},
+{
+"wr": "tattica",
+"n": "1"
+},
+{
+"wr": "palesare",
+"n": "3"
+},
+{
+"wr": "ideazione",
+"n": "3"
+},
+{
+"wr": "fornello",
+"n": "2"
+},
+{
+"wr": "sintomo",
+"n": "3"
+},
+{
+"wr": "dolore",
+"n": "7"
+},
+{
+"wr": "insegnante",
+"n": "8"
+},
+{
+"wr": "villaggio",
+"n": "3"
+},
+{
+"wr": "regola",
+"n": "3"
+},
+{
+"wr": "dipingere",
+"n": "1"
+},
+{
+"wr": "ragioniere",
+"n": "1"
+},
+{
+"wr": "supporto",
+"n": "2"
+},
+{
+"wr": "dignitario",
+"n": "2"
+},
+{
+"wr": "intervenire",
+"n": "4"
+},
+{
+"wr": "consumare",
+"n": "6"
+},
+{
+"wr": "centro",
+"n": "1"
+},
+{
+"wr": "telefonata",
+"n": "1"
+},
+{
+"wr": "sostantivo",
+"n": "1"
+},
+{
+"wr": "autocarro",
+"n": "1"
+},
+{
+"wr": "conversazione",
+"n": "5"
+},
+{
+"wr": "meta",
+"n": "4"
+},
+{
+"wr": "imprigionare",
+"n": "2"
+},
+{
+"wr": "asportazione",
+"n": "1"
+},
+{
+"wr": "attrezzo",
+"n": "78"
+},
+{
+"wr": "mancanza",
+"n": "9"
+},
+{
+"wr": "ditta",
+"n": "1"
+},
+{
+"wr": "venditore",
+"n": "23"
+},
+{
+"wr": "rappresentare",
+"n": "5"
+},
+{
+"wr": "sposare",
+"n": "1"
+},
+{
+"wr": "cubetto",
+"n": "1"
+},
+{
+"wr": "confezionare",
+"n": "1"
+},
+{
+"wr": "metodo",
+"n": "1"
+},
+{
+"wr": "autobiografia",
+"n": "1"
+},
+{
+"wr": "ideare",
+"n": "10"
+},
+{
+"wr": "sacca",
+"n": "1"
+},
+{
+"wr": "pasto",
+"n": "5"
+},
+{
+"wr": "criticare",
+"n": "2"
+},
+{
+"wr": "fermare",
+"n": "7"
+},
+{
+"wr": "argilla",
+"n": "1"
+},
+{
+"wr": "quadro",
+"n": "1"
+},
+{
+"wr": "durata",
+"n": "2"
+},
+{
+"wr": "gas",
+"n": "1"
+},
+{
+"wr": "difesa",
+"n": "1"
+},
+{
+"wr": "andare",
+"n": "2"
+},
+{
+"wr": "assemblea",
+"n": "6"
+},
+{
+"wr": "fumo",
+"n": "1"
+},
+{
+"wr": "oltrepassare",
+"n": "1"
+},
+{
+"wr": "sacerdote",
+"n": "6"
+},
+{
+"wr": "proteggere",
+"n": "6"
+},
+{
+"wr": "psicofarmaco",
+"n": "3"
+},
+{
+"wr": "coltivatore",
+"n": "7"
+},
+{
+"wr": "accadere",
+"n": "4"
+},
+{
+"wr": "scuola",
+"n": "2"
+},
+{
+"wr": "racchiudere",
+"n": "1"
+},
+{
+"wr": "antimalarico",
+"n": "1"
+},
+{
+"wr": "assegnare",
+"n": "2"
+},
+{
+"wr": "vincere",
+"n": "1"
+},
+{
+"wr": "abituare",
+"n": "2"
+},
+{
+"wr": "lavaggio",
+"n": "1"
+},
+{
+"wr": "sapere",
+"n": "3"
+},
+{
+"wr": "era",
+"n": "2"
+},
+{
+"wr": "roccia",
+"n": "19"
+},
+{
+"wr": "accontentare",
+"n": "1"
+},
+{
+"wr": "cioccolatino",
+"n": "3"
+},
+{
+"wr": "cambiare",
+"n": "589"
+},
+{
+"wr": "asportare",
+"n": "2"
+},
+{
+"wr": "poligono",
+"n": "1"
+},
+{
+"wr": "pezza",
+"n": "1"
+},
+{
+"wr": "infossatura",
+"n": "1"
+},
+{
+"wr": "dogma",
+"n": "1"
+},
+{
+"wr": "rivolta",
+"n": "5"
+},
+{
+"wr": "creazione",
+"n": "19"
+},
+{
+"wr": "sala",
+"n": "1"
+},
+{
+"wr": "uccidere",
+"n": "14"
+},
+{
+"wr": "coltivazione",
+"n": "6"
+},
+{
+"wr": "toccare",
+"n": "1"
+},
+{
+"wr": "fotografia",
+"n": "1"
+},
+{
+"wr": "rana",
+"n": "2"
+},
+{
+"wr": "aumentare",
+"n": "26"
+},
+{
+"wr": "escremento",
+"n": "1"
+},
+{
+"wr": "modo",
+"n": "4"
+},
+{
+"wr": "sugo",
+"n": "1"
+},
+{
+"wr": "cibo",
+"n": "56"
+},
+{
+"wr": "palazzo",
+"n": "2"
+},
+{
+"wr": "aula",
+"n": "1"
+},
+{
+"wr": "camera",
+"n": "1"
+},
+{
+"wr": "foglio",
+"n": "56"
+},
+{
+"wr": "cassa",
+"n": "8"
+},
+{
+"wr": "entrata",
+"n": "1"
+},
+{
+"wr": "ordine",
+"n": "4"
+},
+{
+"wr": "pellicola",
+"n": "5"
+},
+{
+"wr": "tubero",
+"n": "1"
+},
+{
+"wr": "foglia",
+"n": "1"
+},
+{
+"wr": "treppiede",
+"n": "1"
+},
+{
+"wr": "targhetta",
+"n": "1"
+},
+{
+"wr": "detestare",
+"n": "2"
+},
+{
+"wr": "dito",
+"n": "5"
+},
+{
+"wr": "acqua",
+"n": "1"
+},
+{
+"wr": "aggregato",
+"n": "1"
+},
+{
+"wr": "interruzione",
+"n": "5"
+},
+{
+"wr": "branco",
+"n": "1"
+},
+{
+"wr": "ceramica",
+"n": "2"
+},
+{
+"wr": "portafortuna",
+"n": "3"
+},
+{
+"wr": "nome",
+"n": "5"
+},
+{
+"wr": "pergolato",
+"n": "1"
+},
+{
+"wr": "gara",
+"n": "4"
+},
+{
+"wr": "colpire",
+"n": "12"
+},
+{
+"wr": "somma",
+"n": "16"
+},
+{
+"wr": "caldarrosta",
+"n": "1"
+},
+{
+"wr": "spremere",
+"n": "1"
+},
+{
+"wr": "emettere",
+"n": "2"
+},
+{
+"wr": "difendere",
+"n": "4"
+},
+{
+"wr": "unire",
+"n": "42"
+},
+{
+"wr": "discorso",
+"n": "13"
+},
+{
+"wr": "diminuzione",
+"n": "13"
+},
+{
+"wr": "notizia",
+"n": "2"
+},
+{
+"wr": "carro",
+"n": "1"
+},
+{
+"wr": "sistema",
+"n": "27"
+},
+{
+"wr": "conduttore",
+"n": "1"
+},
+{
+"wr": "macchinario",
+"n": "1"
+},
+{
+"wr": "raccomandare",
+"n": "1"
+},
+{
+"wr": "flagellare",
+"n": "1"
+},
+{
+"wr": "riparatore",
+"n": "1"
+},
+{
+"wr": "agire",
+"n": "1033"
+},
+{
+"wr": "distesa",
+"n": "1"
+},
+{
+"wr": "casco",
+"n": "1"
+},
+{
+"wr": "giudizio",
+"n": "2"
+},
+{
+"wr": "affezione",
+"n": "28"
+},
+{
+"wr": "unghia",
+"n": "2"
+},
+{
+"wr": "fagiolo",
+"n": "1"
+},
+{
+"wr": "leva",
+"n": "1"
+},
+{
+"wr": "leggere",
+"n": "2"
+},
+{
+"wr": "attestare",
+"n": "2"
+},
+{
+"wr": "smontare",
+"n": "1"
+},
+{
+"wr": "motivo",
+"n": "1"
+},
+{
+"wr": "sedia",
+"n": "1"
+},
+{
+"wr": "valore",
+"n": "13"
+},
+{
+"wr": "crostino",
+"n": "1"
+},
+{
+"wr": "celebrare",
+"n": "2"
+},
+{
+"wr": "macchia",
+"n": "1"
+},
+{
+"wr": "tranquillizzare",
+"n": "1"
+},
+{
+"wr": "ingranaggio",
+"n": "1"
+},
+{
+"wr": "accoppiata",
+"n": "1"
+},
+{
+"wr": "personaggio",
+"n": "45"
+},
+{
+"wr": "impianto",
+"n": "15"
+},
+{
+"wr": "miscela",
+"n": "9"
+},
+{
+"wr": "anguilla",
+"n": "1"
+},
+{
+"wr": "aggiungere",
+"n": "3"
+},
+{
+"wr": "mistura",
+"n": "2"
+},
+{
+"wr": "guerra",
+"n": "1"
+},
+{
+"wr": "accordo",
+"n": "4"
+},
+{
+"wr": "fossile",
+"n": "2"
+},
+{
+"wr": "padrone",
+"n": "1"
+},
+{
+"wr": "attirare",
+"n": "1"
+},
+{
+"wr": "fandonia",
+"n": "2"
+},
+{
+"wr": "edificare",
+"n": "1"
+},
+{
+"wr": "tossicodipendente",
+"n": "4"
+},
+{
+"wr": "racconto",
+"n": "8"
+},
+{
+"wr": "prova",
+"n": "1"
+},
+{
+"wr": "errore",
+"n": "3"
+},
+{
+"wr": "unione",
+"n": "4"
+},
+{
+"wr": "fermaglio",
+"n": "3"
+},
+{
+"wr": "dovere",
+"n": "2"
+},
+{
+"wr": "monte",
+"n": "5"
+},
+{
+"wr": "studioso",
+"n": "60"
+},
+{
+"wr": "agitare",
+"n": "2"
+},
+{
+"wr": "riconoscimento",
+"n": "1"
+},
+{
+"wr": "ricavare",
+"n": "2"
+},
+{
+"wr": "concessione",
+"n": "1"
+},
+{
+"wr": "fuoco",
+"n": "2"
+},
+{
+"wr": "passione",
+"n": "1"
+},
+{
+"wr": "giungere",
+"n": "1"
+},
+{
+"wr": "cerchio",
+"n": "2"
+},
+{
+"wr": "pistola",
+"n": "1"
+},
+{
+"wr": "copia",
+"n": "2"
+},
+{
+"wr": "erodere",
+"n": "1"
+},
+{
+"wr": "riferire",
+"n": "2"
+},
+{
+"wr": "capanno",
+"n": "1"
+},
+{
+"wr": "bambino",
+"n": "13"
+},
+{
+"wr": "chiave",
+"n": "1"
+},
+{
+"wr": "necessità",
+"n": "2"
+},
+{
+"wr": "satellite",
+"n": "1"
+},
+{
+"wr": "posata",
+"n": "3"
+},
+{
+"wr": "bacca",
+"n": "1"
+},
+{
+"wr": "fiume",
+"n": "7"
+},
+{
+"wr": "bulbo",
+"n": "5"
+},
+{
+"wr": "sedativo",
+"n": "1"
+},
+{
+"wr": "polizia",
+"n": "1"
+},
+{
+"wr": "stridere",
+"n": "1"
+},
+{
+"wr": "latticinio",
+"n": "1"
+},
+{
+"wr": "percepire",
+"n": "33"
+},
+{
+"wr": "gioco",
+"n": "30"
+},
+{
+"wr": "gusto",
+"n": "1"
+},
+{
+"wr": "vacca",
+"n": "1"
+},
+{
+"wr": "pezzo",
+"n": "1"
+},
+{
+"wr": "rapporto",
+"n": "6"
+},
+{
+"wr": "isola",
+"n": "10"
+},
+{
+"wr": "danno",
+"n": "1"
+},
+{
+"wr": "baco",
+"n": "1"
+},
+{
+"wr": "coleottero",
+"n": "1"
+},
+{
+"wr": "attributo",
+"n": "6"
+},
+{
+"wr": "mossa",
+"n": "1"
+},
+{
+"wr": "sapore",
+"n": "1"
+},
+{
+"wr": "faccia",
+"n": "1"
+},
+{
+"wr": "sentire",
+"n": "53"
+},
+{
+"wr": "picchiare",
+"n": "2"
+},
+{
+"wr": "fobia",
+"n": "4"
+},
+{
+"wr": "cartellino",
+"n": "1"
+},
+{
+"wr": "tributo",
+"n": "2"
+},
+{
+"wr": "parapetto",
+"n": "1"
+},
+{
+"wr": "tossicomane",
+"n": "1"
+},
+{
+"wr": "specchio",
+"n": "2"
+},
+{
+"wr": "separare",
+"n": "3"
+},
+{
+"wr": "bilanciare",
+"n": "1"
+},
+{
+"wr": "sezione",
+"n": "1"
+},
+{
+"wr": "testo",
+"n": "270"
+},
+{
+"wr": "arancia",
+"n": "1"
+},
+{
+"wr": "esposizione",
+"n": "2"
+},
+{
+"wr": "pianura",
+"n": "2"
+},
+{
+"wr": "farfalla",
+"n": "2"
+},
+{
+"wr": "preparazione",
+"n": "1"
+},
+{
+"wr": "porre",
+"n": "3"
+},
+{
+"wr": "classificare",
+"n": "1"
+},
+{
+"wr": "calcolo",
+"n": "5"
+},
+{
+"wr": "asse",
+"n": "1"
+},
+{
+"wr": "volatile",
+"n": "4"
+},
+{
+"wr": "potere",
+"n": "2"
+},
+{
+"wr": "stretto",
+"n": "1"
+},
+{
+"wr": "motocicletta",
+"n": "2"
+},
+{
+"wr": "ornare",
+"n": "8"
+},
+{
+"wr": "calcare",
+"n": "1"
+},
+{
+"wr": "proprietà",
+"n": "413"
+},
+{
+"wr": "parrucchiere",
+"n": "1"
+},
+{
+"wr": "ferita",
+"n": "1"
+},
+{
+"wr": "ostia",
+"n": "1"
+},
+{
+"wr": "diagramma",
+"n": "2"
+},
+{
+"wr": "fetta",
+"n": "1"
+},
+{
+"wr": "istituto",
+"n": "3"
+},
+{
+"wr": "re",
+"n": "2"
+},
+{
+"wr": "spavento",
+"n": "1"
+},
+{
+"wr": "cremagliera",
+"n": "1"
+},
+{
+"wr": "monumento",
+"n": "1"
+},
+{
+"wr": "pavimento",
+"n": "2"
+},
+{
+"wr": "sciroppo",
+"n": "1"
+},
+{
+"wr": "bere",
+"n": "1"
+},
+{
+"wr": "cinema",
+"n": "1"
+},
+{
+"wr": "catapecchia",
+"n": "1"
+},
+{
+"wr": "matrimonio",
+"n": "1"
+},
+{
+"wr": "genere",
+"n": "22"
+},
+{
+"wr": "vento",
+"n": "14"
+},
+{
+"wr": "aumento",
+"n": "20"
+},
+{
+"wr": "agnello",
+"n": "1"
+},
+{
+"wr": "vantaggio",
+"n": "1"
+},
+{
+"wr": "principe",
+"n": "1"
+},
+{
+"wr": "costruzione",
+"n": "153"
+},
+{
+"wr": "pioggia",
+"n": "3"
+},
+{
+"wr": "giornalista",
+"n": "4"
+},
+{
+"wr": "studio",
+"n": "3"
+},
+{
+"wr": "ufficiale",
+"n": "1"
+},
+{
+"wr": "razzo",
+"n": "2"
+},
+{
+"wr": "vestire",
+"n": "5"
+},
+{
+"wr": "pattino",
+"n": "1"
+},
+{
+"wr": "accostamento",
+"n": "1"
+},
+{
+"wr": "infiorescenza",
+"n": "4"
+},
+{
+"wr": "bar",
+"n": "1"
+},
+{
+"wr": "arruolare",
+"n": "1"
+},
+{
+"wr": "membro",
+"n": "4"
+},
+{
+"wr": "liberare",
+"n": "3"
+},
+{
+"wr": "legge",
+"n": "1"
+},
+{
+"wr": "sepolcro",
+"n": "1"
+},
+{
+"wr": "radiatore",
+"n": "1"
+},
+{
+"wr": "incontro",
+"n": "1"
+},
+{
+"wr": "dichiarare",
+"n": "4"
+},
+{
+"wr": "fiammifero",
+"n": "3"
+},
+{
+"wr": "respiro",
+"n": "1"
+},
+{
+"wr": "sgabello",
+"n": "1"
+},
+{
+"wr": "problema",
+"n": "1"
+},
+{
+"wr": "querela",
+"n": "1"
+},
+{
+"wr": "restaurare",
+"n": "1"
+},
+{
+"wr": "palma",
+"n": "1"
+},
+{
+"wr": "messaggio",
+"n": "1"
+},
+{
+"wr": "apparire",
+"n": "1"
+},
+{
+"wr": "vaso",
+"n": "4"
+},
+{
+"wr": "agrume",
+"n": "1"
+},
+{
+"wr": "apparecchiatura",
+"n": "1"
+},
+{
+"wr": "galleria",
+"n": "3"
+},
+{
+"wr": "commercio",
+"n": "1"
+},
+{
+"wr": "comprendere",
+"n": "1"
+},
+{
+"wr": "conciliare",
+"n": "1"
+},
+{
+"wr": "esultare",
+"n": "1"
+},
+{
+"wr": "casa",
+"n": "18"
+},
+{
+"wr": "capacità",
+"n": "1"
+},
+{
+"wr": "cuoio",
+"n": "1"
+},
+{
+"wr": "pidocchio",
+"n": "1"
+},
+{
+"wr": "pipa",
+"n": "1"
+},
+{
+"wr": "ladro",
+"n": "2"
+},
+{
+"wr": "insieme",
+"n": "567"
+},
+{
+"wr": "promontorio",
+"n": "1"
+},
+{
+"wr": "stagnare",
+"n": "1"
+},
+{
+"wr": "veicolo",
+"n": "145"
+},
+{
+"wr": "telaio",
+"n": "1"
+},
+{
+"wr": "colorare",
+"n": "1"
+},
+{
+"wr": "solco",
+"n": "1"
+},
+{
+"wr": "crema",
+"n": "2"
+},
+{
+"wr": "aeromobile",
+"n": "1"
+},
+{
+"wr": "competere",
+"n": "2"
+},
+{
+"wr": "presentazione",
+"n": "1"
+},
+{
+"wr": "commiserazione",
+"n": "1"
+},
+{
+"wr": "perseguitare",
+"n": "1"
+},
+{
+"wr": "dichiarazione",
+"n": "1"
+},
+{
+"wr": "materiale",
+"n": "42"
+},
+{
+"wr": "riunire",
+"n": "7"
+},
+{
+"wr": "merluzzo",
+"n": "1"
+},
+{
+"wr": "televisore",
+"n": "1"
+},
+{
+"wr": "trasformazione",
+"n": "1"
+},
+{
+"wr": "focaccia",
+"n": "4"
+},
+{
+"wr": "raccolta",
+"n": "6"
+},
+{
+"wr": "accorciare",
+"n": "2"
+},
+{
+"wr": "recinto",
+"n": "5"
+},
+{
+"wr": "calamaro",
+"n": "1"
+},
+{
+"wr": "cocktail",
+"n": "1"
+},
+{
+"wr": "ricerca",
+"n": "2"
+},
+{
+"wr": "tormento",
+"n": "2"
+},
+{
+"wr": "dialetto",
+"n": "52"
+},
+{
+"wr": "polpa",
+"n": "1"
+},
+{
+"wr": "numero",
+"n": "135"
+},
+{
+"wr": "concerto",
+"n": "2"
+},
+{
+"wr": "cicatrice",
+"n": "1"
+},
+{
+"wr": "disapprovare",
+"n": "5"
+},
+{
+"wr": "tranquillante",
+"n": "1"
+},
+{
+"wr": "incentrare",
+"n": "1"
+},
+{
+"wr": "famiglia",
+"n": "2"
+},
+{
+"wr": "arcipelago",
+"n": "1"
+},
+{
+"wr": "elogio",
+"n": "1"
+},
+{
+"wr": "affascinare",
+"n": "10"
+},
+{
+"wr": "disturbo",
+"n": "24"
+},
+{
+"wr": "vacillare",
+"n": "2"
+},
+{
+"wr": "boccia",
+"n": "1"
+},
+{
+"wr": "massaggio",
+"n": "1"
+},
+{
+"wr": "confusione",
+"n": "9"
+},
+{
+"wr": "settore",
+"n": "13"
+},
+{
+"wr": "serbatoio",
+"n": "2"
+},
+{
+"wr": "germogliare",
+"n": "1"
+},
+{
+"wr": "discussione",
+"n": "5"
+},
+{
+"wr": "contestare",
+"n": "1"
+},
+{
+"wr": "connessione",
+"n": "1"
+},
+{
+"wr": "pasta",
+"n": "41"
+},
+{
+"wr": "prostituta",
+"n": "4"
+},
+{
+"wr": "terapia",
+"n": "18"
+},
+{
+"wr": "applicare",
+"n": "1"
+},
+{
+"wr": "melodia",
+"n": "1"
+},
+{
+"wr": "cravatta",
+"n": "2"
+},
+{
+"wr": "gatto",
+"n": "2"
+},
+{
+"wr": "ramo",
+"n": "2"
+},
+{
+"wr": "colorante",
+"n": "3"
+},
+{
+"wr": "conclusione",
+"n": "1"
+},
+{
+"wr": "malattia",
+"n": "1297"
+},
+{
+"wr": "mercato",
+"n": "2"
+},
+{
+"wr": "salmo",
+"n": "1"
+},
+{
+"wr": "conducente",
+"n": "12"
+},
+{
+"wr": "scacco",
+"n": "4"
+},
+{
+"wr": "ventre",
+"n": "1"
+},
+{
+"wr": "piano",
+"n": "3"
+},
+{
+"wr": "antenato",
+"n": "1"
+},
+{
+"wr": "tela",
+"n": "5"
+},
+{
+"wr": "fase",
+"n": "1"
+},
+{
+"wr": "portiere",
+"n": "1"
+},
+{
+"wr": "mobile",
+"n": "45"
+},
+{
+"wr": "drappo",
+"n": "8"
+},
+{
+"wr": "cane",
+"n": "25"
+},
+{
+"wr": "impiegato",
+"n": "6"
+},
+{
+"wr": "telefono",
+"n": "2"
+},
+{
+"wr": "chiamare",
+"n": "1"
+},
+{
+"wr": "truppa",
+"n": "2"
+},
+{
+"wr": "sopportare",
+"n": "1"
+},
+{
+"wr": "provare",
+"n": "119"
+},
+{
+"wr": "repubblica",
+"n": "1"
+},
+{
+"wr": "controllare",
+"n": "3"
+},
+{
+"wr": "lamento",
+"n": "2"
+},
+{
+"wr": "incremento",
+"n": "1"
+},
+{
+"wr": "discutere",
+"n": "6"
+},
+{
+"wr": "albume",
+"n": "1"
+},
+{
+"wr": "stivaletto",
+"n": "2"
+},
+{
+"wr": "lavare",
+"n": "1"
+},
+{
+"wr": "avvolgere",
+"n": "7"
+},
+{
+"wr": "custode",
+"n": "1"
+},
+{
+"wr": "distanza",
+"n": "1"
+},
+{
+"wr": "apprendere",
+"n": "2"
+},
+{
+"wr": "annodare",
+"n": "1"
+},
+{
+"wr": "incontrare",
+"n": "1"
+},
+{
+"wr": "fornire",
+"n": "1"
+},
+{
+"wr": "simbolo",
+"n": "20"
+},
+{
+"wr": "interrompere",
+"n": "5"
+},
+{
+"wr": "sviluppare",
+"n": "1"
+},
+{
+"wr": "convocare",
+"n": "1"
+},
+{
+"wr": "telo",
+"n": "6"
+},
+{
+"wr": "tergicristallo",
+"n": "1"
+},
+{
+"wr": "prisma",
+"n": "1"
+},
+{
+"wr": "tetto",
+"n": "1"
+},
+{
+"wr": "pasticcino",
+"n": "6"
+},
+{
+"wr": "globulo",
+"n": "4"
+},
+{
+"wr": "ballerino",
+"n": "2"
+},
+{
+"wr": "strategia",
+"n": "1"
+},
+{
+"wr": "allucinazione",
+"n": "1"
+},
+{
+"wr": "ballerina",
+"n": "1"
+},
+{
+"wr": "solido",
+"n": "7"
+},
+{
+"wr": "segnale",
+"n": "2"
+},
+{
+"wr": "sostituto",
+"n": "3"
+},
+{
+"wr": "affliggere",
+"n": "2"
+},
+{
+"wr": "vassoio",
+"n": "1"
+},
+{
+"wr": "lacerare",
+"n": "1"
+},
+{
+"wr": "vespasiano",
+"n": "1"
+},
+{
+"wr": "braccio",
+"n": "1"
+},
+{
+"wr": "cestino",
+"n": "1"
+},
+{
+"wr": "raccomandazione",
+"n": "1"
+},
+{
+"wr": "rete",
+"n": "2"
+},
+{
+"wr": "promettere",
+"n": "1"
+},
+{
+"wr": "grasso",
+"n": "1"
+},
+{
+"wr": "musicista",
+"n": "23"
+},
+{
+"wr": "tubo",
+"n": "2"
+},
+{
+"wr": "realizzare",
+"n": "1"
+},
+{
+"wr": "interpretare",
+"n": "5"
+},
+{
+"wr": "materia",
+"n": "12"
+},
+{
+"wr": "tumulto",
+"n": "1"
+},
+{
+"wr": "esortare",
+"n": "3"
+},
+{
+"wr": "commerciare",
+"n": "3"
+},
+{
+"wr": "sfoglia",
+"n": "1"
+},
+{
+"wr": "estrarre",
+"n": "1"
+},
+{
+"wr": "farmaco",
+"n": "42"
+},
+{
+"wr": "casseruola",
+"n": "1"
+},
+{
+"wr": "facilitare",
+"n": "2"
+},
+{
+"wr": "bollire",
+"n": "1"
+},
+{
+"wr": "cappello",
+"n": "16"
+},
+{
+"wr": "narrare",
+"n": "1"
+},
+{
+"wr": "fumetto",
+"n": "1"
+},
+{
+"wr": "disgrazia",
+"n": "2"
+},
+{
+"wr": "acconciatura",
+"n": "9"
+},
+{
+"wr": "altura",
+"n": "4"
+},
+{
+"wr": "classe",
+"n": "9"
+},
+{
+"wr": "piastra",
+"n": "1"
+},
+{
+"wr": "sostanza",
+"n": "325"
+},
+{
+"wr": "etichetta",
+"n": "2"
+},
+{
+"wr": "controversia",
+"n": "2"
+},
+{
+"wr": "sportello",
+"n": "2"
+},
+{
+"wr": "pagare",
+"n": "1"
+},
+{
+"wr": "registratore",
+"n": "1"
+},
+{
+"wr": "cacciatore",
+"n": "1"
+},
+{
+"wr": "sottoveste",
+"n": "1"
+},
+{
+"wr": "studiare",
+"n": "1"
+},
+{
+"wr": "fibra",
+"n": "9"
+},
+{
+"wr": "ciliegio",
+"n": "1"
+},
+{
+"wr": "membrana",
+"n": "2"
+},
+{
+"wr": "stampatore",
+"n": "2"
+},
+{
+"wr": "miglioramento",
+"n": "4"
+},
+{
+"wr": "convincere",
+"n": "1"
+},
+{
+"wr": "lana",
+"n": "3"
+},
+{
+"wr": "atteggiamento",
+"n": "3"
+},
+{
+"wr": "gallo",
+"n": "2"
+},
+{
+"wr": "impressionare",
+"n": "2"
+},
+{
+"wr": "criniera",
+"n": "2"
+},
+{
+"wr": "vulcano",
+"n": "2"
+},
+{
+"wr": "legno",
+"n": "25"
+},
+{
+"wr": "partecipare",
+"n": "1"
+},
+{
+"wr": "popolare",
+"n": "1"
+},
+{
+"wr": "filato",
+"n": "3"
+},
+{
+"wr": "gesto",
+"n": "1"
+},
+{
+"wr": "fotografo",
+"n": "1"
+},
+{
+"wr": "giacimento",
+"n": "1"
+},
+{
+"wr": "crocifisso",
+"n": "1"
+},
+{
+"wr": "titolo",
+"n": "23"
+},
+{
+"wr": "morire",
+"n": "9"
+},
+{
+"wr": "artista",
+"n": "9"
+},
+{
+"wr": "rematore",
+"n": "1"
+},
+{
+"wr": "organo",
+"n": "32"
+},
+{
+"wr": "microrganismo",
+"n": "10"
+},
+{
+"wr": "imitazione",
+"n": "2"
+},
+{
+"wr": "scarseggiare",
+"n": "1"
+},
+{
+"wr": "esigenza",
+"n": "1"
+},
+{
+"wr": "ingerire",
+"n": "5"
+},
+{
+"wr": "appoggiare",
+"n": "1"
+},
+{
+"wr": "argomento",
+"n": "4"
+},
+{
+"wr": "privare",
+"n": "5"
+},
+{
+"wr": "autoveicolo",
+"n": "42"
+},
+{
+"wr": "disaccordo",
+"n": "4"
+},
+{
+"wr": "chiusura",
+"n": "1"
+},
+{
+"wr": "attore",
+"n": "8"
+},
+{
+"wr": "chiodo",
+"n": "1"
+},
+{
+"wr": "popolo",
+"n": "1"
+},
+{
+"wr": "consultare",
+"n": "1"
+},
+{
+"wr": "animale",
+"n": "476"
+},
+{
+"wr": "disgregazione",
+"n": "2"
+},
+{
+"wr": "striscia",
+"n": "7"
+},
+{
+"wr": "gareggiare",
+"n": "1"
+},
+{
+"wr": "ubriaco",
+"n": "2"
+},
+{
+"wr": "periodo",
+"n": "130"
+},
+{
+"wr": "rissa",
+"n": "4"
+},
+{
+"wr": "rotaia",
+"n": "1"
+},
+{
+"wr": "frapporre",
+"n": "1"
+},
+{
+"wr": "pensiero",
+"n": "5"
+},
+{
+"wr": "valutazione",
+"n": "1"
+},
+{
+"wr": "demone",
+"n": "1"
+},
+{
+"wr": "disfunzione",
+"n": "9"
+},
+{
+"wr": "oggetto",
+"n": "318"
+},
+{
+"wr": "versamento",
+"n": "2"
+},
+{
+"wr": "intervento",
+"n": "12"
+},
+{
+"wr": "ciotola",
+"n": "1"
+},
+{
+"wr": "protuberanza",
+"n": "1"
+},
+{
+"wr": "male",
+"n": "3"
+},
+{
+"wr": "indossare",
+"n": "1"
+},
+{
+"wr": "vigile",
+"n": "1"
+},
+{
+"wr": "angosciare",
+"n": "1"
+},
+{
+"wr": "editore",
+"n": "1"
+},
+{
+"wr": "cuscino",
+"n": "3"
+},
+{
+"wr": "arnese",
+"n": "25"
+},
+{
+"wr": "canoa",
+"n": "1"
+},
+{
+"wr": "gabinetto",
+"n": "1"
+},
+{
+"wr": "peggiorare",
+"n": "1"
+},
+{
+"wr": "descrizione",
+"n": "1"
+},
+{
+"wr": "dirupo",
+"n": "6"
+},
+{
+"wr": "pilota",
+"n": "1"
+},
+{
+"wr": "costellazione",
+"n": "11"
+},
+{
+"wr": "qualificazione",
+"n": "2"
+},
+{
+"wr": "negozio",
+"n": "48"
+},
+{
+"wr": "rivoltare",
+"n": "2"
+},
+{
+"wr": "rischio",
+"n": "1"
+},
+{
+"wr": "rimproverare",
+"n": "3"
+},
+{
+"wr": "tormentare",
+"n": "4"
+},
+{
+"wr": "barchino",
+"n": "3"
+},
+{
+"wr": "carta",
+"n": "8"
+},
+{
+"wr": "locuzione",
+"n": "4"
+},
+{
+"wr": "rifugio",
+"n": "1"
+},
+{
+"wr": "formaggio",
+"n": "26"
+},
+{
+"wr": "produrre",
+"n": "10"
+},
+{
+"wr": "divergere",
+"n": "1"
+},
+{
+"wr": "anello",
+"n": "2"
+},
+{
+"wr": "amare",
+"n": "1"
+},
+{
+"wr": "asino",
+"n": "1"
+},
+{
+"wr": "percezione",
+"n": "40"
+},
+{
+"wr": "biologo",
+"n": "1"
+},
+{
+"wr": "congegno",
+"n": "5"
+},
+{
+"wr": "connettere",
+"n": "1"
+},
+{
+"wr": "cosa",
+"n": "11"
+},
+{
+"wr": "dimostrare",
+"n": "1"
+},
+{
+"wr": "guida",
+"n": "1"
+},
+{
+"wr": "fiaccola",
+"n": "1"
+},
+{
+"wr": "riscaldare",
+"n": "1"
+},
+{
+"wr": "continuare",
+"n": "5"
+},
+{
+"wr": "affezionare",
+"n": "1"
+},
+{
+"wr": "territorio",
+"n": "73"
+},
+{
+"wr": "soffitta",
+"n": "1"
+},
+{
+"wr": "astuccio",
+"n": "1"
+},
+{
+"wr": "filamento",
+"n": "1"
+},
+{
+"wr": "professionista",
+"n": "1"
+},
+{
+"wr": "percorso",
+"n": "4"
+},
+{
+"wr": "paramedico",
+"n": "9"
+},
+{
+"wr": "articolazione",
+"n": "1"
+},
+{
+"wr": "berretto",
+"n": "1"
+},
+{
+"wr": "pantalone",
+"n": "1"
+},
+{
+"wr": "idrocarburo",
+"n": "4"
+},
+{
+"wr": "somiglianza",
+"n": "1"
+},
+{
+"wr": "soffiare",
+"n": "1"
+},
+{
+"wr": "lavorare",
+"n": "11"
+},
+{
+"wr": "giunto",
+"n": "1"
+},
+{
+"wr": "ossessione",
+"n": "1"
+},
+{
+"wr": "amministrare",
+"n": "1"
+},
+{
+"wr": "ragazza",
+"n": "2"
+},
+{
+"wr": "intenzione",
+"n": "3"
+},
+{
+"wr": "eccesso",
+"n": "1"
+},
+{
+"wr": "paese",
+"n": "11"
+},
+{
+"wr": "giudicare",
+"n": "12"
+},
+{
+"wr": "succo",
+"n": "2"
+},
+{
+"wr": "consigliare",
+"n": "1"
+},
+{
+"wr": "acquisizione",
+"n": "4"
+},
+{
+"wr": "vegetazione",
+"n": "6"
+},
+{
+"wr": "officina",
+"n": "2"
+},
+{
+"wr": "cosmetico",
+"n": "8"
+},
+{
+"wr": "commerciante",
+"n": "21"
+},
+{
+"wr": "suonare",
+"n": "1"
+},
+{
+"wr": "ciliegia",
+"n": "3"
+},
+{
+"wr": "cappotto",
+"n": "5"
+},
+{
+"wr": "vano",
+"n": "2"
+},
+{
+"wr": "tappeto",
+"n": "4"
+},
+{
+"wr": "buffone",
+"n": "1"
+},
+{
+"wr": "somigliare",
+"n": "1"
+},
+{
+"wr": "soluzione",
+"n": "3"
+},
+{
+"wr": "visita",
+"n": "1"
+},
+{
+"wr": "temporale",
+"n": "1"
+},
+{
+"wr": "esagerare",
+"n": "1"
+},
+{
+"wr": "cavalletto",
+"n": "1"
+},
+{
+"wr": "immagine",
+"n": "16"
+},
+{
+"wr": "forcina",
+"n": "1"
+},
+{
+"wr": "interdizione",
+"n": "1"
+},
+{
+"wr": "bagno",
+"n": "1"
+},
+{
+"wr": "valutare",
+"n": "1"
+},
+{
+"wr": "composto",
+"n": "33"
+},
+{
+"wr": "opera",
+"n": "60"
+},
+{
+"wr": "spirito",
+"n": "1"
+},
+{
+"wr": "banchina",
+"n": "1"
+},
+{
+"wr": "nominare",
+"n": "1"
+},
+{
+"wr": "cavità",
+"n": "6"
+},
+{
+"wr": "indicare",
+"n": "1"
+},
+{
+"wr": "elmo",
+"n": "2"
+},
+{
+"wr": "pulire",
+"n": "12"
+},
+{
+"wr": "lodare",
+"n": "7"
+},
+{
+"wr": "tiratore",
+"n": "2"
+},
+{
+"wr": "frase",
+"n": "3"
+},
+{
+"wr": "religione",
+"n": "15"
+},
+{
+"wr": "singhiozzo",
+"n": "1"
+},
+{
+"wr": "impasto",
+"n": "5"
+},
+{
+"wr": "firma",
+"n": "1"
+},
+{
+"wr": "becco",
+"n": "1"
+},
+{
+"wr": "chiacchiera",
+"n": "1"
+},
+{
+"wr": "reparto",
+"n": "12"
+},
+{
+"wr": "verificare",
+"n": "5"
+},
+{
+"wr": "armadio",
+"n": "1"
+},
+{
+"wr": "individuare",
+"n": "3"
+},
+{
+"wr": "cofanetto",
+"n": "2"
+},
+{
+"wr": "navigare",
+"n": "2"
+},
+{
+"wr": "irritare",
+"n": "1"
+},
+{
+"wr": "virus",
+"n": "1"
+},
+{
+"wr": "depressione",
+"n": "3"
+},
+{
+"wr": "mollusco",
+"n": "14"
+},
+{
+"wr": "frigorifero",
+"n": "1"
+},
+{
+"wr": "processo",
+"n": "21"
+},
+{
+"wr": "misurazione",
+"n": "1"
+},
+{
+"wr": "popolazione",
+"n": "341"
+},
+{
+"wr": "morbo",
+"n": "1"
+},
+{
+"wr": "rubare",
+"n": "3"
+},
+{
+"wr": "arte",
+"n": "26"
+},
+{
+"wr": "nebbia",
+"n": "1"
+},
+{
+"wr": "avvocato",
+"n": "3"
+},
+{
+"wr": "proposito",
+"n": "6"
+},
+{
+"wr": "osteria",
+"n": "1"
+},
+{
+"wr": "attività",
+"n": "44"
+},
+{
+"wr": "voce",
+"n": "7"
+},
+{
+"wr": "tentare",
+"n": "1"
+},
+{
+"wr": "comunicazione",
+"n": "1"
+},
+{
+"wr": "confrontare",
+"n": "1"
+},
+{
+"wr": "angolo",
+"n": "1"
+},
+{
+"wr": "momento",
+"n": "7"
+},
+{
+"wr": "influenza",
+"n": "1"
+},
+{
+"wr": "annunciare",
+"n": "2"
+},
+{
+"wr": "complesso",
+"n": "2"
+},
+{
+"wr": "prefiggere",
+"n": "1"
+},
+{
+"wr": "scultura",
+"n": "7"
+},
+{
+"wr": "mese",
+"n": "13"
+},
+{
+"wr": "agglomerato",
+"n": "1"
+},
+{
+"wr": "unità",
+"n": "1"
+},
+{
+"wr": "insetto",
+"n": "39"
+},
+{
+"wr": "cedola",
+"n": "2"
+},
+{
+"wr": "imitare",
+"n": "1"
+},
+{
+"wr": "castello",
+"n": "2"
+},
+{
+"wr": "strada",
+"n": "36"
+},
+{
+"wr": "inamidare",
+"n": "1"
+},
+{
+"wr": "rappacificare",
+"n": "1"
+},
+{
+"wr": "minestra",
+"n": "6"
+},
+{
+"wr": "furto",
+"n": "4"
+},
+{
+"wr": "firmatario",
+"n": "1"
+},
+{
+"wr": "croccante",
+"n": "1"
+},
+{
+"wr": "guardiano",
+"n": "5"
+},
+{
+"wr": "rapace",
+"n": "10"
+},
+{
+"wr": "ordigno",
+"n": "5"
+},
+{
+"wr": "versare",
+"n": "2"
+},
+{
+"wr": "carezza",
+"n": "1"
+},
+{
+"wr": "disegno",
+"n": "11"
+},
+{
+"wr": "procedimento",
+"n": "2"
+},
+{
+"wr": "essere",
+"n": "169"
+},
+{
+"wr": "tamburo",
+"n": "1"
+},
+{
+"wr": "sorvegliante",
+"n": "3"
+},
+{
+"wr": "preparare",
+"n": "3"
+},
+{
+"wr": "esaminare",
+"n": "4"
+},
+{
+"wr": "fuggire",
+"n": "1"
+},
+{
+"wr": "vagabondo",
+"n": "1"
+},
+{
+"wr": "manifestare",
+"n": "4"
+},
+{
+"wr": "macchina",
+"n": "45"
+},
+{
+"wr": "rivestire",
+"n": "2"
+},
+{
+"wr": "orso",
+"n": "1"
+},
+{
+"wr": "spettegolare",
+"n": "3"
+},
+{
+"wr": "fondare",
+"n": "1"
+},
+{
+"wr": "perdere",
+"n": "2"
+},
+{
+"wr": "boa",
+"n": "1"
+},
+{
+"wr": "soldato",
+"n": "21"
+},
+{
+"wr": "trasportare",
+"n": "3"
+},
+{
+"wr": "obbligare",
+"n": "6"
+},
+{
+"wr": "contraddizione",
+"n": "1"
+},
+{
+"wr": "ente",
+"n": "7"
+},
+{
+"wr": "riprodurre",
+"n": "6"
+},
+{
+"wr": "bara",
+"n": "2"
+},
+{
+"wr": "colloquio",
+"n": "1"
+},
+{
+"wr": "trasmettere",
+"n": "2"
+},
+{
+"wr": "danneggiare",
+"n": "22"
+},
+{
+"wr": "segnare",
+"n": "1"
+},
+{
+"wr": "caccia",
+"n": "1"
+},
+{
+"wr": "denaro",
+"n": "20"
+},
+{
+"wr": "prodotto",
+"n": "11"
+},
+{
+"wr": "scimmia",
+"n": "5"
+},
+{
+"wr": "importo",
+"n": "1"
+},
+{
+"wr": "pantofola",
+"n": "2"
+},
+{
+"wr": "verifica",
+"n": "1"
+},
+{
+"wr": "spegnere",
+"n": "1"
+},
+{
+"wr": "chirurgo",
+"n": "2"
+},
+{
+"wr": "parteggiare",
+"n": "1"
+},
+{
+"wr": "alterare",
+"n": "1"
+},
+{
+"wr": "inquinare",
+"n": "1"
+},
+{
+"wr": "arto",
+"n": "5"
+},
+{
+"wr": "organismo",
+"n": "74"
+},
+{
+"wr": "bricco",
+"n": "2"
+},
+{
+"wr": "esitare",
+"n": "1"
+},
+{
+"wr": "possedere",
+"n": "1"
+},
+{
+"wr": "vela",
+"n": "2"
+},
+{
+"wr": "industria",
+"n": "11"
+},
+{
+"wr": "circolo",
+"n": "1"
+},
+{
+"wr": "ostacolare",
+"n": "3"
+},
+{
+"wr": "atterrare",
+"n": "1"
+},
+{
+"wr": "arruolamento",
+"n": "1"
+},
+{
+"wr": "strofinaccio",
+"n": "1"
+},
+{
+"wr": "acquistare",
+"n": "1"
+},
+{
+"wr": "pianeta",
+"n": "5"
+},
+{
+"wr": "emozione",
+"n": "2"
+},
+{
+"wr": "cilindro",
+"n": "1"
+},
+{
+"wr": "commento",
+"n": "1"
+},
+{
+"wr": "sgorgare",
+"n": "1"
+},
+{
+"wr": "giorno",
+"n": "29"
+},
+{
+"wr": "musica",
+"n": "5"
+},
+{
+"wr": "veliero",
+"n": "3"
+},
+{
+"wr": "permettere",
+"n": "2"
+},
+{
+"wr": "stabilimento",
+"n": "43"
+},
+{
+"wr": "trascrizione",
+"n": "1"
+},
+{
+"wr": "indiano",
+"n": "2"
+},
+{
+"wr": "lucertola",
+"n": "1"
+},
+{
+"wr": "arteria",
+"n": "3"
+},
+{
+"wr": "controllo",
+"n": "2"
+},
+{
+"wr": "piazza",
+"n": "1"
+},
+{
+"wr": "labirinto",
+"n": "1"
+},
+{
+"wr": "netturbino",
+"n": "1"
+},
+{
+"wr": "preoccupazione",
+"n": "1"
+},
+{
+"wr": "ingannare",
+"n": "4"
+},
+{
+"wr": "rimborsare",
+"n": "3"
+},
+{
+"wr": "intestino",
+"n": "2"
+},
+{
+"wr": "disertore",
+"n": "1"
+},
+{
+"wr": "nascondere",
+"n": "5"
+},
+{
+"wr": "cucitura",
+"n": "1"
+},
+{
+"wr": "vibrazione",
+"n": "2"
+},
+{
+"wr": "aggressione",
+"n": "1"
+},
+{
+"wr": "stella",
+"n": "3"
+},
+{
+"wr": "galleggiante",
+"n": "1"
+},
+{
+"wr": "stancare",
+"n": "1"
+},
+{
+"wr": "statua",
+"n": "1"
+},
+{
+"wr": "serpente",
+"n": "8"
+},
+{
+"wr": "entrare",
+"n": "2"
+},
+{
+"wr": "palla",
+"n": "4"
+},
+{
+"wr": "ipotesi",
+"n": "1"
+},
+{
+"wr": "salume",
+"n": "16"
+},
+{
+"wr": "sciatore",
+"n": "1"
+},
+{
+"wr": "rabbia",
+"n": "1"
+},
+{
+"wr": "diritto",
+"n": "2"
+},
+{
+"wr": "crocefisso",
+"n": "1"
+},
+{
+"wr": "appartamento",
+"n": "1"
+},
+{
+"wr": "infiammazione",
+"n": "25"
+},
+{
+"wr": "coincidere",
+"n": "1"
+},
+{
+"wr": "paura",
+"n": "2"
+},
+{
+"wr": "inghiottire",
+"n": "1"
+},
+{
+"wr": "rimprovero",
+"n": "2"
+},
+{
+"wr": "bevitore",
+"n": "2"
+},
+{
+"wr": "riflettere",
+"n": "1"
+},
+{
+"wr": "credere",
+"n": "1"
+},
+{
+"wr": "donna",
+"n": "45"
+},
+{
+"wr": "molo",
+"n": "1"
+},
+{
+"wr": "tritare",
+"n": "1"
+},
+{
+"wr": "pizza",
+"n": "2"
+},
+{
+"wr": "sottrarre",
+"n": "1"
+},
+{
+"wr": "massa",
+"n": "3"
+},
+{
+"wr": "stilista",
+"n": "1"
+},
+{
+"wr": "sport",
+"n": "40"
+},
+{
+"wr": "cavallo",
+"n": "10"
+},
+{
+"wr": "alterazione",
+"n": "14"
+},
+{
+"wr": "registro",
+"n": "1"
+},
+{
+"wr": "bisogno",
+"n": "1"
+},
+{
+"wr": "ballo",
+"n": "19"
+},
+{
+"wr": "fabbricante",
+"n": "5"
+},
+{
+"wr": "progetto",
+"n": "1"
+},
+{
+"wr": "battuto",
+"n": "1"
+},
+{
+"wr": "mare",
+"n": "3"
+},
+{
+"wr": "guanto",
+"n": "2"
+},
+{
+"wr": "offendere",
+"n": "6"
+},
+{
+"wr": "sostenitore",
+"n": "4"
+},
+{
+"wr": "appello",
+"n": "1"
+},
+{
+"wr": "recipiente",
+"n": "125"
+},
+{
+"wr": "direzione",
+"n": "1"
+},
+{
+"wr": "spiare",
+"n": "1"
+},
+{
+"wr": "ipotizzare",
+"n": "3"
+},
+{
+"wr": "profondità",
+"n": "2"
+},
+{
+"wr": "pane",
+"n": "20"
+},
+{
+"wr": "anatra",
+"n": "1"
+},
+{
+"wr": "terreno",
+"n": "15"
+},
+{
+"wr": "sgarbo",
+"n": "1"
+},
+{
+"wr": "costruire",
+"n": "9"
+},
+{
+"wr": "apertura",
+"n": "87"
+},
+{
+"wr": "attrarre",
+"n": "1"
+},
+{
+"wr": "deridere",
+"n": "6"
+},
+{
+"wr": "vendere",
+"n": "2"
+},
+{
+"wr": "regione",
+"n": "49"
+},
+{
+"wr": "catena",
+"n": "4"
+},
+{
+"wr": "gonna",
+"n": "4"
+},
+{
+"wr": "nozione",
+"n": "1"
+},
+{
+"wr": "terra",
+"n": "2"
+},
+{
+"wr": "determinare",
+"n": "2"
+},
+{
+"wr": "vitigno",
+"n": "13"
+},
+{
+"wr": "arrivare",
+"n": "4"
+},
+{
+"wr": "monosaccaride",
+"n": "1"
+},
+{
+"wr": "conto",
+"n": "1"
+},
+{
+"wr": "alloggio",
+"n": "2"
+},
+{
+"wr": "pergola",
+"n": "1"
+},
+{
+"wr": "sportivo",
+"n": "6"
+},
+{
+"wr": "ruminante",
+"n": "1"
+},
+{
+"wr": "teoria",
+"n": "11"
+},
+{
+"wr": "supermercato",
+"n": "1"
+},
+{
+"wr": "violentare",
+"n": "3"
+},
+{
+"wr": "figura",
+"n": "76"
+},
+{
+"wr": "burrasca",
+"n": "1"
+},
+{
+"wr": "deposito",
+"n": "5"
+},
+{
+"wr": "leone",
+"n": "1"
+},
+{
+"wr": "intralciare",
+"n": "1"
+},
+{
+"wr": "disciplina",
+"n": "221"
+},
+{
+"wr": "terminare",
+"n": "1"
+},
+{
+"wr": "rompere",
+"n": "6"
+},
+{
+"wr": "concentrare",
+"n": "1"
+},
+{
+"wr": "elicottero",
+"n": "1"
+},
+{
+"wr": "sciogliere",
+"n": "1"
+},
+{
+"wr": "stemma",
+"n": "1"
+},
+{
+"wr": "pensare",
+"n": "2"
+},
+{
+"wr": "liquido",
+"n": "2"
+},
+{
+"wr": "proprietario",
+"n": "2"
+},
+{
+"wr": "antibiotico",
+"n": "8"
+},
+{
+"wr": "letto",
+"n": "6"
+},
+{
+"wr": "spaventare",
+"n": "3"
+},
+{
+"wr": "lanciare",
+"n": "10"
+},
+{
+"wr": "incrementare",
+"n": "1"
+},
+{
+"wr": "calcolare",
+"n": "9"
+},
+{
+"wr": "stare",
+"n": "45"
+},
+{
+"wr": "fare",
+"n": "103"
+},
+{
+"wr": "chiosco",
+"n": "1"
+},
+{
+"wr": "rettile",
+"n": "14"
+},
+{
+"wr": "microfono",
+"n": "2"
+},
+{
+"wr": "approdare",
+"n": "2"
+},
+{
+"wr": "comportamento",
+"n": "184"
+},
+{
+"wr": "calunniare",
+"n": "4"
+},
+{
+"wr": "ministro",
+"n": "3"
+},
+{
+"wr": "diminuire",
+"n": "17"
+},
+{
+"wr": "avere",
+"n": "11"
+},
+{
+"wr": "ragionamento",
+"n": "4"
+},
+{
+"wr": "calunnia",
+"n": "1"
+},
+{
+"wr": "guardare",
+"n": "5"
+},
+{
+"wr": "struttura",
+"n": "13"
+},
+{
+"wr": "divampare",
+"n": "1"
+},
+{
+"wr": "fretta",
+"n": "2"
+},
+{
+"wr": "poeta",
+"n": "2"
+},
+{
+"wr": "maschera",
+"n": "8"
+},
+{
+"wr": "sortilegio",
+"n": "1"
+},
+{
+"wr": "migliorare",
+"n": "11"
+},
+{
+"wr": "forte",
+"n": "1"
+},
+{
+"wr": "arma",
+"n": "39"
+},
+{
+"wr": "macchiare",
+"n": "1"
+},
+{
+"wr": "erbaccia",
+"n": "1"
+},
+{
+"wr": "malato",
+"n": "25"
+},
+{
+"wr": "sede",
+"n": "5"
+},
+{
+"wr": "compagnia",
+"n": "1"
+},
+{
+"wr": "cotone",
+"n": "3"
+},
+{
+"wr": "seme",
+"n": "34"
+},
+{
+"wr": "armatura",
+"n": "1"
+},
+{
+"wr": "impalcatura",
+"n": "1"
+},
+{
+"wr": "copricapo",
+"n": "14"
+},
+{
+"wr": "regina",
+"n": "1"
+},
+{
+"wr": "deputato",
+"n": "1"
+},
+{
+"wr": "vena",
+"n": "1"
+},
+{
+"wr": "affidare",
+"n": "1"
+},
+{
+"wr": "pittore",
+"n": "1"
+},
+{
+"wr": "cavolo",
+"n": "2"
+},
+{
+"wr": "uscire",
+"n": "5"
+},
+{
+"wr": "possibilità",
+"n": "2"
+},
+{
+"wr": "funzionario",
+"n": "4"
+},
+{
+"wr": "giubbotto",
+"n": "1"
+},
+{
+"wr": "lesione",
+"n": "12"
+},
+{
+"wr": "finire",
+"n": "8"
+},
+{
+"wr": "adornare",
+"n": "1"
+},
+{
+"wr": "prestito",
+"n": "1"
+},
+{
+"wr": "cartoncino",
+"n": "7"
+},
+{
+"wr": "cantare",
+"n": "4"
+},
+{
+"wr": "allagamento",
+"n": "1"
+},
+{
+"wr": "coperchio",
+"n": "1"
+},
+{
+"wr": "frantumazione",
+"n": "2"
+},
+{
+"wr": "battere",
+"n": "5"
+},
+{
+"wr": "decorare",
+"n": "1"
+},
+{
+"wr": "telecamera",
+"n": "2"
+},
+{
+"wr": "militare",
+"n": "45"
+},
+{
+"wr": "corrodere",
+"n": "2"
+},
+{
+"wr": "impresa",
+"n": "9"
+},
+{
+"wr": "offrire",
+"n": "1"
+},
+{
+"wr": "differire",
+"n": "1"
+},
+{
+"wr": "raccontare",
+"n": "1"
+},
+{
+"wr": "embrione",
+"n": "1"
+},
+{
+"wr": "cortile",
+"n": "1"
+},
+{
+"wr": "computer",
+"n": "1"
+},
+{
+"wr": "tendenza",
+"n": "53"
+},
+{
+"wr": "bilancia",
+"n": "1"
+},
+{
+"wr": "passaggio",
+"n": "6"
+},
+{
+"wr": "inserire",
+"n": "5"
+},
+{
+"wr": "protestare",
+"n": "1"
+},
+{
+"wr": "piatto",
+"n": "13"
+},
+{
+"wr": "mania",
+"n": "3"
+},
+{
+"wr": "mutanda",
+"n": "2"
+},
+{
+"wr": "registrare",
+"n": "1"
+},
+{
+"wr": "lettera",
+"n": "11"
+},
+{
+"wr": "temperatura",
+"n": "2"
+},
+{
+"wr": "manufatto",
+"n": "277"
+},
+{
+"wr": "pronunciare",
+"n": "3"
+},
+{
+"wr": "monaco",
+"n": "3"
+},
+{
+"wr": "scambiare",
+"n": "3"
+},
+{
+"wr": "ospedale",
+"n": "3"
+},
+{
+"wr": "vile",
+"n": "1"
+},
+{
+"wr": "soffrire",
+"n": "4"
+},
+{
+"wr": "esercito",
+"n": "1"
+},
+{
+"wr": "disposizione",
+"n": "1"
+},
+{
+"wr": "continente",
+"n": "9"
+},
+{
+"wr": "lotta",
+"n": "5"
+},
+{
+"wr": "calzone",
+"n": "1"
+},
+{
+"wr": "particella",
+"n": "1"
+},
+{
+"wr": "carrozza",
+"n": "3"
+},
+{
+"wr": "addomesticare",
+"n": "1"
+},
+{
+"wr": "radice",
+"n": "4"
+},
+{
+"wr": "turbare",
+"n": "2"
+},
+{
+"wr": "attrezzatura",
+"n": "1"
+},
+{
+"wr": "escludere",
+"n": "1"
+},
+{
+"wr": "tingere",
+"n": "2"
+},
+{
+"wr": "ascoltare",
+"n": "2"
+},
+{
+"wr": "bugia",
+"n": "6"
+},
+{
+"wr": "tavola",
+"n": "4"
+},
+{
+"wr": "lista",
+"n": "1"
+},
+{
+"wr": "scialle",
+"n": "1"
+},
+{
+"wr": "squadra",
+"n": "4"
+},
+{
+"wr": "chiacchierare",
+"n": "1"
+},
+{
+"wr": "centrare",
+"n": "1"
+},
+{
+"wr": "gingillo",
+"n": "1"
+},
+{
+"wr": "passo",
+"n": "1"
+},
+{
+"wr": "verme",
+"n": "1"
+},
+{
+"wr": "ingrediente",
+"n": "2"
+},
+{
+"wr": "spiegare",
+"n": "8"
+},
+{
+"wr": "friggere",
+"n": "1"
+},
+{
+"wr": "pallina",
+"n": "1"
+},
+{
+"wr": "allenare",
+"n": "3"
+},
+{
+"wr": "stoppino",
+"n": "1"
+},
+{
+"wr": "sfera",
+"n": "2"
+},
+{
+"wr": "abbagliare",
+"n": "1"
+},
+{
+"wr": "fratturare",
+"n": "1"
+},
+{
+"wr": "punire",
+"n": "2"
+},
+{
+"wr": "atleta",
+"n": "15"
+},
+{
+"wr": "risultato",
+"n": "1"
+},
+{
+"wr": "bacinella",
+"n": "1"
+},
+{
+"wr": "dare",
+"n": "60"
+},
+{
+"wr": "alcolico",
+"n": "1"
+},
+{
+"wr": "litigio",
+"n": "6"
+},
+{
+"wr": "assaporare",
+"n": "1"
+},
+{
+"wr": "chiarimento",
+"n": "2"
+},
+{
+"wr": "laboratorio",
+"n": "8"
+},
+{
+"wr": "fosso",
+"n": "3"
+},
+{
+"wr": "stendardo",
+"n": "2"
+},
+{
+"wr": "lega",
+"n": "8"
+},
+{
+"wr": "scienza",
+"n": "64"
+},
+{
+"wr": "incollare",
+"n": "1"
+},
+{
+"wr": "piegare",
+"n": "3"
+},
+{
+"wr": "guidatore",
+"n": "1"
+},
+{
+"wr": "ciambella",
+"n": "1"
+},
+{
+"wr": "tendone",
+"n": "1"
+},
+{
+"wr": "palco",
+"n": "1"
+},
+{
+"wr": "domandare",
+"n": "1"
+},
+{
+"wr": "aroma",
+"n": "27"
+},
+{
+"wr": "posizione",
+"n": "2"
+},
+{
+"wr": "scambio",
+"n": "2"
+},
+{
+"wr": "aereo",
+"n": "5"
+},
+{
+"wr": "modificare",
+"n": "1"
+},
+{
+"wr": "pallino",
+"n": "1"
+},
+{
+"wr": "inizio",
+"n": "2"
+},
+{
+"wr": "spezzare",
+"n": "1"
+},
+{
+"wr": "capo",
+"n": "30"
+},
+{
+"wr": "divisione",
+"n": "4"
+},
+{
+"wr": "strumento",
+"n": "1490"
+},
+{
+"wr": "diffamazione",
+"n": "1"
+},
+{
+"wr": "magazzino",
+"n": "1"
+},
+{
+"wr": "tavolo",
+"n": "5"
+},
+{
+"wr": "carbonato",
+"n": "1"
+},
+{
+"wr": "freccia",
+"n": "1"
+},
+{
+"wr": "navigazione",
+"n": "1"
+},
+{
+"wr": "altopiano",
+"n": "2"
+},
+{
+"wr": "calzatura",
+"n": "14"
+},
+{
+"wr": "elemento",
+"n": "55"
+},
+{
+"wr": "frantumare",
+"n": "2"
+},
+{
+"wr": "parola",
+"n": "10"
+},
+{
+"wr": "locomotiva",
+"n": "2"
+},
+{
+"wr": "acrobata",
+"n": "1"
+},
+{
+"wr": "parlare",
+"n": "24"
+},
+{
+"wr": "castrare",
+"n": "1"
+},
+{
+"wr": "gustare",
+"n": "1"
+},
+{
+"wr": "cominciare",
+"n": "3"
+},
+{
+"wr": "movimento",
+"n": "112"
+},
+{
+"wr": "giacchino",
+"n": "11"
+},
+{
+"wr": "accettare",
+"n": "2"
+},
+{
+"wr": "roditore",
+"n": "1"
+},
+{
+"wr": "canale",
+"n": "4"
+},
+{
+"wr": "impressione",
+"n": "1"
+},
+{
+"wr": "allacciare",
+"n": "1"
+},
+{
+"wr": "educare",
+"n": "3"
+},
+{
+"wr": "tendere",
+"n": "1"
+},
+{
+"wr": "dinosauro",
+"n": "1"
+},
+{
+"wr": "gridare",
+"n": "3"
+},
+{
+"wr": "scritto",
+"n": "6"
+},
+{
+"wr": "veste",
+"n": "1"
+},
+{
+"wr": "senso",
+"n": "7"
+},
+{
+"wr": "cardellino",
+"n": "1"
+},
+{
+"wr": "salvagente",
+"n": "2"
+},
+{
+"wr": "città",
+"n": "164"
+},
+{
+"wr": "rilevatore",
+"n": "1"
+},
+{
+"wr": "rinunciare",
+"n": "4"
+},
+{
+"wr": "tufo",
+"n": "1"
+},
+{
+"wr": "cisterna",
+"n": "1"
+},
+{
+"wr": "manifesto",
+"n": "6"
+},
+{
+"wr": "fossa",
+"n": "1"
+},
+{
+"wr": "desiderare",
+"n": "9"
+},
+{
+"wr": "scrigno",
+"n": "2"
+},
+{
+"wr": "addolorare",
+"n": "4"
+},
+{
+"wr": "bandierina",
+"n": "1"
+},
+{
+"wr": "sonnellino",
+"n": "1"
+},
+{
+"wr": "attaccante",
+"n": "1"
+},
+{
+"wr": "dente",
+"n": "4"
+},
+{
+"wr": "brillare",
+"n": "2"
+},
+{
+"wr": "salsa",
+"n": "9"
+},
+{
+"wr": "durare",
+"n": "1"
+},
+{
+"wr": "distribuire",
+"n": "1"
+},
+{
+"wr": "pianificare",
+"n": "1"
+},
+{
+"wr": "cellula",
+"n": "12"
+},
+{
+"wr": "commesso",
+"n": "1"
+},
+{
+"wr": "prendere",
+"n": "37"
+},
+{
+"wr": "fucile",
+"n": "3"
+},
+{
+"wr": "assumere",
+"n": "2"
+},
+{
+"wr": "dirigere",
+"n": "1"
+},
+{
+"wr": "terrorista",
+"n": "1"
+},
+{
+"wr": "caramella",
+"n": "1"
+},
+{
+"wr": "attivare",
+"n": "1"
+},
+{
+"wr": "tenda",
+"n": "7"
+},
+{
+"wr": "riconoscere",
+"n": "1"
+},
+{
+"wr": "aforisma",
+"n": "1"
+},
+{
+"wr": "mettere",
+"n": "5"
+},
+{
+"wr": "libro",
+"n": "50"
+},
+{
+"wr": "giocattolo",
+"n": "17"
+},
+{
+"wr": "solfato",
+"n": "1"
+},
+{
+"wr": "vapore",
+"n": "1"
+},
+{
+"wr": "concernere",
+"n": "2"
+},
+{
+"wr": "minoranza",
+"n": "2"
+},
+{
+"wr": "istituzione",
+"n": "118"
+},
+{
+"wr": "aiutare",
+"n": "6"
+},
+{
+"wr": "incisione",
+"n": "1"
+},
+{
+"wr": "albero",
+"n": "76"
+},
+{
+"wr": "lubrificare",
+"n": "2"
+},
+{
+"wr": "marciapiede",
+"n": "1"
+},
+{
+"wr": "piangere",
+"n": "1"
+},
+{
+"wr": "colla",
+"n": "1"
+},
+{
+"wr": "terracotta",
+"n": "1"
+},
+{
+"wr": "sentimento",
+"n": "93"
+},
+{
+"wr": "carica",
+"n": "24"
+},
+{
+"wr": "imbrogliare",
+"n": "1"
+},
+{
+"wr": "servitore",
+"n": "8"
+},
+{
+"wr": "artiglio",
+"n": "1"
+},
+{
+"wr": "coperta",
+"n": "6"
+},
+{
+"wr": "armonizzare",
+"n": "7"
+},
+{
+"wr": "curare",
+"n": "3"
+},
+{
+"wr": "eliminare",
+"n": "1"
+},
+{
+"wr": "taglio",
+"n": "13"
+},
+{
+"wr": "venerazione",
+"n": "1"
+},
+{
+"wr": "corazza",
+"n": "1"
+},
+{
+"wr": "competizione",
+"n": "18"
+},
+{
+"wr": "edificio",
+"n": "155"
+},
+{
+"wr": "schiuma",
+"n": "1"
+},
+{
+"wr": "spezia",
+"n": "1"
+},
+{
+"wr": "descrivere",
+"n": "1"
+},
+{
+"wr": "divinità",
+"n": "2"
+},
+{
+"wr": "stanza",
+"n": "10"
+},
+{
+"wr": "velluto",
+"n": "1"
+},
+{
+"wr": "tagliare",
+"n": "12"
+},
+{
+"wr": "fenomeno",
+"n": "611"
+},
+{
+"wr": "parassita",
+"n": "1"
+},
+{
+"wr": "nobile",
+"n": "17"
+},
+{
+"wr": "motore",
+"n": "1"
+},
+{
+"wr": "sasso",
+"n": "2"
+},
+{
+"wr": "fune",
+"n": "3"
+},
+{
+"wr": "inglobare",
+"n": "1"
+},
+{
+"wr": "acquisire",
+"n": "10"
+},
+{
+"wr": "strofa",
+"n": "1"
+},
+{
+"wr": "includere",
+"n": "3"
+},
+{
+"wr": "corruzione",
+"n": "2"
+},
+{
+"wr": "spostamento",
+"n": "35"
+},
+{
+"wr": "reagire",
+"n": "17"
+},
+{
+"wr": "caratteristica",
+"n": "81"
+},
+{
+"wr": "aritmia",
+"n": "3"
+},
+{
+"wr": "mattonella",
+"n": "1"
+},
+{
+"wr": "simboleggiare",
+"n": "3"
+},
+{
+"wr": "pescatore",
+"n": "1"
+},
+{
+"wr": "spillo",
+"n": "1"
+},
+{
+"wr": "accumulare",
+"n": "1"
+},
+{
+"wr": "viola",
+"n": "1"
+},
+{
+"wr": "orlo",
+"n": "1"
+},
+{
+"wr": "trasformare",
+"n": "5"
+},
+{
+"wr": "intonare",
+"n": "2"
+},
+{
+"wr": "dono",
+"n": "1"
+},
+{
+"wr": "fascio",
+"n": "1"
+},
+{
+"wr": "valigia",
+"n": "1"
+},
+{
+"wr": "fortificazione",
+"n": "1"
+},
+{
+"wr": "toro",
+"n": "1"
+},
+{
+"wr": "levigare",
+"n": "2"
+},
+{
+"wr": "pendio",
+"n": "2"
+},
+{
+"wr": "pentola",
+"n": "4"
+},
+{
+"wr": "scarpone",
+"n": "1"
+},
+{
+"wr": "proiettile",
+"n": "4"
+},
+{
+"wr": "corona",
+"n": "1"
+},
+{
+"wr": "meditare",
+"n": "2"
+},
+{
+"wr": "mano",
+"n": "2"
+},
+{
+"wr": "lago",
+"n": "2"
+},
+{
+"wr": "corpo",
+"n": "11"
+},
+{
+"wr": "desiderio",
+"n": "15"
+},
+{
+"wr": "sperperare",
+"n": "1"
+},
+{
+"wr": "autore",
+"n": "3"
+},
+{
+"wr": "ufficio",
+"n": "7"
+},
+{
+"wr": "cultura",
+"n": "3"
+},
+{
+"wr": "manoscritto",
+"n": "1"
+},
+{
+"wr": "lettino",
+"n": "1"
+},
+{
+"wr": "film",
+"n": "1"
+},
+{
+"wr": "esprimere",
+"n": "1"
+},
+{
+"wr": "spiccare",
+"n": "2"
+},
+{
+"wr": "segnalazione",
+"n": "1"
+},
+{
+"wr": "gladiatore",
+"n": "1"
+},
+{
+"wr": "luogo",
+"n": "369"
+},
+{
+"wr": "testimoniare",
+"n": "1"
+},
+{
+"wr": "digerire",
+"n": "1"
+},
+{
+"wr": "vedere",
+"n": "1"
+},
+{
+"wr": "corrispondere",
+"n": "1"
+}
+]

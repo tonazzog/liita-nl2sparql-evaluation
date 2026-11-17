@@ -1,0 +1,227 @@
+[
+{
+"em": "http://w3id.org/elita/Amore",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "22"
+},
+{
+"em": "http://w3id.org/elita/Fiducia",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "98"
+},
+{
+"em": "http://w3id.org/elita/Gioia",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "285"
+},
+{
+"em": "http://w3id.org/elita/Aspettativa",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "158"
+},
+{
+"em": "http://w3id.org/elita/Gioia",
+"pos": "http://lila-erc.eu/ontologies/lila/interjection",
+"n": "2"
+},
+{
+"em": "http://w3id.org/elita/Gioia",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "155"
+},
+{
+"em": "http://w3id.org/elita/Valenza",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "10"
+},
+{
+"em": "http://w3id.org/elita/Valenza",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "6"
+},
+{
+"em": "http://w3id.org/elita/Paura",
+"pos": "http://lila-erc.eu/ontologies/lila/interjection",
+"n": "1"
+},
+{
+"em": "http://w3id.org/elita/Disgusto",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "2"
+},
+{
+"em": "http://w3id.org/elita/Gioia",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "23"
+},
+{
+"em": "http://w3id.org/elita/Valenza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"em": "http://w3id.org/elita/Sorpresa",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "100"
+},
+{
+"em": "http://w3id.org/elita/Rabbia",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "1"
+},
+{
+"em": "http://w3id.org/elita/Disgusto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "211"
+},
+{
+"em": "http://w3id.org/elita/Rabbia",
+"pos": "http://lila-erc.eu/ontologies/lila/interjection",
+"n": "1"
+},
+{
+"em": "http://w3id.org/elita/Aspettativa",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "33"
+},
+{
+"em": "http://w3id.org/elita/Aspettativa",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "390"
+},
+{
+"em": "http://w3id.org/elita/Tristezza",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "118"
+},
+{
+"em": "http://w3id.org/elita/Sorpresa",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "179"
+},
+{
+"em": "http://w3id.org/elita/Amore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "463"
+},
+{
+"em": "http://w3id.org/elita/Gioia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "633"
+},
+{
+"em": "http://w3id.org/elita/Aspettativa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "749"
+},
+{
+"em": "http://w3id.org/elita/Sorpresa",
+"pos": "http://lila-erc.eu/ontologies/lila/interjection",
+"n": "2"
+},
+{
+"em": "http://w3id.org/elita/Disgusto",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "96"
+},
+{
+"em": "http://w3id.org/elita/Fiducia",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "226"
+},
+{
+"em": "http://w3id.org/elita/Paura",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "453"
+},
+{
+"em": "http://w3id.org/elita/Paura",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "245"
+},
+{
+"em": "http://w3id.org/elita/Dominanza",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "2"
+},
+{
+"em": "http://w3id.org/elita/Tristezza",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "4"
+},
+{
+"em": "http://w3id.org/elita/Paura",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "6"
+},
+{
+"em": "http://w3id.org/elita/Amore",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "127"
+},
+{
+"em": "http://w3id.org/elita/Paura",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "114"
+},
+{
+"em": "http://w3id.org/elita/Disgusto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "78"
+},
+{
+"em": "http://w3id.org/elita/Amore",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "230"
+},
+{
+"em": "http://w3id.org/elita/Rabbia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "388"
+},
+{
+"em": "http://w3id.org/elita/Rabbia",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "120"
+},
+{
+"em": "http://w3id.org/elita/Tristezza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "385"
+},
+{
+"em": "http://w3id.org/elita/Dominanza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "5"
+},
+{
+"em": "http://w3id.org/elita/Sorpresa",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "9"
+},
+{
+"em": "http://w3id.org/elita/Rabbia",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "243"
+},
+{
+"em": "http://w3id.org/elita/Fiducia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "444"
+},
+{
+"em": "http://w3id.org/elita/Tristezza",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "193"
+},
+{
+"em": "http://w3id.org/elita/Fiducia",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "24"
+},
+{
+"em": "http://w3id.org/elita/Sorpresa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "354"
+}
+]

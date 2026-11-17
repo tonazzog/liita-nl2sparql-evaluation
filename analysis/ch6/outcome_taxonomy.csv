@@ -1,0 +1,11 @@
+outcome,NL2S-Mistral,MoSAIC-Mistral,NL2S-Claude,MoSAIC-Claude,NL2S-Agent-Claude
+correct (F1=1),52,62,53,62,56
+"executed, partial (0<F1<1)",21,7,20,10,20
+"executed, wrong (F1=0)",10,10,12,9,9
+no query: API error,1,1,0,0,0
+no query: CLI timeout,0,0,0,1,1
+no query: invalid plan,0,2,0,0,0
+no query: truncated/invalid output,1,0,0,0,0
+not executed: endpoint 500,1,2,1,0,0
+not executed: endpoint timeout,0,1,0,2,0
+not executed: malformed / rejected,0,1,0,2,0

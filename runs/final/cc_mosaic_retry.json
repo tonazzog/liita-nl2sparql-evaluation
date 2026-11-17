@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "total_evaluated": 1,
+    "total_skipped": 0,
+    "avg_precision": 0.0,
+    "avg_recall": 0.0,
+    "avg_f1": 0.0,
+    "macro_f1": 0.0
+  },
+  "by_category": {},
+  "by_pattern": {},
+  "results": [
+    {
+      "test_id": 4076,
+      "f1": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "gold_count": 0,
+      "predicted_count": 0,
+      "true_positives": 0,
+      "aggregate_score": null,
+      "aggregate_details": {},
+      "variable_mapping": {},
+      "predicted_sparql": null,
+      "gold_error": null,
+      "predicted_error": "MoSAIC translation failed: Command '['<home>\\\\AppData\\\\Roaming\\\\npm\\\\claude.CMD', '-p', '--output-format', 'json', '--model', 'claude-sonnet-4-6', '--tools', '', '--max-turns', '1', '--strict-mcp-config', '--no-session-persistence', '--system-prompt-file', '<tmp>']' timed out after 300 seconds"
+    }
+  ]
+}

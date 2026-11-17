@@ -1,0 +1,9 @@
+run 1 (2026-11-15 16:57) killed by Claude Code under low system memory during mi_nl2s after 77/86 calls; no report written, no score seen. Restarted from scratch.
+2026-11-15 23:15: the "killed" chain (bash started 16:57) had NOT actually stopped: two copies of run_final_v2.sh ran in parallel
+from 18:29. Chain 1 (16:57) produced mi_nl2s (18:48, overwritten), mi_mosaic.json (22:06, complete, 86 q), cc_nl2s.json (22:57),
+and is running cc_mosaic. Chain 2 (18:29) produced mi_nl2s.json (21:12, complete, 86 q) and was running a duplicate mi_mosaic
+when stopped by hand (23:15) before writing any report. Consequences: mi_nl2s.calls.killed1.jsonl = chain 1 NL2SPARQL calls;
+mi_mosaic.calls.jsonl and mi_mosaic.plans.jsonl mix chain 1 (complete run) and chain 2 (partial duplicate); endpoint load doubled
+between 18:29 and 23:15 (reports to be rescored sequentially). No system or gold was changed after any score was seen.
+2026-11-16 09:10-09:20: retries of Mistral API 520 failures: NL2SPARQL 4083 -> 1.0 (merged: mi_nl2s_rsm.json); NL2SPARQL 4026 and
+MoSAIC 4076 failed again with 520 (4076 after a 32000-token reasoning call ending in 'length'): treated as systematic, kept as failures.

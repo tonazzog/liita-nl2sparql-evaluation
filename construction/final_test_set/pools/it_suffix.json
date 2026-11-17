@@ -1,0 +1,5652 @@
+[
+{
+"suf": "coso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "49"
+},
+{
+"suf": "ndio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "erto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "vola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "uore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "nomo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "nema",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "agna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "dire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "159"
+},
+{
+"suf": "uomo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "nuto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "rdia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "poli",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "usta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "oico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "42"
+},
+{
+"suf": "nere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "78"
+},
+{
+"suf": "orto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "52"
+},
+{
+"suf": "laia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "38"
+},
+{
+"suf": "lgia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "46"
+},
+{
+"suf": "fori",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "filo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "74"
+},
+{
+"suf": "onia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "144"
+},
+{
+"suf": "aceo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "61"
+},
+{
+"suf": "ioma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "hico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "29"
+},
+{
+"suf": "otto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "244"
+},
+{
+"suf": "unto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "ineo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "acco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "44"
+},
+{
+"suf": "ense",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "66"
+},
+{
+"suf": "uere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "11"
+},
+{
+"suf": "solo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "ione",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "53"
+},
+{
+"suf": "lita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "44"
+},
+{
+"suf": "tano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "85"
+},
+{
+"suf": "ezzo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "bina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "42"
+},
+{
+"suf": "ming",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "atra",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "ttro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "gale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "mare",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "tese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "uare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "59"
+},
+{
+"suf": "fete",
+"pos": "http://lila-erc.eu/ontologies/lila/interjection",
+"n": "14"
+},
+{
+"suf": "empo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "fano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "olto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "orme",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "130"
+},
+{
+"suf": "mico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "45"
+},
+{
+"suf": "almo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "ring",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "rcio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "idia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "mire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "17"
+},
+{
+"suf": "gine",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "252"
+},
+{
+"suf": "eale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "32"
+},
+{
+"suf": "orno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "pula",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "euta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "vità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "175"
+},
+{
+"suf": "fare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "122"
+},
+{
+"suf": "nolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "63"
+},
+{
+"suf": "tipo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "lone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "239"
+},
+{
+"suf": "nola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "zato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "42"
+},
+{
+"suf": "dume",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "cità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "256"
+},
+{
+"suf": "tito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "18"
+},
+{
+"suf": "tese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "iaio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "65"
+},
+{
+"suf": "scia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "simo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "152"
+},
+{
+"suf": "caia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "asmo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "ozoi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "falo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "51"
+},
+{
+"suf": "ozzo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "mano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "sato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "scio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "endo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "ideo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "mane",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "eola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "cume",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "vina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "lora",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "fina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "site",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "36"
+},
+{
+"suf": "hese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "rena",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "dura",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "toio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "244"
+},
+{
+"suf": "icio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "103"
+},
+{
+"suf": "fisi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "ando",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "38"
+},
+{
+"suf": "tage",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "nuta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "name",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "rano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "pare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "206"
+},
+{
+"suf": "poso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "18"
+},
+{
+"suf": "ssia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "65"
+},
+{
+"suf": "vone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "iato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "177"
+},
+{
+"suf": "sene",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "22"
+},
+{
+"suf": "elia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "arto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "zata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "75"
+},
+{
+"suf": "ando",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "19"
+},
+{
+"suf": "rile",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "iedi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "rano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "34"
+},
+{
+"suf": "tito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "dito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "iola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "143"
+},
+{
+"suf": "stro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "100"
+},
+{
+"suf": "peto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "geno",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "91"
+},
+{
+"suf": "uolo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "29"
+},
+{
+"suf": "mano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "31"
+},
+{
+"suf": "enio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "illa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "58"
+},
+{
+"suf": "cula",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "nnio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "ania",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "89"
+},
+{
+"suf": "uria",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "47"
+},
+{
+"suf": "rafa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "36"
+},
+{
+"suf": "rale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "71"
+},
+{
+"suf": "cidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "tema",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "egno",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "14"
+},
+{
+"suf": "tion",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "sche",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "iera",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "anto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "cito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "55"
+},
+{
+"suf": "icco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "gone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "azio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "came",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "iore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "pino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "46"
+},
+{
+"suf": "fugo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "gata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "45"
+},
+{
+"suf": "ting",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "taio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "19"
+},
+{
+"suf": "lasi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "hite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "hino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "21"
+},
+{
+"suf": "ondo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "36"
+},
+{
+"suf": "adio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "cido",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "assa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "itto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "labo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "18"
+},
+{
+"suf": "lese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "28"
+},
+{
+"suf": "pper",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "esso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "35"
+},
+{
+"suf": "ieno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "rato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "135"
+},
+{
+"suf": "aneo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "42"
+},
+{
+"suf": "isto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "ride",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "75"
+},
+{
+"suf": "idei",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "mila",
+"pos": "http://lila-erc.eu/ontologies/lila/numeral",
+"n": "28"
+},
+{
+"suf": "pire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "31"
+},
+{
+"suf": "tide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "65"
+},
+{
+"suf": "azza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "osio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "fono",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "53"
+},
+{
+"suf": "bato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "nato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "177"
+},
+{
+"suf": "dità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "70"
+},
+{
+"suf": "sina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "103"
+},
+{
+"suf": "pito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "icee",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "rino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "106"
+},
+{
+"suf": "cida",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "44"
+},
+{
+"suf": "fera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "51"
+},
+{
+"suf": "ping",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "nara",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "ilia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "77"
+},
+{
+"suf": "noso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "137"
+},
+{
+"suf": "cero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "anto",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "10"
+},
+{
+"suf": "icio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "roso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "143"
+},
+{
+"suf": "nidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "83"
+},
+{
+"suf": "ondo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "42"
+},
+{
+"suf": "race",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "mina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "80"
+},
+{
+"suf": "apia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "111"
+},
+{
+"suf": "laro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "34"
+},
+{
+"suf": "lone",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "12"
+},
+{
+"suf": "sare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "325"
+},
+{
+"suf": "tano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "81"
+},
+{
+"suf": "tone",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "sone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "iero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "92"
+},
+{
+"suf": "gogo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "pede",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "izie",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "lina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "230"
+},
+{
+"suf": "naio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "90"
+},
+{
+"suf": "cchi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "anea",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "foro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "59"
+},
+{
+"suf": "uplo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "rile",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "21"
+},
+{
+"suf": "aire",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "gare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "235"
+},
+{
+"suf": "asta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "arci",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "17"
+},
+{
+"suf": "essa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "98"
+},
+{
+"suf": "daio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "lice",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "cida",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "41"
+},
+{
+"suf": "igia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "sivo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "149"
+},
+{
+"suf": "naro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "40"
+},
+{
+"suf": "utto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "zoso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "27"
+},
+{
+"suf": "uoco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "ggio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "491"
+},
+{
+"suf": "anio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "ndra",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "eidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "olle",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "sato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "27"
+},
+{
+"suf": "nteo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "esto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "46"
+},
+{
+"suf": "acia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "aceo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "rgia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "sano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "21"
+},
+{
+"suf": "ello",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "41"
+},
+{
+"suf": "itta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "tale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "69"
+},
+{
+"suf": "glio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "gire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "22"
+},
+{
+"suf": "ante",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "222"
+},
+{
+"suf": "bbio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "rina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "182"
+},
+{
+"suf": "mico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "237"
+},
+{
+"suf": "tice",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "lare",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "287"
+},
+{
+"suf": "anca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "sura",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "38"
+},
+{
+"suf": "mana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ball",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "cido",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "teca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "egno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "38"
+},
+{
+"suf": "elli",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "rcia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "voro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "rter",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "orsa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "esse",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "asto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "61"
+},
+{
+"suf": "ccia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "169"
+},
+{
+"suf": "gono",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "igno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "reno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "nita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "loso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "108"
+},
+{
+"suf": "none",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "57"
+},
+{
+"suf": "ogna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "resi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "gico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "313"
+},
+{
+"suf": "iano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "368"
+},
+{
+"suf": "midi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "osia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "lito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "trio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "ente",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "374"
+},
+{
+"suf": "usso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "quio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "rpio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "onda",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "dino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "64"
+},
+{
+"suf": "sido",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "alia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "64"
+},
+{
+"suf": "igna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "ngio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "zaio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "uvio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "lena",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "iere",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "62"
+},
+{
+"suf": "nica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "146"
+},
+{
+"suf": "noso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "atra",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "dine",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "110"
+},
+{
+"suf": "ment",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "scio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "edia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "cato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "121"
+},
+{
+"suf": "onio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "imia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "cola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "94"
+},
+{
+"suf": "pane",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "mato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "46"
+},
+{
+"suf": "rbio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "arco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "orso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "tata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "161"
+},
+{
+"suf": "tidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "59"
+},
+{
+"suf": "lata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "181"
+},
+{
+"suf": "pide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "nimo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "nità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "103"
+},
+{
+"suf": "iaro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "orte",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "tter",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "pore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "dana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "arla",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "22"
+},
+{
+"suf": "alto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "iade",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "paro",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "uzza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "odia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "pera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "ogia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "488"
+},
+{
+"suf": "appa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "coro",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "iare",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "erna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "fico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "246"
+},
+{
+"suf": "rasi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "obia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "74"
+},
+{
+"suf": "auta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "rdio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "cico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "tile",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "ullo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "cino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "140"
+},
+{
+"suf": "sità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "299"
+},
+{
+"suf": "eità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "mbio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "dino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "idio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "78"
+},
+{
+"suf": "iuto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "32"
+},
+{
+"suf": "lano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "58"
+},
+{
+"suf": "mino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "auro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "urgo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "eato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "25"
+},
+{
+"suf": "lana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "vata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "esso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "62"
+},
+{
+"suf": "inta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "rosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "61"
+},
+{
+"suf": "tere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "116"
+},
+{
+"suf": "edro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "illo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "tato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "157"
+},
+{
+"suf": "anno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "cché",
+"pos": "http://lila-erc.eu/ontologies/lila/subordinating_conjunction",
+"n": "10"
+},
+{
+"suf": "naia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "42"
+},
+{
+"suf": "paio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "arda",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "mele",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "falo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "23"
+},
+{
+"suf": "stre",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "25"
+},
+{
+"suf": "aria",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "258"
+},
+{
+"suf": "ario",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "432"
+},
+{
+"suf": "toso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "garo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "tero",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "24"
+},
+{
+"suf": "loga",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "121"
+},
+{
+"suf": "egna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "ugio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "cosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "uito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "ttio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "nero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "dolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "podi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "mità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "erma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "42"
+},
+{
+"suf": "nera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "vato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "orio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "128"
+},
+{
+"suf": "nchi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "chio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "25"
+},
+{
+"suf": "onte",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "bile",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "110"
+},
+{
+"suf": "tona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "meno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "chia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "120"
+},
+{
+"suf": "omio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "leto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "tasi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "oidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "tina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "251"
+},
+{
+"suf": "gale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "18"
+},
+{
+"suf": "glie",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "amma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "146"
+},
+{
+"suf": "lica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "tino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "134"
+},
+{
+"suf": "rago",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "viro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "tato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "119"
+},
+{
+"suf": "sano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "tela",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "voro",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "21"
+},
+{
+"suf": "dria",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "isti",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "sino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "67"
+},
+{
+"suf": "nite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "128"
+},
+{
+"suf": "tita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "rodo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "rafo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "178"
+},
+{
+"suf": "side",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "lidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "61"
+},
+{
+"suf": "ceto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "ecco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "neta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "raco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "gite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "cele",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "tula",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "fito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "ietà",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "66"
+},
+{
+"suf": "odio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "nove",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "iota",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "uola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "61"
+},
+{
+"suf": "olto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "ance",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "issa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "nimo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "sole",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "ereo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "sita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "simo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "116"
+},
+{
+"suf": "hete",
+"pos": "http://lila-erc.eu/ontologies/lila/interjection",
+"n": "11"
+},
+{
+"suf": "nzia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "93"
+},
+{
+"suf": "vere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "61"
+},
+{
+"suf": "zino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "raia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "rado",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "rume",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "ling",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "ulto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "gina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "bire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "29"
+},
+{
+"suf": "orme",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "74"
+},
+{
+"suf": "nice",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "fora",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "golo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "alco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "arra",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "uale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "108"
+},
+{
+"suf": "mita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "cina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "108"
+},
+{
+"suf": "ambo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "hino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "130"
+},
+{
+"suf": "para",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "ngue",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "fona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "line",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "polo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "fero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "nolo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "21"
+},
+{
+"suf": "chio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "237"
+},
+{
+"suf": "ollo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "42"
+},
+{
+"suf": "rimo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "izza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "itro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "asio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "turo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "tere",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "laio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "89"
+},
+{
+"suf": "zato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "rale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "236"
+},
+{
+"suf": "ster",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "eare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "36"
+},
+{
+"suf": "gera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "asca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "tare",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "emia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "94"
+},
+{
+"suf": "loni",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "21"
+},
+{
+"suf": "amia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "38"
+},
+{
+"suf": "erio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "77"
+},
+{
+"suf": "mide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "itto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "53"
+},
+{
+"suf": "rite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "116"
+},
+{
+"suf": "moso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "26"
+},
+{
+"suf": "logo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "234"
+},
+{
+"suf": "cone",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "taro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "dese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "21"
+},
+{
+"suf": "iner",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "pino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "19"
+},
+{
+"suf": "ruto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "mera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "boso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "uato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "18"
+},
+{
+"suf": "dico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "126"
+},
+{
+"suf": "lita",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "occo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "70"
+},
+{
+"suf": "sica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "teri",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "asco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "lore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "iolo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "67"
+},
+{
+"suf": "teco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "tara",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "king",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "rato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "228"
+},
+{
+"suf": "otto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "54"
+},
+{
+"suf": "iste",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "bolo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "ceti",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "toro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "inio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "52"
+},
+{
+"suf": "rada",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "cera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "isco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "mine",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "utto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "nata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "276"
+},
+{
+"suf": "cata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "123"
+},
+{
+"suf": "fila",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "pico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "124"
+},
+{
+"suf": "mosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "iesi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ntia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "raio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "56"
+},
+{
+"suf": "ardo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "32"
+},
+{
+"suf": "turo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "icea",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "isto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "dano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "bare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "100"
+},
+{
+"suf": "urio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "zone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "65"
+},
+{
+"suf": "afia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "299"
+},
+{
+"suf": "iolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "234"
+},
+{
+"suf": "iame",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "adro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "foro",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "usto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "ioso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "253"
+},
+{
+"suf": "lico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "189"
+},
+{
+"suf": "mite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "tolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "59"
+},
+{
+"suf": "sing",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "cide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "erso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "allo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "62"
+},
+{
+"suf": "rone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "177"
+},
+{
+"suf": "mere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "32"
+},
+{
+"suf": "illo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "75"
+},
+{
+"suf": "este",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "stio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ente",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "397"
+},
+{
+"suf": "pite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "lore",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "sivo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "tora",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "mare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "276"
+},
+{
+"suf": "ding",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "sale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "30"
+},
+{
+"suf": "opia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "119"
+},
+{
+"suf": "zana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ente",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "17"
+},
+{
+"suf": "sito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "ccio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "121"
+},
+{
+"suf": "rica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "45"
+},
+{
+"suf": "ibro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "oria",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "126"
+},
+{
+"suf": "ropo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "uzzo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "assi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "40"
+},
+{
+"suf": "iume",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "otta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "71"
+},
+{
+"suf": "bbia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "loma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "omba",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "izio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "66"
+},
+{
+"suf": "dide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "fita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "gene",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "bino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "tron",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "erno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "uità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "azia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "52"
+},
+{
+"suf": "pola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "cano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "50"
+},
+{
+"suf": "osta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "irus",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "vire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "17"
+},
+{
+"suf": "cena",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "tria",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "210"
+},
+{
+"suf": "otte",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "pato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "ning",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "pidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "iato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "129"
+},
+{
+"suf": "dina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "80"
+},
+{
+"suf": "rice",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "mero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "gero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "core",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "ncio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "tono",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "filo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "62"
+},
+{
+"suf": "ordo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "asco",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "hina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "56"
+},
+{
+"suf": "fito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "pede",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "oché",
+"pos": "http://lila-erc.eu/ontologies/lila/subordinating_conjunction",
+"n": "13"
+},
+{
+"suf": "rene",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "iare",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "29"
+},
+{
+"suf": "inia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "38"
+},
+{
+"suf": "zola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "rico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "464"
+},
+{
+"suf": "agno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "iana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "140"
+},
+{
+"suf": "tilo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "usso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "tico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "376"
+},
+{
+"suf": "cino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "28"
+},
+{
+"suf": "into",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "oide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "156"
+},
+{
+"suf": "egio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "lice",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "erie",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "sola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "lato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "160"
+},
+{
+"suf": "sile",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "19"
+},
+{
+"suf": "pode",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "essi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "ieri",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "lene",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "iaco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "vite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "ogio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "duto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "rana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "eano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "taia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "vole",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "332"
+},
+{
+"suf": "fago",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "33"
+},
+{
+"suf": "fili",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "bero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "ardo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "67"
+},
+{
+"suf": "luto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "30"
+},
+{
+"suf": "sidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "hese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "26"
+},
+{
+"suf": "osto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "rate",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "data",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "52"
+},
+{
+"suf": "roso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "vole",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "doso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "22"
+},
+{
+"suf": "ensa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "roma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "iese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "bola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "ersi",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "434"
+},
+{
+"suf": "uppo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "foba",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "acca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "38"
+},
+{
+"suf": "lona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "54"
+},
+{
+"suf": "bone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "erta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "gino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "uato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "bita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "aker",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "folo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "opio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "97"
+},
+{
+"suf": "etto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "100"
+},
+{
+"suf": "anda",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "cete",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "atto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "37"
+},
+{
+"suf": "rolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "53"
+},
+{
+"suf": "nire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "156"
+},
+{
+"suf": "rese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "ovia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "azzo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "57"
+},
+{
+"suf": "fono",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "dito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "26"
+},
+{
+"suf": "vare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "136"
+},
+{
+"suf": "nere",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "igno",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "46"
+},
+{
+"suf": "stre",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "fico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "ruro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "ermo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "sire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "46"
+},
+{
+"suf": "lero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "occa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "more",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "usto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "tivo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "164"
+},
+{
+"suf": "fite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "done",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "78"
+},
+{
+"suf": "tene",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "uino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "sale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "stra",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "48"
+},
+{
+"suf": "fide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "ncia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "vale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "23"
+},
+{
+"suf": "nino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "53"
+},
+{
+"suf": "anza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "374"
+},
+{
+"suf": "ursi",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "12"
+},
+{
+"suf": "nile",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "edio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "nito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "ropo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "goso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "colo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "81"
+},
+{
+"suf": "romo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "nzio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "acco",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "14"
+},
+{
+"suf": "iere",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "446"
+},
+{
+"suf": "nesi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "87"
+},
+{
+"suf": "losi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "bito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "oico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "ridi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "78"
+},
+{
+"suf": "ture",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "toma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "caro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "fica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "34"
+},
+{
+"suf": "zolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "43"
+},
+{
+"suf": "noma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "maio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "mero",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "soso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "back",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "rrea",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "izzo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "cite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "cale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "lame",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "vino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "pora",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "aneo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "lume",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "orfo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "31"
+},
+{
+"suf": "toia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "eano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "14"
+},
+{
+"suf": "acea",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "183"
+},
+{
+"suf": "rata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "147"
+},
+{
+"suf": "nese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "84"
+},
+{
+"suf": "fino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "pano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "dore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "40"
+},
+{
+"suf": "hire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "55"
+},
+{
+"suf": "asse",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "bata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "nare",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "stia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "fata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "cico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "hero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "tica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "455"
+},
+{
+"suf": "tena",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "iaio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "euse",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "tame",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "mila",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "atto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "76"
+},
+{
+"suf": "ille",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "rita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "sino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "29"
+},
+{
+"suf": "gato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "talo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "bulo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "esta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "lone",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "46"
+},
+{
+"suf": "stro",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "33"
+},
+{
+"suf": "ozza",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "sile",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "vato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "28"
+},
+{
+"suf": "gico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "fone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "cone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "116"
+},
+{
+"suf": "erra",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "sico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "91"
+},
+{
+"suf": "golo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "51"
+},
+{
+"suf": "daia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "fobo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "28"
+},
+{
+"suf": "atio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "onna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "tare",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "26"
+},
+{
+"suf": "osto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "lare",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "79"
+},
+{
+"suf": "iore",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "tera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "tola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "57"
+},
+{
+"suf": "dite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "meno",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "agio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "zene",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "olla",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "oreo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "nare",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "39"
+},
+{
+"suf": "dere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "273"
+},
+{
+"suf": "nina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "76"
+},
+{
+"suf": "glio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "209"
+},
+{
+"suf": "inga",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "doro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ioni",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "cato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "93"
+},
+{
+"suf": "mata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "gato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "35"
+},
+{
+"suf": "zina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "pero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ecca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "enda",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "anta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "dare",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "354"
+},
+{
+"suf": "capo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "tono",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "12"
+},
+{
+"suf": "tino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "291"
+},
+{
+"suf": "ncio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "43"
+},
+{
+"suf": "bato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "nide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "43"
+},
+{
+"suf": "lese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "ombo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "dale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "eato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "ipia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "gidi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "iese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "acee",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "221"
+},
+{
+"suf": "brio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "ofia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "ette",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "69"
+},
+{
+"suf": "nito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "29"
+},
+{
+"suf": "fosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "maco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "cano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "olia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "pere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "22"
+},
+{
+"suf": "isia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "rito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "33"
+},
+{
+"suf": "schi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "enne",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "48"
+},
+{
+"suf": "bolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "40"
+},
+{
+"suf": "eone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "rafo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "27"
+},
+{
+"suf": "tero",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "69"
+},
+{
+"suf": "hera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "orsi",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "22"
+},
+{
+"suf": "eide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "rese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "20"
+},
+{
+"suf": "enna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "taio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "63"
+},
+{
+"suf": "siva",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "sata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "54"
+},
+{
+"suf": "avio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "erto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "zona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "leno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "vico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "sore",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "37"
+},
+{
+"suf": "onio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "70"
+},
+{
+"suf": "raio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "rito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "opeo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "14"
+},
+{
+"suf": "enne",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "50"
+},
+{
+"suf": "orre",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "47"
+},
+{
+"suf": "pato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "22"
+},
+{
+"suf": "nino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "27"
+},
+{
+"suf": "lere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "35"
+},
+{
+"suf": "hico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "ampo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "lide",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "50"
+},
+{
+"suf": "iale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "375"
+},
+{
+"suf": "enta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "iero",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "106"
+},
+{
+"suf": "dato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "54"
+},
+{
+"suf": "onto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "gere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "207"
+},
+{
+"suf": "asma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "urro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "avia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "tade",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "68"
+},
+{
+"suf": "iona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "46"
+},
+{
+"suf": "pina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "enso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "atro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "sore",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "122"
+},
+{
+"suf": "cale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "101"
+},
+{
+"suf": "losa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "izio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "65"
+},
+{
+"suf": "sito",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "mone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "48"
+},
+{
+"suf": "mane",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "22"
+},
+{
+"suf": "fugo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "asia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "66"
+},
+{
+"suf": "ppio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "uale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "occo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "oide",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "104"
+},
+{
+"suf": "colo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "155"
+},
+{
+"suf": "aico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "nale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "357"
+},
+{
+"suf": "elio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "obio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "uplo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "reto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "lato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "180"
+},
+{
+"suf": "lino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "102"
+},
+{
+"suf": "dese",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "eico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "28"
+},
+{
+"suf": "rità",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "115"
+},
+{
+"suf": "fero",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "137"
+},
+{
+"suf": "bico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "52"
+},
+{
+"suf": "iaco",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "50"
+},
+{
+"suf": "psia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "zale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "lico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "44"
+},
+{
+"suf": "tana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "58"
+},
+{
+"suf": "agno",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "tima",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "timo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "toio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "15"
+},
+{
+"suf": "tume",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "mito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "arte",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "aico",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "33"
+},
+{
+"suf": "ideo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "53"
+},
+{
+"suf": "lage",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "romo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "ormi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "54"
+},
+{
+"suf": "esco",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "318"
+},
+{
+"suf": "uolo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "144"
+},
+{
+"suf": "ossa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "23"
+},
+{
+"suf": "geno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "45"
+},
+{
+"suf": "lisi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "51"
+},
+{
+"suf": "dato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "54"
+},
+{
+"suf": "soma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "iuro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "nico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "117"
+},
+{
+"suf": "arre",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "17"
+},
+{
+"suf": "lino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "279"
+},
+{
+"suf": "rone",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "19"
+},
+{
+"suf": "dica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "dico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "logo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "70"
+},
+{
+"suf": "inea",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "dici",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "ermo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "23"
+},
+{
+"suf": "arpo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "naro",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "alla",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "gero",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "22"
+},
+{
+"suf": "ndro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "anti",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "fago",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "29"
+},
+{
+"suf": "iosa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "nese",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "83"
+},
+{
+"suf": "ccio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "370"
+},
+{
+"suf": "ania",
+"pos": "http://lila-erc.eu/ontologies/lila/proper_noun",
+"n": "12"
+},
+{
+"suf": "tosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "74"
+},
+{
+"suf": "toso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "129"
+},
+{
+"suf": "rame",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "cheo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "tuno",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "sima",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "llio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "lmia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "egia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "lite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "124"
+},
+{
+"suf": "sela",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "39"
+},
+{
+"suf": "iata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "289"
+},
+{
+"suf": "uire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "61"
+},
+{
+"suf": "tiva",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "94"
+},
+{
+"suf": "iaia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "mica",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "83"
+},
+{
+"suf": "iere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "25"
+},
+{
+"suf": "etti",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "atia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "79"
+},
+{
+"suf": "ntro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "erso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "gamo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "pone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "tite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "68"
+},
+{
+"suf": "tine",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "osso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "65"
+},
+{
+"suf": "gino",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "18"
+},
+{
+"suf": "cire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "40"
+},
+{
+"suf": "oite",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "rmio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "eare",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "23"
+},
+{
+"suf": "enti",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "dale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "62"
+},
+{
+"suf": "ento",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "62"
+},
+{
+"suf": "orio",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "380"
+},
+{
+"suf": "labo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "ense",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "51"
+},
+{
+"suf": "aldo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "culo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "olio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "80"
+},
+{
+"suf": "ingo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "ineo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "33"
+},
+{
+"suf": "lire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "117"
+},
+{
+"suf": "arro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "nuto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "atti",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "rico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "83"
+},
+{
+"suf": "male",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "21"
+},
+{
+"suf": "rino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "217"
+},
+{
+"suf": "pido",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "13"
+},
+{
+"suf": "cere",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "rado",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "molo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "erno",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "22"
+},
+{
+"suf": "lera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "tone",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "196"
+},
+{
+"suf": "ozoo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "utta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "reta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "gola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "dita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "ioso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "36"
+},
+{
+"suf": "pale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "19"
+},
+{
+"suf": "bale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "10"
+},
+{
+"suf": "nosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "45"
+},
+{
+"suf": "tilo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "26"
+},
+{
+"suf": "arca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "bero",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "11"
+},
+{
+"suf": "iclo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "omia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "195"
+},
+{
+"suf": "alle",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "volo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "32"
+},
+{
+"suf": "rire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "184"
+},
+{
+"suf": "elle",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "20"
+},
+{
+"suf": "fobo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "esia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "65"
+},
+{
+"suf": "orta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "endo",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "bano",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "vita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "nato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "229"
+},
+{
+"suf": "asso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "61"
+},
+{
+"suf": "urre",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "22"
+},
+{
+"suf": "anco",
+"pos": "http://lila-erc.eu/ontologies/lila/adverb",
+"n": "10"
+},
+{
+"suf": "isma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "19"
+},
+{
+"suf": "aina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "loso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "anga",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "ggia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "emma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "duto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "iche",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "caio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "rola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "34"
+},
+{
+"suf": "didi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "cona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "iasi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "nate",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "olta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "tale",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "180"
+},
+{
+"suf": "cana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "erro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "zire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "39"
+},
+{
+"suf": "tile",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "48"
+},
+{
+"suf": "rmia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "iale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "126"
+},
+{
+"suf": "ando",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "67"
+},
+{
+"suf": "esco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "36"
+},
+{
+"suf": "izia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "63"
+},
+{
+"suf": "iosi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "26"
+},
+{
+"suf": "rere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "30"
+},
+{
+"suf": "tire",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "176"
+},
+{
+"suf": "atta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "28"
+},
+{
+"suf": "cuto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "uoso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "31"
+},
+{
+"suf": "mita",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "17"
+},
+{
+"suf": "tesi",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "rosa",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "iera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "373"
+},
+{
+"suf": "esto",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "23"
+},
+{
+"suf": "tate",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "64"
+},
+{
+"suf": "cita",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "47"
+},
+{
+"suf": "sana",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "vere",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "aste",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "13"
+},
+{
+"suf": "male",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "45"
+},
+{
+"suf": "lano",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "30"
+},
+{
+"suf": "dola",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "25"
+},
+{
+"suf": "nale",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "168"
+},
+{
+"suf": "igio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "inge",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "15"
+},
+{
+"suf": "ngua",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "eina",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "30"
+},
+{
+"suf": "neto",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "24"
+},
+{
+"suf": "onte",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "16"
+},
+{
+"suf": "dera",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "10"
+},
+{
+"suf": "esca",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "37"
+},
+{
+"suf": "tomo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "31"
+},
+{
+"suf": "mato",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "41"
+},
+{
+"suf": "cere",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "103"
+},
+{
+"suf": "unta",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "12"
+},
+{
+"suf": "lito",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "39"
+},
+{
+"suf": "pata",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "44"
+},
+{
+"suf": "ilio",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "anco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "anzo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "isso",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "16"
+},
+{
+"suf": "glia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "227"
+},
+{
+"suf": "agia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "54"
+},
+{
+"suf": "etro",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "351"
+},
+{
+"suf": "rona",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "27"
+},
+{
+"suf": "sico",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "33"
+},
+{
+"suf": "coma",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "14"
+},
+{
+"suf": "anna",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "ucco",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "17"
+},
+{
+"suf": "ammo",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "11"
+},
+{
+"suf": "fato",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "22"
+},
+{
+"suf": "usia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "18"
+},
+{
+"suf": "osso",
+"pos": "http://lila-erc.eu/ontologies/lila/adjective",
+"n": "19"
+},
+{
+"suf": "mino",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "41"
+},
+{
+"suf": "enia",
+"pos": "http://lila-erc.eu/ontologies/lila/noun",
+"n": "46"
+}
+]

@@ -1,0 +1,16 @@
+group,name,n,NL2S-Mistral,MoSAIC-Mistral,NL2S-Claude,MoSAIC-Claude,NL2S-Agent-Claude
+S,simple,20,0.768,0.989,0.808,0.989,0.873
+C1,conjunction,8,0.806,0.931,0.806,0.951,0.806
+C2,disjunction,3,0.666,0.999,0.888,0.999,0.888
+C3,chain,5,0.990,0.800,0.770,0.733,0.970
+C4,intersection,6,0.902,0.976,0.902,0.976,0.902
+C5,self-join,5,0.700,0.971,0.871,0.871,0.869
+C6,negation,7,0.711,0.702,0.851,0.714,0.790
+C7,union,4,0.731,1.000,0.689,0.958,0.939
+C8,group-by/ranking,6,0.759,0.500,0.667,0.500,0.583
+C9,HAVING,4,0.417,0.750,0.667,0.750,0.667
+C10,comparison w/ reference,3,1.000,0.667,0.667,1.000,0.667
+C11,comparison between variables,5,0.861,0.600,0.861,0.600,0.943
+C12,nested aggregation,3,0.667,0.333,1.000,0.333,1.000
+C13,multi-statistic,4,0.964,0.000,0.464,0.481,0.304
+M,metadata,3,0.667,0.667,0.667,0.667,0.833

@@ -1,0 +1,2238 @@
+{
+ "seed": 20261110,
+ "cells": [
+  {
+   "id": "S01",
+   "group": "S",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [
+    "B11"
+   ],
+   "idea": "varianti di lemma registrate per X",
+   "pool": "it_variant",
+   "candidates": 9639,
+   "seeds": [
+    {
+     "wr": "distribuire",
+     "n": "1"
+    },
+    {
+     "wr": "ammortare",
+     "n": "1"
+    },
+    {
+     "wr": "asservirsi",
+     "n": "1"
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "group": "S",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [
+    "B11"
+   ],
+   "idea": "ipolemmi (participi, avverbi) collegati al lemma X",
+   "pool": "it_hypolemma",
+   "candidates": 2707,
+   "seeds": [
+    {
+     "wr": "manifestare",
+     "n": "2"
+    },
+    {
+     "wr": "rampare",
+     "n": "2"
+    },
+    {
+     "wr": "inneggiare",
+     "n": "2"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "group": "S",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [
+    "B2",
+    "B3"
+   ],
+   "idea": "lemmi con POS P che terminano in -X",
+   "pool": "it_suffix",
+   "candidates": 427,
+   "seeds": [
+    {
+     "suf": "oria",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "126"
+    },
+    {
+     "suf": "foro",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "59"
+    },
+    {
+     "suf": "iato",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "129"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "group": "S",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [
+    "B2",
+    "B3",
+    "B10"
+   ],
+   "idea": "quanti lemmi con POS P iniziano con X-",
+   "pool": "it_prefix",
+   "candidates": 615,
+   "seeds": [
+    {
+     "pre": "antr",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "37"
+    },
+    {
+     "pre": "tetr",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "56"
+    },
+    {
+     "pre": "rimp",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "97"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "group": "S",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [
+    "B3",
+    "B10"
+   ],
+   "idea": "quanti lemmi con POS P hanno tipo di flessione F (studente)",
+   "pool": "it_inflection",
+   "candidates": 10,
+   "seeds": [
+    {
+     "infl": "http://liita.it/ontologies/liita/c3i",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "92"
+    },
+    {
+     "infl": "http://liita.it/ontologies/liita/c2p",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "24"
+    },
+    {
+     "infl": "http://liita.it/ontologies/liita/c1p",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "73"
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "iponimi di X",
+   "pool": "cl_hyponyms",
+   "candidates": 400,
+   "seeds": [
+    {
+     "wr": "fiume",
+     "n": "7"
+    },
+    {
+     "wr": "rilievo",
+     "n": "9"
+    },
+    {
+     "wr": "pietanza",
+     "n": "23"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "parti (meronimi) di X",
+   "pool": "cl_meronyms",
+   "candidates": 288,
+   "seeds": [
+    {
+     "wr": "paglia",
+     "n": "3"
+    },
+    {
+     "wr": "falcone",
+     "n": "3"
+    },
+    {
+     "wr": "mobile",
+     "n": "7"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "antonimi di X",
+   "pool": "cl_antonyms",
+   "candidates": 326,
+   "seeds": [
+    {
+     "wr": "popolato",
+     "n": "2"
+    },
+    {
+     "wr": "cattivo",
+     "n": "2"
+    },
+    {
+     "wr": "vuoto",
+     "n": "3"
+    }
+   ]
+  },
+  {
+   "id": "S09",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B5"
+   ],
+   "idea": "parole la cui definizione inizia con X",
+   "pool": "cl_def_words",
+   "candidates": 638,
+   "seeds": [
+    {
+     "tok": "trattare",
+     "n": "13"
+    },
+    {
+     "tok": "giovane",
+     "n": "48"
+    },
+    {
+     "tok": "evento",
+     "n": "12"
+    }
+   ]
+  },
+  {
+   "id": "S10",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B6",
+    "B10"
+   ],
+   "idea": "quanti sensi ha X (studente)",
+   "pool": "cl_senses",
+   "candidates": 900,
+   "seeds": [
+    {
+     "wr": "penetrare",
+     "n": "4"
+    },
+    {
+     "wr": "esasperare",
+     "n": "4"
+    },
+    {
+     "wr": "africano",
+     "n": "4"
+    }
+   ]
+  },
+  {
+   "id": "S11",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B12"
+   ],
+   "idea": "parole del tipo semantico T",
+   "pool": "cl_semtype",
+   "candidates": 106,
+   "seeds": [
+    {
+     "type": "http://simpleOntology#514-Opening",
+     "n": "104"
+    },
+    {
+     "type": "http://simpleOntology#5734-Vegetable",
+     "n": "68"
+    },
+    {
+     "type": "http://simpleOntology#52-Material",
+     "n": "27"
+    }
+   ]
+  },
+  {
+   "id": "S12",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B12"
+   ],
+   "idea": "sensi con il tratto T",
+   "pool": "cl_traits",
+   "candidates": 361,
+   "seeds": [
+    {
+     "t": "T387#LIVESTOCK_FARMING",
+     "n": "16"
+    },
+    {
+     "t": "M1149#Space@Neutral",
+     "n": "10"
+    },
+    {
+     "t": "T522#ISLAM",
+     "n": "14"
+    }
+   ]
+  },
+  {
+   "id": "S13",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B13"
+   ],
+   "idea": "a che cosa serve X (relazione usedFor)",
+   "pool": "cl_usedfor",
+   "candidates": 348,
+   "seeds": [
+    {
+     "wr": "falò",
+     "n": "2"
+    },
+    {
+     "wr": "corazzata",
+     "n": "2"
+    },
+    {
+     "wr": "madia",
+     "n": "2"
+    }
+   ]
+  },
+  {
+   "id": "S14",
+   "group": "S",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B13"
+   ],
+   "idea": "nomi deaggettivali / aggettivi denominali collegati a X",
+   "pool": "cl_deadj",
+   "candidates": 823,
+   "seeds": [
+    {
+     "wr": "dinamismo",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    },
+    {
+     "wr": "indigeno",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    },
+    {
+     "wr": "apolide",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    }
+   ]
+  },
+  {
+   "id": "S15",
+   "group": "S",
+   "resources": [
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B7"
+   ],
+   "idea": "traduzioni siciliane di X (studente)",
+   "pool": "sic_transl",
+   "candidates": 1978,
+   "seeds": [
+    {
+     "wr": "trovarsi",
+     "n": "2"
+    },
+    {
+     "wr": "scaltro",
+     "n": "4"
+    },
+    {
+     "wr": "incalzare",
+     "n": "4"
+    }
+   ]
+  },
+  {
+   "id": "S16",
+   "group": "S",
+   "resources": [
+    "Sicil.",
+    "LiITA"
+   ],
+   "ops": [
+    "B7"
+   ],
+   "idea": "quali parole italiane traduce la parola siciliana X",
+   "pool": "sic_shared",
+   "candidates": 629,
+   "seeds": [
+    {
+     "dwr": "nsiccumari",
+     "n": "3"
+    },
+    {
+     "dwr": "ncucciari",
+     "n": "3"
+    },
+    {
+     "dwr": "arripizzari",
+     "n": "3"
+    }
+   ]
+  },
+  {
+   "id": "S17",
+   "group": "S",
+   "resources": [
+    "Sicil."
+   ],
+   "ops": [
+    "B2"
+   ],
+   "idea": "lemmi siciliani che terminano in -X",
+   "pool": "sic_suffix",
+   "candidates": 83,
+   "seeds": [
+    {
+     "suf": "nza",
+     "n": "43"
+    },
+    {
+     "suf": "nia",
+     "n": "30"
+    },
+    {
+     "suf": "rru",
+     "n": "35"
+    }
+   ]
+  },
+  {
+   "id": "S18",
+   "group": "S",
+   "resources": [
+    "Parm."
+   ],
+   "ops": [
+    "B2",
+    "B10"
+   ],
+   "idea": "quanti lemmi parmigiani terminano in -X",
+   "pool": "par_suffix",
+   "candidates": 59,
+   "seeds": [
+    {
+     "suf": "ros",
+     "n": "88"
+    },
+    {
+     "suf": "ôla",
+     "n": "34"
+    },
+    {
+     "suf": "éla",
+     "n": "74"
+    }
+   ]
+  },
+  {
+   "id": "S19",
+   "group": "S",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B8"
+   ],
+   "idea": "emozioni associate a X",
+   "pool": "emotion_lemmas",
+   "candidates": 2374,
+   "seeds": [
+    {
+     "wr": "scrittura",
+     "n": "4"
+    },
+    {
+     "wr": "direttamente",
+     "n": "2"
+    },
+    {
+     "wr": "denigrazione",
+     "n": "2"
+    }
+   ]
+  },
+  {
+   "id": "S20",
+   "group": "S",
+   "resources": [
+    "LiITA",
+    "Sentix"
+   ],
+   "ops": [
+    "B9"
+   ],
+   "idea": "valore di polarità massimo e minimo di X",
+   "pool": "polarity_lemmas",
+   "candidates": 45,
+   "seeds": [
+    {
+     "wr": "coltura",
+     "n": "2",
+     "min": "-0.125",
+     "max": "0.21430000662803649902"
+    },
+    {
+     "wr": "medusa",
+     "n": "2",
+     "min": "0.0",
+     "max": "0.125"
+    },
+    {
+     "wr": "fracco",
+     "n": "2",
+     "min": "-0.25",
+     "max": "0.0"
+    }
+   ],
+   "note": "resampled 2026-11-13 (decision A): pool polarity_lemmas restricted to Sentix (marl:hasPolarity); the previous seeds (senzatetto, snervante, disdicevole) had one Sentix value each (the second was ELIta). Other cells keep their seeds (C10-01 'protozoo' still has exactly one Sentix value)."
+  },
+  {
+   "id": "C1-01",
+   "group": "C1",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B4",
+    "B7"
+   ],
+   "idea": "iponimi di X con la loro traduzione siciliana",
+   "pool": "cl_hyponyms",
+   "candidates": 220,
+   "seeds": [
+    {
+     "wr": "formaggio",
+     "n": "26"
+    },
+    {
+     "wr": "uccidere",
+     "n": "14"
+    },
+    {
+     "wr": "accessorio",
+     "n": "44"
+    }
+   ]
+  },
+  {
+   "id": "C1-02",
+   "group": "C1",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "Parm."
+   ],
+   "ops": [
+    "B5",
+    "B7"
+   ],
+   "idea": "parole la cui definizione inizia con X, con traduzione parmigiana",
+   "pool": "cl_def_words",
+   "candidates": 294,
+   "seeds": [
+    {
+     "tok": "usare",
+     "n": "42"
+    },
+    {
+     "tok": "fatto",
+     "n": "29"
+    },
+    {
+     "tok": "complesso",
+     "n": "119"
+    }
+   ]
+  },
+  {
+   "id": "C1-03",
+   "group": "C1",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Parm."
+   ],
+   "ops": [
+    "B3",
+    "B8",
+    "B7"
+   ],
+   "idea": "parole con POS P ed emozione E, con traduzione parmigiana",
+   "pool": "emotion_pos",
+   "candidates": 25,
+   "seeds": [
+    {
+     "em": "http://w3id.org/elita/Fiducia",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "444"
+    },
+    {
+     "em": "http://w3id.org/elita/Gioia",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "633"
+    },
+    {
+     "em": "http://w3id.org/elita/Disgusto",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "96"
+    }
+   ]
+  },
+  {
+   "id": "C1-04",
+   "group": "C1",
+   "resources": [
+    "LiITA",
+    "Sentix",
+    "Sicil."
+   ],
+   "ops": [
+    "B3",
+    "B9",
+    "B7"
+   ],
+   "idea": "parole con POS P e polarità massima oltre la soglia t, con traduzione siciliana",
+   "pool": null,
+   "params": {
+    "pos": "adjective",
+    "threshold": 0.5
+   }
+  },
+  {
+   "id": "C1-05",
+   "group": "C1",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "parole con emozione E e classe di polarità Positive/Negative",
+   "pool": "emotion_pos",
+   "candidates": 40,
+   "seeds": [
+    {
+     "em": "http://w3id.org/elita/Fiducia",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "444"
+    },
+    {
+     "em": "http://w3id.org/elita/Aspettativa",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "749"
+    },
+    {
+     "em": "http://w3id.org/elita/Sorpresa",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "100"
+    }
+   ],
+   "params": {
+    "label": "Positive"
+   }
+  },
+  {
+   "id": "C1-06",
+   "group": "C1",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B12",
+    "B8"
+   ],
+   "idea": "parole del tipo semantico T associate a un'emozione, con l'emozione",
+   "pool": "cl_semtype",
+   "candidates": 94,
+   "seeds": [
+    {
+     "type": "http://simpleOntology#57221-Ideo",
+     "n": "734"
+    },
+    {
+     "type": "http://simpleOntology#A26-RelationalProperty",
+     "n": "114"
+    },
+    {
+     "type": "http://simpleOntology#952-Experience_Event",
+     "n": "529"
+    }
+   ]
+  },
+  {
+   "id": "C1-07",
+   "group": "C1",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B4",
+    "B8"
+   ],
+   "idea": "parti di X associate a un'emozione",
+   "pool": "cl_meronyms",
+   "candidates": 56,
+   "seeds": [
+    {
+     "wr": "zodiaco",
+     "n": "13"
+    },
+    {
+     "wr": "vetro",
+     "n": "11"
+    },
+    {
+     "wr": "argilla",
+     "n": "10"
+    }
+   ]
+  },
+  {
+   "id": "C1-08",
+   "group": "C1",
+   "resources": [
+    "LiITA",
+    "Sentix",
+    "Parm."
+   ],
+   "ops": [
+    "B2",
+    "B9",
+    "B7"
+   ],
+   "idea": "lemmi in -X con polarità e traduzione parmigiana (4 colonne)",
+   "pool": "it_suffix",
+   "candidates": 144,
+   "seeds": [
+    {
+     "suf": "bile",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "110"
+    },
+    {
+     "suf": "noso",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "137"
+    },
+    {
+     "suf": "iana",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "140"
+    }
+   ]
+  },
+  {
+   "id": "C2-01",
+   "group": "C2",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B3",
+    "B8"
+   ],
+   "idea": "aggettivi associati a E1 o E2",
+   "pool": "emotion_pairs",
+   "candidates": 26,
+   "seeds": [
+    {
+     "a": "http://w3id.org/elita/Amore",
+     "b": "http://w3id.org/elita/Disgusto",
+     "n": "8"
+    },
+    {
+     "a": "http://w3id.org/elita/Amore",
+     "b": "http://w3id.org/elita/Rabbia",
+     "n": "32"
+    },
+    {
+     "a": "http://w3id.org/elita/Aspettativa",
+     "b": "http://w3id.org/elita/Paura",
+     "n": "155"
+    }
+   ]
+  },
+  {
+   "id": "C2-02",
+   "group": "C2",
+   "resources": [
+    "LiITA",
+    "Sentix"
+   ],
+   "ops": [
+    "B2",
+    "B3",
+    "B9"
+   ],
+   "idea": "nomi o aggettivi che terminano in -X con polarità negativa",
+   "pool": "it_suffix",
+   "candidates": 634,
+   "seeds": [
+    {
+     "suf": "iuto",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "32"
+    },
+    {
+     "suf": "toio",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "244"
+    },
+    {
+     "suf": "onia",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "144"
+    }
+   ]
+  },
+  {
+   "id": "C2-03",
+   "group": "C2",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "iponimi o meronimi di X",
+   "pool": "cl_meronyms",
+   "candidates": 288,
+   "seeds": [
+    {
+     "wr": "capinera",
+     "n": "3"
+    },
+    {
+     "wr": "badia",
+     "n": "3"
+    },
+    {
+     "wr": "uovo",
+     "n": "9"
+    }
+   ]
+  },
+  {
+   "id": "C3-01",
+   "group": "C3",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "iponimi degli iponimi di X",
+   "pool": "cl_hyponyms2",
+   "candidates": 157,
+   "seeds": [
+    {
+     "wr": "cibo",
+     "n": "130"
+    },
+    {
+     "wr": "area",
+     "n": "24"
+    },
+    {
+     "wr": "azione",
+     "n": "9"
+    }
+   ]
+  },
+  {
+   "id": "C3-02",
+   "group": "C3",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "iperonimi degli iperonimi di X",
+   "pool": "cl_hypernyms2",
+   "candidates": 3551,
+   "seeds": [
+    {
+     "wr": "menu",
+     "n": "2"
+    },
+    {
+     "wr": "congedo",
+     "n": "2"
+    },
+    {
+     "wr": "calcare",
+     "n": "3"
+    }
+   ]
+  },
+  {
+   "id": "C3-03",
+   "group": "C3",
+   "resources": [
+    "Sicil.",
+    "LiITA",
+    "CompL-it"
+   ],
+   "ops": [
+    "B7",
+    "B4"
+   ],
+   "idea": "iperonimi CompL-it delle parole italiane tradotte dalla parola siciliana X",
+   "pool": "sic_shared",
+   "candidates": 2299,
+   "seeds": [
+    {
+     "dwr": "abbattimentu",
+     "n": "2"
+    },
+    {
+     "dwr": "nsalaniri",
+     "n": "3"
+    },
+    {
+     "dwr": "fimmininu",
+     "n": "2"
+    }
+   ]
+  },
+  {
+   "id": "C3-04",
+   "group": "C3",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "Parm."
+   ],
+   "ops": [
+    "B4",
+    "B7"
+   ],
+   "idea": "traduzioni parmigiane dei sinonimi approssimati di X",
+   "pool": "cl_synonyms",
+   "candidates": 641,
+   "seeds": [
+    {
+     "wr": "conclusivo",
+     "n": "3"
+    },
+    {
+     "wr": "origine",
+     "n": "7"
+    },
+    {
+     "wr": "corrispondente",
+     "n": "3"
+    }
+   ]
+  },
+  {
+   "id": "C3-05",
+   "group": "C3",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B13",
+    "B4"
+   ],
+   "idea": "iperonimi del nome deaggettivale di X",
+   "pool": "cl_deadj",
+   "candidates": 498,
+   "seeds": [
+    {
+     "wr": "pervicacia",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    },
+    {
+     "wr": "virulenza",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    },
+    {
+     "wr": "ingenuo",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    }
+   ]
+  },
+  {
+   "id": "C4-01",
+   "group": "C4",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B8"
+   ],
+   "idea": "parole associate sia a E1 sia a E2",
+   "pool": "emotion_pairs",
+   "candidates": 17,
+   "seeds": [
+    {
+     "a": "http://w3id.org/elita/Gioia",
+     "b": "http://w3id.org/elita/Rabbia",
+     "n": "35"
+    },
+    {
+     "a": "http://w3id.org/elita/Aspettativa",
+     "b": "http://w3id.org/elita/Rabbia",
+     "n": "75"
+    },
+    {
+     "a": "http://w3id.org/elita/Gioia",
+     "b": "http://w3id.org/elita/Paura",
+     "n": "76"
+    }
+   ]
+  },
+  {
+   "id": "C4-02",
+   "group": "C4",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "parole con sia E1 sia E2 e polarità negativa (Di Palma 2025)",
+   "pool": "emotion_pairs",
+   "candidates": 21,
+   "seeds": [
+    {
+     "a": "http://w3id.org/elita/Disgusto",
+     "b": "http://w3id.org/elita/Sorpresa",
+     "n": "30"
+    },
+    {
+     "a": "http://w3id.org/elita/Amore",
+     "b": "http://w3id.org/elita/Sorpresa",
+     "n": "298"
+    },
+    {
+     "a": "http://w3id.org/elita/Disgusto",
+     "b": "http://w3id.org/elita/Paura",
+     "n": "233"
+    }
+   ]
+  },
+  {
+   "id": "C4-03",
+   "group": "C4",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "iperonimi comuni a X e Y (due co-iponimi)",
+   "pool": "cl_hyponyms",
+   "candidates": 357,
+   "seeds": [
+    {
+     "wr": "rilievo",
+     "n": "9"
+    },
+    {
+     "wr": "coltivatore",
+     "n": "7"
+    },
+    {
+     "wr": "dipinto",
+     "n": "8"
+    }
+   ]
+  },
+  {
+   "id": "C4-04",
+   "group": "C4",
+   "resources": [
+    "LiITA",
+    "Sicil.",
+    "Parm."
+   ],
+   "ops": [
+    "B2",
+    "B7"
+   ],
+   "idea": "lemmi in -X con traduzione sia siciliana sia parmigiana",
+   "pool": "it_suffix",
+   "candidates": 225,
+   "seeds": [
+    {
+     "suf": "glio",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "209"
+    },
+    {
+     "suf": "onio",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "70"
+    },
+    {
+     "suf": "iolo",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "67"
+    }
+   ]
+  },
+  {
+   "id": "C4-05",
+   "group": "C4",
+   "resources": [
+    "LiITA",
+    "Sicil.",
+    "Parm."
+   ],
+   "ops": [
+    "B3",
+    "B7"
+   ],
+   "idea": "quanti verbi hanno traduzione sia siciliana sia parmigiana (studente)",
+   "pool": null
+  },
+  {
+   "id": "C4-06",
+   "group": "C4",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B4",
+    "B8"
+   ],
+   "idea": "iponimi di X associati sia a E1 sia a E2",
+   "pool": "cl_hyponyms",
+   "candidates": 92,
+   "seeds": [
+    {
+     "wr": "essere",
+     "n": "169"
+    },
+    {
+     "wr": "dottrina",
+     "n": "44"
+    },
+    {
+     "wr": "colore",
+     "n": "119"
+    }
+   ]
+  },
+  {
+   "id": "C5-01",
+   "group": "C5",
+   "resources": [
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B7"
+   ],
+   "idea": "altre parole italiane con la stessa traduzione siciliana di X",
+   "pool": "sic_shared",
+   "candidates": 628,
+   "seeds": [
+    {
+     "dwr": "greja",
+     "n": "4"
+    },
+    {
+     "dwr": "attrappari",
+     "n": "4"
+    },
+    {
+     "dwr": "ammanticari",
+     "n": "3"
+    }
+   ]
+  },
+  {
+   "id": "C5-02",
+   "group": "C5",
+   "resources": [
+    "LiITA",
+    "Parm."
+   ],
+   "ops": [
+    "B7"
+   ],
+   "idea": "altre parole italiane con la stessa traduzione parmigiana di X",
+   "pool": "par_shared",
+   "candidates": 70,
+   "seeds": [
+    {
+     "dwr": "prinsipäl",
+     "n": "2"
+    },
+    {
+     "dwr": "baracón",
+     "n": "2"
+    },
+    {
+     "dwr": "gozén",
+     "n": "2"
+    }
+   ]
+  },
+  {
+   "id": "C5-03",
+   "group": "C5",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "co-iponimi di X (altre parole con lo stesso iperonimo)",
+   "pool": "cl_hyponyms",
+   "candidates": 414,
+   "seeds": [
+    {
+     "wr": "scrittore",
+     "n": "12"
+    },
+    {
+     "wr": "cuocere",
+     "n": "15"
+    },
+    {
+     "wr": "settore",
+     "n": "13"
+    }
+   ]
+  },
+  {
+   "id": "C5-04",
+   "group": "C5",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "parole che condividono una parte con X (stesso meronimo)",
+   "pool": "cl_meronyms",
+   "candidates": 273,
+   "seeds": [
+    {
+     "wr": "sistema",
+     "n": "6"
+    },
+    {
+     "wr": "banche",
+     "n": "3"
+    },
+    {
+     "wr": "cristallo",
+     "n": "3"
+    }
+   ]
+  },
+  {
+   "id": "C5-05",
+   "group": "C5",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B13"
+   ],
+   "idea": "parole derivate dallo stesso aggettivo da cui deriva X",
+   "pool": "cl_deadj",
+   "candidates": 498,
+   "seeds": [
+    {
+     "wr": "affettuosità",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    },
+    {
+     "wr": "libertino",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    },
+    {
+     "wr": "stanchezza",
+     "rel": "http://klab/lexicon/vocabulary/compl-it#deadjectivalNoun",
+     "n": "1"
+    }
+   ]
+  },
+  {
+   "id": "C6-01",
+   "group": "C6",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B4",
+    "B7"
+   ],
+   "idea": "iponimi di X senza traduzione siciliana",
+   "pool": "cl_hyponyms",
+   "candidates": 155,
+   "seeds": [
+    {
+     "wr": "parlare",
+     "n": "24"
+    },
+    {
+     "wr": "roccia",
+     "n": "19"
+    },
+    {
+     "wr": "danneggiare",
+     "n": "22"
+    }
+   ]
+  },
+  {
+   "id": "C6-02",
+   "group": "C6",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Parm."
+   ],
+   "ops": [
+    "B3",
+    "B8",
+    "B7"
+   ],
+   "idea": "parole con POS P ed emozione E senza traduzione parmigiana",
+   "pool": "emotion_pos",
+   "candidates": 22,
+   "seeds": [
+    {
+     "em": "http://w3id.org/elita/Aspettativa",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "390"
+    },
+    {
+     "em": "http://w3id.org/elita/Rabbia",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "243"
+    },
+    {
+     "em": "http://w3id.org/elita/Rabbia",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "388"
+    }
+   ]
+  },
+  {
+   "id": "C6-03",
+   "group": "C6",
+   "resources": [
+    "LiITA",
+    "Sentix",
+    "ELIta"
+   ],
+   "ops": [
+    "B2",
+    "B9",
+    "B8"
+   ],
+   "idea": "lemmi in -X con polarità Sentix ma senza emozione ELIta",
+   "pool": "it_suffix",
+   "candidates": 257,
+   "seeds": [
+    {
+     "suf": "cere",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "103"
+    },
+    {
+     "suf": "bare",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "100"
+    },
+    {
+     "suf": "omia",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "195"
+    }
+   ]
+  },
+  {
+   "id": "C6-04",
+   "group": "C6",
+   "resources": [
+    "LiITA",
+    "Sicil.",
+    "Parm."
+   ],
+   "ops": [
+    "B2",
+    "B7"
+   ],
+   "idea": "lemmi in -X tradotti in siciliano ma non in parmigiano",
+   "pool": "it_suffix",
+   "candidates": 225,
+   "seeds": [
+    {
+     "suf": "nere",
+     "pos": "http://lila-erc.eu/ontologies/lila/verb",
+     "n": "78"
+    },
+    {
+     "suf": "rino",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "106"
+    },
+    {
+     "suf": "simo",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "152"
+    }
+   ]
+  },
+  {
+   "id": "C6-05",
+   "group": "C6",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "CompL-it"
+   ],
+   "ops": [
+    "B8",
+    "B5"
+   ],
+   "idea": "parole con emozione E senza definizione in CompL-it",
+   "pool": null,
+   "params": {
+    "emotion": "Rabbia"
+   }
+  },
+  {
+   "id": "C6-06",
+   "group": "C6",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "iponimi di X che non hanno a loro volta iponimi",
+   "pool": "cl_hyponyms",
+   "candidates": 363,
+   "seeds": [
+    {
+     "wr": "bosco",
+     "n": "10"
+    },
+    {
+     "wr": "verdura",
+     "n": "7"
+    },
+    {
+     "wr": "valore",
+     "n": "13"
+    }
+   ]
+  },
+  {
+   "id": "C6-07",
+   "group": "C6",
+   "resources": [
+    "LiITA",
+    "Sentix",
+    "ELIta"
+   ],
+   "ops": [
+    "B3",
+    "B9",
+    "B8"
+   ],
+   "idea": "aggettivi con polarità oltre t non associati a nessuna emozione",
+   "pool": null,
+   "params": {
+    "threshold": 0.5
+   }
+  },
+  {
+   "id": "C7-01",
+   "group": "C7",
+   "resources": [
+    "LiITA",
+    "Sicil.",
+    "Parm."
+   ],
+   "ops": [
+    "B2",
+    "B7"
+   ],
+   "idea": "lemmi in -X con traduzione siciliana o parmigiana",
+   "pool": "it_suffix",
+   "candidates": 392,
+   "seeds": [
+    {
+     "suf": "ridi",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "78"
+    },
+    {
+     "suf": "polo",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "31"
+    },
+    {
+     "suf": "orme",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "130"
+    }
+   ]
+  },
+  {
+   "id": "C7-02",
+   "group": "C7",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "quante parole sono associate a E o hanno polarità sotto t",
+   "pool": null,
+   "params": {
+    "emotion": "Tristezza",
+    "threshold": -0.8
+   }
+  },
+  {
+   "id": "C7-03",
+   "group": "C7",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4",
+    "B5"
+   ],
+   "idea": "parti di X o parole la cui definizione cita X",
+   "pool": "cl_meronyms",
+   "candidates": 280,
+   "seeds": [
+    {
+     "wr": "galletto",
+     "n": "4"
+    },
+    {
+     "wr": "strada",
+     "n": "5"
+    },
+    {
+     "wr": "rame",
+     "n": "6"
+    }
+   ]
+  },
+  {
+   "id": "C7-04",
+   "group": "C7",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B12",
+    "B4"
+   ],
+   "idea": "parole del tipo semantico T o iponimi di X",
+   "pool": "cl_semtype",
+   "candidates": 77,
+   "seeds": [
+    {
+     "type": "http://simpleOntology#5733-Fruit",
+     "n": "69"
+    },
+    {
+     "type": "http://simpleOntology#31-Cause",
+     "n": "53"
+    },
+    {
+     "type": "http://simpleOntology#9621-Transaction",
+     "n": "119"
+    }
+   ]
+  },
+  {
+   "id": "C8-01",
+   "group": "C8",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B3",
+    "B8"
+   ],
+   "idea": "per ogni POS, quante parole associate a E",
+   "pool": null,
+   "params": {
+    "emotion": "Tristezza"
+   }
+  },
+  {
+   "id": "C8-02",
+   "group": "C8",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B2",
+    "B8"
+   ],
+   "idea": "per ogni emozione, quanti lemmi in -X",
+   "pool": "it_suffix",
+   "candidates": 84,
+   "seeds": [
+    {
+     "suf": "iano",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "368"
+    },
+    {
+     "suf": "ente",
+     "pos": "http://lila-erc.eu/ontologies/lila/adjective",
+     "n": "397"
+    },
+    {
+     "suf": "lata",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "181"
+    }
+   ]
+  },
+  {
+   "id": "C8-03",
+   "group": "C8",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4",
+    "B12"
+   ],
+   "idea": "iponimi di X raggruppati per tipo semantico",
+   "pool": "cl_hyponyms",
+   "candidates": 118,
+   "seeds": [
+    {
+     "wr": "libro",
+     "n": "50"
+    },
+    {
+     "wr": "organismo",
+     "n": "74"
+    },
+    {
+     "wr": "elemento",
+     "n": "55"
+    }
+   ]
+  },
+  {
+   "id": "C8-04",
+   "group": "C8",
+   "resources": [
+    "LiITA",
+    "Sicil.",
+    "Parm."
+   ],
+   "ops": [
+    "B3",
+    "B7"
+   ],
+   "idea": "per ciascun dialetto, quante parole italiane con POS P sono tradotte",
+   "pool": null,
+   "params": {
+    "pos": "verb"
+   }
+  },
+  {
+   "id": "C8-05",
+   "group": "C8",
+   "resources": [
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B2",
+    "B7"
+   ],
+   "idea": "il lemma in -X con più traduzioni siciliane (HAVING = MAX)",
+   "pool": "it_suffix",
+   "candidates": 225,
+   "seeds": [
+    {
+     "suf": "tite",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "68"
+    },
+    {
+     "suf": "lidi",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "61"
+    },
+    {
+     "suf": "ente",
+     "pos": "http://lila-erc.eu/ontologies/lila/noun",
+     "n": "374"
+    }
+   ]
+  },
+  {
+   "id": "C8-06",
+   "group": "C8",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "parole con emozione E per classe di polarità",
+   "pool": null,
+   "params": {
+    "emotion": "Amore"
+   }
+  },
+  {
+   "id": "C9-01",
+   "group": "C9",
+   "resources": [
+    "LiITA",
+    "Parm."
+   ],
+   "ops": [
+    "B3",
+    "B7"
+   ],
+   "idea": "parole italiane con POS P con più di N traduzioni parmigiane (Parma 2025)",
+   "pool": null,
+   "params": {
+    "pos": "adverb",
+    "N": 4
+   }
+  },
+  {
+   "id": "C9-02",
+   "group": "C9",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B6",
+    "B12"
+   ],
+   "idea": "parole del tipo semantico T con più di N sensi",
+   "pool": "cl_semtype",
+   "candidates": 94,
+   "seeds": [
+    {
+     "type": "http://simpleOntology#511-3_D_location",
+     "n": "105"
+    },
+    {
+     "type": "http://simpleOntology#539-Artifactual_material",
+     "n": "269"
+    },
+    {
+     "type": "http://simpleOntology#5725-Agent_of_persistent_activity",
+     "n": "553"
+    }
+   ],
+   "params": {
+    "N": 3
+   }
+  },
+  {
+   "id": "C9-03",
+   "group": "C9",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B3",
+    "B8"
+   ],
+   "idea": "aggettivi associati a più di N emozioni",
+   "pool": null,
+   "params": {
+    "N": 6
+   }
+  },
+  {
+   "id": "C9-04",
+   "group": "C9",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B4"
+   ],
+   "idea": "parole con più di N iponimi",
+   "pool": null,
+   "params": {
+    "N": 50
+   }
+  },
+  {
+   "id": "C10-01",
+   "group": "C10",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "parole con emozione E e polarità massima maggiore di quella di X",
+   "pool": "polarity_lemmas",
+   "candidates": 22211,
+   "seeds": [
+    {
+     "wr": "protozoo",
+     "n": "1",
+     "min": "0.036100000143051147461",
+     "max": "0.036100000143051147461"
+    },
+    {
+     "wr": "incauto",
+     "n": "1",
+     "min": "-0.34700000286102294922",
+     "max": "-0.34700000286102294922"
+    },
+    {
+     "wr": "trattatistica",
+     "n": "1",
+     "min": "-0.125",
+     "max": "-0.125"
+    }
+   ],
+   "params": {
+    "emotion": "Rabbia"
+   }
+  },
+  {
+   "id": "C10-02",
+   "group": "C10",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B6",
+    "B12"
+   ],
+   "idea": "parole del tipo semantico T con più sensi di X",
+   "pool": "cl_senses",
+   "candidates": 316,
+   "seeds": [
+    {
+     "wr": "base",
+     "n": "5"
+    },
+    {
+     "wr": "programma",
+     "n": "5"
+    },
+    {
+     "wr": "ferro",
+     "n": "5"
+    }
+   ]
+  },
+  {
+   "id": "C10-03",
+   "group": "C10",
+   "resources": [
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B3",
+    "B8"
+   ],
+   "idea": "emozioni con più aggettivi dell'emozione E",
+   "pool": null,
+   "params": {
+    "emotion": "Rabbia"
+   }
+  },
+  {
+   "id": "C11-01",
+   "group": "C11",
+   "resources": [
+    "LiITA",
+    "Parm."
+   ],
+   "ops": [
+    "B2",
+    "B7"
+   ],
+   "idea": "parole italiane che iniziano con X la cui traduzione parmigiana inizia con Y (Parma 2025)",
+   "pool": "par_initial_pairs",
+   "candidates": 48,
+   "seeds": [
+    {
+     "i": "pu",
+     "d": "po",
+     "n": "11"
+    },
+    {
+     "i": "im",
+     "d": "in",
+     "n": "12"
+    },
+    {
+     "i": "pa",
+     "d": "pä",
+     "n": "14"
+    }
+   ]
+  },
+  {
+   "id": "C11-02",
+   "group": "C11",
+   "resources": [
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B2",
+    "B7"
+   ],
+   "idea": "parole italiane in -X la cui traduzione siciliana termina in -Y",
+   "pool": "sic_suffix_pairs",
+   "candidates": 171,
+   "seeds": [
+    {
+     "i": "ena",
+     "d": "ina",
+     "n": "16"
+    },
+    {
+     "i": "ere",
+     "d": "aru",
+     "n": "11"
+    },
+    {
+     "i": "uso",
+     "d": "usu",
+     "n": "12"
+    }
+   ]
+  },
+  {
+   "id": "C11-03",
+   "group": "C11",
+   "resources": [
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B3",
+    "B7"
+   ],
+   "idea": "verbi italiani con traduzione siciliana identica nella grafia",
+   "pool": null
+  },
+  {
+   "id": "C11-04",
+   "group": "C11",
+   "resources": [
+    "Sicil."
+   ],
+   "ops": [
+    "B11"
+   ],
+   "idea": "lemmi siciliani con due grafie che differiscono solo nell'iniziale (Ciallabacialla 2025)",
+   "pool": null
+  },
+  {
+   "id": "C11-05",
+   "group": "C11",
+   "resources": [
+    "LiITA",
+    "Sentix"
+   ],
+   "ops": [
+    "B3",
+    "B9"
+   ],
+   "idea": "parole con POS P che hanno sia un valore di polarità positivo sia uno negativo",
+   "pool": null,
+   "params": {
+    "pos": "verb"
+   }
+  },
+  {
+   "id": "C12-01",
+   "group": "C12",
+   "resources": [
+    "LiITA",
+    "Sicil."
+   ],
+   "ops": [
+    "B3",
+    "B7"
+   ],
+   "idea": "numero medio di traduzioni siciliane per verbo tradotto",
+   "pool": null
+  },
+  {
+   "id": "C12-02",
+   "group": "C12",
+   "resources": [
+    "CompL-it"
+   ],
+   "ops": [
+    "B6",
+    "B12"
+   ],
+   "idea": "numero medio di sensi delle parole del tipo semantico T",
+   "pool": "cl_semtype",
+   "candidates": 116,
+   "seeds": [
+    {
+     "type": "http://simpleOntology#972-Cause_Change_Location",
+     "n": "179"
+    },
+    {
+     "type": "http://simpleOntology#A11-Modal",
+     "n": "187"
+    },
+    {
+     "type": "http://simpleOntology#76-Institution",
+     "n": "142"
+    }
+   ]
+  },
+  {
+   "id": "C12-03",
+   "group": "C12",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "numero medio di emozioni dei lemmi con polarità massima oltre t",
+   "pool": null,
+   "params": {
+    "threshold": 0.8
+   }
+  },
+  {
+   "id": "C13-01",
+   "group": "C13",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix",
+    "Sicil."
+   ],
+   "ops": [
+    "B8",
+    "B9",
+    "B7"
+   ],
+   "idea": "per emozione: n. lemmi, polarità media, n. con traduzione siciliana",
+   "pool": null
+  },
+  {
+   "id": "C13-02",
+   "group": "C13",
+   "resources": [
+    "LiITA",
+    "Sicil.",
+    "Parm."
+   ],
+   "ops": [
+    "B3",
+    "B7"
+   ],
+   "idea": "per POS: n. lemmi, n. tradotti in siciliano, n. tradotti in parmigiano",
+   "pool": null
+  },
+  {
+   "id": "C13-03",
+   "group": "C13",
+   "resources": [
+    "LiITA",
+    "ELIta",
+    "Sentix"
+   ],
+   "ops": [
+    "B8",
+    "B9"
+   ],
+   "idea": "per emozione: n. lemmi positivi e n. negativi (polarità massima)",
+   "pool": null
+  },
+  {
+   "id": "C13-04",
+   "group": "C13",
+   "resources": [
+    "CompL-it",
+    "LiITA",
+    "ELIta"
+   ],
+   "ops": [
+    "B6",
+    "B8"
+   ],
+   "idea": "aggettivi con emozione: n. e media di emozioni per monosemici vs polisemici",
+   "pool": null
+  },
+  {
+   "id": "M-01",
+   "group": "M",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [],
+   "idea": "quali lemma bank contiene LiITA",
+   "pool": null
+  },
+  {
+   "id": "M-02",
+   "group": "M",
+   "resources": [
+    "LiITA"
+   ],
+   "ops": [
+    "B10"
+   ],
+   "idea": "quanti lemmi contiene ciascuna lemma bank",
+   "pool": null
+  },
+  {
+   "id": "M-03",
+   "group": "M",
+   "resources": [
+    "ELIta"
+   ],
+   "ops": [],
+   "idea": "quali categorie emotive usa ELIta (con etichetta)",
+   "pool": null
+  }
+ ]
+}

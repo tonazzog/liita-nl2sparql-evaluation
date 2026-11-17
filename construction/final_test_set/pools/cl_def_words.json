@@ -1,0 +1,5646 @@
+[
+{
+"tok": "relates",
+"n": "8"
+},
+{
+"tok": "abitante,",
+"n": "204"
+},
+{
+"tok": "qualita'",
+"n": "130"
+},
+{
+"tok": "azione",
+"n": "67"
+},
+{
+"tok": "mettere",
+"n": "198"
+},
+{
+"tok": "collocare",
+"n": "8"
+},
+{
+"tok": "trovare",
+"n": "23"
+},
+{
+"tok": "mettersi",
+"n": "30"
+},
+{
+"tok": "punto",
+"n": "48"
+},
+{
+"tok": "formaggio",
+"n": "27"
+},
+{
+"tok": "nello",
+"n": "13"
+},
+{
+"tok": "seguace",
+"n": "256"
+},
+{
+"tok": "paura",
+"n": "38"
+},
+{
+"tok": "comportamento",
+"n": "49"
+},
+{
+"tok": "entrare",
+"n": "25"
+},
+{
+"tok": "introdurre",
+"n": "11"
+},
+{
+"tok": "immergere",
+"n": "5"
+},
+{
+"tok": "coltivatore",
+"n": "26"
+},
+{
+"tok": "acquavite",
+"n": "9"
+},
+{
+"tok": "parola",
+"n": "40"
+},
+{
+"tok": "persona,",
+"n": "6"
+},
+{
+"tok": "diminuire",
+"n": "7"
+},
+{
+"tok": "resezione",
+"n": "13"
+},
+{
+"tok": "soluzione",
+"n": "14"
+},
+{
+"tok": "donna",
+"n": "119"
+},
+{
+"tok": "grande",
+"n": "78"
+},
+{
+"tok": "essere",
+"n": "264"
+},
+{
+"tok": "ognuna",
+"n": "16"
+},
+{
+"tok": "passaggio",
+"n": "24"
+},
+{
+"tok": "mario",
+"n": "24"
+},
+{
+"tok": "nella",
+"n": "143"
+},
+{
+"tok": "privare",
+"n": "42"
+},
+{
+"tok": "operazione",
+"n": "66"
+},
+{
+"tok": "figura",
+"n": "69"
+},
+{
+"tok": "dispositivo",
+"n": "155"
+},
+{
+"tok": "soldato",
+"n": "54"
+},
+{
+"tok": "piero",
+"n": "74"
+},
+{
+"tok": "riferire",
+"n": "6"
+},
+{
+"tok": "infiammazione",
+"n": "130"
+},
+{
+"tok": "stabilimento",
+"n": "39"
+},
+{
+"tok": "spostamento",
+"n": "9"
+},
+{
+"tok": "viaggiare",
+"n": "15"
+},
+{
+"tok": "quello",
+"n": "10"
+},
+{
+"tok": "sensazione",
+"n": "34"
+},
+{
+"tok": "registro",
+"n": "8"
+},
+{
+"tok": "tavola",
+"n": "11"
+},
+{
+"tok": "oggetto",
+"n": "83"
+},
+{
+"tok": "rappresentazione",
+"n": "27"
+},
+{
+"tok": "contenuto",
+"n": "13"
+},
+{
+"tok": "trasmissione",
+"n": "9"
+},
+{
+"tok": "condurre",
+"n": "12"
+},
+{
+"tok": "bloccare",
+"n": "6"
+},
+{
+"tok": "terreno",
+"n": "42"
+},
+{
+"tok": "situazione",
+"n": "35"
+},
+{
+"tok": "maria",
+"n": "70"
+},
+{
+"tok": "evento",
+"n": "12"
+},
+{
+"tok": "operaia",
+"n": "37"
+},
+{
+"tok": "operaio",
+"n": "162"
+},
+{
+"tok": "disturbo",
+"n": "41"
+},
+{
+"tok": "stato",
+"n": "179"
+},
+{
+"tok": "studiosa",
+"n": "44"
+},
+{
+"tok": "cambiare",
+"n": "20"
+},
+{
+"tok": "lavoratore",
+"n": "24"
+},
+{
+"tok": "denominazione",
+"n": "25"
+},
+{
+"tok": "complesso",
+"n": "119"
+},
+{
+"tok": "tendenza",
+"n": "141"
+},
+{
+"tok": "l'essere",
+"n": "136"
+},
+{
+"tok": "fiore",
+"n": "39"
+},
+{
+"tok": "arbusto",
+"n": "27"
+},
+{
+"tok": "caduta",
+"n": "14"
+},
+{
+"tok": "detto",
+"n": "280"
+},
+{
+"tok": "rendere",
+"n": "227"
+},
+{
+"tok": "fautore,",
+"n": "5"
+},
+{
+"tok": "utensile",
+"n": "38"
+},
+{
+"tok": "assenza",
+"n": "14"
+},
+{
+"tok": "striscia",
+"n": "42"
+},
+{
+"tok": "gruppo",
+"n": "102"
+},
+{
+"tok": "togliere",
+"n": "40"
+},
+{
+"tok": "lunga",
+"n": "7"
+},
+{
+"tok": "piccola",
+"n": "135"
+},
+{
+"tok": "esame",
+"n": "57"
+},
+{
+"tok": "nativa,",
+"n": "7"
+},
+{
+"tok": "piccolo",
+"n": "250"
+},
+{
+"tok": "scelta",
+"n": "5"
+},
+{
+"tok": "assegnare",
+"n": "10"
+},
+{
+"tok": "procurare",
+"n": "8"
+},
+{
+"tok": "l'umidità",
+"n": "7"
+},
+{
+"tok": "festa",
+"n": "13"
+},
+{
+"tok": "sostenitore",
+"n": "44"
+},
+{
+"tok": "qualunque",
+"n": "15"
+},
+{
+"tok": "rivenditore",
+"n": "5"
+},
+{
+"tok": "seguace,",
+"n": "32"
+},
+{
+"tok": "l'insieme",
+"n": "190"
+},
+{
+"tok": "osservare",
+"n": "14"
+},
+{
+"tok": "immersione",
+"n": "5"
+},
+{
+"tok": "colpo",
+"n": "50"
+},
+{
+"tok": "indirizzo",
+"n": "28"
+},
+{
+"tok": "giungere",
+"n": "13"
+},
+{
+"tok": "scoprire",
+"n": "5"
+},
+{
+"tok": "lasciare",
+"n": "24"
+},
+{
+"tok": "liberare",
+"n": "33"
+},
+{
+"tok": "tutto",
+"n": "49"
+},
+{
+"tok": "luogo",
+"n": "136"
+},
+{
+"tok": "ciascuna",
+"n": "121"
+},
+{
+"tok": "ottavo",
+"n": "5"
+},
+{
+"tok": "trattamento",
+"n": "19"
+},
+{
+"tok": "varietà",
+"n": "54"
+},
+{
+"tok": "materiale",
+"n": "44"
+},
+{
+"tok": "facolta'",
+"n": "8"
+},
+{
+"tok": "diventare",
+"n": "117"
+},
+{
+"tok": "ipotetico",
+"n": "9"
+},
+{
+"tok": "passare",
+"n": "26"
+},
+{
+"tok": "avere",
+"n": "223"
+},
+{
+"tok": "atteggiamento",
+"n": "93"
+},
+{
+"tok": "pianta",
+"n": "252"
+},
+{
+"tok": "foglia",
+"n": "5"
+},
+{
+"tok": "sottoporre",
+"n": "75"
+},
+{
+"tok": "componimento",
+"n": "29"
+},
+{
+"tok": "leggere",
+"n": "66"
+},
+{
+"tok": "supporto",
+"n": "82"
+},
+{
+"tok": "lettera",
+"n": "19"
+},
+{
+"tok": "riferito",
+"n": "12"
+},
+{
+"tok": "privo",
+"n": "53"
+},
+{
+"tok": "senza",
+"n": "8"
+},
+{
+"tok": "segno",
+"n": "47"
+},
+{
+"tok": "eseguire",
+"n": "22"
+},
+{
+"tok": "aggiungere",
+"n": "11"
+},
+{
+"tok": "usare,",
+"n": "5"
+},
+{
+"tok": "subire",
+"n": "27"
+},
+{
+"tok": "pensiero",
+"n": "6"
+},
+{
+"tok": "sottoposto",
+"n": "8"
+},
+{
+"tok": "astuccio",
+"n": "10"
+},
+{
+"tok": "carne",
+"n": "97"
+},
+{
+"tok": "incline",
+"n": "7"
+},
+{
+"tok": "dolore",
+"n": "49"
+},
+{
+"tok": "ognuno",
+"n": "15"
+},
+{
+"tok": "composto",
+"n": "69"
+},
+{
+"tok": "registrazione",
+"n": "11"
+},
+{
+"tok": "studio",
+"n": "143"
+},
+{
+"tok": "specializzarsi",
+"n": "11"
+},
+{
+"tok": "nativo,",
+"n": "34"
+},
+{
+"tok": "scrittore",
+"n": "60"
+},
+{
+"tok": "impiego",
+"n": "25"
+},
+{
+"tok": "lavoro",
+"n": "13"
+},
+{
+"tok": "investire",
+"n": "9"
+},
+{
+"tok": "globulo",
+"n": "6"
+},
+{
+"tok": "imbarcazione",
+"n": "23"
+},
+{
+"tok": "frutto",
+"n": "64"
+},
+{
+"tok": "tecnica",
+"n": "94"
+},
+{
+"tok": "cantare",
+"n": "7"
+},
+{
+"tok": "appartenente",
+"n": "93"
+},
+{
+"tok": "apparecchio",
+"n": "230"
+},
+{
+"tok": "spedire",
+"n": "7"
+},
+{
+"tok": "documento",
+"n": "28"
+},
+{
+"tok": "provare",
+"n": "68"
+},
+{
+"tok": "provocare",
+"n": "39"
+},
+{
+"tok": "colore",
+"n": "99"
+},
+{
+"tok": "elemento",
+"n": "128"
+},
+{
+"tok": "relativo",
+"n": "197"
+},
+{
+"tok": "l'aspetto",
+"n": "9"
+},
+{
+"tok": "suono",
+"n": "15"
+},
+{
+"tok": "raggiungere",
+"n": "16"
+},
+{
+"tok": "fenomeno",
+"n": "72"
+},
+{
+"tok": "cadere",
+"n": "24"
+},
+{
+"tok": "applicazione",
+"n": "17"
+},
+{
+"tok": "della",
+"n": "86"
+},
+{
+"tok": "impianto",
+"n": "30"
+},
+{
+"tok": "genere",
+"n": "89"
+},
+{
+"tok": "sfregare",
+"n": "6"
+},
+{
+"tok": "albero",
+"n": "58"
+},
+{
+"tok": "cavità",
+"n": "16"
+},
+{
+"tok": "emorragia",
+"n": "13"
+},
+{
+"tok": "liquido",
+"n": "35"
+},
+{
+"tok": "prodotto",
+"n": "58"
+},
+{
+"tok": "osservazione",
+"n": "6"
+},
+{
+"tok": "paolo",
+"n": "47"
+},
+{
+"tok": "sentimento",
+"n": "63"
+},
+{
+"tok": "anticamente,",
+"n": "13"
+},
+{
+"tok": "contrazione",
+"n": "12"
+},
+{
+"tok": "disciplina",
+"n": "101"
+},
+{
+"tok": "atleta",
+"n": "32"
+},
+{
+"tok": "elenco",
+"n": "12"
+},
+{
+"tok": "meccanismo",
+"n": "17"
+},
+{
+"tok": "linea",
+"n": "25"
+},
+{
+"tok": "gatto",
+"n": "5"
+},
+{
+"tok": "questa",
+"n": "99"
+},
+{
+"tok": "branca",
+"n": "98"
+},
+{
+"tok": "mammifero",
+"n": "69"
+},
+{
+"tok": "studioso",
+"n": "165"
+},
+{
+"tok": "un'opera",
+"n": "5"
+},
+{
+"tok": "riunire",
+"n": "8"
+},
+{
+"tok": "mangiare",
+"n": "102"
+},
+{
+"tok": "uccello",
+"n": "98"
+},
+{
+"tok": "suonare",
+"n": "29"
+},
+{
+"tok": "spostare",
+"n": "16"
+},
+{
+"tok": "questo",
+"n": "139"
+},
+{
+"tok": "fermarsi",
+"n": "6"
+},
+{
+"tok": "azienda",
+"n": "8"
+},
+{
+"tok": "recarsi",
+"n": "28"
+},
+{
+"tok": "formazione",
+"n": "35"
+},
+{
+"tok": "cintura",
+"n": "5"
+},
+{
+"tok": "scienza",
+"n": "100"
+},
+{
+"tok": "considerare",
+"n": "9"
+},
+{
+"tok": "farmaco",
+"n": "62"
+},
+{
+"tok": "sviluppo",
+"n": "16"
+},
+{
+"tok": "sostanza",
+"n": "244"
+},
+{
+"tok": "unione",
+"n": "15"
+},
+{
+"tok": "ciascuno",
+"n": "63"
+},
+{
+"tok": "composizione",
+"n": "29"
+},
+{
+"tok": "specialità",
+"n": "6"
+},
+{
+"tok": "manifestazione",
+"n": "22"
+},
+{
+"tok": "malattia",
+"n": "150"
+},
+{
+"tok": "giocatore",
+"n": "18"
+},
+{
+"tok": "bevanda",
+"n": "40"
+},
+{
+"tok": "allevamento",
+"n": "18"
+},
+{
+"tok": "movimento",
+"n": "128"
+},
+{
+"tok": "somministrare",
+"n": "6"
+},
+{
+"tok": "porta",
+"n": "11"
+},
+{
+"tok": "canale",
+"n": "11"
+},
+{
+"tok": "ambiente",
+"n": "19"
+},
+{
+"tok": "presenza",
+"n": "74"
+},
+{
+"tok": "stoffa",
+"n": "11"
+},
+{
+"tok": "cantore",
+"n": "6"
+},
+{
+"tok": "organo",
+"n": "70"
+},
+{
+"tok": "andare",
+"n": "99"
+},
+{
+"tok": "racconto",
+"n": "10"
+},
+{
+"tok": "prova",
+"n": "10"
+},
+{
+"tok": "abbassamento",
+"n": "6"
+},
+{
+"tok": "simbolo",
+"n": "8"
+},
+{
+"tok": "deposito",
+"n": "8"
+},
+{
+"tok": "notizia",
+"n": "13"
+},
+{
+"tok": "asportazione",
+"n": "22"
+},
+{
+"tok": "denaro",
+"n": "19"
+},
+{
+"tok": "coniare",
+"n": "8"
+},
+{
+"tok": "unita'",
+"n": "42"
+},
+{
+"tok": "individuare",
+"n": "8"
+},
+{
+"tok": "provvedimento",
+"n": "7"
+},
+{
+"tok": "macchina",
+"n": "79"
+},
+{
+"tok": "metodo",
+"n": "40"
+},
+{
+"tok": "copia",
+"n": "10"
+},
+{
+"tok": "cultura",
+"n": "13"
+},
+{
+"tok": "strada",
+"n": "36"
+},
+{
+"tok": "aiutare",
+"n": "5"
+},
+{
+"tok": "usare",
+"n": "42"
+},
+{
+"tok": "unità",
+"n": "82"
+},
+{
+"tok": "fautore",
+"n": "24"
+},
+{
+"tok": "reparto",
+"n": "15"
+},
+{
+"tok": "trattato",
+"n": "14"
+},
+{
+"tok": "riproduzione",
+"n": "14"
+},
+{
+"tok": "discorso",
+"n": "27"
+},
+{
+"tok": "vivere",
+"n": "37"
+},
+{
+"tok": "termine",
+"n": "39"
+},
+{
+"tok": "addetto",
+"n": "55"
+},
+{
+"tok": "bisogno",
+"n": "5"
+},
+{
+"tok": "fungo",
+"n": "10"
+},
+{
+"tok": "autoveicolo",
+"n": "13"
+},
+{
+"tok": "orientamento",
+"n": "8"
+},
+{
+"tok": "associazione",
+"n": "15"
+},
+{
+"tok": "assicurare",
+"n": "8"
+},
+{
+"tok": "fibra",
+"n": "15"
+},
+{
+"tok": "grosso",
+"n": "81"
+},
+{
+"tok": "abito",
+"n": "20"
+},
+{
+"tok": "apertura",
+"n": "44"
+},
+{
+"tok": "pulire",
+"n": "16"
+},
+{
+"tok": "fetta",
+"n": "6"
+},
+{
+"tok": "popolazione",
+"n": "14"
+},
+{
+"tok": "piantare",
+"n": "36"
+},
+{
+"tok": "nativo",
+"n": "157"
+},
+{
+"tok": "tipico",
+"n": "82"
+},
+{
+"tok": "cucina",
+"n": "17"
+},
+{
+"tok": "anomalia",
+"n": "16"
+},
+{
+"tok": "prendersi",
+"n": "9"
+},
+{
+"tok": "foglietto",
+"n": "10"
+},
+{
+"tok": "l'aereo",
+"n": "7"
+},
+{
+"tok": "proprietà",
+"n": "121"
+},
+{
+"tok": "lista",
+"n": "5"
+},
+{
+"tok": "aprire",
+"n": "14"
+},
+{
+"tok": "massa",
+"n": "19"
+},
+{
+"tok": "dottrina",
+"n": "110"
+},
+{
+"tok": "accumulo",
+"n": "8"
+},
+{
+"tok": "terapia",
+"n": "28"
+},
+{
+"tok": "impiegato",
+"n": "16"
+},
+{
+"tok": "scrivere",
+"n": "41"
+},
+{
+"tok": "turba",
+"n": "11"
+},
+{
+"tok": "capacità",
+"n": "35"
+},
+{
+"tok": "mancanza",
+"n": "67"
+},
+{
+"tok": "attrezzo",
+"n": "80"
+},
+{
+"tok": "compositore",
+"n": "14"
+},
+{
+"tok": "idrocarburo",
+"n": "11"
+},
+{
+"tok": "tendere",
+"n": "6"
+},
+{
+"tok": "cuscinetto",
+"n": "7"
+},
+{
+"tok": "carattere",
+"n": "73"
+},
+{
+"tok": "farsi",
+"n": "24"
+},
+{
+"tok": "distendere",
+"n": "8"
+},
+{
+"tok": "colui",
+"n": "42"
+},
+{
+"tok": "attivita'",
+"n": "19"
+},
+{
+"tok": "produrre",
+"n": "21"
+},
+{
+"tok": "esprimere",
+"n": "13"
+},
+{
+"tok": "recipiente",
+"n": "100"
+},
+{
+"tok": "lastra",
+"n": "14"
+},
+{
+"tok": "tonalità",
+"n": "10"
+},
+{
+"tok": "cellule",
+"n": "6"
+},
+{
+"tok": "insegnare",
+"n": "5"
+},
+{
+"tok": "procedimento",
+"n": "31"
+},
+{
+"tok": "assortimento",
+"n": "9"
+},
+{
+"tok": "abitare",
+"n": "34"
+},
+{
+"tok": "membro",
+"n": "49"
+},
+{
+"tok": "alimento",
+"n": "13"
+},
+{
+"tok": "attore",
+"n": "15"
+},
+{
+"tok": "aroma",
+"n": "13"
+},
+{
+"tok": "abitazione",
+"n": "16"
+},
+{
+"tok": "cellula",
+"n": "22"
+},
+{
+"tok": "gioco",
+"n": "56"
+},
+{
+"tok": "contrario",
+"n": "15"
+},
+{
+"tok": "dalla",
+"n": "6"
+},
+{
+"tok": "libro",
+"n": "27"
+},
+{
+"tok": "imparare",
+"n": "11"
+},
+{
+"tok": "studioso,",
+"n": "63"
+},
+{
+"tok": "stampare",
+"n": "7"
+},
+{
+"tok": "corridore",
+"n": "5"
+},
+{
+"tok": "darsi",
+"n": "12"
+},
+{
+"tok": "rispondere",
+"n": "5"
+},
+{
+"tok": "emettere",
+"n": "22"
+},
+{
+"tok": "stabilire",
+"n": "12"
+},
+{
+"tok": "quantità",
+"n": "75"
+},
+{
+"tok": "ospedale",
+"n": "8"
+},
+{
+"tok": "istituzione",
+"n": "20"
+},
+{
+"tok": "trovarsi",
+"n": "13"
+},
+{
+"tok": "proteggere",
+"n": "7"
+},
+{
+"tok": "teoria",
+"n": "46"
+},
+{
+"tok": "giocare",
+"n": "26"
+},
+{
+"tok": "fabbrica",
+"n": "39"
+},
+{
+"tok": "muovere",
+"n": "10"
+},
+{
+"tok": "muoversi",
+"n": "19"
+},
+{
+"tok": "compiere",
+"n": "38"
+},
+{
+"tok": "prendere",
+"n": "83"
+},
+{
+"tok": "territorio",
+"n": "41"
+},
+{
+"tok": "durata",
+"n": "7"
+},
+{
+"tok": "tracciare",
+"n": "12"
+},
+{
+"tok": "nelle",
+"n": "64"
+},
+{
+"tok": "dialetto",
+"n": "76"
+},
+{
+"tok": "guidatore",
+"n": "7"
+},
+{
+"tok": "intelaiatura",
+"n": "5"
+},
+{
+"tok": "contenitore",
+"n": "31"
+},
+{
+"tok": "disporre",
+"n": "9"
+},
+{
+"tok": "dotare",
+"n": "8"
+},
+{
+"tok": "forma",
+"n": "71"
+},
+{
+"tok": "fermento",
+"n": "13"
+},
+{
+"tok": "vivanda",
+"n": "10"
+},
+{
+"tok": "pelliccia",
+"n": "15"
+},
+{
+"tok": "indossare",
+"n": "38"
+},
+{
+"tok": "assistere",
+"n": "18"
+},
+{
+"tok": "veicolo",
+"n": "48"
+},
+{
+"tok": "perdere",
+"n": "40"
+},
+{
+"tok": "programma",
+"n": "12"
+},
+{
+"tok": "insetto",
+"n": "39"
+},
+{
+"tok": "guida",
+"n": "5"
+},
+{
+"tok": "malformazione",
+"n": "13"
+},
+{
+"tok": "indagine",
+"n": "7"
+},
+{
+"tok": "medico",
+"n": "62"
+},
+{
+"tok": "disegno",
+"n": "10"
+},
+{
+"tok": "qualità",
+"n": "123"
+},
+{
+"tok": "qualsiasi",
+"n": "58"
+},
+{
+"tok": "grossa",
+"n": "38"
+},
+{
+"tok": "cavallo",
+"n": "19"
+},
+{
+"tok": "commettere",
+"n": "27"
+},
+{
+"tok": "chiesa",
+"n": "6"
+},
+{
+"tok": "esponente",
+"n": "8"
+},
+{
+"tok": "lingua",
+"n": "106"
+},
+{
+"tok": "caratteristica,",
+"n": "66"
+},
+{
+"tok": "pagare",
+"n": "21"
+},
+{
+"tok": "governo",
+"n": "11"
+},
+{
+"tok": "levare",
+"n": "15"
+},
+{
+"tok": "ripetizione",
+"n": "9"
+},
+{
+"tok": "moglie",
+"n": "6"
+},
+{
+"tok": "rispettare",
+"n": "7"
+},
+{
+"tok": "spazio",
+"n": "38"
+},
+{
+"tok": "volare",
+"n": "5"
+},
+{
+"tok": "ufficiale",
+"n": "9"
+},
+{
+"tok": "studia",
+"n": "7"
+},
+{
+"tok": "trarre",
+"n": "12"
+},
+{
+"tok": "attività",
+"n": "42"
+},
+{
+"tok": "trasformazione",
+"n": "7"
+},
+{
+"tok": "aderente",
+"n": "21"
+},
+{
+"tok": "artista",
+"n": "32"
+},
+{
+"tok": "involucro",
+"n": "21"
+},
+{
+"tok": "comprare",
+"n": "46"
+},
+{
+"tok": "pieno",
+"n": "10"
+},
+{
+"tok": "udire",
+"n": "12"
+},
+{
+"tok": "riempire",
+"n": "20"
+},
+{
+"tok": "quell'uomo",
+"n": "46"
+},
+{
+"tok": "soffrire",
+"n": "47"
+},
+{
+"tok": "difetto",
+"n": "19"
+},
+{
+"tok": "sporcare",
+"n": "9"
+},
+{
+"tok": "sport",
+"n": "22"
+},
+{
+"tok": "rilegare",
+"n": "6"
+},
+{
+"tok": "rapporto",
+"n": "24"
+},
+{
+"tok": "fabbricante",
+"n": "65"
+},
+{
+"tok": "salire",
+"n": "18"
+},
+{
+"tok": "cittadino",
+"n": "35"
+},
+{
+"tok": "quando",
+"n": "7"
+},
+{
+"tok": "lavorare",
+"n": "55"
+},
+{
+"tok": "tessuto",
+"n": "71"
+},
+{
+"tok": "chiudere",
+"n": "26"
+},
+{
+"tok": "alunno",
+"n": "6"
+},
+{
+"tok": "politica",
+"n": "9"
+},
+{
+"tok": "raccolta",
+"n": "47"
+},
+{
+"tok": "dare,",
+"n": "11"
+},
+{
+"tok": "diminuzione",
+"n": "61"
+},
+{
+"tok": "locale",
+"n": "66"
+},
+{
+"tok": "residuo",
+"n": "8"
+},
+{
+"tok": "restringimento",
+"n": "9"
+},
+{
+"tok": "elaboratore",
+"n": "5"
+},
+{
+"tok": "miscela",
+"n": "19"
+},
+{
+"tok": "pasta",
+"n": "31"
+},
+{
+"tok": "tenere",
+"n": "24"
+},
+{
+"tok": "antico",
+"n": "23"
+},
+{
+"tok": "lavorazione",
+"n": "6"
+},
+{
+"tok": "edificio",
+"n": "75"
+},
+{
+"tok": "paralisi",
+"n": "8"
+},
+{
+"tok": "mollusco",
+"n": "19"
+},
+{
+"tok": "cultore",
+"n": "6"
+},
+{
+"tok": "avversione",
+"n": "8"
+},
+{
+"tok": "muscolo",
+"n": "19"
+},
+{
+"tok": "alterare",
+"n": "5"
+},
+{
+"tok": "giacca",
+"n": "11"
+},
+{
+"tok": "alterazione",
+"n": "32"
+},
+{
+"tok": "nutrire",
+"n": "12"
+},
+{
+"tok": "professione",
+"n": "13"
+},
+{
+"tok": "cuocere",
+"n": "20"
+},
+{
+"tok": "costringere",
+"n": "8"
+},
+{
+"tok": "rinchiudere",
+"n": "6"
+},
+{
+"tok": "periodo",
+"n": "80"
+},
+{
+"tok": "ordinare",
+"n": "13"
+},
+{
+"tok": "quella",
+"n": "46"
+},
+{
+"tok": "miscuglio",
+"n": "8"
+},
+{
+"tok": "ricorrenza",
+"n": "5"
+},
+{
+"tok": "accessorio",
+"n": "7"
+},
+{
+"tok": "protozoo",
+"n": "5"
+},
+{
+"tok": "piastra",
+"n": "6"
+},
+{
+"tok": "sistema",
+"n": "85"
+},
+{
+"tok": "patate",
+"n": "5"
+},
+{
+"tok": "processo",
+"n": "55"
+},
+{
+"tok": "strato",
+"n": "30"
+},
+{
+"tok": "magistrato",
+"n": "11"
+},
+{
+"tok": "avvolgersi",
+"n": "6"
+},
+{
+"tok": "fascia",
+"n": "11"
+},
+{
+"tok": "appropriarsi",
+"n": "7"
+},
+{
+"tok": "manifestare",
+"n": "12"
+},
+{
+"tok": "riduzione",
+"n": "20"
+},
+{
+"tok": "medicamento",
+"n": "23"
+},
+{
+"tok": "crema",
+"n": "6"
+},
+{
+"tok": "moneta",
+"n": "31"
+},
+{
+"tok": "molti",
+"n": "14"
+},
+{
+"tok": "resina",
+"n": "6"
+},
+{
+"tok": "pelle",
+"n": "21"
+},
+{
+"tok": "esperto",
+"n": "41"
+},
+{
+"tok": "proprio",
+"n": "10"
+},
+{
+"tok": "ordine",
+"n": "16"
+},
+{
+"tok": "monaco",
+"n": "11"
+},
+{
+"tok": "eliminare",
+"n": "13"
+},
+{
+"tok": "aumento",
+"n": "62"
+},
+{
+"tok": "concentrazione",
+"n": "8"
+},
+{
+"tok": "struttura",
+"n": "47"
+},
+{
+"tok": "condizione,",
+"n": "42"
+},
+{
+"tok": "monumento",
+"n": "6"
+},
+{
+"tok": "docente",
+"n": "10"
+},
+{
+"tok": "segnare",
+"n": "10"
+},
+{
+"tok": "proprietà,",
+"n": "18"
+},
+{
+"tok": "studiare",
+"n": "29"
+},
+{
+"tok": "apparire",
+"n": "5"
+},
+{
+"tok": "particolare",
+"n": "28"
+},
+{
+"tok": "disegnare",
+"n": "16"
+},
+{
+"tok": "sottrarre",
+"n": "10"
+},
+{
+"tok": "mobiletto",
+"n": "5"
+},
+{
+"tok": "nell'antica",
+"n": "40"
+},
+{
+"tok": "primo",
+"n": "16"
+},
+{
+"tok": "sentirsi",
+"n": "5"
+},
+{
+"tok": "l'atto",
+"n": "22"
+},
+{
+"tok": "software",
+"n": "8"
+},
+{
+"tok": "provvedere",
+"n": "10"
+},
+{
+"tok": "l'ambiente",
+"n": "5"
+},
+{
+"tok": "iscritto",
+"n": "5"
+},
+{
+"tok": "l'acqua",
+"n": "32"
+},
+{
+"tok": "crostaceo",
+"n": "10"
+},
+{
+"tok": "sedia",
+"n": "6"
+},
+{
+"tok": "antica",
+"n": "33"
+},
+{
+"tok": "combinazione",
+"n": "8"
+},
+{
+"tok": "perdita",
+"n": "26"
+},
+{
+"tok": "arnese",
+"n": "36"
+},
+{
+"tok": "radiografia",
+"n": "14"
+},
+{
+"tok": "entita'",
+"n": "5"
+},
+{
+"tok": "allevatore",
+"n": "6"
+},
+{
+"tok": "acquisire",
+"n": "7"
+},
+{
+"tok": "sostenitore,",
+"n": "7"
+},
+{
+"tok": "componente",
+"n": "8"
+},
+{
+"tok": "infezione",
+"n": "10"
+},
+{
+"tok": "determinare",
+"n": "9"
+},
+{
+"tok": "contenere,",
+"n": "5"
+},
+{
+"tok": "misurare",
+"n": "6"
+},
+{
+"tok": "sapore",
+"n": "14"
+},
+{
+"tok": "ossido",
+"n": "9"
+},
+{
+"tok": "rilievo",
+"n": "6"
+},
+{
+"tok": "lodare",
+"n": "5"
+},
+{
+"tok": "studiosa,",
+"n": "28"
+},
+{
+"tok": "analizzare",
+"n": "6"
+},
+{
+"tok": "chiedere",
+"n": "20"
+},
+{
+"tok": "riporre",
+"n": "20"
+},
+{
+"tok": "merce",
+"n": "6"
+},
+{
+"tok": "materia",
+"n": "15"
+},
+{
+"tok": "disposizione",
+"n": "27"
+},
+{
+"tok": "discussione",
+"n": "6"
+},
+{
+"tok": "fascio",
+"n": "9"
+},
+{
+"tok": "istituto",
+"n": "23"
+},
+{
+"tok": "fondare",
+"n": "5"
+},
+{
+"tok": "titolo",
+"n": "49"
+},
+{
+"tok": "compenso",
+"n": "7"
+},
+{
+"tok": "ricevere",
+"n": "11"
+},
+{
+"tok": "prescrivere",
+"n": "10"
+},
+{
+"tok": "incontrare",
+"n": "6"
+},
+{
+"tok": "conduttore",
+"n": "13"
+},
+{
+"tok": "fusto",
+"n": "11"
+},
+{
+"tok": "agire",
+"n": "15"
+},
+{
+"tok": "adatto",
+"n": "7"
+},
+{
+"tok": "tumore",
+"n": "33"
+},
+{
+"tok": "dello",
+"n": "8"
+},
+{
+"tok": "vasto",
+"n": "6"
+},
+{
+"tok": "pescatore",
+"n": "6"
+},
+{
+"tok": "l'opera",
+"n": "9"
+},
+{
+"tok": "allontanarsi",
+"n": "8"
+},
+{
+"tok": "militare",
+"n": "22"
+},
+{
+"tok": "l'azienda",
+"n": "8"
+},
+{
+"tok": "affezione",
+"n": "30"
+},
+{
+"tok": "caricare",
+"n": "10"
+},
+{
+"tok": "corso",
+"n": "12"
+},
+{
+"tok": "unire",
+"n": "21"
+},
+{
+"tok": "unirsi",
+"n": "10"
+},
+{
+"tok": "mescolare",
+"n": "10"
+},
+{
+"tok": "guardiano",
+"n": "11"
+},
+{
+"tok": "bambino",
+"n": "43"
+},
+{
+"tok": "mezzo",
+"n": "15"
+},
+{
+"tok": "avvolgere",
+"n": "15"
+},
+{
+"tok": "salume",
+"n": "8"
+},
+{
+"tok": "redattore",
+"n": "5"
+},
+{
+"tok": "posizione",
+"n": "18"
+},
+{
+"tok": "adattamento",
+"n": "15"
+},
+{
+"tok": "anfibio",
+"n": "5"
+},
+{
+"tok": "classe",
+"n": "20"
+},
+{
+"tok": "ridurre",
+"n": "30"
+},
+{
+"tok": "odore",
+"n": "9"
+},
+{
+"tok": "verso",
+"n": "19"
+},
+{
+"tok": "specialista",
+"n": "40"
+},
+{
+"tok": "costruire",
+"n": "15"
+},
+{
+"tok": "concezione",
+"n": "15"
+},
+{
+"tok": "rivestire",
+"n": "14"
+},
+{
+"tok": "individuo",
+"n": "20"
+},
+{
+"tok": "opinione",
+"n": "12"
+},
+{
+"tok": "indumento",
+"n": "35"
+},
+{
+"tok": "catena",
+"n": "5"
+},
+{
+"tok": "giovane",
+"n": "48"
+},
+{
+"tok": "scritto",
+"n": "12"
+},
+{
+"tok": "espressione",
+"n": "22"
+},
+{
+"tok": "tecnico",
+"n": "40"
+},
+{
+"tok": "sensibilità",
+"n": "5"
+},
+{
+"tok": "piatto",
+"n": "28"
+},
+{
+"tok": "trattenere",
+"n": "5"
+},
+{
+"tok": "venditore",
+"n": "48"
+},
+{
+"tok": "autobus",
+"n": "7"
+},
+{
+"tok": "seguire",
+"n": "12"
+},
+{
+"tok": "sostenere",
+"n": "9"
+},
+{
+"tok": "figlio",
+"n": "12"
+},
+{
+"tok": "poeta",
+"n": "13"
+},
+{
+"tok": "applicare",
+"n": "19"
+},
+{
+"tok": "cereale",
+"n": "5"
+},
+{
+"tok": "diritto",
+"n": "15"
+},
+{
+"tok": "ingerire",
+"n": "5"
+},
+{
+"tok": "parlamentare",
+"n": "5"
+},
+{
+"tok": "fatto",
+"n": "29"
+},
+{
+"tok": "breve",
+"n": "29"
+},
+{
+"tok": "aggrapparsi",
+"n": "5"
+},
+{
+"tok": "esporre",
+"n": "14"
+},
+{
+"tok": "controllare",
+"n": "9"
+},
+{
+"tok": "consacrare",
+"n": "5"
+},
+{
+"tok": "strappare",
+"n": "12"
+},
+{
+"tok": "radicale",
+"n": "8"
+},
+{
+"tok": "corrente",
+"n": "29"
+},
+{
+"tok": "negli",
+"n": "32"
+},
+{
+"tok": "intervento",
+"n": "10"
+},
+{
+"tok": "fuggire",
+"n": "5"
+},
+{
+"tok": "padre",
+"n": "7"
+},
+{
+"tok": "credere",
+"n": "5"
+},
+{
+"tok": "professore",
+"n": "9"
+},
+{
+"tok": "firmare",
+"n": "5"
+},
+{
+"tok": "moralmente",
+"n": "5"
+},
+{
+"tok": "manovra",
+"n": "5"
+},
+{
+"tok": "distesa",
+"n": "6"
+},
+{
+"tok": "acquistare",
+"n": "24"
+},
+{
+"tok": "distintivo",
+"n": "5"
+},
+{
+"tok": "anello",
+"n": "14"
+},
+{
+"tok": "fascicolo",
+"n": "5"
+},
+{
+"tok": "imbroglio",
+"n": "5"
+},
+{
+"tok": "costruzione",
+"n": "24"
+},
+{
+"tok": "accendere",
+"n": "19"
+},
+{
+"tok": "rovinarsi",
+"n": "6"
+},
+{
+"tok": "pratica",
+"n": "15"
+},
+{
+"tok": "partito",
+"n": "5"
+},
+{
+"tok": "preparazione",
+"n": "8"
+},
+{
+"tok": "guardare",
+"n": "19"
+},
+{
+"tok": "buttarsi",
+"n": "6"
+},
+{
+"tok": "veste",
+"n": "8"
+},
+{
+"tok": "custodia",
+"n": "10"
+},
+{
+"tok": "inclinazione",
+"n": "5"
+},
+{
+"tok": "infiorescenza",
+"n": "6"
+},
+{
+"tok": "affetto",
+"n": "41"
+},
+{
+"tok": "penetrare",
+"n": "5"
+},
+{
+"tok": "divisione",
+"n": "5"
+},
+{
+"tok": "corpo",
+"n": "31"
+},
+{
+"tok": "quantità,",
+"n": "5"
+},
+{
+"tok": "uccelletto",
+"n": "7"
+},
+{
+"tok": "condotto",
+"n": "6"
+},
+{
+"tok": "immagine",
+"n": "19"
+},
+{
+"tok": "lamina",
+"n": "9"
+},
+{
+"tok": "rivestimento",
+"n": "12"
+},
+{
+"tok": "batterio",
+"n": "11"
+},
+{
+"tok": "politico",
+"n": "11"
+},
+{
+"tok": "cattivo",
+"n": "6"
+},
+{
+"tok": "accettare",
+"n": "6"
+},
+{
+"tok": "nell'alpinismo,",
+"n": "5"
+},
+{
+"tok": "blocco",
+"n": "11"
+},
+{
+"tok": "riprendere",
+"n": "11"
+},
+{
+"tok": "negozio",
+"n": "40"
+},
+{
+"tok": "albergo",
+"n": "6"
+},
+{
+"tok": "obiettivo",
+"n": "6"
+},
+{
+"tok": "masticare",
+"n": "5"
+},
+{
+"tok": "narrazione",
+"n": "13"
+},
+{
+"tok": "agente",
+"n": "13"
+},
+{
+"tok": "sostegno",
+"n": "12"
+},
+{
+"tok": "specie",
+"n": "26"
+},
+{
+"tok": "sostituire",
+"n": "11"
+},
+{
+"tok": "tenersi",
+"n": "6"
+},
+{
+"tok": "attraversare",
+"n": "18"
+},
+{
+"tok": "trasportare",
+"n": "9"
+},
+{
+"tok": "improvviso",
+"n": "5"
+},
+{
+"tok": "effetto",
+"n": "9"
+},
+{
+"tok": "scontro",
+"n": "5"
+},
+{
+"tok": "attaccabrighe",
+"n": "5"
+},
+{
+"tok": "culto",
+"n": "6"
+},
+{
+"tok": "attendere",
+"n": "7"
+},
+{
+"tok": "somma",
+"n": "24"
+},
+{
+"tok": "lampada",
+"n": "6"
+},
+{
+"tok": "incapacità",
+"n": "13"
+},
+{
+"tok": "ragazza",
+"n": "25"
+},
+{
+"tok": "preparato",
+"n": "13"
+},
+{
+"tok": "estensione",
+"n": "6"
+},
+{
+"tok": "tagliare",
+"n": "29"
+},
+{
+"tok": "sedile",
+"n": "9"
+},
+{
+"tok": "nastro",
+"n": "11"
+},
+{
+"tok": "registrare",
+"n": "7"
+},
+{
+"tok": "marinaio",
+"n": "9"
+},
+{
+"tok": "condannare",
+"n": "9"
+},
+{
+"tok": "parlare",
+"n": "73"
+},
+{
+"tok": "tasso",
+"n": "5"
+},
+{
+"tok": "chiusura",
+"n": "6"
+},
+{
+"tok": "indicare",
+"n": "6"
+},
+{
+"tok": "forte",
+"n": "17"
+},
+{
+"tok": "iniziare",
+"n": "10"
+},
+{
+"tok": "riprodurre",
+"n": "14"
+},
+{
+"tok": "coprire",
+"n": "19"
+},
+{
+"tok": "coprirsi",
+"n": "7"
+},
+{
+"tok": "lesione",
+"n": "23"
+},
+{
+"tok": "respirare",
+"n": "6"
+},
+{
+"tok": "aeroplano",
+"n": "6"
+},
+{
+"tok": "bosco",
+"n": "10"
+},
+{
+"tok": "pezzo",
+"n": "47"
+},
+{
+"tok": "religione",
+"n": "10"
+},
+{
+"tok": "possedere",
+"n": "13"
+},
+{
+"tok": "aereo",
+"n": "14"
+},
+{
+"tok": "organizzazione",
+"n": "13"
+},
+{
+"tok": "venditrice",
+"n": "14"
+},
+{
+"tok": "bastone",
+"n": "11"
+},
+{
+"tok": "estremita'",
+"n": "5"
+},
+{
+"tok": "roccia",
+"n": "21"
+},
+{
+"tok": "gioiello",
+"n": "12"
+},
+{
+"tok": "ubriaco",
+"n": "5"
+},
+{
+"tok": "pagina",
+"n": "11"
+},
+{
+"tok": "attaccare",
+"n": "15"
+},
+{
+"tok": "riflettere",
+"n": "6"
+},
+{
+"tok": "quest'uomo",
+"n": "7"
+},
+{
+"tok": "sequenza",
+"n": "8"
+},
+{
+"tok": "cercare",
+"n": "27"
+},
+{
+"tok": "scendere",
+"n": "8"
+},
+{
+"tok": "scarpa",
+"n": "5"
+},
+{
+"tok": "scegliere",
+"n": "7"
+},
+{
+"tok": "tratto",
+"n": "17"
+},
+{
+"tok": "taglio",
+"n": "13"
+},
+{
+"tok": "fedele",
+"n": "5"
+},
+{
+"tok": "divenire",
+"n": "11"
+},
+{
+"tok": "foglio",
+"n": "25"
+},
+{
+"tok": "comportarsi",
+"n": "17"
+},
+{
+"tok": "incidere",
+"n": "6"
+},
+{
+"tok": "contratto",
+"n": "11"
+},
+{
+"tok": "zucchero",
+"n": "6"
+},
+{
+"tok": "coperta",
+"n": "8"
+},
+{
+"tok": "impronta",
+"n": "5"
+},
+{
+"tok": "mania",
+"n": "10"
+},
+{
+"tok": "azionare",
+"n": "5"
+},
+{
+"tok": "sparare",
+"n": "10"
+},
+{
+"tok": "tirare",
+"n": "19"
+},
+{
+"tok": "esperta",
+"n": "6"
+},
+{
+"tok": "conoscere",
+"n": "11"
+},
+{
+"tok": "trasporto",
+"n": "7"
+},
+{
+"tok": "famiglia",
+"n": "21"
+},
+{
+"tok": "religioso",
+"n": "23"
+},
+{
+"tok": "sostenitrice",
+"n": "6"
+},
+{
+"tok": "stendere",
+"n": "10"
+},
+{
+"tok": "rovinare",
+"n": "7"
+},
+{
+"tok": "indurre",
+"n": "5"
+},
+{
+"tok": "misura",
+"n": "14"
+},
+{
+"tok": "elettrodomestico",
+"n": "9"
+},
+{
+"tok": "difficoltà",
+"n": "5"
+},
+{
+"tok": "cercano",
+"n": "7"
+},
+{
+"tok": "dormire",
+"n": "5"
+},
+{
+"tok": "circostanza",
+"n": "7"
+},
+{
+"tok": "risposta",
+"n": "5"
+},
+{
+"tok": "molto",
+"n": "17"
+},
+{
+"tok": "respingere",
+"n": "5"
+},
+{
+"tok": "colpire",
+"n": "29"
+},
+{
+"tok": "uccisione",
+"n": "9"
+},
+{
+"tok": "comunicare",
+"n": "8"
+},
+{
+"tok": "l'arte",
+"n": "26"
+},
+{
+"tok": "cerimonia",
+"n": "8"
+},
+{
+"tok": "possibilità",
+"n": "19"
+},
+{
+"tok": "superare",
+"n": "10"
+},
+{
+"tok": "versamento",
+"n": "9"
+},
+{
+"tok": "riunione",
+"n": "12"
+},
+{
+"tok": "pregare",
+"n": "9"
+},
+{
+"tok": "vitigno",
+"n": "14"
+},
+{
+"tok": "amministrazione",
+"n": "5"
+},
+{
+"tok": "gustare",
+"n": "5"
+},
+{
+"tok": "intenso",
+"n": "5"
+},
+{
+"tok": "colorazione",
+"n": "9"
+},
+{
+"tok": "curare",
+"n": "12"
+},
+{
+"tok": "frase",
+"n": "6"
+},
+{
+"tok": "grado",
+"n": "8"
+},
+{
+"tok": "incisione",
+"n": "19"
+},
+{
+"tok": "treno",
+"n": "15"
+},
+{
+"tok": "preghiera",
+"n": "5"
+},
+{
+"tok": "aumentare",
+"n": "16"
+},
+{
+"tok": "camminare",
+"n": "23"
+},
+{
+"tok": "spendere",
+"n": "5"
+},
+{
+"tok": "congegno",
+"n": "17"
+},
+{
+"tok": "coniugare",
+"n": "6"
+},
+{
+"tok": "custode",
+"n": "17"
+},
+{
+"tok": "animale",
+"n": "49"
+},
+{
+"tok": "riunirsi",
+"n": "5"
+},
+{
+"tok": "coltivazione",
+"n": "28"
+},
+{
+"tok": "varieta'",
+"n": "9"
+},
+{
+"tok": "annaffiare",
+"n": "7"
+},
+{
+"tok": "esercizio",
+"n": "7"
+},
+{
+"tok": "decidere",
+"n": "5"
+},
+{
+"tok": "ballare",
+"n": "13"
+},
+{
+"tok": "numero",
+"n": "26"
+},
+{
+"tok": "pasto",
+"n": "5"
+},
+{
+"tok": "stare",
+"n": "43"
+},
+{
+"tok": "commerciante",
+"n": "6"
+},
+{
+"tok": "riparare",
+"n": "8"
+},
+{
+"tok": "rimettere",
+"n": "9"
+},
+{
+"tok": "impossibilità",
+"n": "6"
+},
+{
+"tok": "imitare",
+"n": "5"
+},
+{
+"tok": "legno",
+"n": "12"
+},
+{
+"tok": "arrivare",
+"n": "13"
+},
+{
+"tok": "radice",
+"n": "9"
+},
+{
+"tok": "concedere",
+"n": "6"
+},
+{
+"tok": "cingere",
+"n": "5"
+},
+{
+"tok": "navigare",
+"n": "5"
+},
+{
+"tok": "fornire",
+"n": "20"
+},
+{
+"tok": "regione",
+"n": "16"
+},
+{
+"tok": "ornamento",
+"n": "11"
+},
+{
+"tok": "alcol",
+"n": "5"
+},
+{
+"tok": "pesce",
+"n": "55"
+},
+{
+"tok": "spettacolo",
+"n": "9"
+},
+{
+"tok": "artigiano",
+"n": "26"
+},
+{
+"tok": "facoltà",
+"n": "16"
+},
+{
+"tok": "svolgere",
+"n": "13"
+},
+{
+"tok": "trattare",
+"n": "13"
+},
+{
+"tok": "procedere",
+"n": "9"
+},
+{
+"tok": "toccare",
+"n": "5"
+},
+{
+"tok": "afferrare",
+"n": "9"
+},
+{
+"tok": "regola",
+"n": "7"
+},
+{
+"tok": "successione",
+"n": "12"
+},
+{
+"tok": "lanciare",
+"n": "17"
+},
+{
+"tok": "nucleo",
+"n": "6"
+},
+{
+"tok": "inserire",
+"n": "17"
+},
+{
+"tok": "pronunciare",
+"n": "17"
+},
+{
+"tok": "carica",
+"n": "22"
+},
+{
+"tok": "ottenere",
+"n": "23"
+},
+{
+"tok": "aspetto",
+"n": "15"
+},
+{
+"tok": "spingere",
+"n": "12"
+},
+{
+"tok": "presso",
+"n": "12"
+},
+{
+"tok": "vasca",
+"n": "8"
+},
+{
+"tok": "accompagnare",
+"n": "6"
+},
+{
+"tok": "difensore",
+"n": "5"
+},
+{
+"tok": "industria",
+"n": "9"
+},
+{
+"tok": "timore",
+"n": "10"
+},
+{
+"tok": "quelle",
+"n": "5"
+},
+{
+"tok": "fissare",
+"n": "10"
+},
+{
+"tok": "ascoltare",
+"n": "12"
+},
+{
+"tok": "gettare",
+"n": "8"
+},
+{
+"tok": "lavora",
+"n": "12"
+},
+{
+"tok": "ragazzo",
+"n": "45"
+},
+{
+"tok": "riportare",
+"n": "9"
+},
+{
+"tok": "mescolanza",
+"n": "9"
+},
+{
+"tok": "piano",
+"n": "17"
+},
+{
+"tok": "uccidere",
+"n": "14"
+},
+{
+"tok": "dolce",
+"n": "33"
+},
+{
+"tok": "organismo",
+"n": "30"
+},
+{
+"tok": "esercitare",
+"n": "24"
+},
+{
+"tok": "compilare",
+"n": "7"
+},
+{
+"tok": "ricavare",
+"n": "5"
+},
+{
+"tok": "potere",
+"n": "8"
+},
+{
+"tok": "necrosi",
+"n": "5"
+},
+{
+"tok": "intossicazione",
+"n": "29"
+},
+{
+"tok": "tutta",
+"n": "9"
+},
+{
+"tok": "rumore",
+"n": "22"
+},
+{
+"tok": "portare",
+"n": "65"
+},
+{
+"tok": "manuale",
+"n": "5"
+},
+{
+"tok": "consultare",
+"n": "19"
+},
+{
+"tok": "nominare",
+"n": "5"
+},
+{
+"tok": "centro",
+"n": "11"
+},
+{
+"tok": "procedura",
+"n": "7"
+},
+{
+"tok": "ornare",
+"n": "12"
+},
+{
+"tok": "collaboratore",
+"n": "5"
+},
+{
+"tok": "bruciare",
+"n": "8"
+},
+{
+"tok": "forza",
+"n": "14"
+},
+{
+"tok": "ernia",
+"n": "7"
+},
+{
+"tok": "grave",
+"n": "20"
+},
+{
+"tok": "produzione",
+"n": "14"
+},
+{
+"tok": "tempo",
+"n": "19"
+},
+{
+"tok": "senso",
+"n": "11"
+},
+{
+"tok": "contrarre",
+"n": "9"
+},
+{
+"tok": "commissione",
+"n": "5"
+},
+{
+"tok": "guadagnare",
+"n": "7"
+},
+{
+"tok": "montare",
+"n": "7"
+},
+{
+"tok": "desiderio",
+"n": "17"
+},
+{
+"tok": "ciascun",
+"n": "21"
+},
+{
+"tok": "vetro",
+"n": "5"
+},
+{
+"tok": "degno",
+"n": "11"
+},
+{
+"tok": "bambina",
+"n": "15"
+},
+{
+"tok": "sclerosi",
+"n": "7"
+},
+{
+"tok": "tutte",
+"n": "7"
+},
+{
+"tok": "atto,",
+"n": "21"
+},
+{
+"tok": "comunicazione",
+"n": "10"
+},
+{
+"tok": "morire",
+"n": "17"
+},
+{
+"tok": "impresa",
+"n": "6"
+},
+{
+"tok": "autrice",
+"n": "7"
+},
+{
+"tok": "falda",
+"n": "5"
+},
+{
+"tok": "battere",
+"n": "14"
+},
+{
+"tok": "fotografia",
+"n": "10"
+},
+{
+"tok": "gelato",
+"n": "10"
+},
+{
+"tok": "biscotto",
+"n": "6"
+},
+{
+"tok": "porre",
+"n": "17"
+},
+{
+"tok": "ballo",
+"n": "9"
+},
+{
+"tok": "tornare",
+"n": "12"
+},
+{
+"tok": "suonatore",
+"n": "33"
+},
+{
+"tok": "infilare",
+"n": "6"
+},
+{
+"tok": "parere",
+"n": "6"
+},
+{
+"tok": "movimenti",
+"n": "7"
+},
+{
+"tok": "maestro",
+"n": "5"
+},
+{
+"tok": "velivolo",
+"n": "12"
+},
+{
+"tok": "mobile",
+"n": "35"
+},
+{
+"tok": "cecità",
+"n": "5"
+},
+{
+"tok": "stato,",
+"n": "9"
+},
+{
+"tok": "alcuni",
+"n": "8"
+},
+{
+"tok": "abbassare",
+"n": "7"
+},
+{
+"tok": "linguaggio",
+"n": "12"
+},
+{
+"tok": "scuola",
+"n": "8"
+},
+{
+"tok": "antibiotico",
+"n": "7"
+},
+{
+"tok": "causare",
+"n": "28"
+},
+{
+"tok": "ferire",
+"n": "6"
+},
+{
+"tok": "introduzione",
+"n": "6"
+},
+{
+"tok": "filosofo",
+"n": "10"
+},
+{
+"tok": "secrezione",
+"n": "8"
+},
+{
+"tok": "rettile",
+"n": "11"
+},
+{
+"tok": "relazione",
+"n": "13"
+},
+{
+"tok": "errore",
+"n": "10"
+},
+{
+"tok": "ammasso",
+"n": "7"
+},
+{
+"tok": "luogo,",
+"n": "7"
+},
+{
+"tok": "lavare",
+"n": "6"
+},
+{
+"tok": "proprietario",
+"n": "10"
+},
+{
+"tok": "cinghia",
+"n": "6"
+},
+{
+"tok": "adattare",
+"n": "6"
+},
+{
+"tok": "emissione",
+"n": "11"
+},
+{
+"tok": "dilatazione",
+"n": "10"
+},
+{
+"tok": "sorta",
+"n": "12"
+},
+{
+"tok": "suscitare",
+"n": "7"
+},
+{
+"tok": "opera",
+"n": "45"
+},
+{
+"tok": "mostrare",
+"n": "10"
+},
+{
+"tok": "allievo",
+"n": "6"
+},
+{
+"tok": "durante",
+"n": "19"
+},
+{
+"tok": "ufficio",
+"n": "24"
+},
+{
+"tok": "particella",
+"n": "10"
+},
+{
+"tok": "risultato",
+"n": "7"
+},
+{
+"tok": "settore",
+"n": "24"
+},
+{
+"tok": "dotato",
+"n": "19"
+},
+{
+"tok": "stanza",
+"n": "17"
+},
+{
+"tok": "decorare",
+"n": "7"
+},
+{
+"tok": "danneggiare,",
+"n": "7"
+},
+{
+"tok": "palazzo",
+"n": "7"
+},
+{
+"tok": "sindrome",
+"n": "7"
+},
+{
+"tok": "affrontare",
+"n": "7"
+},
+{
+"tok": "conduttura",
+"n": "5"
+},
+{
+"tok": "patologia",
+"n": "6"
+},
+{
+"tok": "dichiarazione",
+"n": "7"
+},
+{
+"tok": "motivo",
+"n": "9"
+},
+{
+"tok": "ghiandola",
+"n": "12"
+},
+{
+"tok": "eretico",
+"n": "5"
+},
+{
+"tok": "pubblicazione",
+"n": "9"
+},
+{
+"tok": "cucire",
+"n": "6"
+},
+{
+"tok": "sollevare",
+"n": "12"
+},
+{
+"tok": "apparato",
+"n": "8"
+},
+{
+"tok": "copertura",
+"n": "12"
+},
+{
+"tok": "uscire",
+"n": "8"
+},
+{
+"tok": "questi",
+"n": "12"
+},
+{
+"tok": "ricerca",
+"n": "9"
+},
+{
+"tok": "eccesso",
+"n": "9"
+},
+{
+"tok": "eruzione",
+"n": "5"
+},
+{
+"tok": "piegare",
+"n": "7"
+},
+{
+"tok": "giudicare",
+"n": "9"
+},
+{
+"tok": "sacerdote",
+"n": "14"
+},
+{
+"tok": "focaccia",
+"n": "6"
+},
+{
+"tok": "minestra",
+"n": "7"
+},
+{
+"tok": "studente",
+"n": "13"
+},
+{
+"tok": "apprendere",
+"n": "8"
+},
+{
+"tok": "armonizzare",
+"n": "5"
+},
+{
+"tok": "recitare",
+"n": "9"
+},
+{
+"tok": "nuotatore",
+"n": "8"
+},
+{
+"tok": "modello",
+"n": "11"
+},
+{
+"tok": "reazione",
+"n": "21"
+},
+{
+"tok": "causa",
+"n": "5"
+},
+{
+"tok": "cappotto",
+"n": "9"
+},
+{
+"tok": "autore",
+"n": "34"
+},
+{
+"tok": "solido",
+"n": "6"
+},
+{
+"tok": "accordo",
+"n": "13"
+},
+{
+"tok": "rinunciare",
+"n": "5"
+},
+{
+"tok": "guardia",
+"n": "10"
+},
+{
+"tok": "pietanza",
+"n": "11"
+},
+{
+"tok": "ampio",
+"n": "8"
+},
+{
+"tok": "insegnante",
+"n": "7"
+},
+{
+"tok": "degli",
+"n": "5"
+},
+{
+"tok": "impiegare",
+"n": "7"
+},
+{
+"tok": "coppia",
+"n": "9"
+},
+{
+"tok": "infuso",
+"n": "5"
+},
+{
+"tok": "conservare",
+"n": "5"
+},
+{
+"tok": "mantenere",
+"n": "8"
+},
+{
+"tok": "girare",
+"n": "17"
+},
+{
+"tok": "separare",
+"n": "10"
+},
+{
+"tok": "staccare",
+"n": "9"
+},
+{
+"tok": "modellare",
+"n": "5"
+},
+{
+"tok": "pezzetto",
+"n": "6"
+},
+{
+"tok": "consumare",
+"n": "8"
+},
+{
+"tok": "rimuovere",
+"n": "8"
+},
+{
+"tok": "appendice",
+"n": "8"
+},
+{
+"tok": "sentire",
+"n": "17"
+},
+{
+"tok": "cogliere",
+"n": "11"
+},
+{
+"tok": "concepire",
+"n": "5"
+},
+{
+"tok": "restare",
+"n": "6"
+},
+{
+"tok": "crescere",
+"n": "5"
+},
+{
+"tok": "inviare",
+"n": "11"
+},
+{
+"tok": "scala",
+"n": "7"
+},
+{
+"tok": "calcare",
+"n": "5"
+},
+{
+"tok": "maiale",
+"n": "5"
+},
+{
+"tok": "operatore",
+"n": "12"
+},
+{
+"tok": "riconoscere",
+"n": "13"
+},
+{
+"tok": "ideologia",
+"n": "12"
+},
+{
+"tok": "frammento",
+"n": "5"
+},
+{
+"tok": "legame",
+"n": "7"
+},
+{
+"tok": "collegare",
+"n": "10"
+},
+{
+"tok": "speciale",
+"n": "9"
+},
+{
+"tok": "cucinare",
+"n": "17"
+},
+{
+"tok": "cassa",
+"n": "8"
+},
+{
+"tok": "offendere",
+"n": "10"
+},
+{
+"tok": "ispessimento",
+"n": "6"
+},
+{
+"tok": "sciocco,",
+"n": "5"
+},
+{
+"tok": "bottega",
+"n": "6"
+},
+{
+"tok": "ipertrofia",
+"n": "6"
+},
+{
+"tok": "sporgenza",
+"n": "8"
+},
+{
+"tok": "secondo",
+"n": "16"
+},
+{
+"tok": "conseguire",
+"n": "7"
+},
+{
+"tok": "temperatura",
+"n": "6"
+},
+{
+"tok": "stampa",
+"n": "6"
+},
+{
+"tok": "danza",
+"n": "11"
+},
+{
+"tok": "scuotere",
+"n": "5"
+},
+{
+"tok": "creazione",
+"n": "5"
+},
+{
+"tok": "rimedio",
+"n": "6"
+},
+{
+"tok": "interpretare",
+"n": "10"
+},
+{
+"tok": "motore",
+"n": "7"
+},
+{
+"tok": "desiderare",
+"n": "12"
+},
+{
+"tok": "ambire",
+"n": "16"
+},
+{
+"tok": "creditore",
+"n": "6"
+},
+{
+"tok": "agitare",
+"n": "7"
+},
+{
+"tok": "cavita'",
+"n": "9"
+},
+{
+"tok": "superficie",
+"n": "20"
+},
+{
+"tok": "momento",
+"n": "12"
+},
+{
+"tok": "simpatizzante",
+"n": "8"
+},
+{
+"tok": "pista",
+"n": "7"
+},
+{
+"tok": "paese",
+"n": "8"
+},
+{
+"tok": "orologio",
+"n": "5"
+},
+{
+"tok": "presentare",
+"n": "7"
+},
+{
+"tok": "comandante",
+"n": "6"
+},
+{
+"tok": "formare",
+"n": "7"
+},
+{
+"tok": "vedere",
+"n": "8"
+},
+{
+"tok": "imporre",
+"n": "7"
+},
+{
+"tok": "serpente",
+"n": "8"
+},
+{
+"tok": "religiosa",
+"n": "6"
+},
+{
+"tok": "usanze",
+"n": "5"
+},
+{
+"tok": "testo",
+"n": "22"
+},
+{
+"tok": "comporre",
+"n": "9"
+},
+{
+"tok": "discutere",
+"n": "6"
+},
+{
+"tok": "liberarsi",
+"n": "10"
+},
+{
+"tok": "giornalista",
+"n": "8"
+},
+{
+"tok": "visitare",
+"n": "26"
+},
+{
+"tok": "canto",
+"n": "6"
+},
+{
+"tok": "rimanere",
+"n": "11"
+},
+{
+"tok": "hanno",
+"n": "19"
+},
+{
+"tok": "responsabile",
+"n": "5"
+},
+{
+"tok": "inseguire",
+"n": "8"
+},
+{
+"tok": "assumere",
+"n": "18"
+},
+{
+"tok": "cilindro",
+"n": "7"
+},
+{
+"tok": "mirare",
+"n": "5"
+},
+{
+"tok": "aspirare",
+"n": "13"
+},
+{
+"tok": "eccessiva",
+"n": "7"
+},
+{
+"tok": "cappello",
+"n": "13"
+},
+{
+"tok": "calcolare",
+"n": "12"
+},
+{
+"tok": "regolare",
+"n": "6"
+},
+{
+"tok": "servizio",
+"n": "15"
+},
+{
+"tok": "distruggere",
+"n": "6"
+},
+{
+"tok": "raccogliere",
+"n": "23"
+},
+{
+"tok": "spasmo",
+"n": "6"
+},
+{
+"tok": "contadino",
+"n": "5"
+},
+{
+"tok": "densimetro",
+"n": "5"
+},
+{
+"tok": "frequenza",
+"n": "5"
+},
+{
+"tok": "migliorare",
+"n": "5"
+},
+{
+"tok": "nevralgia",
+"n": "8"
+},
+{
+"tok": "campo",
+"n": "11"
+},
+{
+"tok": "maniera",
+"n": "5"
+},
+{
+"tok": "effettuare",
+"n": "12"
+},
+{
+"tok": "attitudine",
+"n": "9"
+},
+{
+"tok": "funzionario",
+"n": "16"
+},
+{
+"tok": "predisposizione",
+"n": "5"
+},
+{
+"tok": "lento",
+"n": "5"
+},
+{
+"tok": "minerale",
+"n": "17"
+},
+{
+"tok": "legge",
+"n": "5"
+},
+{
+"tok": "bastoncino",
+"n": "9"
+},
+{
+"tok": "enzima",
+"n": "5"
+},
+{
+"tok": "diffusione",
+"n": "6"
+},
+{
+"tok": "quantita'",
+"n": "17"
+},
+{
+"tok": "partecipare",
+"n": "10"
+},
+{
+"tok": "tutti",
+"n": "7"
+},
+{
+"tok": "esplodere",
+"n": "5"
+},
+{
+"tok": "appendere",
+"n": "10"
+},
+{
+"tok": "trasmettere",
+"n": "5"
+},
+{
+"tok": "colpire,",
+"n": "5"
+},
+{
+"tok": "criticare",
+"n": "6"
+},
+{
+"tok": "bacino",
+"n": "6"
+},
+{
+"tok": "stipendio",
+"n": "5"
+},
+{
+"tok": "praticare",
+"n": "8"
+},
+{
+"tok": "carbonato",
+"n": "6"
+},
+{
+"tok": "l'attività",
+"n": "5"
+},
+{
+"tok": "ricco",
+"n": "6"
+},
+{
+"tok": "l'esercito",
+"n": "7"
+},
+{
+"tok": "carta",
+"n": "18"
+},
+{
+"tok": "cosmetico",
+"n": "9"
+},
+{
+"tok": "creatura",
+"n": "5"
+},
+{
+"tok": "l'uso",
+"n": "7"
+},
+{
+"tok": "avvicinare",
+"n": "5"
+},
+{
+"tok": "indica",
+"n": "6"
+},
+{
+"tok": "proteina",
+"n": "5"
+},
+{
+"tok": "categoria",
+"n": "18"
+},
+{
+"tok": "tradizione",
+"n": "26"
+},
+{
+"tok": "ampia",
+"n": "18"
+},
+{
+"tok": "l'esplosione",
+"n": "5"
+},
+{
+"tok": "l'urto",
+"n": "6"
+},
+{
+"tok": "l'edificio",
+"n": "9"
+},
+{
+"tok": "allontanare",
+"n": "8"
+},
+{
+"tok": "aspetto,",
+"n": "5"
+},
+{
+"tok": "smettere",
+"n": "6"
+},
+{
+"tok": "abbandonare",
+"n": "7"
+},
+{
+"tok": "stile",
+"n": "24"
+},
+{
+"tok": "preparare",
+"n": "27"
+},
+{
+"tok": "manipolare",
+"n": "5"
+},
+{
+"tok": "lungo",
+"n": "8"
+},
+{
+"tok": "dividere",
+"n": "20"
+},
+{
+"tok": "molte",
+"n": "7"
+},
+{
+"tok": "dell'",
+"n": "6"
+},
+{
+"tok": "accennare",
+"n": "6"
+},
+{
+"tok": "poliedro",
+"n": "7"
+},
+{
+"tok": "pescare",
+"n": "7"
+},
+{
+"tok": "terzo",
+"n": "6"
+},
+{
+"tok": "richiedere",
+"n": "5"
+},
+{
+"tok": "applicarsi",
+"n": "5"
+},
+{
+"tok": "impegnarsi",
+"n": "7"
+},
+{
+"tok": "nascondere",
+"n": "8"
+},
+{
+"tok": "personaggio",
+"n": "28"
+},
+{
+"tok": "indossava",
+"n": "5"
+},
+{
+"tok": "polvere",
+"n": "11"
+},
+{
+"tok": "artigiana",
+"n": "11"
+},
+{
+"tok": "ritenere",
+"n": "7"
+},
+{
+"tok": "carlo",
+"n": "10"
+},
+{
+"tok": "agitazione",
+"n": "5"
+},
+{
+"tok": "terra",
+"n": "6"
+},
+{
+"tok": "vestito",
+"n": "9"
+},
+{
+"tok": "eresia",
+"n": "7"
+},
+{
+"tok": "liquore",
+"n": "16"
+},
+{
+"tok": "divertirsi",
+"n": "5"
+},
+{
+"tok": "pittore",
+"n": "30"
+},
+{
+"tok": "ormone",
+"n": "18"
+},
+{
+"tok": "avvocato",
+"n": "8"
+},
+{
+"tok": "alcaloide",
+"n": "8"
+},
+{
+"tok": "norma",
+"n": "7"
+},
+{
+"tok": "azione,",
+"n": "9"
+},
+{
+"tok": "l'azione",
+"n": "7"
+},
+{
+"tok": "fondere",
+"n": "5"
+},
+{
+"tok": "rappresentare",
+"n": "7"
+},
+{
+"tok": "conoscenza",
+"n": "5"
+},
+{
+"tok": "dipinto",
+"n": "8"
+},
+{
+"tok": "ritirare",
+"n": "6"
+},
+{
+"tok": "gabbia",
+"n": "5"
+},
+{
+"tok": "sottile",
+"n": "13"
+},
+{
+"tok": "fumare",
+"n": "5"
+},
+{
+"tok": "ricostruire",
+"n": "5"
+},
+{
+"tok": "certificato",
+"n": "5"
+},
+{
+"tok": "interrompere",
+"n": "9"
+},
+{
+"tok": "accostare",
+"n": "8"
+},
+{
+"tok": "serie",
+"n": "26"
+},
+{
+"tok": "servire",
+"n": "5"
+},
+{
+"tok": "ricoverare",
+"n": "5"
+},
+{
+"tok": "madre",
+"n": "7"
+},
+{
+"tok": "limite",
+"n": "6"
+},
+{
+"tok": "soggetto",
+"n": "8"
+},
+{
+"tok": "avvenimento",
+"n": "14"
+},
+{
+"tok": "distinguere",
+"n": "6"
+},
+{
+"tok": "cessare",
+"n": "13"
+},
+{
+"tok": "stringere",
+"n": "11"
+},
+{
+"tok": "sciogliere",
+"n": "11"
+},
+{
+"tok": "valutare",
+"n": "6"
+},
+{
+"tok": "messaggio",
+"n": "6"
+},
+{
+"tok": "copricapo",
+"n": "15"
+},
+{
+"tok": "estrarre",
+"n": "9"
+},
+{
+"tok": "danno",
+"n": "6"
+},
+{
+"tok": "segnale",
+"n": "9"
+},
+{
+"tok": "ostacolare",
+"n": "5"
+},
+{
+"tok": "caratterizzato",
+"n": "13"
+},
+{
+"tok": "ridursi",
+"n": "9"
+},
+{
+"tok": "letto",
+"n": "9"
+},
+{
+"tok": "porzione",
+"n": "13"
+},
+{
+"tok": "l'attore",
+"n": "5"
+},
+{
+"tok": "pannello",
+"n": "5"
+},
+{
+"tok": "escrescenza",
+"n": "7"
+},
+{
+"tok": "pilota",
+"n": "12"
+},
+{
+"tok": "località",
+"n": "46"
+},
+{
+"tok": "organizzare",
+"n": "9"
+},
+{
+"tok": "determinazione",
+"n": "7"
+},
+{
+"tok": "laboratorio",
+"n": "15"
+},
+{
+"tok": "condire",
+"n": "6"
+},
+{
+"tok": "avvelenamento",
+"n": "6"
+},
+{
+"tok": "riparo",
+"n": "6"
+},
+{
+"tok": "piega",
+"n": "5"
+},
+{
+"tok": "sguardo",
+"n": "7"
+},
+{
+"tok": "tentativo",
+"n": "5"
+},
+{
+"tok": "membrana",
+"n": "17"
+},
+{
+"tok": "celebrare",
+"n": "7"
+},
+{
+"tok": "appartamento",
+"n": "5"
+},
+{
+"tok": "nell'antichità,",
+"n": "5"
+},
+{
+"tok": "osservatorio",
+"n": "6"
+},
+{
+"tok": "popolo",
+"n": "5"
+},
+{
+"tok": "femmina",
+"n": "11"
+},
+{
+"tok": "ragionamento",
+"n": "7"
+},
+{
+"tok": "esaminare",
+"n": "10"
+},
+{
+"tok": "combattere",
+"n": "6"
+},
+{
+"tok": "indagare",
+"n": "6"
+},
+{
+"tok": "silicato",
+"n": "6"
+},
+{
+"tok": "originario",
+"n": "17"
+},
+{
+"tok": "raccontare",
+"n": "11"
+},
+{
+"tok": "soffre",
+"n": "9"
+},
+{
+"tok": "accertare",
+"n": "5"
+},
+{
+"tok": "l'incendio",
+"n": "6"
+},
+{
+"tok": "automobile",
+"n": "16"
+},
+{
+"tok": "venire",
+"n": "13"
+},
+{
+"tok": "recettore",
+"n": "6"
+},
+{
+"tok": "l'istituzione",
+"n": "5"
+},
+{
+"tok": "imposta",
+"n": "8"
+},
+{
+"tok": "grandezza",
+"n": "5"
+},
+{
+"tok": "comune",
+"n": "5"
+},
+{
+"tok": "giorno",
+"n": "7"
+},
+{
+"tok": "calzatura",
+"n": "11"
+},
+{
+"tok": "l'uomo",
+"n": "10"
+},
+{
+"tok": "rilevare",
+"n": "9"
+},
+{
+"tok": "carrozza",
+"n": "7"
+},
+{
+"tok": "consegnare",
+"n": "12"
+},
+{
+"tok": "godere",
+"n": "5"
+},
+{
+"tok": "tenda",
+"n": "7"
+},
+{
+"tok": "prolungamento",
+"n": "5"
+},
+{
+"tok": "entità",
+"n": "6"
+},
+{
+"tok": "disputare",
+"n": "5"
+},
+{
+"tok": "spiegare",
+"n": "6"
+},
+{
+"tok": "abitudine",
+"n": "7"
+},
+{
+"tok": "principio",
+"n": "11"
+},
+{
+"tok": "articolo",
+"n": "6"
+},
+{
+"tok": "modificare",
+"n": "5"
+},
+{
+"tok": "gesto",
+"n": "8"
+},
+{
+"tok": "realizzare",
+"n": "8"
+},
+{
+"tok": "occupare",
+"n": "7"
+},
+{
+"tok": "deformazione",
+"n": "5"
+},
+{
+"tok": "maschio",
+"n": "5"
+},
+{
+"tok": "cantante",
+"n": "9"
+},
+{
+"tok": "informazione",
+"n": "7"
+},
+{
+"tok": "animo",
+"n": "5"
+},
+{
+"tok": "mandare",
+"n": "14"
+},
+{
+"tok": "drappo",
+"n": "9"
+},
+{
+"tok": "ammalarsi",
+"n": "11"
+},
+{
+"tok": "avvertire",
+"n": "8"
+},
+{
+"tok": "libertà",
+"n": "5"
+},
+{
+"tok": "scrittura",
+"n": "9"
+},
+{
+"tok": "angolo",
+"n": "7"
+},
+{
+"tok": "seconda",
+"n": "6"
+},
+{
+"tok": "permesso",
+"n": "7"
+},
+{
+"tok": "ponte",
+"n": "5"
+},
+{
+"tok": "esprimersi",
+"n": "5"
+},
+{
+"tok": "vincere",
+"n": "7"
+},
+{
+"tok": "galleria",
+"n": "6"
+},
+{
+"tok": "lineamenti",
+"n": "5"
+},
+{
+"tok": "premere",
+"n": "9"
+},
+{
+"tok": "descrizione",
+"n": "16"
+},
+{
+"tok": "parete",
+"n": "7"
+},
+{
+"tok": "sbarra",
+"n": "7"
+},
+{
+"tok": "paziente",
+"n": "7"
+},
+{
+"tok": "quarto",
+"n": "5"
+},
+{
+"tok": "abituare",
+"n": "6"
+},
+{
+"tok": "mercato",
+"n": "7"
+},
+{
+"tok": "costituito",
+"n": "5"
+},
+{
+"tok": "occuparsi",
+"n": "5"
+},
+{
+"tok": "valore",
+"n": "18"
+},
+{
+"tok": "sportello",
+"n": "5"
+},
+{
+"tok": "delle",
+"n": "9"
+},
+{
+"tok": "usanza",
+"n": "23"
+},
+{
+"tok": "cacciare",
+"n": "5"
+},
+{
+"tok": "altezza",
+"n": "5"
+},
+{
+"tok": "superiore",
+"n": "5"
+},
+{
+"tok": "rompere",
+"n": "6"
+},
+{
+"tok": "trascorrere",
+"n": "6"
+},
+{
+"tok": "corruzione",
+"n": "5"
+},
+{
+"tok": "stagione",
+"n": "5"
+},
+{
+"tok": "eliminazione",
+"n": "6"
+},
+{
+"tok": "capelli",
+"n": "6"
+},
+{
+"tok": "percorrere",
+"n": "7"
+},
+{
+"tok": "l'olio",
+"n": "6"
+},
+{
+"tok": "agitarsi",
+"n": "6"
+},
+{
+"tok": "trasformare",
+"n": "12"
+},
+{
+"tok": "creare",
+"n": "7"
+},
+{
+"tok": "scultura",
+"n": "5"
+},
+{
+"tok": "bisogna",
+"n": "5"
+},
+{
+"tok": "larva",
+"n": "13"
+},
+{
+"tok": "disegnatore",
+"n": "5"
+},
+{
+"tok": "vestirsi",
+"n": "8"
+},
+{
+"tok": "obbligare",
+"n": "7"
+},
+{
+"tok": "riuscire",
+"n": "8"
+},
+{
+"tok": "commerciare",
+"n": "5"
+},
+{
+"tok": "profondo",
+"n": "5"
+},
+{
+"tok": "apparecchiatura",
+"n": "14"
+},
+{
+"tok": "lubrificare",
+"n": "5"
+},
+{
+"tok": "sabbia",
+"n": "5"
+},
+{
+"tok": "queste",
+"n": "12"
+},
+{
+"tok": "società",
+"n": "6"
+},
+{
+"tok": "acqua",
+"n": "11"
+},
+{
+"tok": "sezione",
+"n": "8"
+},
+{
+"tok": "maschera",
+"n": "5"
+},
+{
+"tok": "esposizione",
+"n": "5"
+},
+{
+"tok": "spora",
+"n": "5"
+},
+{
+"tok": "correggere",
+"n": "5"
+},
+{
+"tok": "estremità",
+"n": "5"
+},
+{
+"tok": "città",
+"n": "9"
+},
+{
+"tok": "imbrogliare",
+"n": "5"
+},
+{
+"tok": "funzione",
+"n": "6"
+},
+{
+"tok": "sistemare",
+"n": "6"
+},
+{
+"tok": "apprezzare",
+"n": "5"
+},
+{
+"tok": "l'immagine",
+"n": "6"
+},
+{
+"tok": "razza",
+"n": "7"
+},
+{
+"tok": "astenersi",
+"n": "5"
+},
+{
+"tok": "evitare",
+"n": "5"
+},
+{
+"tok": "invitare",
+"n": "6"
+},
+{
+"tok": "analisi",
+"n": "6"
+},
+{
+"tok": "pietra",
+"n": "15"
+},
+{
+"tok": "fossa",
+"n": "6"
+},
+{
+"tok": "valore,",
+"n": "5"
+},
+{
+"tok": "zuppa",
+"n": "9"
+},
+{
+"tok": "corona",
+"n": "5"
+},
+{
+"tok": "diffondere",
+"n": "6"
+},
+{
+"tok": "periodico",
+"n": "5"
+},
+{
+"tok": "passeggiare",
+"n": "7"
+},
+{
+"tok": "l'ultimo",
+"n": "5"
+},
+{
+"tok": "completo",
+"n": "5"
+},
+{
+"tok": "fiume",
+"n": "6"
+},
+{
+"tok": "cassetta",
+"n": "7"
+},
+{
+"tok": "pantaloni",
+"n": "7"
+},
+{
+"tok": "infestazione",
+"n": "6"
+},
+{
+"tok": "picchiare",
+"n": "6"
+},
+{
+"tok": "gusto",
+"n": "6"
+},
+{
+"tok": "guidare",
+"n": "8"
+},
+{
+"tok": "chiamare",
+"n": "6"
+},
+{
+"tok": "individuare,",
+"n": "5"
+},
+{
+"tok": "vento",
+"n": "19"
+},
+{
+"tok": "rifiutare",
+"n": "6"
+},
+{
+"tok": "prima",
+"n": "9"
+},
+{
+"tok": "titolare",
+"n": "10"
+},
+{
+"tok": "frequentare",
+"n": "7"
+},
+{
+"tok": "segmento",
+"n": "8"
+},
+{
+"tok": "salsa",
+"n": "7"
+},
+{
+"tok": "andare,",
+"n": "6"
+},
+{
+"tok": "pianura",
+"n": "7"
+},
+{
+"tok": "coltivare",
+"n": "12"
+},
+{
+"tok": "contrasto",
+"n": "9"
+},
+{
+"tok": "rompersi",
+"n": "6"
+},
+{
+"tok": "continuare",
+"n": "7"
+},
+{
+"tok": "ciuffo",
+"n": "6"
+},
+{
+"tok": "versare",
+"n": "6"
+},
+{
+"tok": "dispositivo,",
+"n": "9"
+},
+{
+"tok": "colonna",
+"n": "5"
+},
+{
+"tok": "cattiva",
+"n": "5"
+},
+{
+"tok": "appoggiare",
+"n": "7"
+},
+{
+"tok": "trasferire",
+"n": "7"
+},
+{
+"tok": "spostarsi",
+"n": "7"
+},
+{
+"tok": "curva",
+"n": "8"
+},
+{
+"tok": "precipitazione",
+"n": "7"
+},
+{
+"tok": "malato",
+"n": "8"
+},
+{
+"tok": "corrispondere",
+"n": "7"
+},
+{
+"tok": "nascondersi",
+"n": "5"
+},
+{
+"tok": "soprannome",
+"n": "5"
+},
+{
+"tok": "regalare",
+"n": "9"
+},
+{
+"tok": "ricoprire",
+"n": "14"
+},
+{
+"tok": "scimmia",
+"n": "8"
+},
+{
+"tok": "percepire",
+"n": "10"
+},
+{
+"tok": "capacita'",
+"n": "9"
+},
+{
+"tok": "regime",
+"n": "5"
+},
+{
+"tok": "essenza",
+"n": "5"
+},
+{
+"tok": "nativa",
+"n": "6"
+},
+{
+"tok": "amministrare",
+"n": "6"
+},
+{
+"tok": "omosessuale",
+"n": "5"
+},
+{
+"tok": "intervenire",
+"n": "6"
+},
+{
+"tok": "fucile",
+"n": "7"
+},
+{
+"tok": "corda",
+"n": "7"
+},
+{
+"tok": "abbiamo",
+"n": "7"
+},
+{
+"tok": "clima",
+"n": "5"
+},
+{
+"tok": "trave",
+"n": "6"
+},
+{
+"tok": "distribuire",
+"n": "6"
+},
+{
+"tok": "ablazione",
+"n": "9"
+},
+{
+"tok": "dell'antica",
+"n": "5"
+},
+{
+"tok": "giocattolo",
+"n": "8"
+},
+{
+"tok": "dimostrare",
+"n": "7"
+},
+{
+"tok": "scambiare",
+"n": "6"
+},
+{
+"tok": "dirigere",
+"n": "7"
+},
+{
+"tok": "vagare",
+"n": "5"
+},
+{
+"tok": "riempirsi",
+"n": "5"
+},
+{
+"tok": "proprieta'",
+"n": "11"
+},
+{
+"tok": "decorazione",
+"n": "5"
+},
+{
+"tok": "percezione",
+"n": "5"
+},
+{
+"tok": "brano",
+"n": "8"
+},
+{
+"tok": "tendenza,",
+"n": "5"
+},
+{
+"tok": "fregare",
+"n": "5"
+},
+{
+"tok": "sedere",
+"n": "5"
+},
+{
+"tok": "articolazione",
+"n": "8"
+},
+{
+"tok": "nell'antico",
+"n": "8"
+},
+{
+"tok": "borsa",
+"n": "9"
+},
+{
+"tok": "fermare",
+"n": "6"
+},
+{
+"tok": "suddivisione",
+"n": "5"
+},
+{
+"tok": "affidare",
+"n": "7"
+},
+{
+"tok": "lasciar",
+"n": "5"
+},
+{
+"tok": "autorizzazione",
+"n": "5"
+},
+{
+"tok": "concludere",
+"n": "6"
+},
+{
+"tok": "asportare",
+"n": "5"
+},
+{
+"tok": "impasto",
+"n": "8"
+},
+{
+"tok": "misurazione",
+"n": "6"
+},
+{
+"tok": "degenerazione",
+"n": "7"
+},
+{
+"tok": "insaporire",
+"n": "6"
+},
+{
+"tok": "sciopero",
+"n": "5"
+},
+{
+"tok": "dichiarare",
+"n": "9"
+},
+{
+"tok": "ingannare",
+"n": "8"
+},
+{
+"tok": "distruzione",
+"n": "7"
+},
+{
+"tok": "fermaglio",
+"n": "7"
+},
+{
+"tok": "costume",
+"n": "7"
+},
+{
+"tok": "lanciarsi",
+"n": "5"
+},
+{
+"tok": "accumulare",
+"n": "6"
+},
+{
+"tok": "ferro",
+"n": "7"
+},
+{
+"tok": "fantoccio",
+"n": "5"
+},
+{
+"tok": "disco",
+"n": "6"
+},
+{
+"tok": "compilatore",
+"n": "5"
+},
+{
+"tok": "nipote",
+"n": "5"
+},
+{
+"tok": "insufficienza",
+"n": "6"
+},
+{
+"tok": "colei",
+"n": "8"
+},
+{
+"tok": "scambio",
+"n": "6"
+},
+{
+"tok": "l'imputato",
+"n": "5"
+},
+{
+"tok": "vegetazione",
+"n": "5"
+},
+{
+"tok": "ideare",
+"n": "5"
+},
+{
+"tok": "saltare",
+"n": "5"
+},
+{
+"tok": "smaltire",
+"n": "5"
+},
+{
+"tok": "spina",
+"n": "5"
+},
+{
+"tok": "annunciare",
+"n": "5"
+},
+{
+"tok": "partecipante",
+"n": "6"
+},
+{
+"tok": "escludere",
+"n": "5"
+},
+{
+"tok": "rimandare",
+"n": "5"
+},
+{
+"tok": "predisporre",
+"n": "5"
+},
+{
+"tok": "spiccare",
+"n": "5"
+}
+]

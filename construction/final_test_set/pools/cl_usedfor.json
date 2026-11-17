@@ -1,0 +1,11350 @@
+[
+{
+"wr": "lozione",
+"n": "1"
+},
+{
+"wr": "corsia",
+"n": "3"
+},
+{
+"wr": "commutatore",
+"n": "1"
+},
+{
+"wr": "fabbrica",
+"n": "1"
+},
+{
+"wr": "moto",
+"n": "1"
+},
+{
+"wr": "albo",
+"n": "1"
+},
+{
+"wr": "toscano",
+"n": "2"
+},
+{
+"wr": "cargo",
+"n": "1"
+},
+{
+"wr": "frigobar",
+"n": "1"
+},
+{
+"wr": "lucchetto",
+"n": "1"
+},
+{
+"wr": "ombrellino",
+"n": "1"
+},
+{
+"wr": "limnometro",
+"n": "1"
+},
+{
+"wr": "medaglietta",
+"n": "1"
+},
+{
+"wr": "indoeuropeo",
+"n": "1"
+},
+{
+"wr": "stilografica",
+"n": "1"
+},
+{
+"wr": "cava",
+"n": "1"
+},
+{
+"wr": "igrometro",
+"n": "1"
+},
+{
+"wr": "breve",
+"n": "1"
+},
+{
+"wr": "aureomicina",
+"n": "1"
+},
+{
+"wr": "portasigarette",
+"n": "1"
+},
+{
+"wr": "iole",
+"n": "2"
+},
+{
+"wr": "fax",
+"n": "2"
+},
+{
+"wr": "consultorio",
+"n": "1"
+},
+{
+"wr": "cinodromo",
+"n": "1"
+},
+{
+"wr": "motocisterna",
+"n": "1"
+},
+{
+"wr": "spartitraffico",
+"n": "1"
+},
+{
+"wr": "pecora",
+"n": "1"
+},
+{
+"wr": "campanello",
+"n": "1"
+},
+{
+"wr": "tavolozza",
+"n": "2"
+},
+{
+"wr": "insetticida",
+"n": "1"
+},
+{
+"wr": "coniglio",
+"n": "2"
+},
+{
+"wr": "casello",
+"n": "1"
+},
+{
+"wr": "vaccino",
+"n": "3"
+},
+{
+"wr": "portone",
+"n": "2"
+},
+{
+"wr": "spagnolo",
+"n": "1"
+},
+{
+"wr": "cloaca",
+"n": "2"
+},
+{
+"wr": "bilia",
+"n": "1"
+},
+{
+"wr": "orsacchiotto",
+"n": "1"
+},
+{
+"wr": "mussola",
+"n": "1"
+},
+{
+"wr": "galera",
+"n": "2"
+},
+{
+"wr": "innesco",
+"n": "1"
+},
+{
+"wr": "franco",
+"n": "1"
+},
+{
+"wr": "fotocopiatrice",
+"n": "1"
+},
+{
+"wr": "macina",
+"n": "1"
+},
+{
+"wr": "psichiatria",
+"n": "2"
+},
+{
+"wr": "recinzione",
+"n": "1"
+},
+{
+"wr": "cartiglio",
+"n": "1"
+},
+{
+"wr": "mohair",
+"n": "1"
+},
+{
+"wr": "finanziera",
+"n": "1"
+},
+{
+"wr": "botteghino",
+"n": "1"
+},
+{
+"wr": "ciclostile",
+"n": "1"
+},
+{
+"wr": "menù",
+"n": "1"
+},
+{
+"wr": "volgare",
+"n": "1"
+},
+{
+"wr": "imbarcazione",
+"n": "1"
+},
+{
+"wr": "cote",
+"n": "1"
+},
+{
+"wr": "catino",
+"n": "1"
+},
+{
+"wr": "lavagna",
+"n": "1"
+},
+{
+"wr": "zenzero",
+"n": "1"
+},
+{
+"wr": "sillabario",
+"n": "1"
+},
+{
+"wr": "impaginato",
+"n": "1"
+},
+{
+"wr": "esca",
+"n": "2"
+},
+{
+"wr": "manicomio",
+"n": "2"
+},
+{
+"wr": "colletto",
+"n": "1"
+},
+{
+"wr": "bocciodromo",
+"n": "1"
+},
+{
+"wr": "silurificio",
+"n": "1"
+},
+{
+"wr": "pirofila",
+"n": "1"
+},
+{
+"wr": "mangiatoia",
+"n": "2"
+},
+{
+"wr": "agnellino",
+"n": "1"
+},
+{
+"wr": "autobus",
+"n": "1"
+},
+{
+"wr": "figurina",
+"n": "1"
+},
+{
+"wr": "cattedrale",
+"n": "1"
+},
+{
+"wr": "pompa",
+"n": "1"
+},
+{
+"wr": "ventisei",
+"n": "1"
+},
+{
+"wr": "palloncino",
+"n": "2"
+},
+{
+"wr": "biberon",
+"n": "1"
+},
+{
+"wr": "dodici",
+"n": "1"
+},
+{
+"wr": "relazione",
+"n": "1"
+},
+{
+"wr": "istanza",
+"n": "1"
+},
+{
+"wr": "angora",
+"n": "1"
+},
+{
+"wr": "bombarda",
+"n": "1"
+},
+{
+"wr": "gazzella",
+"n": "1"
+},
+{
+"wr": "battistero",
+"n": "1"
+},
+{
+"wr": "galeone",
+"n": "1"
+},
+{
+"wr": "giunca",
+"n": "1"
+},
+{
+"wr": "uccelliera",
+"n": "1"
+},
+{
+"wr": "cachemire",
+"n": "1"
+},
+{
+"wr": "guantone",
+"n": "1"
+},
+{
+"wr": "uncino",
+"n": "2"
+},
+{
+"wr": "casotto",
+"n": "1"
+},
+{
+"wr": "caffettiera",
+"n": "3"
+},
+{
+"wr": "soldo",
+"n": "1"
+},
+{
+"wr": "autoblindo",
+"n": "1"
+},
+{
+"wr": "fascia",
+"n": "1"
+},
+{
+"wr": "tomaificio",
+"n": "1"
+},
+{
+"wr": "siero",
+"n": "1"
+},
+{
+"wr": "flanella",
+"n": "1"
+},
+{
+"wr": "cardiofrequenzimetro",
+"n": "1"
+},
+{
+"wr": "calderone",
+"n": "1"
+},
+{
+"wr": "manica",
+"n": "1"
+},
+{
+"wr": "taverna",
+"n": "1"
+},
+{
+"wr": "grilletto",
+"n": "1"
+},
+{
+"wr": "scrittoio",
+"n": "2"
+},
+{
+"wr": "motoveicolo",
+"n": "1"
+},
+{
+"wr": "oleificio",
+"n": "1"
+},
+{
+"wr": "quarantuno",
+"n": "1"
+},
+{
+"wr": "borraccia",
+"n": "1"
+},
+{
+"wr": "novecento",
+"n": "1"
+},
+{
+"wr": "francobollo",
+"n": "1"
+},
+{
+"wr": "irroratore",
+"n": "1"
+},
+{
+"wr": "scarpiera",
+"n": "1"
+},
+{
+"wr": "lumino",
+"n": "1"
+},
+{
+"wr": "spia",
+"n": "1"
+},
+{
+"wr": "punteruolo",
+"n": "1"
+},
+{
+"wr": "seggiola",
+"n": "2"
+},
+{
+"wr": "cannoniera",
+"n": "1"
+},
+{
+"wr": "uncinetto",
+"n": "1"
+},
+{
+"wr": "cartamoneta",
+"n": "1"
+},
+{
+"wr": "novantasei",
+"n": "1"
+},
+{
+"wr": "traino",
+"n": "1"
+},
+{
+"wr": "stipetto",
+"n": "2"
+},
+{
+"wr": "asciugacapelli",
+"n": "1"
+},
+{
+"wr": "automezzo",
+"n": "1"
+},
+{
+"wr": "brefotrofio",
+"n": "1"
+},
+{
+"wr": "antiepilettico",
+"n": "1"
+},
+{
+"wr": "tazzina",
+"n": "1"
+},
+{
+"wr": "savonese",
+"n": "1"
+},
+{
+"wr": "filatoio",
+"n": "1"
+},
+{
+"wr": "sedici",
+"n": "1"
+},
+{
+"wr": "bambolotto",
+"n": "1"
+},
+{
+"wr": "zuccheriera",
+"n": "1"
+},
+{
+"wr": "lavacro",
+"n": "1"
+},
+{
+"wr": "foca",
+"n": "1"
+},
+{
+"wr": "gobelin",
+"n": "1"
+},
+{
+"wr": "calza",
+"n": "1"
+},
+{
+"wr": "autotreno",
+"n": "1"
+},
+{
+"wr": "documento",
+"n": "1"
+},
+{
+"wr": "piazzola",
+"n": "2"
+},
+{
+"wr": "francese",
+"n": "1"
+},
+{
+"wr": "televideo",
+"n": "2"
+},
+{
+"wr": "villa",
+"n": "1"
+},
+{
+"wr": "zolfanello",
+"n": "1"
+},
+{
+"wr": "latte",
+"n": "1"
+},
+{
+"wr": "biglietto",
+"n": "1"
+},
+{
+"wr": "agrumeto",
+"n": "1"
+},
+{
+"wr": "biro",
+"n": "1"
+},
+{
+"wr": "chiavistello",
+"n": "1"
+},
+{
+"wr": "bastone",
+"n": "1"
+},
+{
+"wr": "benzodiazepina",
+"n": "1"
+},
+{
+"wr": "coltellaccio",
+"n": "1"
+},
+{
+"wr": "vera",
+"n": "1"
+},
+{
+"wr": "inserto",
+"n": "1"
+},
+{
+"wr": "tugurio",
+"n": "1"
+},
+{
+"wr": "faro",
+"n": "1"
+},
+{
+"wr": "duemila",
+"n": "1"
+},
+{
+"wr": "quarantotto",
+"n": "1"
+},
+{
+"wr": "fondina",
+"n": "1"
+},
+{
+"wr": "binocolo",
+"n": "1"
+},
+{
+"wr": "filo",
+"n": "3"
+},
+{
+"wr": "pennello",
+"n": "2"
+},
+{
+"wr": "fuoristrada",
+"n": "1"
+},
+{
+"wr": "buratto",
+"n": "1"
+},
+{
+"wr": "turibolo",
+"n": "1"
+},
+{
+"wr": "motel",
+"n": "1"
+},
+{
+"wr": "teleferica",
+"n": "1"
+},
+{
+"wr": "lampadina",
+"n": "1"
+},
+{
+"wr": "chiatta",
+"n": "1"
+},
+{
+"wr": "ottantuno",
+"n": "1"
+},
+{
+"wr": "lampara",
+"n": "1"
+},
+{
+"wr": "organino",
+"n": "1"
+},
+{
+"wr": "cassetta",
+"n": "2"
+},
+{
+"wr": "nigeriano",
+"n": "1"
+},
+{
+"wr": "pillola",
+"n": "1"
+},
+{
+"wr": "maltese",
+"n": "1"
+},
+{
+"wr": "indumento",
+"n": "1"
+},
+{
+"wr": "lastricato",
+"n": "1"
+},
+{
+"wr": "castagneto",
+"n": "1"
+},
+{
+"wr": "casupola",
+"n": "1"
+},
+{
+"wr": "medicamento",
+"n": "1"
+},
+{
+"wr": "borsettificio",
+"n": "1"
+},
+{
+"wr": "pastorale",
+"n": "1"
+},
+{
+"wr": "tritacarne",
+"n": "1"
+},
+{
+"wr": "cruiser",
+"n": "1"
+},
+{
+"wr": "lapislazzuli",
+"n": "1"
+},
+{
+"wr": "sciarpa",
+"n": "1"
+},
+{
+"wr": "francesina",
+"n": "2"
+},
+{
+"wr": "lituano",
+"n": "1"
+},
+{
+"wr": "tenaglia",
+"n": "1"
+},
+{
+"wr": "utensile",
+"n": "1"
+},
+{
+"wr": "falsariga",
+"n": "1"
+},
+{
+"wr": "padiglione",
+"n": "1"
+},
+{
+"wr": "villetta",
+"n": "1"
+},
+{
+"wr": "bauletto",
+"n": "1"
+},
+{
+"wr": "stilo",
+"n": "1"
+},
+{
+"wr": "imbottita",
+"n": "2"
+},
+{
+"wr": "bivacco",
+"n": "1"
+},
+{
+"wr": "groenlandese",
+"n": "1"
+},
+{
+"wr": "colatoio",
+"n": "1"
+},
+{
+"wr": "grossetano",
+"n": "1"
+},
+{
+"wr": "zuppiera",
+"n": "1"
+},
+{
+"wr": "felpa",
+"n": "2"
+},
+{
+"wr": "sintetizzatore",
+"n": "1"
+},
+{
+"wr": "aspirabriciole",
+"n": "1"
+},
+{
+"wr": "raschiatoio",
+"n": "1"
+},
+{
+"wr": "siamese",
+"n": "1"
+},
+{
+"wr": "emblema",
+"n": "1"
+},
+{
+"wr": "sale",
+"n": "2"
+},
+{
+"wr": "vallone",
+"n": "1"
+},
+{
+"wr": "inglese",
+"n": "1"
+},
+{
+"wr": "bomba",
+"n": "1"
+},
+{
+"wr": "suolificio",
+"n": "1"
+},
+{
+"wr": "soprammobile",
+"n": "1"
+},
+{
+"wr": "microscopio",
+"n": "2"
+},
+{
+"wr": "pialla",
+"n": "1"
+},
+{
+"wr": "maxicappotto",
+"n": "1"
+},
+{
+"wr": "navicella",
+"n": "3"
+},
+{
+"wr": "spada",
+"n": "1"
+},
+{
+"wr": "pendolino",
+"n": "2"
+},
+{
+"wr": "salvia",
+"n": "1"
+},
+{
+"wr": "cavicchio",
+"n": "1"
+},
+{
+"wr": "coltellino",
+"n": "1"
+},
+{
+"wr": "pagina",
+"n": "1"
+},
+{
+"wr": "birillo",
+"n": "2"
+},
+{
+"wr": "scatola",
+"n": "1"
+},
+{
+"wr": "straccio",
+"n": "1"
+},
+{
+"wr": "ago",
+"n": "1"
+},
+{
+"wr": "grattacielo",
+"n": "2"
+},
+{
+"wr": "formicaio",
+"n": "1"
+},
+{
+"wr": "libello",
+"n": "1"
+},
+{
+"wr": "forcone",
+"n": "1"
+},
+{
+"wr": "varmetro",
+"n": "1"
+},
+{
+"wr": "danese",
+"n": "1"
+},
+{
+"wr": "euro",
+"n": "1"
+},
+{
+"wr": "brusca",
+"n": "1"
+},
+{
+"wr": "gasometro",
+"n": "1"
+},
+{
+"wr": "cannone",
+"n": "1"
+},
+{
+"wr": "quarantaquattro",
+"n": "1"
+},
+{
+"wr": "scure",
+"n": "1"
+},
+{
+"wr": "broccato",
+"n": "1"
+},
+{
+"wr": "cimiero",
+"n": "1"
+},
+{
+"wr": "trentanove",
+"n": "1"
+},
+{
+"wr": "cachet",
+"n": "2"
+},
+{
+"wr": "antitarmico",
+"n": "1"
+},
+{
+"wr": "telecomando",
+"n": "1"
+},
+{
+"wr": "scala",
+"n": "1"
+},
+{
+"wr": "scozzese",
+"n": "1"
+},
+{
+"wr": "portamine",
+"n": "2"
+},
+{
+"wr": "caravella",
+"n": "1"
+},
+{
+"wr": "serratura",
+"n": "1"
+},
+{
+"wr": "purga",
+"n": "1"
+},
+{
+"wr": "sette",
+"n": "1"
+},
+{
+"wr": "vasca",
+"n": "1"
+},
+{
+"wr": "bustino",
+"n": "1"
+},
+{
+"wr": "palcoscenico",
+"n": "1"
+},
+{
+"wr": "mondezzaio",
+"n": "1"
+},
+{
+"wr": "antireumatico",
+"n": "1"
+},
+{
+"wr": "fonografo",
+"n": "1"
+},
+{
+"wr": "quotidiano",
+"n": "1"
+},
+{
+"wr": "caseggiato",
+"n": "1"
+},
+{
+"wr": "specifica",
+"n": "1"
+},
+{
+"wr": "tovagliolo",
+"n": "1"
+},
+{
+"wr": "banconota",
+"n": "1"
+},
+{
+"wr": "trequarti",
+"n": "1"
+},
+{
+"wr": "pieve",
+"n": "1"
+},
+{
+"wr": "raccoglitore",
+"n": "1"
+},
+{
+"wr": "vademecum",
+"n": "1"
+},
+{
+"wr": "peso",
+"n": "1"
+},
+{
+"wr": "fusto",
+"n": "1"
+},
+{
+"wr": "necropoli",
+"n": "1"
+},
+{
+"wr": "fiorentino",
+"n": "1"
+},
+{
+"wr": "salina",
+"n": "1"
+},
+{
+"wr": "ponteggio",
+"n": "1"
+},
+{
+"wr": "scarpificio",
+"n": "1"
+},
+{
+"wr": "banchetto",
+"n": "1"
+},
+{
+"wr": "campana",
+"n": "1"
+},
+{
+"wr": "palmeto",
+"n": "1"
+},
+{
+"wr": "chinina",
+"n": "1"
+},
+{
+"wr": "tagliacarte",
+"n": "1"
+},
+{
+"wr": "incerata",
+"n": "2"
+},
+{
+"wr": "perla",
+"n": "1"
+},
+{
+"wr": "ciac",
+"n": "1"
+},
+{
+"wr": "istantanea",
+"n": "1"
+},
+{
+"wr": "vaglio",
+"n": "1"
+},
+{
+"wr": "fascicolo",
+"n": "1"
+},
+{
+"wr": "panierino",
+"n": "1"
+},
+{
+"wr": "levatartaro",
+"n": "1"
+},
+{
+"wr": "rubrica",
+"n": "1"
+},
+{
+"wr": "santuario",
+"n": "1"
+},
+{
+"wr": "erba",
+"n": "1"
+},
+{
+"wr": "depliant",
+"n": "1"
+},
+{
+"wr": "bibbia",
+"n": "1"
+},
+{
+"wr": "albergo",
+"n": "1"
+},
+{
+"wr": "libreria",
+"n": "3"
+},
+{
+"wr": "pelliccia",
+"n": "1"
+},
+{
+"wr": "chiesa",
+"n": "1"
+},
+{
+"wr": "giaciglio",
+"n": "1"
+},
+{
+"wr": "autobotte",
+"n": "1"
+},
+{
+"wr": "gergo",
+"n": "1"
+},
+{
+"wr": "anfetamina",
+"n": "1"
+},
+{
+"wr": "streptomicina",
+"n": "2"
+},
+{
+"wr": "bocchetta",
+"n": "1"
+},
+{
+"wr": "gondola",
+"n": "1"
+},
+{
+"wr": "mitraglietta",
+"n": "1"
+},
+{
+"wr": "lavatoio",
+"n": "1"
+},
+{
+"wr": "consonante",
+"n": "1"
+},
+{
+"wr": "lavapiatti",
+"n": "1"
+},
+{
+"wr": "alambicco",
+"n": "1"
+},
+{
+"wr": "propellente",
+"n": "1"
+},
+{
+"wr": "duecento",
+"n": "1"
+},
+{
+"wr": "taglietto",
+"n": "2"
+},
+{
+"wr": "fucina",
+"n": "1"
+},
+{
+"wr": "gabbia",
+"n": "1"
+},
+{
+"wr": "enciclopedia",
+"n": "1"
+},
+{
+"wr": "reggiseno",
+"n": "1"
+},
+{
+"wr": "sessantotto",
+"n": "1"
+},
+{
+"wr": "rotella",
+"n": "1"
+},
+{
+"wr": "mordente",
+"n": "1"
+},
+{
+"wr": "salotto",
+"n": "1"
+},
+{
+"wr": "camminamento",
+"n": "1"
+},
+{
+"wr": "mulino",
+"n": "1"
+},
+{
+"wr": "tromba",
+"n": "1"
+},
+{
+"wr": "bottiglia",
+"n": "1"
+},
+{
+"wr": "fiocco",
+"n": "1"
+},
+{
+"wr": "suinicoltura",
+"n": "1"
+},
+{
+"wr": "mollica",
+"n": "1"
+},
+{
+"wr": "buffa",
+"n": "1"
+},
+{
+"wr": "carbonite",
+"n": "1"
+},
+{
+"wr": "diciassette",
+"n": "1"
+},
+{
+"wr": "edizione",
+"n": "1"
+},
+{
+"wr": "fodera",
+"n": "1"
+},
+{
+"wr": "posta",
+"n": "1"
+},
+{
+"wr": "furgoncino",
+"n": "1"
+},
+{
+"wr": "pagoda",
+"n": "1"
+},
+{
+"wr": "biga",
+"n": "2"
+},
+{
+"wr": "ascia",
+"n": "1"
+},
+{
+"wr": "fiala",
+"n": "1"
+},
+{
+"wr": "dado",
+"n": "2"
+},
+{
+"wr": "martinetto",
+"n": "1"
+},
+{
+"wr": "crine",
+"n": "1"
+},
+{
+"wr": "goretex",
+"n": "1"
+},
+{
+"wr": "quadrimotore",
+"n": "1"
+},
+{
+"wr": "spartineve",
+"n": "1"
+},
+{
+"wr": "trousse",
+"n": "1"
+},
+{
+"wr": "mezzaluna",
+"n": "1"
+},
+{
+"wr": "condensatore",
+"n": "1"
+},
+{
+"wr": "giornale",
+"n": "3"
+},
+{
+"wr": "canard",
+"n": "1"
+},
+{
+"wr": "specimen",
+"n": "1"
+},
+{
+"wr": "tintoria",
+"n": "1"
+},
+{
+"wr": "portafoglio",
+"n": "1"
+},
+{
+"wr": "calice",
+"n": "1"
+},
+{
+"wr": "tegame",
+"n": "2"
+},
+{
+"wr": "toboga",
+"n": "2"
+},
+{
+"wr": "valium",
+"n": "1"
+},
+{
+"wr": "panchina",
+"n": "1"
+},
+{
+"wr": "casentino",
+"n": "2"
+},
+{
+"wr": "raspa",
+"n": "1"
+},
+{
+"wr": "sincronizzatore",
+"n": "1"
+},
+{
+"wr": "agrigentino",
+"n": "1"
+},
+{
+"wr": "certificato",
+"n": "1"
+},
+{
+"wr": "videotel",
+"n": "2"
+},
+{
+"wr": "maniero",
+"n": "2"
+},
+{
+"wr": "menu",
+"n": "1"
+},
+{
+"wr": "inchiostro",
+"n": "3"
+},
+{
+"wr": "cinquantatré",
+"n": "1"
+},
+{
+"wr": "pellicciotto",
+"n": "1"
+},
+{
+"wr": "biglietteria",
+"n": "1"
+},
+{
+"wr": "duomo",
+"n": "1"
+},
+{
+"wr": "telefonia",
+"n": "2"
+},
+{
+"wr": "sugherificio",
+"n": "1"
+},
+{
+"wr": "pipistrello",
+"n": "1"
+},
+{
+"wr": "scivolo",
+"n": "1"
+},
+{
+"wr": "porporina",
+"n": "1"
+},
+{
+"wr": "lavavetri",
+"n": "1"
+},
+{
+"wr": "mattone",
+"n": "1"
+},
+{
+"wr": "shampoo",
+"n": "1"
+},
+{
+"wr": "cantaro",
+"n": "1"
+},
+{
+"wr": "steccato",
+"n": "1"
+},
+{
+"wr": "salumeria",
+"n": "1"
+},
+{
+"wr": "sparviero",
+"n": "1"
+},
+{
+"wr": "tarì",
+"n": "1"
+},
+{
+"wr": "batteria",
+"n": "2"
+},
+{
+"wr": "cavigliera",
+"n": "1"
+},
+{
+"wr": "soldatino",
+"n": "1"
+},
+{
+"wr": "cinepresa",
+"n": "1"
+},
+{
+"wr": "dentifricio",
+"n": "1"
+},
+{
+"wr": "indirizzario",
+"n": "1"
+},
+{
+"wr": "quattro",
+"n": "1"
+},
+{
+"wr": "sarcofago",
+"n": "1"
+},
+{
+"wr": "lampeggiatore",
+"n": "1"
+},
+{
+"wr": "camper",
+"n": "1"
+},
+{
+"wr": "vocale",
+"n": "1"
+},
+{
+"wr": "stagno",
+"n": "1"
+},
+{
+"wr": "bracciolo",
+"n": "1"
+},
+{
+"wr": "cantina",
+"n": "2"
+},
+{
+"wr": "paninoteca",
+"n": "1"
+},
+{
+"wr": "aranceto",
+"n": "1"
+},
+{
+"wr": "parato",
+"n": "1"
+},
+{
+"wr": "bulgaro",
+"n": "1"
+},
+{
+"wr": "alcol",
+"n": "2"
+},
+{
+"wr": "mantiglia",
+"n": "1"
+},
+{
+"wr": "siciliano",
+"n": "1"
+},
+{
+"wr": "pelletteria",
+"n": "2"
+},
+{
+"wr": "entrobordo",
+"n": "2"
+},
+{
+"wr": "contratto",
+"n": "1"
+},
+{
+"wr": "barilotto",
+"n": "1"
+},
+{
+"wr": "canile",
+"n": "1"
+},
+{
+"wr": "cinquantadue",
+"n": "1"
+},
+{
+"wr": "pianta",
+"n": "1"
+},
+{
+"wr": "canotto",
+"n": "1"
+},
+{
+"wr": "maneggio",
+"n": "1"
+},
+{
+"wr": "colonia",
+"n": "1"
+},
+{
+"wr": "orologio",
+"n": "1"
+},
+{
+"wr": "gioielleria",
+"n": "1"
+},
+{
+"wr": "camoscio",
+"n": "1"
+},
+{
+"wr": "prospetto",
+"n": "1"
+},
+{
+"wr": "monile",
+"n": "1"
+},
+{
+"wr": "letame",
+"n": "1"
+},
+{
+"wr": "martello",
+"n": "1"
+},
+{
+"wr": "traduzione",
+"n": "1"
+},
+{
+"wr": "scanno",
+"n": "1"
+},
+{
+"wr": "novantanove",
+"n": "1"
+},
+{
+"wr": "succhiello",
+"n": "1"
+},
+{
+"wr": "coltello",
+"n": "1"
+},
+{
+"wr": "gomma",
+"n": "2"
+},
+{
+"wr": "plafoniera",
+"n": "1"
+},
+{
+"wr": "nottolino",
+"n": "1"
+},
+{
+"wr": "terme",
+"n": "1"
+},
+{
+"wr": "raso",
+"n": "1"
+},
+{
+"wr": "trecento",
+"n": "1"
+},
+{
+"wr": "cappellino",
+"n": "1"
+},
+{
+"wr": "forchetta",
+"n": "1"
+},
+{
+"wr": "comasco",
+"n": "1"
+},
+{
+"wr": "carriola",
+"n": "1"
+},
+{
+"wr": "videoregistratore",
+"n": "1"
+},
+{
+"wr": "bambola",
+"n": "1"
+},
+{
+"wr": "vedetta",
+"n": "3"
+},
+{
+"wr": "termoculla",
+"n": "1"
+},
+{
+"wr": "borsone",
+"n": "1"
+},
+{
+"wr": "aramaico",
+"n": "1"
+},
+{
+"wr": "pagliaio",
+"n": "1"
+},
+{
+"wr": "poggiapiedi",
+"n": "1"
+},
+{
+"wr": "cineseria",
+"n": "1"
+},
+{
+"wr": "documentotecio",
+"n": "2"
+},
+{
+"wr": "dancing",
+"n": "1"
+},
+{
+"wr": "tuareg",
+"n": "1"
+},
+{
+"wr": "fazzoletto",
+"n": "1"
+},
+{
+"wr": "cameretta",
+"n": "1"
+},
+{
+"wr": "lesina",
+"n": "1"
+},
+{
+"wr": "guantiera",
+"n": "1"
+},
+{
+"wr": "nailon",
+"n": "1"
+},
+{
+"wr": "sigaretta",
+"n": "1"
+},
+{
+"wr": "fisarmonica",
+"n": "1"
+},
+{
+"wr": "grissinificio",
+"n": "1"
+},
+{
+"wr": "locanda",
+"n": "1"
+},
+{
+"wr": "tempera",
+"n": "1"
+},
+{
+"wr": "bustina",
+"n": "1"
+},
+{
+"wr": "calamita",
+"n": "1"
+},
+{
+"wr": "gesso",
+"n": "2"
+},
+{
+"wr": "ginocchiera",
+"n": "1"
+},
+{
+"wr": "taglierino",
+"n": "1"
+},
+{
+"wr": "cassettone",
+"n": "2"
+},
+{
+"wr": "distributore",
+"n": "1"
+},
+{
+"wr": "olla",
+"n": "1"
+},
+{
+"wr": "colombaia",
+"n": "1"
+},
+{
+"wr": "terrina",
+"n": "1"
+},
+{
+"wr": "custodia",
+"n": "1"
+},
+{
+"wr": "bacino",
+"n": "1"
+},
+{
+"wr": "mercatino",
+"n": "2"
+},
+{
+"wr": "fresa",
+"n": "1"
+},
+{
+"wr": "sbarra",
+"n": "4"
+},
+{
+"wr": "cembalo",
+"n": "1"
+},
+{
+"wr": "locomotore",
+"n": "1"
+},
+{
+"wr": "succhiotto",
+"n": "1"
+},
+{
+"wr": "triestino",
+"n": "1"
+},
+{
+"wr": "lama",
+"n": "1"
+},
+{
+"wr": "gozzo",
+"n": "1"
+},
+{
+"wr": "lunario",
+"n": "1"
+},
+{
+"wr": "tabella",
+"n": "1"
+},
+{
+"wr": "scaffale",
+"n": "1"
+},
+{
+"wr": "codice",
+"n": "1"
+},
+{
+"wr": "windsurf",
+"n": "1"
+},
+{
+"wr": "forbice",
+"n": "1"
+},
+{
+"wr": "schioppo",
+"n": "2"
+},
+{
+"wr": "annaffiatoio",
+"n": "2"
+},
+{
+"wr": "tarocco",
+"n": "1"
+},
+{
+"wr": "casamento",
+"n": "1"
+},
+{
+"wr": "mascara",
+"n": "1"
+},
+{
+"wr": "roulotte",
+"n": "1"
+},
+{
+"wr": "cacciabombardiere",
+"n": "1"
+},
+{
+"wr": "pinzatrice",
+"n": "1"
+},
+{
+"wr": "fertilizzante",
+"n": "1"
+},
+{
+"wr": "caleidoscopio",
+"n": "1"
+},
+{
+"wr": "astringente",
+"n": "1"
+},
+{
+"wr": "automobile",
+"n": "1"
+},
+{
+"wr": "ventuno",
+"n": "1"
+},
+{
+"wr": "rumeno",
+"n": "1"
+},
+{
+"wr": "dramma",
+"n": "1"
+},
+{
+"wr": "fustella",
+"n": "1"
+},
+{
+"wr": "finestrino",
+"n": "2"
+},
+{
+"wr": "morsa",
+"n": "1"
+},
+{
+"wr": "lino",
+"n": "1"
+},
+{
+"wr": "bike",
+"n": "1"
+},
+{
+"wr": "clarino",
+"n": "1"
+},
+{
+"wr": "superpetroliera",
+"n": "1"
+},
+{
+"wr": "divano",
+"n": "2"
+},
+{
+"wr": "cloromicetina",
+"n": "1"
+},
+{
+"wr": "preventivo",
+"n": "1"
+},
+{
+"wr": "valigeria",
+"n": "2"
+},
+{
+"wr": "falce",
+"n": "1"
+},
+{
+"wr": "armeria",
+"n": "1"
+},
+{
+"wr": "cacciavite",
+"n": "1"
+},
+{
+"wr": "mobiletto",
+"n": "2"
+},
+{
+"wr": "conservificio",
+"n": "1"
+},
+{
+"wr": "canna",
+"n": "1"
+},
+{
+"wr": "bigoncia",
+"n": "1"
+},
+{
+"wr": "gessato",
+"n": "1"
+},
+{
+"wr": "siracusano",
+"n": "1"
+},
+{
+"wr": "pullman",
+"n": "1"
+},
+{
+"wr": "ruspa",
+"n": "1"
+},
+{
+"wr": "corvo",
+"n": "1"
+},
+{
+"wr": "valvola",
+"n": "2"
+},
+{
+"wr": "mediateca",
+"n": "1"
+},
+{
+"wr": "lingotto",
+"n": "1"
+},
+{
+"wr": "siringa",
+"n": "4"
+},
+{
+"wr": "lavanderia",
+"n": "1"
+},
+{
+"wr": "ghirba",
+"n": "1"
+},
+{
+"wr": "intercity",
+"n": "1"
+},
+{
+"wr": "copisteria",
+"n": "1"
+},
+{
+"wr": "settecento",
+"n": "1"
+},
+{
+"wr": "bionda",
+"n": "1"
+},
+{
+"wr": "lanificio",
+"n": "1"
+},
+{
+"wr": "pretura",
+"n": "1"
+},
+{
+"wr": "acceleratore",
+"n": "1"
+},
+{
+"wr": "desco",
+"n": "1"
+},
+{
+"wr": "pagella",
+"n": "1"
+},
+{
+"wr": "abbecedario",
+"n": "1"
+},
+{
+"wr": "consolle",
+"n": "1"
+},
+{
+"wr": "oreficeria",
+"n": "1"
+},
+{
+"wr": "scodella",
+"n": "2"
+},
+{
+"wr": "eroina",
+"n": "1"
+},
+{
+"wr": "econometro",
+"n": "1"
+},
+{
+"wr": "aranciera",
+"n": "1"
+},
+{
+"wr": "congelatore",
+"n": "1"
+},
+{
+"wr": "ambasciata",
+"n": "1"
+},
+{
+"wr": "spinello",
+"n": "1"
+},
+{
+"wr": "trono",
+"n": "1"
+},
+{
+"wr": "cassaforte",
+"n": "1"
+},
+{
+"wr": "battello",
+"n": "1"
+},
+{
+"wr": "nagra",
+"n": "1"
+},
+{
+"wr": "assorbente",
+"n": "1"
+},
+{
+"wr": "farsetto",
+"n": "2"
+},
+{
+"wr": "ottocento",
+"n": "1"
+},
+{
+"wr": "serraglio",
+"n": "1"
+},
+{
+"wr": "orinatoio",
+"n": "1"
+},
+{
+"wr": "guaina",
+"n": "1"
+},
+{
+"wr": "elenco",
+"n": "1"
+},
+{
+"wr": "calzino",
+"n": "1"
+},
+{
+"wr": "trullo",
+"n": "1"
+},
+{
+"wr": "ricevuta",
+"n": "1"
+},
+{
+"wr": "fonogramma",
+"n": "1"
+},
+{
+"wr": "imballo",
+"n": "1"
+},
+{
+"wr": "siriano",
+"n": "1"
+},
+{
+"wr": "pennone",
+"n": "1"
+},
+{
+"wr": "cuffia",
+"n": "1"
+},
+{
+"wr": "senese",
+"n": "1"
+},
+{
+"wr": "formella",
+"n": "1"
+},
+{
+"wr": "ippodromo",
+"n": "1"
+},
+{
+"wr": "quarantatré",
+"n": "1"
+},
+{
+"wr": "biblioteca",
+"n": "1"
+},
+{
+"wr": "motosega",
+"n": "1"
+},
+{
+"wr": "serramanico",
+"n": "1"
+},
+{
+"wr": "comando",
+"n": "1"
+},
+{
+"wr": "mina",
+"n": "2"
+},
+{
+"wr": "confetteria",
+"n": "1"
+},
+{
+"wr": "cesto",
+"n": "2"
+},
+{
+"wr": "impermeabile",
+"n": "1"
+},
+{
+"wr": "cascina",
+"n": "1"
+},
+{
+"wr": "piemontese",
+"n": "1"
+},
+{
+"wr": "papiro",
+"n": "1"
+},
+{
+"wr": "borsello",
+"n": "1"
+},
+{
+"wr": "alogena",
+"n": "1"
+},
+{
+"wr": "negativo",
+"n": "1"
+},
+{
+"wr": "acciaieria",
+"n": "1"
+},
+{
+"wr": "amministrazione",
+"n": "1"
+},
+{
+"wr": "cannocchiale",
+"n": "1"
+},
+{
+"wr": "furgonato",
+"n": "1"
+},
+{
+"wr": "organizer",
+"n": "1"
+},
+{
+"wr": "grembiule",
+"n": "1"
+},
+{
+"wr": "striglia",
+"n": "1"
+},
+{
+"wr": "tassello",
+"n": "1"
+},
+{
+"wr": "troika",
+"n": "1"
+},
+{
+"wr": "aspirapolvere",
+"n": "1"
+},
+{
+"wr": "drogheria",
+"n": "1"
+},
+{
+"wr": "coreano",
+"n": "1"
+},
+{
+"wr": "spazzola",
+"n": "2"
+},
+{
+"wr": "nave",
+"n": "1"
+},
+{
+"wr": "cronometro",
+"n": "1"
+},
+{
+"wr": "adesivo",
+"n": "2"
+},
+{
+"wr": "ombrello",
+"n": "1"
+},
+{
+"wr": "aeroplano",
+"n": "1"
+},
+{
+"wr": "tempio",
+"n": "1"
+},
+{
+"wr": "decongestionante",
+"n": "1"
+},
+{
+"wr": "catrame",
+"n": "2"
+},
+{
+"wr": "energometro",
+"n": "1"
+},
+{
+"wr": "prozac",
+"n": "1"
+},
+{
+"wr": "vaschetta",
+"n": "2"
+},
+{
+"wr": "casacca",
+"n": "1"
+},
+{
+"wr": "macero",
+"n": "1"
+},
+{
+"wr": "pendola",
+"n": "1"
+},
+{
+"wr": "trasmittente",
+"n": "1"
+},
+{
+"wr": "tornasole",
+"n": "2"
+},
+{
+"wr": "ottantotto",
+"n": "1"
+},
+{
+"wr": "calzamaglia",
+"n": "1"
+},
+{
+"wr": "moviola",
+"n": "1"
+},
+{
+"wr": "foularino",
+"n": "1"
+},
+{
+"wr": "passino",
+"n": "1"
+},
+{
+"wr": "bancarella",
+"n": "1"
+},
+{
+"wr": "bracciale",
+"n": "1"
+},
+{
+"wr": "nassa",
+"n": "1"
+},
+{
+"wr": "bacheca",
+"n": "1"
+},
+{
+"wr": "poster",
+"n": "1"
+},
+{
+"wr": "antidepressivo",
+"n": "1"
+},
+{
+"wr": "montacarico",
+"n": "1"
+},
+{
+"wr": "notes",
+"n": "1"
+},
+{
+"wr": "barcone",
+"n": "1"
+},
+{
+"wr": "diploma",
+"n": "1"
+},
+{
+"wr": "sassone",
+"n": "1"
+},
+{
+"wr": "tomo",
+"n": "1"
+},
+{
+"wr": "sentenza",
+"n": "1"
+},
+{
+"wr": "zipolo",
+"n": "1"
+},
+{
+"wr": "ospizio",
+"n": "1"
+},
+{
+"wr": "scannatoio",
+"n": "1"
+},
+{
+"wr": "biografia",
+"n": "1"
+},
+{
+"wr": "museo",
+"n": "1"
+},
+{
+"wr": "soprascarpa",
+"n": "1"
+},
+{
+"wr": "scopino",
+"n": "1"
+},
+{
+"wr": "zucchero",
+"n": "1"
+},
+{
+"wr": "ciclomotore",
+"n": "1"
+},
+{
+"wr": "anestetico",
+"n": "1"
+},
+{
+"wr": "traliccio",
+"n": "3"
+},
+{
+"wr": "antidolorifico",
+"n": "1"
+},
+{
+"wr": "emporio",
+"n": "1"
+},
+{
+"wr": "incubatrice",
+"n": "1"
+},
+{
+"wr": "airbus",
+"n": "1"
+},
+{
+"wr": "ansiolitico",
+"n": "1"
+},
+{
+"wr": "carrozzella",
+"n": "1"
+},
+{
+"wr": "trentasei",
+"n": "1"
+},
+{
+"wr": "coppo",
+"n": "1"
+},
+{
+"wr": "zappa",
+"n": "1"
+},
+{
+"wr": "gala",
+"n": "1"
+},
+{
+"wr": "cartificio",
+"n": "1"
+},
+{
+"wr": "rifampicina",
+"n": "1"
+},
+{
+"wr": "tendina",
+"n": "1"
+},
+{
+"wr": "lussemburghese",
+"n": "1"
+},
+{
+"wr": "penicillina",
+"n": "1"
+},
+{
+"wr": "teletta",
+"n": "1"
+},
+{
+"wr": "nichel",
+"n": "2"
+},
+{
+"wr": "portabottiglie",
+"n": "1"
+},
+{
+"wr": "diapason",
+"n": "1"
+},
+{
+"wr": "puntina",
+"n": "1"
+},
+{
+"wr": "articolo",
+"n": "1"
+},
+{
+"wr": "setaccio",
+"n": "1"
+},
+{
+"wr": "neomicina",
+"n": "1"
+},
+{
+"wr": "cucchiaino",
+"n": "2"
+},
+{
+"wr": "ventaglio",
+"n": "1"
+},
+{
+"wr": "elisir",
+"n": "1"
+},
+{
+"wr": "termocoperta",
+"n": "2"
+},
+{
+"wr": "fenolo",
+"n": "1"
+},
+{
+"wr": "agenda",
+"n": "1"
+},
+{
+"wr": "cassonetto",
+"n": "1"
+},
+{
+"wr": "zampa",
+"n": "1"
+},
+{
+"wr": "contante",
+"n": "1"
+},
+{
+"wr": "colore",
+"n": "3"
+},
+{
+"wr": "lampada",
+"n": "1"
+},
+{
+"wr": "armata",
+"n": "1"
+},
+{
+"wr": "bando",
+"n": "1"
+},
+{
+"wr": "forgia",
+"n": "1"
+},
+{
+"wr": "fornace",
+"n": "1"
+},
+{
+"wr": "lattina",
+"n": "1"
+},
+{
+"wr": "bandiera",
+"n": "1"
+},
+{
+"wr": "penna",
+"n": "2"
+},
+{
+"wr": "collegio",
+"n": "2"
+},
+{
+"wr": "metro",
+"n": "2"
+},
+{
+"wr": "bretone",
+"n": "1"
+},
+{
+"wr": "antinevralgico",
+"n": "1"
+},
+{
+"wr": "candela",
+"n": "2"
+},
+{
+"wr": "giubba",
+"n": "1"
+},
+{
+"wr": "orcio",
+"n": "1"
+},
+{
+"wr": "comunella",
+"n": "1"
+},
+{
+"wr": "barese",
+"n": "1"
+},
+{
+"wr": "talidomide",
+"n": "1"
+},
+{
+"wr": "cristalleria",
+"n": "2"
+},
+{
+"wr": "mitragliera",
+"n": "1"
+},
+{
+"wr": "megafono",
+"n": "1"
+},
+{
+"wr": "grisaglia",
+"n": "1"
+},
+{
+"wr": "gippone",
+"n": "1"
+},
+{
+"wr": "spaghetteria",
+"n": "1"
+},
+{
+"wr": "metropolitana",
+"n": "1"
+},
+{
+"wr": "stampa",
+"n": "1"
+},
+{
+"wr": "porticato",
+"n": "1"
+},
+{
+"wr": "sacchettificio",
+"n": "1"
+},
+{
+"wr": "sensore",
+"n": "1"
+},
+{
+"wr": "celtico",
+"n": "1"
+},
+{
+"wr": "coppa",
+"n": "1"
+},
+{
+"wr": "bottone",
+"n": "2"
+},
+{
+"wr": "borsetta",
+"n": "1"
+},
+{
+"wr": "abitazione",
+"n": "1"
+},
+{
+"wr": "crestomazia",
+"n": "1"
+},
+{
+"wr": "proiettificio",
+"n": "1"
+},
+{
+"wr": "dieci",
+"n": "1"
+},
+{
+"wr": "scudetto",
+"n": "1"
+},
+{
+"wr": "riflettore",
+"n": "1"
+},
+{
+"wr": "ostacolo",
+"n": "1"
+},
+{
+"wr": "sonnifero",
+"n": "1"
+},
+{
+"wr": "canonica",
+"n": "1"
+},
+{
+"wr": "botte",
+"n": "1"
+},
+{
+"wr": "bermuda",
+"n": "1"
+},
+{
+"wr": "asta",
+"n": "1"
+},
+{
+"wr": "filtro",
+"n": "1"
+},
+{
+"wr": "cartonificio",
+"n": "1"
+},
+{
+"wr": "oliera",
+"n": "1"
+},
+{
+"wr": "muraglia",
+"n": "1"
+},
+{
+"wr": "caveau",
+"n": "1"
+},
+{
+"wr": "minerva",
+"n": "1"
+},
+{
+"wr": "cartellone",
+"n": "2"
+},
+{
+"wr": "porpora",
+"n": "2"
+},
+{
+"wr": "paltò",
+"n": "1"
+},
+{
+"wr": "borsa",
+"n": "2"
+},
+{
+"wr": "padella",
+"n": "2"
+},
+{
+"wr": "passamaneria",
+"n": "1"
+},
+{
+"wr": "erboristeria",
+"n": "1"
+},
+{
+"wr": "melanina",
+"n": "1"
+},
+{
+"wr": "scatolificio",
+"n": "1"
+},
+{
+"wr": "spalla",
+"n": "1"
+},
+{
+"wr": "stola",
+"n": "1"
+},
+{
+"wr": "classificatore",
+"n": "2"
+},
+{
+"wr": "gru",
+"n": "2"
+},
+{
+"wr": "pedina",
+"n": "1"
+},
+{
+"wr": "trappola",
+"n": "2"
+},
+{
+"wr": "milanese",
+"n": "1"
+},
+{
+"wr": "frusta",
+"n": "3"
+},
+{
+"wr": "automotrice",
+"n": "1"
+},
+{
+"wr": "loft",
+"n": "1"
+},
+{
+"wr": "giraffa",
+"n": "1"
+},
+{
+"wr": "treno",
+"n": "1"
+},
+{
+"wr": "scalpello",
+"n": "2"
+},
+{
+"wr": "smalto",
+"n": "4"
+},
+{
+"wr": "tirolese",
+"n": "1"
+},
+{
+"wr": "pila",
+"n": "2"
+},
+{
+"wr": "para",
+"n": "1"
+},
+{
+"wr": "lucerna",
+"n": "1"
+},
+{
+"wr": "mantello",
+"n": "1"
+},
+{
+"wr": "cottage",
+"n": "1"
+},
+{
+"wr": "anticorpo",
+"n": "2"
+},
+{
+"wr": "boiler",
+"n": "2"
+},
+{
+"wr": "discoteca",
+"n": "1"
+},
+{
+"wr": "sferza",
+"n": "1"
+},
+{
+"wr": "bollo",
+"n": "1"
+},
+{
+"wr": "ridosso",
+"n": "1"
+},
+{
+"wr": "magona",
+"n": "1"
+},
+{
+"wr": "bussolotto",
+"n": "1"
+},
+{
+"wr": "radiotrasmittente",
+"n": "1"
+},
+{
+"wr": "sudario",
+"n": "1"
+},
+{
+"wr": "accendino",
+"n": "1"
+},
+{
+"wr": "orto",
+"n": "1"
+},
+{
+"wr": "conca",
+"n": "1"
+},
+{
+"wr": "tennis",
+"n": "1"
+},
+{
+"wr": "malese",
+"n": "1"
+},
+{
+"wr": "catinella",
+"n": "1"
+},
+{
+"wr": "ghetta",
+"n": "1"
+},
+{
+"wr": "petardo",
+"n": "1"
+},
+{
+"wr": "luce",
+"n": "1"
+},
+{
+"wr": "capanna",
+"n": "2"
+},
+{
+"wr": "tir",
+"n": "1"
+},
+{
+"wr": "trentuno",
+"n": "1"
+},
+{
+"wr": "paniera",
+"n": "1"
+},
+{
+"wr": "controller",
+"n": "1"
+},
+{
+"wr": "cloche",
+"n": "1"
+},
+{
+"wr": "cartiera",
+"n": "1"
+},
+{
+"wr": "perno",
+"n": "1"
+},
+{
+"wr": "dizionario",
+"n": "1"
+},
+{
+"wr": "ghiacciaia",
+"n": "2"
+},
+{
+"wr": "odometro",
+"n": "1"
+},
+{
+"wr": "ebraico",
+"n": "1"
+},
+{
+"wr": "dimora",
+"n": "1"
+},
+{
+"wr": "detector",
+"n": "1"
+},
+{
+"wr": "colino",
+"n": "1"
+},
+{
+"wr": "traduttore",
+"n": "1"
+},
+{
+"wr": "quaderno",
+"n": "1"
+},
+{
+"wr": "tessuto",
+"n": "1"
+},
+{
+"wr": "moscone",
+"n": "1"
+},
+{
+"wr": "erbario",
+"n": "1"
+},
+{
+"wr": "ambulanza",
+"n": "1"
+},
+{
+"wr": "bastione",
+"n": "2"
+},
+{
+"wr": "antimicotico",
+"n": "1"
+},
+{
+"wr": "leccese",
+"n": "1"
+},
+{
+"wr": "portacarte",
+"n": "1"
+},
+{
+"wr": "italiano",
+"n": "1"
+},
+{
+"wr": "gora",
+"n": "1"
+},
+{
+"wr": "avviso",
+"n": "1"
+},
+{
+"wr": "ateneo",
+"n": "1"
+},
+{
+"wr": "martingala",
+"n": "1"
+},
+{
+"wr": "creatina",
+"n": "1"
+},
+{
+"wr": "dinaro",
+"n": "1"
+},
+{
+"wr": "invito",
+"n": "1"
+},
+{
+"wr": "scacciapensieri",
+"n": "1"
+},
+{
+"wr": "ochetta",
+"n": "1"
+},
+{
+"wr": "canapa",
+"n": "1"
+},
+{
+"wr": "ricostituente",
+"n": "1"
+},
+{
+"wr": "vermicida",
+"n": "1"
+},
+{
+"wr": "trireme",
+"n": "1"
+},
+{
+"wr": "campagna",
+"n": "1"
+},
+{
+"wr": "fiandra",
+"n": "1"
+},
+{
+"wr": "nastro",
+"n": "1"
+},
+{
+"wr": "rigatino",
+"n": "1"
+},
+{
+"wr": "volante",
+"n": "1"
+},
+{
+"wr": "copeco",
+"n": "1"
+},
+{
+"wr": "capone",
+"n": "1"
+},
+{
+"wr": "profumo",
+"n": "1"
+},
+{
+"wr": "otturazione",
+"n": "1"
+},
+{
+"wr": "ipoclorito",
+"n": "1"
+},
+{
+"wr": "olio",
+"n": "2"
+},
+{
+"wr": "pelle",
+"n": "1"
+},
+{
+"wr": "motoscafo",
+"n": "1"
+},
+{
+"wr": "anagrafe",
+"n": "1"
+},
+{
+"wr": "ometto",
+"n": "1"
+},
+{
+"wr": "maggiorana",
+"n": "1"
+},
+{
+"wr": "tanica",
+"n": "1"
+},
+{
+"wr": "cineteca",
+"n": "2"
+},
+{
+"wr": "bastimento",
+"n": "1"
+},
+{
+"wr": "videocassetta",
+"n": "1"
+},
+{
+"wr": "cesoia",
+"n": "1"
+},
+{
+"wr": "yogurtiera",
+"n": "1"
+},
+{
+"wr": "volume",
+"n": "1"
+},
+{
+"wr": "contatore",
+"n": "1"
+},
+{
+"wr": "camino",
+"n": "2"
+},
+{
+"wr": "ottantatré",
+"n": "1"
+},
+{
+"wr": "granaio",
+"n": "1"
+},
+{
+"wr": "giornaletto",
+"n": "1"
+},
+{
+"wr": "zampogna",
+"n": "1"
+},
+{
+"wr": "zufolo",
+"n": "1"
+},
+{
+"wr": "convenzione",
+"n": "1"
+},
+{
+"wr": "cacciatorpediniere",
+"n": "1"
+},
+{
+"wr": "vaporizzatore",
+"n": "1"
+},
+{
+"wr": "madrelingua",
+"n": "1"
+},
+{
+"wr": "tazza",
+"n": "1"
+},
+{
+"wr": "valico",
+"n": "1"
+},
+{
+"wr": "lassativo",
+"n": "1"
+},
+{
+"wr": "viennese",
+"n": "1"
+},
+{
+"wr": "zafferano",
+"n": "1"
+},
+{
+"wr": "gioiello",
+"n": "1"
+},
+{
+"wr": "pettine",
+"n": "1"
+},
+{
+"wr": "pullover",
+"n": "1"
+},
+{
+"wr": "ghigliottina",
+"n": "1"
+},
+{
+"wr": "narcodollaro",
+"n": "1"
+},
+{
+"wr": "locale",
+"n": "1"
+},
+{
+"wr": "tachimetro",
+"n": "1"
+},
+{
+"wr": "simpamina",
+"n": "1"
+},
+{
+"wr": "cuoieria",
+"n": "1"
+},
+{
+"wr": "mercantile",
+"n": "1"
+},
+{
+"wr": "trino",
+"n": "1"
+},
+{
+"wr": "calzaturificio",
+"n": "1"
+},
+{
+"wr": "cavalcavia",
+"n": "1"
+},
+{
+"wr": "amo",
+"n": "1"
+},
+{
+"wr": "fustagno",
+"n": "1"
+},
+{
+"wr": "sacco",
+"n": "1"
+},
+{
+"wr": "pinza",
+"n": "1"
+},
+{
+"wr": "cardigan",
+"n": "1"
+},
+{
+"wr": "bottega",
+"n": "2"
+},
+{
+"wr": "scolapasta",
+"n": "1"
+},
+{
+"wr": "marmotta",
+"n": "1"
+},
+{
+"wr": "paralume",
+"n": "1"
+},
+{
+"wr": "foggiano",
+"n": "1"
+},
+{
+"wr": "mappa",
+"n": "1"
+},
+{
+"wr": "lucido",
+"n": "2"
+},
+{
+"wr": "saccarina",
+"n": "1"
+},
+{
+"wr": "contagocce",
+"n": "1"
+},
+{
+"wr": "crick",
+"n": "1"
+},
+{
+"wr": "rullino",
+"n": "1"
+},
+{
+"wr": "civetta",
+"n": "1"
+},
+{
+"wr": "motociclo",
+"n": "1"
+},
+{
+"wr": "stallatico",
+"n": "1"
+},
+{
+"wr": "rotolo",
+"n": "1"
+},
+{
+"wr": "phon",
+"n": "1"
+},
+{
+"wr": "paracadute",
+"n": "1"
+},
+{
+"wr": "ottantadue",
+"n": "1"
+},
+{
+"wr": "aggancio",
+"n": "1"
+},
+{
+"wr": "topicida",
+"n": "1"
+},
+{
+"wr": "schedina",
+"n": "1"
+},
+{
+"wr": "vasodilatatore",
+"n": "1"
+},
+{
+"wr": "falcetto",
+"n": "1"
+},
+{
+"wr": "accendigas",
+"n": "1"
+},
+{
+"wr": "filobus",
+"n": "1"
+},
+{
+"wr": "moneta",
+"n": "1"
+},
+{
+"wr": "roadster",
+"n": "1"
+},
+{
+"wr": "dacia",
+"n": "1"
+},
+{
+"wr": "fiasca",
+"n": "1"
+},
+{
+"wr": "caminetto",
+"n": "2"
+},
+{
+"wr": "bicchiere",
+"n": "1"
+},
+{
+"wr": "castelletto",
+"n": "1"
+},
+{
+"wr": "zecca",
+"n": "1"
+},
+{
+"wr": "grammofono",
+"n": "1"
+},
+{
+"wr": "lampione",
+"n": "1"
+},
+{
+"wr": "plantare",
+"n": "1"
+},
+{
+"wr": "gamba",
+"n": "1"
+},
+{
+"wr": "stecca",
+"n": "1"
+},
+{
+"wr": "lavatrice",
+"n": "1"
+},
+{
+"wr": "chiara",
+"n": "1"
+},
+{
+"wr": "fuoribordo",
+"n": "1"
+},
+{
+"wr": "bolla",
+"n": "1"
+},
+{
+"wr": "frutteto",
+"n": "1"
+},
+{
+"wr": "confetto",
+"n": "1"
+},
+{
+"wr": "parcella",
+"n": "1"
+},
+{
+"wr": "respiratore",
+"n": "1"
+},
+{
+"wr": "fiammingo",
+"n": "1"
+},
+{
+"wr": "mausoleo",
+"n": "1"
+},
+{
+"wr": "stallo",
+"n": "1"
+},
+{
+"wr": "carrucola",
+"n": "1"
+},
+{
+"wr": "schedario",
+"n": "1"
+},
+{
+"wr": "bergamasco",
+"n": "1"
+},
+{
+"wr": "pergamo",
+"n": "1"
+},
+{
+"wr": "armonica",
+"n": "1"
+},
+{
+"wr": "orfanotrofio",
+"n": "1"
+},
+{
+"wr": "tachigrafo",
+"n": "1"
+},
+{
+"wr": "diapositiva",
+"n": "1"
+},
+{
+"wr": "pigmento",
+"n": "1"
+},
+{
+"wr": "cesta",
+"n": "2"
+},
+{
+"wr": "ricettario",
+"n": "1"
+},
+{
+"wr": "lando",
+"n": "1"
+},
+{
+"wr": "capretto",
+"n": "1"
+},
+{
+"wr": "toilette",
+"n": "1"
+},
+{
+"wr": "quaranta",
+"n": "1"
+},
+{
+"wr": "detonometro",
+"n": "1"
+},
+{
+"wr": "slitta",
+"n": "1"
+},
+{
+"wr": "fanale",
+"n": "2"
+},
+{
+"wr": "piroscafo",
+"n": "1"
+},
+{
+"wr": "mascherina",
+"n": "2"
+},
+{
+"wr": "telefonino",
+"n": "1"
+},
+{
+"wr": "settantaquattro",
+"n": "1"
+},
+{
+"wr": "ottanta",
+"n": "1"
+},
+{
+"wr": "lavabiancheria",
+"n": "1"
+},
+{
+"wr": "affrancatura",
+"n": "1"
+},
+{
+"wr": "bisturi",
+"n": "1"
+},
+{
+"wr": "lustrino",
+"n": "1"
+},
+{
+"wr": "altoparlante",
+"n": "1"
+},
+{
+"wr": "residenza",
+"n": "1"
+},
+{
+"wr": "vietnamita",
+"n": "1"
+},
+{
+"wr": "pollaio",
+"n": "1"
+},
+{
+"wr": "sismografo",
+"n": "1"
+},
+{
+"wr": "timo",
+"n": "1"
+},
+{
+"wr": "bocchino",
+"n": "1"
+},
+{
+"wr": "igrostato",
+"n": "1"
+},
+{
+"wr": "misericordia",
+"n": "1"
+},
+{
+"wr": "burrificio",
+"n": "1"
+},
+{
+"wr": "sterlina",
+"n": "1"
+},
+{
+"wr": "portellone",
+"n": "1"
+},
+{
+"wr": "illustrazione",
+"n": "2"
+},
+{
+"wr": "chiavetta",
+"n": "3"
+},
+{
+"wr": "ipermarket",
+"n": "1"
+},
+{
+"wr": "programma",
+"n": "1"
+},
+{
+"wr": "contaminuti",
+"n": "1"
+},
+{
+"wr": "spazzaneve",
+"n": "1"
+},
+{
+"wr": "menta",
+"n": "1"
+},
+{
+"wr": "sedile",
+"n": "1"
+},
+{
+"wr": "accelerato",
+"n": "1"
+},
+{
+"wr": "benservito",
+"n": "1"
+},
+{
+"wr": "capsula",
+"n": "3"
+},
+{
+"wr": "cofano",
+"n": "2"
+},
+{
+"wr": "blocco",
+"n": "1"
+},
+{
+"wr": "copto",
+"n": "1"
+},
+{
+"wr": "terital",
+"n": "1"
+},
+{
+"wr": "noceto",
+"n": "1"
+},
+{
+"wr": "cestello",
+"n": "1"
+},
+{
+"wr": "diciannove",
+"n": "1"
+},
+{
+"wr": "calzetta",
+"n": "1"
+},
+{
+"wr": "matita",
+"n": "2"
+},
+{
+"wr": "mercurio",
+"n": "1"
+},
+{
+"wr": "cenacolo",
+"n": "1"
+},
+{
+"wr": "teiera",
+"n": "1"
+},
+{
+"wr": "stanga",
+"n": "1"
+},
+{
+"wr": "viadotto",
+"n": "1"
+},
+{
+"wr": "sbrinatore",
+"n": "1"
+},
+{
+"wr": "lupara",
+"n": "1"
+},
+{
+"wr": "cantiere",
+"n": "1"
+},
+{
+"wr": "caraffa",
+"n": "1"
+},
+{
+"wr": "vivaio",
+"n": "1"
+},
+{
+"wr": "petroliera",
+"n": "1"
+},
+{
+"wr": "luppolo",
+"n": "1"
+},
+{
+"wr": "colorificio",
+"n": "2"
+},
+{
+"wr": "moschea",
+"n": "1"
+},
+{
+"wr": "caricatore",
+"n": "1"
+},
+{
+"wr": "tubetto",
+"n": "1"
+},
+{
+"wr": "etilometro",
+"n": "1"
+},
+{
+"wr": "atto",
+"n": "1"
+},
+{
+"wr": "cappelleria",
+"n": "2"
+},
+{
+"wr": "banco",
+"n": "2"
+},
+{
+"wr": "blinker",
+"n": "1"
+},
+{
+"wr": "arcolaio",
+"n": "1"
+},
+{
+"wr": "ciclostilato",
+"n": "1"
+},
+{
+"wr": "torcia",
+"n": "1"
+},
+{
+"wr": "giaccone",
+"n": "1"
+},
+{
+"wr": "epistolario",
+"n": "1"
+},
+{
+"wr": "camionetta",
+"n": "1"
+},
+{
+"wr": "libico",
+"n": "1"
+},
+{
+"wr": "motobarca",
+"n": "1"
+},
+{
+"wr": "candeggina",
+"n": "1"
+},
+{
+"wr": "cinquantacinque",
+"n": "1"
+},
+{
+"wr": "bambolificio",
+"n": "1"
+},
+{
+"wr": "convento",
+"n": "1"
+},
+{
+"wr": "timbro",
+"n": "1"
+},
+{
+"wr": "salvadanaio",
+"n": "1"
+},
+{
+"wr": "trottola",
+"n": "1"
+},
+{
+"wr": "forziere",
+"n": "2"
+},
+{
+"wr": "pornoshop",
+"n": "1"
+},
+{
+"wr": "uscio",
+"n": "2"
+},
+{
+"wr": "acetificio",
+"n": "1"
+},
+{
+"wr": "cingalese",
+"n": "1"
+},
+{
+"wr": "frantoio",
+"n": "2"
+},
+{
+"wr": "rivestimento",
+"n": "1"
+},
+{
+"wr": "poggiatesta",
+"n": "1"
+},
+{
+"wr": "scopa",
+"n": "1"
+},
+{
+"wr": "stricnina",
+"n": "1"
+},
+{
+"wr": "espadrilles",
+"n": "1"
+},
+{
+"wr": "cappellificio",
+"n": "1"
+},
+{
+"wr": "sessantatré",
+"n": "1"
+},
+{
+"wr": "pubblicazione",
+"n": "1"
+},
+{
+"wr": "diuretico",
+"n": "1"
+},
+{
+"wr": "lattiera",
+"n": "1"
+},
+{
+"wr": "velivolo",
+"n": "1"
+},
+{
+"wr": "apparecchio",
+"n": "1"
+},
+{
+"wr": "smacchiatore",
+"n": "1"
+},
+{
+"wr": "termosaldatrice",
+"n": "1"
+},
+{
+"wr": "cerino",
+"n": "1"
+},
+{
+"wr": "vetreria",
+"n": "1"
+},
+{
+"wr": "barometro",
+"n": "1"
+},
+{
+"wr": "birreria",
+"n": "1"
+},
+{
+"wr": "flauto",
+"n": "1"
+},
+{
+"wr": "serranda",
+"n": "2"
+},
+{
+"wr": "acquedotto",
+"n": "1"
+},
+{
+"wr": "talamo",
+"n": "2"
+},
+{
+"wr": "diligenza",
+"n": "1"
+},
+{
+"wr": "spartito",
+"n": "1"
+},
+{
+"wr": "littorina",
+"n": "1"
+},
+{
+"wr": "mastello",
+"n": "1"
+},
+{
+"wr": "accumulatore",
+"n": "1"
+},
+{
+"wr": "cabinovia",
+"n": "1"
+},
+{
+"wr": "mitraglia",
+"n": "1"
+},
+{
+"wr": "lingua",
+"n": "1"
+},
+{
+"wr": "spiedo",
+"n": "1"
+},
+{
+"wr": "sottomarino",
+"n": "1"
+},
+{
+"wr": "cerata",
+"n": "1"
+},
+{
+"wr": "risaia",
+"n": "1"
+},
+{
+"wr": "staffa",
+"n": "3"
+},
+{
+"wr": "espresso",
+"n": "2"
+},
+{
+"wr": "lira",
+"n": "2"
+},
+{
+"wr": "macello",
+"n": "1"
+},
+{
+"wr": "pista",
+"n": "3"
+},
+{
+"wr": "vischio",
+"n": "1"
+},
+{
+"wr": "gonnella",
+"n": "1"
+},
+{
+"wr": "guidone",
+"n": "1"
+},
+{
+"wr": "mira",
+"n": "1"
+},
+{
+"wr": "sigaro",
+"n": "1"
+},
+{
+"wr": "rossetto",
+"n": "1"
+},
+{
+"wr": "tabacchiera",
+"n": "1"
+},
+{
+"wr": "ucraino",
+"n": "1"
+},
+{
+"wr": "episcopio",
+"n": "2"
+},
+{
+"wr": "tulle",
+"n": "1"
+},
+{
+"wr": "allarme",
+"n": "1"
+},
+{
+"wr": "calabrese",
+"n": "1"
+},
+{
+"wr": "covo",
+"n": "1"
+},
+{
+"wr": "stampino",
+"n": "1"
+},
+{
+"wr": "cancellata",
+"n": "1"
+},
+{
+"wr": "fiasco",
+"n": "1"
+},
+{
+"wr": "salumificio",
+"n": "1"
+},
+{
+"wr": "motrice",
+"n": "2"
+},
+{
+"wr": "stampato",
+"n": "1"
+},
+{
+"wr": "nove",
+"n": "1"
+},
+{
+"wr": "lazo",
+"n": "1"
+},
+{
+"wr": "latta",
+"n": "1"
+},
+{
+"wr": "fornello",
+"n": "1"
+},
+{
+"wr": "esplosivo",
+"n": "1"
+},
+{
+"wr": "giardinetta",
+"n": "1"
+},
+{
+"wr": "euronight",
+"n": "1"
+},
+{
+"wr": "vernice",
+"n": "3"
+},
+{
+"wr": "calorimetro",
+"n": "1"
+},
+{
+"wr": "tonico",
+"n": "1"
+},
+{
+"wr": "spalto",
+"n": "1"
+},
+{
+"wr": "cartoccio",
+"n": "1"
+},
+{
+"wr": "vaporiera",
+"n": "1"
+},
+{
+"wr": "prezioso",
+"n": "1"
+},
+{
+"wr": "colluttorio",
+"n": "1"
+},
+{
+"wr": "tarlatana",
+"n": "1"
+},
+{
+"wr": "vaporetto",
+"n": "1"
+},
+{
+"wr": "linoleum",
+"n": "1"
+},
+{
+"wr": "tubettificio",
+"n": "1"
+},
+{
+"wr": "calibro",
+"n": "1"
+},
+{
+"wr": "autocarro",
+"n": "1"
+},
+{
+"wr": "poliambulatorio",
+"n": "2"
+},
+{
+"wr": "timpano",
+"n": "1"
+},
+{
+"wr": "diorama",
+"n": "1"
+},
+{
+"wr": "baraccone",
+"n": "1"
+},
+{
+"wr": "pianola",
+"n": "1"
+},
+{
+"wr": "baule",
+"n": "1"
+},
+{
+"wr": "attrezzo",
+"n": "1"
+},
+{
+"wr": "ditta",
+"n": "1"
+},
+{
+"wr": "spogliatoio",
+"n": "1"
+},
+{
+"wr": "sassofono",
+"n": "1"
+},
+{
+"wr": "walser",
+"n": "1"
+},
+{
+"wr": "formica",
+"n": "1"
+},
+{
+"wr": "calcolatrice",
+"n": "1"
+},
+{
+"wr": "curriculum",
+"n": "1"
+},
+{
+"wr": "bigodino",
+"n": "1"
+},
+{
+"wr": "dirigibile",
+"n": "1"
+},
+{
+"wr": "ranno",
+"n": "1"
+},
+{
+"wr": "zecchino",
+"n": "1"
+},
+{
+"wr": "autobiografia",
+"n": "1"
+},
+{
+"wr": "condizionatore",
+"n": "1"
+},
+{
+"wr": "lenza",
+"n": "1"
+},
+{
+"wr": "sacca",
+"n": "1"
+},
+{
+"wr": "dinametro",
+"n": "1"
+},
+{
+"wr": "patentino",
+"n": "1"
+},
+{
+"wr": "mandola",
+"n": "1"
+},
+{
+"wr": "argilla",
+"n": "1"
+},
+{
+"wr": "frullino",
+"n": "1"
+},
+{
+"wr": "muleta",
+"n": "1"
+},
+{
+"wr": "eschimese",
+"n": "1"
+},
+{
+"wr": "portico",
+"n": "2"
+},
+{
+"wr": "trattoria",
+"n": "1"
+},
+{
+"wr": "scettro",
+"n": "1"
+},
+{
+"wr": "tuorlo",
+"n": "1"
+},
+{
+"wr": "pastiglia",
+"n": "1"
+},
+{
+"wr": "psicofarmaco",
+"n": "1"
+},
+{
+"wr": "ghiotta",
+"n": "1"
+},
+{
+"wr": "robone",
+"n": "1"
+},
+{
+"wr": "tubino",
+"n": "1"
+},
+{
+"wr": "stufa",
+"n": "1"
+},
+{
+"wr": "yacht",
+"n": "1"
+},
+{
+"wr": "scuola",
+"n": "1"
+},
+{
+"wr": "rotativa",
+"n": "1"
+},
+{
+"wr": "zaffiro",
+"n": "1"
+},
+{
+"wr": "dispaccio",
+"n": "1"
+},
+{
+"wr": "livornese",
+"n": "1"
+},
+{
+"wr": "carboncino",
+"n": "1"
+},
+{
+"wr": "controbuffet",
+"n": "1"
+},
+{
+"wr": "antimalarico",
+"n": "1"
+},
+{
+"wr": "permesso",
+"n": "1"
+},
+{
+"wr": "stamberga",
+"n": "1"
+},
+{
+"wr": "coccarda",
+"n": "1"
+},
+{
+"wr": "tinta",
+"n": "1"
+},
+{
+"wr": "pepe",
+"n": "1"
+},
+{
+"wr": "ottantasette",
+"n": "1"
+},
+{
+"wr": "hotel",
+"n": "1"
+},
+{
+"wr": "nebulizzatore",
+"n": "1"
+},
+{
+"wr": "suk",
+"n": "2"
+},
+{
+"wr": "casale",
+"n": "1"
+},
+{
+"wr": "cornucopia",
+"n": "1"
+},
+{
+"wr": "baracca",
+"n": "2"
+},
+{
+"wr": "calmante",
+"n": "1"
+},
+{
+"wr": "settantotto",
+"n": "1"
+},
+{
+"wr": "napoletano",
+"n": "1"
+},
+{
+"wr": "tombino",
+"n": "2"
+},
+{
+"wr": "connettivo",
+"n": "1"
+},
+{
+"wr": "imbuto",
+"n": "1"
+},
+{
+"wr": "lanciamissili",
+"n": "1"
+},
+{
+"wr": "calzerotto",
+"n": "1"
+},
+{
+"wr": "pizzeria",
+"n": "1"
+},
+{
+"wr": "pantacollant",
+"n": "1"
+},
+{
+"wr": "stipo",
+"n": "2"
+},
+{
+"wr": "molla",
+"n": "1"
+},
+{
+"wr": "quarantadue",
+"n": "1"
+},
+{
+"wr": "pasticca",
+"n": "1"
+},
+{
+"wr": "lima",
+"n": "2"
+},
+{
+"wr": "aiuola",
+"n": "1"
+},
+{
+"wr": "struzzo",
+"n": "1"
+},
+{
+"wr": "tesina",
+"n": "1"
+},
+{
+"wr": "termosifone",
+"n": "1"
+},
+{
+"wr": "spranga",
+"n": "2"
+},
+{
+"wr": "abbeveratoio",
+"n": "1"
+},
+{
+"wr": "palazzo",
+"n": "1"
+},
+{
+"wr": "slittino",
+"n": "1"
+},
+{
+"wr": "camera",
+"n": "1"
+},
+{
+"wr": "cassa",
+"n": "2"
+},
+{
+"wr": "savoiardo",
+"n": "1"
+},
+{
+"wr": "polacco",
+"n": "1"
+},
+{
+"wr": "autogrù",
+"n": "1"
+},
+{
+"wr": "pellicola",
+"n": "1"
+},
+{
+"wr": "ventisette",
+"n": "1"
+},
+{
+"wr": "bolognese",
+"n": "1"
+},
+{
+"wr": "treppiede",
+"n": "1"
+},
+{
+"wr": "diretto",
+"n": "1"
+},
+{
+"wr": "rompighiaccio",
+"n": "2"
+},
+{
+"wr": "tucul",
+"n": "1"
+},
+{
+"wr": "braciere",
+"n": "1"
+},
+{
+"wr": "teglia",
+"n": "2"
+},
+{
+"wr": "targa",
+"n": "1"
+},
+{
+"wr": "baionetta",
+"n": "1"
+},
+{
+"wr": "opificio",
+"n": "1"
+},
+{
+"wr": "silos",
+"n": "1"
+},
+{
+"wr": "cinquanta",
+"n": "1"
+},
+{
+"wr": "scellino",
+"n": "1"
+},
+{
+"wr": "charter",
+"n": "1"
+},
+{
+"wr": "paprika",
+"n": "1"
+},
+{
+"wr": "centrifuga",
+"n": "1"
+},
+{
+"wr": "jeanseria",
+"n": "1"
+},
+{
+"wr": "piantina",
+"n": "1"
+},
+{
+"wr": "passeggino",
+"n": "1"
+},
+{
+"wr": "genovese",
+"n": "1"
+},
+{
+"wr": "palazzina",
+"n": "1"
+},
+{
+"wr": "sirena",
+"n": "1"
+},
+{
+"wr": "carro",
+"n": "1"
+},
+{
+"wr": "rotocalco",
+"n": "1"
+},
+{
+"wr": "enoteca",
+"n": "1"
+},
+{
+"wr": "dollaro",
+"n": "1"
+},
+{
+"wr": "sessantaquattro",
+"n": "1"
+},
+{
+"wr": "cancellino",
+"n": "1"
+},
+{
+"wr": "citofono",
+"n": "1"
+},
+{
+"wr": "panchetto",
+"n": "1"
+},
+{
+"wr": "tiara",
+"n": "1"
+},
+{
+"wr": "settantacinque",
+"n": "1"
+},
+{
+"wr": "arsenale",
+"n": "1"
+},
+{
+"wr": "tegamino",
+"n": "2"
+},
+{
+"wr": "casco",
+"n": "2"
+},
+{
+"wr": "cambogiano",
+"n": "1"
+},
+{
+"wr": "calorifero",
+"n": "1"
+},
+{
+"wr": "idioma",
+"n": "1"
+},
+{
+"wr": "pappagallo",
+"n": "1"
+},
+{
+"wr": "sessantadue",
+"n": "1"
+},
+{
+"wr": "tricolore",
+"n": "1"
+},
+{
+"wr": "storta",
+"n": "2"
+},
+{
+"wr": "panchetta",
+"n": "1"
+},
+{
+"wr": "sedia",
+"n": "2"
+},
+{
+"wr": "bettola",
+"n": "1"
+},
+{
+"wr": "macchinetta",
+"n": "1"
+},
+{
+"wr": "statuto",
+"n": "1"
+},
+{
+"wr": "polistirolo",
+"n": "1"
+},
+{
+"wr": "eurocent",
+"n": "1"
+},
+{
+"wr": "mantella",
+"n": "1"
+},
+{
+"wr": "ricetrasmittente",
+"n": "1"
+},
+{
+"wr": "porcile",
+"n": "1"
+},
+{
+"wr": "decreto",
+"n": "1"
+},
+{
+"wr": "novantasette",
+"n": "1"
+},
+{
+"wr": "ferriera",
+"n": "1"
+},
+{
+"wr": "piumone",
+"n": "2"
+},
+{
+"wr": "spatola",
+"n": "1"
+},
+{
+"wr": "trave",
+"n": "1"
+},
+{
+"wr": "cerchietto",
+"n": "1"
+},
+{
+"wr": "tunnel",
+"n": "2"
+},
+{
+"wr": "roccaforte",
+"n": "1"
+},
+{
+"wr": "calesse",
+"n": "1"
+},
+{
+"wr": "conclave",
+"n": "1"
+},
+{
+"wr": "saldatore",
+"n": "1"
+},
+{
+"wr": "ottantaquattro",
+"n": "1"
+},
+{
+"wr": "walkman",
+"n": "1"
+},
+{
+"wr": "prigione",
+"n": "1"
+},
+{
+"wr": "glassa",
+"n": "1"
+},
+{
+"wr": "barile",
+"n": "1"
+},
+{
+"wr": "compasso",
+"n": "2"
+},
+{
+"wr": "trenta",
+"n": "1"
+},
+{
+"wr": "lorica",
+"n": "1"
+},
+{
+"wr": "campagnola",
+"n": "1"
+},
+{
+"wr": "medicina",
+"n": "1"
+},
+{
+"wr": "utilitaria",
+"n": "1"
+},
+{
+"wr": "cinque",
+"n": "1"
+},
+{
+"wr": "sardo",
+"n": "1"
+},
+{
+"wr": "accordo",
+"n": "1"
+},
+{
+"wr": "bistecchiera",
+"n": "1"
+},
+{
+"wr": "ecografo",
+"n": "1"
+},
+{
+"wr": "tedesco",
+"n": "1"
+},
+{
+"wr": "tweed",
+"n": "1"
+},
+{
+"wr": "garza",
+"n": "1"
+},
+{
+"wr": "seggiovia",
+"n": "1"
+},
+{
+"wr": "settantatré",
+"n": "1"
+},
+{
+"wr": "settanta",
+"n": "1"
+},
+{
+"wr": "vellutino",
+"n": "1"
+},
+{
+"wr": "bolide",
+"n": "1"
+},
+{
+"wr": "antinfiammatorio",
+"n": "1"
+},
+{
+"wr": "fermaglio",
+"n": "1"
+},
+{
+"wr": "febbrifugo",
+"n": "1"
+},
+{
+"wr": "spolverino",
+"n": "3"
+},
+{
+"wr": "turco",
+"n": "1"
+},
+{
+"wr": "forcipe",
+"n": "1"
+},
+{
+"wr": "facsimile",
+"n": "1"
+},
+{
+"wr": "spremiagrumi",
+"n": "1"
+},
+{
+"wr": "mestolo",
+"n": "2"
+},
+{
+"wr": "quindici",
+"n": "1"
+},
+{
+"wr": "torpedone",
+"n": "1"
+},
+{
+"wr": "dattiloscritto",
+"n": "1"
+},
+{
+"wr": "autocisterna",
+"n": "1"
+},
+{
+"wr": "cartoleria",
+"n": "1"
+},
+{
+"wr": "maximoto",
+"n": "1"
+},
+{
+"wr": "trentaquattro",
+"n": "1"
+},
+{
+"wr": "pistola",
+"n": "1"
+},
+{
+"wr": "guanciale",
+"n": "1"
+},
+{
+"wr": "schiaccianoci",
+"n": "1"
+},
+{
+"wr": "pennarello",
+"n": "1"
+},
+{
+"wr": "ortopedia",
+"n": "2"
+},
+{
+"wr": "tostapane",
+"n": "1"
+},
+{
+"wr": "copia",
+"n": "1"
+},
+{
+"wr": "combustibile",
+"n": "1"
+},
+{
+"wr": "capanno",
+"n": "1"
+},
+{
+"wr": "baroccio",
+"n": "1"
+},
+{
+"wr": "chiave",
+"n": "1"
+},
+{
+"wr": "plastico",
+"n": "2"
+},
+{
+"wr": "satellite",
+"n": "1"
+},
+{
+"wr": "pedalò",
+"n": "1"
+},
+{
+"wr": "cinnamomo",
+"n": "1"
+},
+{
+"wr": "posata",
+"n": "1"
+},
+{
+"wr": "flacone",
+"n": "1"
+},
+{
+"wr": "disintossicante",
+"n": "1"
+},
+{
+"wr": "sesamo",
+"n": "1"
+},
+{
+"wr": "trapezio",
+"n": "1"
+},
+{
+"wr": "argenteria",
+"n": "1"
+},
+{
+"wr": "tracolla",
+"n": "1"
+},
+{
+"wr": "paniere",
+"n": "1"
+},
+{
+"wr": "sedativo",
+"n": "1"
+},
+{
+"wr": "almanacco",
+"n": "1"
+},
+{
+"wr": "arca",
+"n": "1"
+},
+{
+"wr": "tintura",
+"n": "1"
+},
+{
+"wr": "ventiquattrore",
+"n": "1"
+},
+{
+"wr": "arco",
+"n": "1"
+},
+{
+"wr": "spremilimoni",
+"n": "1"
+},
+{
+"wr": "telone",
+"n": "2"
+},
+{
+"wr": "corriera",
+"n": "1"
+},
+{
+"wr": "elettrocardiografo",
+"n": "1"
+},
+{
+"wr": "guantificio",
+"n": "1"
+},
+{
+"wr": "liuto",
+"n": "1"
+},
+{
+"wr": "scuderia",
+"n": "1"
+},
+{
+"wr": "alimentare",
+"n": "1"
+},
+{
+"wr": "airbag",
+"n": "1"
+},
+{
+"wr": "pezzo",
+"n": "1"
+},
+{
+"wr": "rapporto",
+"n": "1"
+},
+{
+"wr": "vangelo",
+"n": "1"
+},
+{
+"wr": "profumeria",
+"n": "1"
+},
+{
+"wr": "cerotto",
+"n": "1"
+},
+{
+"wr": "bellunese",
+"n": "1"
+},
+{
+"wr": "peluche",
+"n": "2"
+},
+{
+"wr": "sollevatore",
+"n": "1"
+},
+{
+"wr": "pugnale",
+"n": "1"
+},
+{
+"wr": "telegrafo",
+"n": "1"
+},
+{
+"wr": "ponte",
+"n": "1"
+},
+{
+"wr": "inginocchiatoio",
+"n": "1"
+},
+{
+"wr": "chiavaccio",
+"n": "1"
+},
+{
+"wr": "amplificatore",
+"n": "1"
+},
+{
+"wr": "manetta",
+"n": "1"
+},
+{
+"wr": "auditorium",
+"n": "1"
+},
+{
+"wr": "tartana",
+"n": "1"
+},
+{
+"wr": "vulgata",
+"n": "1"
+},
+{
+"wr": "barella",
+"n": "1"
+},
+{
+"wr": "eskimo",
+"n": "1"
+},
+{
+"wr": "polleria",
+"n": "1"
+},
+{
+"wr": "singolo",
+"n": "1"
+},
+{
+"wr": "caserma",
+"n": "1"
+},
+{
+"wr": "parapetto",
+"n": "1"
+},
+{
+"wr": "lavasciugatrice",
+"n": "2"
+},
+{
+"wr": "ventola",
+"n": "2"
+},
+{
+"wr": "montone",
+"n": "2"
+},
+{
+"wr": "creolo",
+"n": "1"
+},
+{
+"wr": "batacchio",
+"n": "1"
+},
+{
+"wr": "fiocina",
+"n": "1"
+},
+{
+"wr": "crisma",
+"n": "1"
+},
+{
+"wr": "monopattino",
+"n": "1"
+},
+{
+"wr": "culla",
+"n": "1"
+},
+{
+"wr": "rosticceria",
+"n": "1"
+},
+{
+"wr": "refettorio",
+"n": "1"
+},
+{
+"wr": "tetraciclina",
+"n": "1"
+},
+{
+"wr": "imbottitura",
+"n": "1"
+},
+{
+"wr": "barattolo",
+"n": "1"
+},
+{
+"wr": "generatore",
+"n": "1"
+},
+{
+"wr": "testo",
+"n": "1"
+},
+{
+"wr": "reattore",
+"n": "1"
+},
+{
+"wr": "traghetto",
+"n": "1"
+},
+{
+"wr": "motopeschereccio",
+"n": "2"
+},
+{
+"wr": "fiato",
+"n": "1"
+},
+{
+"wr": "quarantanove",
+"n": "1"
+},
+{
+"wr": "cinematografo",
+"n": "1"
+},
+{
+"wr": "fortino",
+"n": "1"
+},
+{
+"wr": "trenino",
+"n": "2"
+},
+{
+"wr": "assessorato",
+"n": "1"
+},
+{
+"wr": "tanaglia",
+"n": "1"
+},
+{
+"wr": "neon",
+"n": "1"
+},
+{
+"wr": "ravennate",
+"n": "1"
+},
+{
+"wr": "panzer",
+"n": "1"
+},
+{
+"wr": "vigneto",
+"n": "1"
+},
+{
+"wr": "clip",
+"n": "1"
+},
+{
+"wr": "container",
+"n": "1"
+},
+{
+"wr": "mitra",
+"n": "1"
+},
+{
+"wr": "eremo",
+"n": "2"
+},
+{
+"wr": "cromorno",
+"n": "1"
+},
+{
+"wr": "scalificio",
+"n": "1"
+},
+{
+"wr": "stelletta",
+"n": "1"
+},
+{
+"wr": "memorandum",
+"n": "1"
+},
+{
+"wr": "stampella",
+"n": "1"
+},
+{
+"wr": "cartuccia",
+"n": "2"
+},
+{
+"wr": "schizzetto",
+"n": "3"
+},
+{
+"wr": "carrozzeria",
+"n": "1"
+},
+{
+"wr": "paglietta",
+"n": "1"
+},
+{
+"wr": "aratro",
+"n": "1"
+},
+{
+"wr": "novantaquattro",
+"n": "1"
+},
+{
+"wr": "afrodisiaco",
+"n": "1"
+},
+{
+"wr": "diavoletto",
+"n": "1"
+},
+{
+"wr": "maglieria",
+"n": "1"
+},
+{
+"wr": "motocicletta",
+"n": "1"
+},
+{
+"wr": "borsellino",
+"n": "1"
+},
+{
+"wr": "effigie",
+"n": "1"
+},
+{
+"wr": "cetra",
+"n": "1"
+},
+{
+"wr": "commentario",
+"n": "1"
+},
+{
+"wr": "legnaia",
+"n": "1"
+},
+{
+"wr": "trasformatore",
+"n": "1"
+},
+{
+"wr": "egiziano",
+"n": "1"
+},
+{
+"wr": "nullaosta",
+"n": "1"
+},
+{
+"wr": "marionetta",
+"n": "1"
+},
+{
+"wr": "disco",
+"n": "1"
+},
+{
+"wr": "tinello",
+"n": "1"
+},
+{
+"wr": "ostello",
+"n": "1"
+},
+{
+"wr": "re",
+"n": "1"
+},
+{
+"wr": "jersey",
+"n": "1"
+},
+{
+"wr": "cinquantasei",
+"n": "1"
+},
+{
+"wr": "buttafuoco",
+"n": "1"
+},
+{
+"wr": "passatoia",
+"n": "2"
+},
+{
+"wr": "portaghiaccio",
+"n": "1"
+},
+{
+"wr": "biposto",
+"n": "1"
+},
+{
+"wr": "corano",
+"n": "1"
+},
+{
+"wr": "macigno",
+"n": "1"
+},
+{
+"wr": "glossario",
+"n": "1"
+},
+{
+"wr": "canestro",
+"n": "2"
+},
+{
+"wr": "elmetto",
+"n": "1"
+},
+{
+"wr": "due",
+"n": "1"
+},
+{
+"wr": "memoriale",
+"n": "1"
+},
+{
+"wr": "pianella",
+"n": "1"
+},
+{
+"wr": "zagaglia",
+"n": "1"
+},
+{
+"wr": "falò",
+"n": "2"
+},
+{
+"wr": "fungicida",
+"n": "1"
+},
+{
+"wr": "ebanisteria",
+"n": "1"
+},
+{
+"wr": "bollitore",
+"n": "2"
+},
+{
+"wr": "spadone",
+"n": "1"
+},
+{
+"wr": "motonave",
+"n": "1"
+},
+{
+"wr": "fettuccia",
+"n": "1"
+},
+{
+"wr": "conocchia",
+"n": "1"
+},
+{
+"wr": "alimentatore",
+"n": "1"
+},
+{
+"wr": "cinema",
+"n": "1"
+},
+{
+"wr": "coperto",
+"n": "1"
+},
+{
+"wr": "rogo",
+"n": "1"
+},
+{
+"wr": "gualdrappa",
+"n": "1"
+},
+{
+"wr": "pedigree",
+"n": "1"
+},
+{
+"wr": "ombrellificio",
+"n": "1"
+},
+{
+"wr": "misuratore",
+"n": "1"
+},
+{
+"wr": "catapecchia",
+"n": "1"
+},
+{
+"wr": "marca",
+"n": "1"
+},
+{
+"wr": "crogiolo",
+"n": "1"
+},
+{
+"wr": "collana",
+"n": "1"
+},
+{
+"wr": "cinquantuno",
+"n": "1"
+},
+{
+"wr": "agnello",
+"n": "1"
+},
+{
+"wr": "cantinetta",
+"n": "1"
+},
+{
+"wr": "cardo",
+"n": "1"
+},
+{
+"wr": "conio",
+"n": "1"
+},
+{
+"wr": "salvietta",
+"n": "1"
+},
+{
+"wr": "pinacoteca",
+"n": "1"
+},
+{
+"wr": "manga",
+"n": "2"
+},
+{
+"wr": "novantuno",
+"n": "1"
+},
+{
+"wr": "secchia",
+"n": "1"
+},
+{
+"wr": "attaccatutto",
+"n": "1"
+},
+{
+"wr": "balestra",
+"n": "1"
+},
+{
+"wr": "rame",
+"n": "1"
+},
+{
+"wr": "topazio",
+"n": "1"
+},
+{
+"wr": "cassone",
+"n": "2"
+},
+{
+"wr": "abituro",
+"n": "1"
+},
+{
+"wr": "cupolino",
+"n": "1"
+},
+{
+"wr": "baiocco",
+"n": "1"
+},
+{
+"wr": "multa",
+"n": "1"
+},
+{
+"wr": "droga",
+"n": "3"
+},
+{
+"wr": "crivello",
+"n": "1"
+},
+{
+"wr": "pattino",
+"n": "2"
+},
+{
+"wr": "bar",
+"n": "1"
+},
+{
+"wr": "comodino",
+"n": "1"
+},
+{
+"wr": "olmeto",
+"n": "1"
+},
+{
+"wr": "frigo",
+"n": "1"
+},
+{
+"wr": "fienile",
+"n": "1"
+},
+{
+"wr": "domino",
+"n": "1"
+},
+{
+"wr": "tradotta",
+"n": "1"
+},
+{
+"wr": "legge",
+"n": "1"
+},
+{
+"wr": "sepolcro",
+"n": "1"
+},
+{
+"wr": "radiatore",
+"n": "1"
+},
+{
+"wr": "planetario",
+"n": "1"
+},
+{
+"wr": "obiettivo",
+"n": "1"
+},
+{
+"wr": "corsetto",
+"n": "1"
+},
+{
+"wr": "pedone",
+"n": "1"
+},
+{
+"wr": "curdo",
+"n": "1"
+},
+{
+"wr": "annuncio",
+"n": "1"
+},
+{
+"wr": "rocca",
+"n": "2"
+},
+{
+"wr": "busta",
+"n": "1"
+},
+{
+"wr": "olandese",
+"n": "1"
+},
+{
+"wr": "fiammifero",
+"n": "1"
+},
+{
+"wr": "oftalmoscopio",
+"n": "1"
+},
+{
+"wr": "sgabello",
+"n": "1"
+},
+{
+"wr": "modisteria",
+"n": "2"
+},
+{
+"wr": "deodorante",
+"n": "1"
+},
+{
+"wr": "formaggiera",
+"n": "1"
+},
+{
+"wr": "contascatti",
+"n": "1"
+},
+{
+"wr": "calamaio",
+"n": "1"
+},
+{
+"wr": "sonda",
+"n": "1"
+},
+{
+"wr": "pastello",
+"n": "1"
+},
+{
+"wr": "inserzione",
+"n": "1"
+},
+{
+"wr": "rustico",
+"n": "1"
+},
+{
+"wr": "bombola",
+"n": "1"
+},
+{
+"wr": "otre",
+"n": "1"
+},
+{
+"wr": "vaso",
+"n": "3"
+},
+{
+"wr": "corno",
+"n": "1"
+},
+{
+"wr": "belvedere",
+"n": "1"
+},
+{
+"wr": "galleria",
+"n": "3"
+},
+{
+"wr": "interruttore",
+"n": "2"
+},
+{
+"wr": "casamatta",
+"n": "1"
+},
+{
+"wr": "lasciapassare",
+"n": "1"
+},
+{
+"wr": "occhiale",
+"n": "2"
+},
+{
+"wr": "lievito",
+"n": "1"
+},
+{
+"wr": "auricolare",
+"n": "1"
+},
+{
+"wr": "casa",
+"n": "2"
+},
+{
+"wr": "cuoio",
+"n": "1"
+},
+{
+"wr": "clinica",
+"n": "4"
+},
+{
+"wr": "pipa",
+"n": "1"
+},
+{
+"wr": "autosnodato",
+"n": "1"
+},
+{
+"wr": "mannaia",
+"n": "1"
+},
+{
+"wr": "rapido",
+"n": "1"
+},
+{
+"wr": "fascicolatore",
+"n": "1"
+},
+{
+"wr": "riviera",
+"n": "1"
+},
+{
+"wr": "valsesiano",
+"n": "1"
+},
+{
+"wr": "palasport",
+"n": "1"
+},
+{
+"wr": "diffusore",
+"n": "1"
+},
+{
+"wr": "veicolo",
+"n": "1"
+},
+{
+"wr": "teca",
+"n": "1"
+},
+{
+"wr": "quarantasei",
+"n": "1"
+},
+{
+"wr": "antipiretico",
+"n": "1"
+},
+{
+"wr": "telaio",
+"n": "1"
+},
+{
+"wr": "acquario",
+"n": "2"
+},
+{
+"wr": "confezionatrice",
+"n": "1"
+},
+{
+"wr": "rallentatore",
+"n": "1"
+},
+{
+"wr": "ammiraglia",
+"n": "1"
+},
+{
+"wr": "riscio",
+"n": "1"
+},
+{
+"wr": "graffietto",
+"n": "1"
+},
+{
+"wr": "cappa",
+"n": "1"
+},
+{
+"wr": "fortezza",
+"n": "1"
+},
+{
+"wr": "bengala",
+"n": "1"
+},
+{
+"wr": "carrozzone",
+"n": "1"
+},
+{
+"wr": "aeromobile",
+"n": "1"
+},
+{
+"wr": "filovia",
+"n": "1"
+},
+{
+"wr": "muraglione",
+"n": "1"
+},
+{
+"wr": "cammeo",
+"n": "1"
+},
+{
+"wr": "trentasette",
+"n": "1"
+},
+{
+"wr": "grancassa",
+"n": "1"
+},
+{
+"wr": "brillante",
+"n": "1"
+},
+{
+"wr": "tappezzeria",
+"n": "2"
+},
+{
+"wr": "lubrificante",
+"n": "1"
+},
+{
+"wr": "aeroporto",
+"n": "3"
+},
+{
+"wr": "vigna",
+"n": "1"
+},
+{
+"wr": "televisore",
+"n": "1"
+},
+{
+"wr": "tovaglia",
+"n": "1"
+},
+{
+"wr": "bottiglione",
+"n": "1"
+},
+{
+"wr": "elementare",
+"n": "1"
+},
+{
+"wr": "ipermercato",
+"n": "1"
+},
+{
+"wr": "colle",
+"n": "1"
+},
+{
+"wr": "dialetto",
+"n": "1"
+},
+{
+"wr": "passamano",
+"n": "1"
+},
+{
+"wr": "biglia",
+"n": "1"
+},
+{
+"wr": "damigiana",
+"n": "1"
+},
+{
+"wr": "catalano",
+"n": "1"
+},
+{
+"wr": "scandinavo",
+"n": "1"
+},
+{
+"wr": "albanese",
+"n": "1"
+},
+{
+"wr": "varichina",
+"n": "1"
+},
+{
+"wr": "cicatrizzante",
+"n": "1"
+},
+{
+"wr": "spingarda",
+"n": "1"
+},
+{
+"wr": "cumino",
+"n": "1"
+},
+{
+"wr": "pettorale",
+"n": "1"
+},
+{
+"wr": "cornamusa",
+"n": "1"
+},
+{
+"wr": "clessidra",
+"n": "1"
+},
+{
+"wr": "tramaglio",
+"n": "1"
+},
+{
+"wr": "settantadue",
+"n": "1"
+},
+{
+"wr": "termometro",
+"n": "1"
+},
+{
+"wr": "umidificatore",
+"n": "1"
+},
+{
+"wr": "piffero",
+"n": "1"
+},
+{
+"wr": "piantagione",
+"n": "1"
+},
+{
+"wr": "giacchetta",
+"n": "1"
+},
+{
+"wr": "coagulante",
+"n": "1"
+},
+{
+"wr": "tranquillante",
+"n": "1"
+},
+{
+"wr": "turbo",
+"n": "1"
+},
+{
+"wr": "quattordici",
+"n": "1"
+},
+{
+"wr": "curry",
+"n": "1"
+},
+{
+"wr": "catafalco",
+"n": "1"
+},
+{
+"wr": "bugigattolo",
+"n": "1"
+},
+{
+"wr": "ombrellone",
+"n": "1"
+},
+{
+"wr": "giara",
+"n": "2"
+},
+{
+"wr": "plastilina",
+"n": "1"
+},
+{
+"wr": "crematorio",
+"n": "1"
+},
+{
+"wr": "falpala",
+"n": "1"
+},
+{
+"wr": "calotta",
+"n": "1"
+},
+{
+"wr": "camion",
+"n": "1"
+},
+{
+"wr": "boccia",
+"n": "1"
+},
+{
+"wr": "vogatore",
+"n": "1"
+},
+{
+"wr": "polverificio",
+"n": "1"
+},
+{
+"wr": "puzzola",
+"n": "1"
+},
+{
+"wr": "verbale",
+"n": "1"
+},
+{
+"wr": "mulinello",
+"n": "1"
+},
+{
+"wr": "cartella",
+"n": "2"
+},
+{
+"wr": "girocollo",
+"n": "2"
+},
+{
+"wr": "racchetta",
+"n": "2"
+},
+{
+"wr": "ciuccio",
+"n": "1"
+},
+{
+"wr": "arpa",
+"n": "1"
+},
+{
+"wr": "scavatore",
+"n": "1"
+},
+{
+"wr": "alsaziano",
+"n": "1"
+},
+{
+"wr": "estone",
+"n": "1"
+},
+{
+"wr": "alare",
+"n": "1"
+},
+{
+"wr": "feluca",
+"n": "1"
+},
+{
+"wr": "carcere",
+"n": "1"
+},
+{
+"wr": "serbatoio",
+"n": "1"
+},
+{
+"wr": "arpione",
+"n": "1"
+},
+{
+"wr": "bachelite",
+"n": "1"
+},
+{
+"wr": "fascicolatrice",
+"n": "1"
+},
+{
+"wr": "trentatré",
+"n": "1"
+},
+{
+"wr": "indicatore",
+"n": "1"
+},
+{
+"wr": "ventotto",
+"n": "1"
+},
+{
+"wr": "portamatite",
+"n": "1"
+},
+{
+"wr": "camioncino",
+"n": "1"
+},
+{
+"wr": "pulsante",
+"n": "1"
+},
+{
+"wr": "ventino",
+"n": "1"
+},
+{
+"wr": "obitorio",
+"n": "1"
+},
+{
+"wr": "bigiotteria",
+"n": "1"
+},
+{
+"wr": "oppio",
+"n": "2"
+},
+{
+"wr": "box",
+"n": "1"
+},
+{
+"wr": "contravvenzione",
+"n": "1"
+},
+{
+"wr": "autovettura",
+"n": "1"
+},
+{
+"wr": "colorante",
+"n": "1"
+},
+{
+"wr": "calcestruzzo",
+"n": "1"
+},
+{
+"wr": "caschetto",
+"n": "1"
+},
+{
+"wr": "yiddish",
+"n": "1"
+},
+{
+"wr": "mercato",
+"n": "2"
+},
+{
+"wr": "incunabolo",
+"n": "1"
+},
+{
+"wr": "separatore",
+"n": "1"
+},
+{
+"wr": "biscottificio",
+"n": "1"
+},
+{
+"wr": "pennellificio",
+"n": "1"
+},
+{
+"wr": "falcone",
+"n": "1"
+},
+{
+"wr": "blasone",
+"n": "1"
+},
+{
+"wr": "scacco",
+"n": "1"
+},
+{
+"wr": "frullatore",
+"n": "1"
+},
+{
+"wr": "compressa",
+"n": "1"
+},
+{
+"wr": "piano",
+"n": "1"
+},
+{
+"wr": "sandalificio",
+"n": "1"
+},
+{
+"wr": "novantotto",
+"n": "1"
+},
+{
+"wr": "cavatappi",
+"n": "1"
+},
+{
+"wr": "tela",
+"n": "1"
+},
+{
+"wr": "zimarra",
+"n": "1"
+},
+{
+"wr": "mobile",
+"n": "1"
+},
+{
+"wr": "drappo",
+"n": "1"
+},
+{
+"wr": "cane",
+"n": "1"
+},
+{
+"wr": "calzettone",
+"n": "1"
+},
+{
+"wr": "archibugio",
+"n": "1"
+},
+{
+"wr": "telefono",
+"n": "1"
+},
+{
+"wr": "graticcio",
+"n": "1"
+},
+{
+"wr": "automobilina",
+"n": "1"
+},
+{
+"wr": "muflone",
+"n": "1"
+},
+{
+"wr": "solettificio",
+"n": "1"
+},
+{
+"wr": "opuscolo",
+"n": "1"
+},
+{
+"wr": "blindata",
+"n": "1"
+},
+{
+"wr": "cocotte",
+"n": "1"
+},
+{
+"wr": "cacciatora",
+"n": "1"
+},
+{
+"wr": "tibia",
+"n": "1"
+},
+{
+"wr": "albume",
+"n": "1"
+},
+{
+"wr": "marengo",
+"n": "1"
+},
+{
+"wr": "festone",
+"n": "1"
+},
+{
+"wr": "pastella",
+"n": "1"
+},
+{
+"wr": "quattrino",
+"n": "1"
+},
+{
+"wr": "mangimificio",
+"n": "1"
+},
+{
+"wr": "ancora",
+"n": "1"
+},
+{
+"wr": "periscopio",
+"n": "1"
+},
+{
+"wr": "calcina",
+"n": "1"
+},
+{
+"wr": "campeggio",
+"n": "1"
+},
+{
+"wr": "giavellotto",
+"n": "1"
+},
+{
+"wr": "lanciagranate",
+"n": "1"
+},
+{
+"wr": "radio",
+"n": "1"
+},
+{
+"wr": "rostiera",
+"n": "2"
+},
+{
+"wr": "lionese",
+"n": "1"
+},
+{
+"wr": "misurino",
+"n": "1"
+},
+{
+"wr": "temperamatite",
+"n": "1"
+},
+{
+"wr": "catalizzatore",
+"n": "1"
+},
+{
+"wr": "bidone",
+"n": "1"
+},
+{
+"wr": "canadese",
+"n": "2"
+},
+{
+"wr": "erogatore",
+"n": "1"
+},
+{
+"wr": "stetoscopio",
+"n": "1"
+},
+{
+"wr": "trentotto",
+"n": "1"
+},
+{
+"wr": "celata",
+"n": "1"
+},
+{
+"wr": "motoretta",
+"n": "1"
+},
+{
+"wr": "organetto",
+"n": "1"
+},
+{
+"wr": "cucchiaione",
+"n": "1"
+},
+{
+"wr": "morfina",
+"n": "1"
+},
+{
+"wr": "boccetta",
+"n": "2"
+},
+{
+"wr": "giavanese",
+"n": "1"
+},
+{
+"wr": "televisione",
+"n": "2"
+},
+{
+"wr": "vettura",
+"n": "1"
+},
+{
+"wr": "furgone",
+"n": "1"
+},
+{
+"wr": "latino",
+"n": "1"
+},
+{
+"wr": "imballaggio",
+"n": "1"
+},
+{
+"wr": "salterio",
+"n": "2"
+},
+{
+"wr": "copertone",
+"n": "1"
+},
+{
+"wr": "lanterna",
+"n": "1"
+},
+{
+"wr": "tuba",
+"n": "1"
+},
+{
+"wr": "vitello",
+"n": "1"
+},
+{
+"wr": "diamante",
+"n": "1"
+},
+{
+"wr": "sega",
+"n": "1"
+},
+{
+"wr": "croato",
+"n": "1"
+},
+{
+"wr": "accendisigaro",
+"n": "1"
+},
+{
+"wr": "cristalliera",
+"n": "2"
+},
+{
+"wr": "oboe",
+"n": "1"
+},
+{
+"wr": "gamella",
+"n": "1"
+},
+{
+"wr": "moschetto",
+"n": "1"
+},
+{
+"wr": "stradario",
+"n": "1"
+},
+{
+"wr": "romagnolo",
+"n": "1"
+},
+{
+"wr": "attestazione",
+"n": "1"
+},
+{
+"wr": "decolorante",
+"n": "1"
+},
+{
+"wr": "interfono",
+"n": "1"
+},
+{
+"wr": "volpe",
+"n": "1"
+},
+{
+"wr": "ballerina",
+"n": "1"
+},
+{
+"wr": "candelotto",
+"n": "1"
+},
+{
+"wr": "zolletta",
+"n": "1"
+},
+{
+"wr": "flessometro",
+"n": "1"
+},
+{
+"wr": "conceria",
+"n": "1"
+},
+{
+"wr": "mobilificio",
+"n": "1"
+},
+{
+"wr": "segnale",
+"n": "1"
+},
+{
+"wr": "thermos",
+"n": "1"
+},
+{
+"wr": "tallero",
+"n": "1"
+},
+{
+"wr": "bisso",
+"n": "1"
+},
+{
+"wr": "apocalisse",
+"n": "1"
+},
+{
+"wr": "galoppatoio",
+"n": "2"
+},
+{
+"wr": "vassoio",
+"n": "1"
+},
+{
+"wr": "asso",
+"n": "1"
+},
+{
+"wr": "baleniera",
+"n": "2"
+},
+{
+"wr": "lapide",
+"n": "1"
+},
+{
+"wr": "talento",
+"n": "1"
+},
+{
+"wr": "lupo",
+"n": "1"
+},
+{
+"wr": "cestino",
+"n": "1"
+},
+{
+"wr": "intonaco",
+"n": "1"
+},
+{
+"wr": "rete",
+"n": "2"
+},
+{
+"wr": "banche",
+"n": "2"
+},
+{
+"wr": "chalet",
+"n": "1"
+},
+{
+"wr": "scartoffia",
+"n": "1"
+},
+{
+"wr": "ferramenta",
+"n": "1"
+},
+{
+"wr": "scimitarra",
+"n": "1"
+},
+{
+"wr": "farmaco",
+"n": "1"
+},
+{
+"wr": "casseruola",
+"n": "2"
+},
+{
+"wr": "bilocale",
+"n": "1"
+},
+{
+"wr": "soprabito",
+"n": "1"
+},
+{
+"wr": "cappello",
+"n": "1"
+},
+{
+"wr": "fumetto",
+"n": "1"
+},
+{
+"wr": "megastore",
+"n": "1"
+},
+{
+"wr": "organza",
+"n": "1"
+},
+{
+"wr": "origano",
+"n": "1"
+},
+{
+"wr": "cemento",
+"n": "1"
+},
+{
+"wr": "colombario",
+"n": "1"
+},
+{
+"wr": "ungherese",
+"n": "1"
+},
+{
+"wr": "scialuppa",
+"n": "1"
+},
+{
+"wr": "scaldino",
+"n": "1"
+},
+{
+"wr": "piastra",
+"n": "1"
+},
+{
+"wr": "etichetta",
+"n": "1"
+},
+{
+"wr": "stampatrice",
+"n": "1"
+},
+{
+"wr": "slavo",
+"n": "1"
+},
+{
+"wr": "stamperia",
+"n": "1"
+},
+{
+"wr": "pruneto",
+"n": "1"
+},
+{
+"wr": "appunto",
+"n": "1"
+},
+{
+"wr": "lem",
+"n": "1"
+},
+{
+"wr": "giradischi",
+"n": "1"
+},
+{
+"wr": "casolare",
+"n": "1"
+},
+{
+"wr": "lancia",
+"n": "2"
+},
+{
+"wr": "novelliere",
+"n": "1"
+},
+{
+"wr": "romano",
+"n": "1"
+},
+{
+"wr": "gagliardetto",
+"n": "2"
+},
+{
+"wr": "sellificio",
+"n": "1"
+},
+{
+"wr": "fotoromanzo",
+"n": "1"
+},
+{
+"wr": "giogo",
+"n": "1"
+},
+{
+"wr": "registratore",
+"n": "1"
+},
+{
+"wr": "islandese",
+"n": "1"
+},
+{
+"wr": "cassapanca",
+"n": "2"
+},
+{
+"wr": "rotametro",
+"n": "1"
+},
+{
+"wr": "tavolaccio",
+"n": "1"
+},
+{
+"wr": "tabellone",
+"n": "1"
+},
+{
+"wr": "ruzzola",
+"n": "1"
+},
+{
+"wr": "sergente",
+"n": "1"
+},
+{
+"wr": "camping",
+"n": "1"
+},
+{
+"wr": "lana",
+"n": "1"
+},
+{
+"wr": "pinna",
+"n": "1"
+},
+{
+"wr": "pasticceria",
+"n": "1"
+},
+{
+"wr": "germicida",
+"n": "1"
+},
+{
+"wr": "cippo",
+"n": "2"
+},
+{
+"wr": "pulmino",
+"n": "1"
+},
+{
+"wr": "acquasantiera",
+"n": "1"
+},
+{
+"wr": "crogiuolo",
+"n": "1"
+},
+{
+"wr": "balalaika",
+"n": "1"
+},
+{
+"wr": "tomba",
+"n": "1"
+},
+{
+"wr": "cucina",
+"n": "3"
+},
+{
+"wr": "autoclave",
+"n": "2"
+},
+{
+"wr": "sipario",
+"n": "1"
+},
+{
+"wr": "tecnigrafo",
+"n": "1"
+},
+{
+"wr": "filato",
+"n": "1"
+},
+{
+"wr": "rimorchio",
+"n": "1"
+},
+{
+"wr": "esperanto",
+"n": "1"
+},
+{
+"wr": "spago",
+"n": "1"
+},
+{
+"wr": "clavicembalo",
+"n": "1"
+},
+{
+"wr": "ditale",
+"n": "1"
+},
+{
+"wr": "catenella",
+"n": "1"
+},
+{
+"wr": "chirurgia",
+"n": "1"
+},
+{
+"wr": "panno",
+"n": "1"
+},
+{
+"wr": "organo",
+"n": "1"
+},
+{
+"wr": "parcheggio",
+"n": "1"
+},
+{
+"wr": "gavetta",
+"n": "1"
+},
+{
+"wr": "taccuino",
+"n": "1"
+},
+{
+"wr": "identikit",
+"n": "1"
+},
+{
+"wr": "manifattura",
+"n": "1"
+},
+{
+"wr": "temperino",
+"n": "2"
+},
+{
+"wr": "salvacondotto",
+"n": "1"
+},
+{
+"wr": "chiffon",
+"n": "1"
+},
+{
+"wr": "cinquantasette",
+"n": "1"
+},
+{
+"wr": "autoveicolo",
+"n": "1"
+},
+{
+"wr": "erbetta",
+"n": "1"
+},
+{
+"wr": "rubinetto",
+"n": "1"
+},
+{
+"wr": "somalo",
+"n": "1"
+},
+{
+"wr": "ottantasei",
+"n": "1"
+},
+{
+"wr": "chiusura",
+"n": "1"
+},
+{
+"wr": "berrettificio",
+"n": "1"
+},
+{
+"wr": "rasoio",
+"n": "1"
+},
+{
+"wr": "mirino",
+"n": "1"
+},
+{
+"wr": "ukulele",
+"n": "1"
+},
+{
+"wr": "chiodo",
+"n": "1"
+},
+{
+"wr": "pertica",
+"n": "1"
+},
+{
+"wr": "merceria",
+"n": "1"
+},
+{
+"wr": "maglia",
+"n": "2"
+},
+{
+"wr": "scarsella",
+"n": "1"
+},
+{
+"wr": "supposta",
+"n": "1"
+},
+{
+"wr": "forca",
+"n": "1"
+},
+{
+"wr": "tabarro",
+"n": "1"
+},
+{
+"wr": "edicola",
+"n": "1"
+},
+{
+"wr": "teatrino",
+"n": "2"
+},
+{
+"wr": "caldaia",
+"n": "1"
+},
+{
+"wr": "merletto",
+"n": "1"
+},
+{
+"wr": "stalla",
+"n": "1"
+},
+{
+"wr": "transistor",
+"n": "1"
+},
+{
+"wr": "atlante",
+"n": "1"
+},
+{
+"wr": "stabilizzatore",
+"n": "1"
+},
+{
+"wr": "romancio",
+"n": "1"
+},
+{
+"wr": "lanciarazzi",
+"n": "1"
+},
+{
+"wr": "colabrodo",
+"n": "1"
+},
+{
+"wr": "tricorno",
+"n": "1"
+},
+{
+"wr": "griglia",
+"n": "4"
+},
+{
+"wr": "mensile",
+"n": "1"
+},
+{
+"wr": "cartello",
+"n": "1"
+},
+{
+"wr": "piumino",
+"n": "2"
+},
+{
+"wr": "barchetta",
+"n": "2"
+},
+{
+"wr": "topaia",
+"n": "1"
+},
+{
+"wr": "spicciolo",
+"n": "1"
+},
+{
+"wr": "manubrio",
+"n": "1"
+},
+{
+"wr": "scheda",
+"n": "1"
+},
+{
+"wr": "segnalatore",
+"n": "1"
+},
+{
+"wr": "ametista",
+"n": "1"
+},
+{
+"wr": "boxer",
+"n": "1"
+},
+{
+"wr": "agroindustria",
+"n": "1"
+},
+{
+"wr": "plettro",
+"n": "1"
+},
+{
+"wr": "ducato",
+"n": "1"
+},
+{
+"wr": "rampino",
+"n": "2"
+},
+{
+"wr": "bidente",
+"n": "1"
+},
+{
+"wr": "aspiratore",
+"n": "1"
+},
+{
+"wr": "concistoro",
+"n": "1"
+},
+{
+"wr": "palaghiaccio",
+"n": "1"
+},
+{
+"wr": "solitario",
+"n": "1"
+},
+{
+"wr": "trasferibile",
+"n": "1"
+},
+{
+"wr": "condominio",
+"n": "1"
+},
+{
+"wr": "cloro",
+"n": "2"
+},
+{
+"wr": "pianoforte",
+"n": "1"
+},
+{
+"wr": "ciotola",
+"n": "1"
+},
+{
+"wr": "cazzuola",
+"n": "1"
+},
+{
+"wr": "sinagoga",
+"n": "1"
+},
+{
+"wr": "granata",
+"n": "1"
+},
+{
+"wr": "moccolo",
+"n": "1"
+},
+{
+"wr": "fuso",
+"n": "1"
+},
+{
+"wr": "autofficina",
+"n": "1"
+},
+{
+"wr": "auto",
+"n": "1"
+},
+{
+"wr": "forno",
+"n": "2"
+},
+{
+"wr": "squilla",
+"n": "1"
+},
+{
+"wr": "elaborato",
+"n": "1"
+},
+{
+"wr": "breviario",
+"n": "1"
+},
+{
+"wr": "amaca",
+"n": "1"
+},
+{
+"wr": "riduttore",
+"n": "1"
+},
+{
+"wr": "arabo",
+"n": "1"
+},
+{
+"wr": "poltrona",
+"n": "2"
+},
+{
+"wr": "zero",
+"n": "1"
+},
+{
+"wr": "arnese",
+"n": "1"
+},
+{
+"wr": "modem",
+"n": "1"
+},
+{
+"wr": "canoa",
+"n": "1"
+},
+{
+"wr": "gabinetto",
+"n": "1"
+},
+{
+"wr": "scrivania",
+"n": "2"
+},
+{
+"wr": "concordanza",
+"n": "1"
+},
+{
+"wr": "sdraio",
+"n": "2"
+},
+{
+"wr": "foresteria",
+"n": "1"
+},
+{
+"wr": "negozio",
+"n": "1"
+},
+{
+"wr": "barchino",
+"n": "1"
+},
+{
+"wr": "carta",
+"n": "2"
+},
+{
+"wr": "cannella",
+"n": "2"
+},
+{
+"wr": "planisfero",
+"n": "1"
+},
+{
+"wr": "siluro",
+"n": "1"
+},
+{
+"wr": "rifugio",
+"n": "1"
+},
+{
+"wr": "stagnola",
+"n": "1"
+},
+{
+"wr": "anello",
+"n": "1"
+},
+{
+"wr": "cocaina",
+"n": "1"
+},
+{
+"wr": "bitume",
+"n": "2"
+},
+{
+"wr": "asilo",
+"n": "1"
+},
+{
+"wr": "ghinea",
+"n": "2"
+},
+{
+"wr": "cementificio",
+"n": "1"
+},
+{
+"wr": "scatoletta",
+"n": "1"
+},
+{
+"wr": "quadrilocale",
+"n": "1"
+},
+{
+"wr": "fischietto",
+"n": "1"
+},
+{
+"wr": "motovedetta",
+"n": "2"
+},
+{
+"wr": "prolunga",
+"n": "1"
+},
+{
+"wr": "tana",
+"n": "2"
+},
+{
+"wr": "prezzo",
+"n": "1"
+},
+{
+"wr": "legumiera",
+"n": "1"
+},
+{
+"wr": "graffetta",
+"n": "1"
+},
+{
+"wr": "loden",
+"n": "2"
+},
+{
+"wr": "coadiuvante",
+"n": "1"
+},
+{
+"wr": "fototeca",
+"n": "1"
+},
+{
+"wr": "trina",
+"n": "1"
+},
+{
+"wr": "guida",
+"n": "1"
+},
+{
+"wr": "sessanta",
+"n": "1"
+},
+{
+"wr": "fiaccola",
+"n": "1"
+},
+{
+"wr": "carabina",
+"n": "2"
+},
+{
+"wr": "reliquiario",
+"n": "1"
+},
+{
+"wr": "conservante",
+"n": "1"
+},
+{
+"wr": "gancio",
+"n": "2"
+},
+{
+"wr": "motocarrozzetta",
+"n": "1"
+},
+{
+"wr": "baracchino",
+"n": "2"
+},
+{
+"wr": "cantoniera",
+"n": "2"
+},
+{
+"wr": "osservatorio",
+"n": "1"
+},
+{
+"wr": "astuccio",
+"n": "1"
+},
+{
+"wr": "pallone",
+"n": "1"
+},
+{
+"wr": "passamontagna",
+"n": "1"
+},
+{
+"wr": "rullante",
+"n": "1"
+},
+{
+"wr": "lettore",
+"n": "1"
+},
+{
+"wr": "elettropompa",
+"n": "1"
+},
+{
+"wr": "sdraia",
+"n": "2"
+},
+{
+"wr": "bunker",
+"n": "1"
+},
+{
+"wr": "catanese",
+"n": "1"
+},
+{
+"wr": "tamburello",
+"n": "2"
+},
+{
+"wr": "prezzemolo",
+"n": "1"
+},
+{
+"wr": "barbecue",
+"n": "1"
+},
+{
+"wr": "termoforo",
+"n": "1"
+},
+{
+"wr": "mangianastri",
+"n": "1"
+},
+{
+"wr": "giunto",
+"n": "1"
+},
+{
+"wr": "voliera",
+"n": "2"
+},
+{
+"wr": "bicchierino",
+"n": "1"
+},
+{
+"wr": "bossolo",
+"n": "1"
+},
+{
+"wr": "risciacquo",
+"n": "1"
+},
+{
+"wr": "senato",
+"n": "1"
+},
+{
+"wr": "tipografia",
+"n": "1"
+},
+{
+"wr": "autonoleggio",
+"n": "1"
+},
+{
+"wr": "sessantasei",
+"n": "1"
+},
+{
+"wr": "lametta",
+"n": "1"
+},
+{
+"wr": "farmacia",
+"n": "1"
+},
+{
+"wr": "cessa",
+"n": "1"
+},
+{
+"wr": "urna",
+"n": "1"
+},
+{
+"wr": "pitometro",
+"n": "1"
+},
+{
+"wr": "girarrosto",
+"n": "1"
+},
+{
+"wr": "accademia",
+"n": "1"
+},
+{
+"wr": "fustino",
+"n": "1"
+},
+{
+"wr": "officina",
+"n": "1"
+},
+{
+"wr": "trimarano",
+"n": "1"
+},
+{
+"wr": "cosmetico",
+"n": "1"
+},
+{
+"wr": "antilope",
+"n": "1"
+},
+{
+"wr": "tre",
+"n": "1"
+},
+{
+"wr": "violoncello",
+"n": "1"
+},
+{
+"wr": "coltre",
+"n": "1"
+},
+{
+"wr": "cappotto",
+"n": "1"
+},
+{
+"wr": "clipper",
+"n": "1"
+},
+{
+"wr": "lavastoviglie",
+"n": "1"
+},
+{
+"wr": "contachilometri",
+"n": "1"
+},
+{
+"wr": "tappeto",
+"n": "1"
+},
+{
+"wr": "canestra",
+"n": "1"
+},
+{
+"wr": "vetrina",
+"n": "2"
+},
+{
+"wr": "fontana",
+"n": "1"
+},
+{
+"wr": "birmano",
+"n": "1"
+},
+{
+"wr": "tronchese",
+"n": "1"
+},
+{
+"wr": "saracinesca",
+"n": "1"
+},
+{
+"wr": "antologia",
+"n": "1"
+},
+{
+"wr": "autoradio",
+"n": "1"
+},
+{
+"wr": "confettiera",
+"n": "1"
+},
+{
+"wr": "mappamondo",
+"n": "1"
+},
+{
+"wr": "videoteca",
+"n": "1"
+},
+{
+"wr": "collier",
+"n": "1"
+},
+{
+"wr": "obice",
+"n": "1"
+},
+{
+"wr": "cavalletto",
+"n": "1"
+},
+{
+"wr": "busto",
+"n": "2"
+},
+{
+"wr": "tabacchificio",
+"n": "1"
+},
+{
+"wr": "ecodiesel",
+"n": "1"
+},
+{
+"wr": "spalliera",
+"n": "1"
+},
+{
+"wr": "mitragliatore",
+"n": "1"
+},
+{
+"wr": "ortomercato",
+"n": "2"
+},
+{
+"wr": "sessantacinque",
+"n": "1"
+},
+{
+"wr": "pizzo",
+"n": "1"
+},
+{
+"wr": "trapano",
+"n": "1"
+},
+{
+"wr": "elmo",
+"n": "1"
+},
+{
+"wr": "sistola",
+"n": "2"
+},
+{
+"wr": "speculum",
+"n": "1"
+},
+{
+"wr": "sessantanove",
+"n": "1"
+},
+{
+"wr": "nappa",
+"n": "1"
+},
+{
+"wr": "piastrella",
+"n": "1"
+},
+{
+"wr": "autoambulanza",
+"n": "1"
+},
+{
+"wr": "maglione",
+"n": "1"
+},
+{
+"wr": "anticrittogamico",
+"n": "1"
+},
+{
+"wr": "smeraldo",
+"n": "1"
+},
+{
+"wr": "becco",
+"n": "1"
+},
+{
+"wr": "accetta",
+"n": "1"
+},
+{
+"wr": "caseificio",
+"n": "1"
+},
+{
+"wr": "copripiumino",
+"n": "1"
+},
+{
+"wr": "lampadario",
+"n": "2"
+},
+{
+"wr": "sessantasette",
+"n": "1"
+},
+{
+"wr": "armadio",
+"n": "2"
+},
+{
+"wr": "corrimano",
+"n": "1"
+},
+{
+"wr": "cofanetto",
+"n": "1"
+},
+{
+"wr": "giapponese",
+"n": "1"
+},
+{
+"wr": "macinino",
+"n": "2"
+},
+{
+"wr": "stealth",
+"n": "1"
+},
+{
+"wr": "brachetta",
+"n": "1"
+},
+{
+"wr": "mille",
+"n": "1"
+},
+{
+"wr": "frigorifero",
+"n": "1"
+},
+{
+"wr": "lambretta",
+"n": "1"
+},
+{
+"wr": "radiotelefono",
+"n": "1"
+},
+{
+"wr": "cascinale",
+"n": "1"
+},
+{
+"wr": "sughereta",
+"n": "1"
+},
+{
+"wr": "insalatiera",
+"n": "2"
+},
+{
+"wr": "grimaldello",
+"n": "1"
+},
+{
+"wr": "alcool",
+"n": "2"
+},
+{
+"wr": "osteria",
+"n": "1"
+},
+{
+"wr": "ammortizzatore",
+"n": "1"
+},
+{
+"wr": "pfennig",
+"n": "1"
+},
+{
+"wr": "moire",
+"n": "1"
+},
+{
+"wr": "antenna",
+"n": "1"
+},
+{
+"wr": "camiceria",
+"n": "2"
+},
+{
+"wr": "secchione",
+"n": "2"
+},
+{
+"wr": "evidenziatore",
+"n": "1"
+},
+{
+"wr": "alesametro",
+"n": "1"
+},
+{
+"wr": "coramina",
+"n": "1"
+},
+{
+"wr": "propulsore",
+"n": "1"
+},
+{
+"wr": "cyclette",
+"n": "1"
+},
+{
+"wr": "periodico",
+"n": "1"
+},
+{
+"wr": "ovulo",
+"n": "1"
+},
+{
+"wr": "ramazza",
+"n": "1"
+},
+{
+"wr": "coupon",
+"n": "1"
+},
+{
+"wr": "marco",
+"n": "1"
+},
+{
+"wr": "lumicino",
+"n": "1"
+},
+{
+"wr": "pettinino",
+"n": "1"
+},
+{
+"wr": "colbacco",
+"n": "1"
+},
+{
+"wr": "bagnomaria",
+"n": "1"
+},
+{
+"wr": "neuro",
+"n": "2"
+},
+{
+"wr": "lontra",
+"n": "1"
+},
+{
+"wr": "vocabolario",
+"n": "1"
+},
+{
+"wr": "canguro",
+"n": "1"
+},
+{
+"wr": "camicino",
+"n": "1"
+},
+{
+"wr": "seggiolone",
+"n": "2"
+},
+{
+"wr": "bruschino",
+"n": "2"
+},
+{
+"wr": "ottantacinque",
+"n": "1"
+},
+{
+"wr": "navetta",
+"n": "1"
+},
+{
+"wr": "idrovolante",
+"n": "1"
+},
+{
+"wr": "antiinfiammatorio",
+"n": "1"
+},
+{
+"wr": "tornio",
+"n": "1"
+},
+{
+"wr": "fogna",
+"n": "1"
+},
+{
+"wr": "fioriera",
+"n": "1"
+},
+{
+"wr": "vagone",
+"n": "1"
+},
+{
+"wr": "pescheria",
+"n": "1"
+},
+{
+"wr": "friggitrice",
+"n": "1"
+},
+{
+"wr": "mandato",
+"n": "1"
+},
+{
+"wr": "seicento",
+"n": "2"
+},
+{
+"wr": "espositore",
+"n": "1"
+},
+{
+"wr": "cartina",
+"n": "1"
+},
+{
+"wr": "stupefacente",
+"n": "1"
+},
+{
+"wr": "castello",
+"n": "3"
+},
+{
+"wr": "vinavil",
+"n": "1"
+},
+{
+"wr": "distilleria",
+"n": "1"
+},
+{
+"wr": "cotto",
+"n": "1"
+},
+{
+"wr": "presa",
+"n": "1"
+},
+{
+"wr": "baita",
+"n": "1"
+},
+{
+"wr": "residence",
+"n": "1"
+},
+{
+"wr": "discount",
+"n": "1"
+},
+{
+"wr": "carretta",
+"n": "1"
+},
+{
+"wr": "panca",
+"n": "1"
+},
+{
+"wr": "brocca",
+"n": "1"
+},
+{
+"wr": "etichettificio",
+"n": "1"
+},
+{
+"wr": "adattatore",
+"n": "1"
+},
+{
+"wr": "otorinolaringoiatria",
+"n": "2"
+},
+{
+"wr": "secchio",
+"n": "1"
+},
+{
+"wr": "sessantuno",
+"n": "1"
+},
+{
+"wr": "faretra",
+"n": "1"
+},
+{
+"wr": "alamaro",
+"n": "1"
+},
+{
+"wr": "romanzo",
+"n": "1"
+},
+{
+"wr": "lazzeretto",
+"n": "1"
+},
+{
+"wr": "convitto",
+"n": "1"
+},
+{
+"wr": "spola",
+"n": "1"
+},
+{
+"wr": "sciabola",
+"n": "1"
+},
+{
+"wr": "obbiettivo",
+"n": "1"
+},
+{
+"wr": "oliveto",
+"n": "1"
+},
+{
+"wr": "ordigno",
+"n": "2"
+},
+{
+"wr": "biplano",
+"n": "1"
+},
+{
+"wr": "bipenne",
+"n": "1"
+},
+{
+"wr": "teleselezione",
+"n": "2"
+},
+{
+"wr": "corderia",
+"n": "1"
+},
+{
+"wr": "portaerei",
+"n": "1"
+},
+{
+"wr": "ocarina",
+"n": "1"
+},
+{
+"wr": "chitarra",
+"n": "1"
+},
+{
+"wr": "natante",
+"n": "1"
+},
+{
+"wr": "benda",
+"n": "1"
+},
+{
+"wr": "riproduzione",
+"n": "1"
+},
+{
+"wr": "tamburo",
+"n": "2"
+},
+{
+"wr": "bungalow",
+"n": "1"
+},
+{
+"wr": "cifrario",
+"n": "1"
+},
+{
+"wr": "esposto",
+"n": "1"
+},
+{
+"wr": "castigliano",
+"n": "1"
+},
+{
+"wr": "raffio",
+"n": "1"
+},
+{
+"wr": "pediatria",
+"n": "2"
+},
+{
+"wr": "bussola",
+"n": "1"
+},
+{
+"wr": "ventiquattro",
+"n": "1"
+},
+{
+"wr": "bordone",
+"n": "1"
+},
+{
+"wr": "fez",
+"n": "1"
+},
+{
+"wr": "ammorbidente",
+"n": "1"
+},
+{
+"wr": "corazzata",
+"n": "2"
+},
+{
+"wr": "cocchio",
+"n": "1"
+},
+{
+"wr": "porta",
+"n": "2"
+},
+{
+"wr": "carretto",
+"n": "1"
+},
+{
+"wr": "radaraltimetro",
+"n": "1"
+},
+{
+"wr": "triangolo",
+"n": "1"
+},
+{
+"wr": "vasellame",
+"n": "1"
+},
+{
+"wr": "santino",
+"n": "1"
+},
+{
+"wr": "burattino",
+"n": "1"
+},
+{
+"wr": "macchina",
+"n": "1"
+},
+{
+"wr": "tumulo",
+"n": "1"
+},
+{
+"wr": "occhialino",
+"n": "2"
+},
+{
+"wr": "gommone",
+"n": "1"
+},
+{
+"wr": "camiciola",
+"n": "1"
+},
+{
+"wr": "macelleria",
+"n": "1"
+},
+{
+"wr": "capra",
+"n": "2"
+},
+{
+"wr": "afgano",
+"n": "1"
+},
+{
+"wr": "manichino",
+"n": "1"
+},
+{
+"wr": "lacca",
+"n": "2"
+},
+{
+"wr": "gruccia",
+"n": "2"
+},
+{
+"wr": "lisciva",
+"n": "1"
+},
+{
+"wr": "affisso",
+"n": "1"
+},
+{
+"wr": "traforo",
+"n": "2"
+},
+{
+"wr": "giostra",
+"n": "1"
+},
+{
+"wr": "bomboniera",
+"n": "1"
+},
+{
+"wr": "eurostar",
+"n": "1"
+},
+{
+"wr": "altalena",
+"n": "1"
+},
+{
+"wr": "turacciolo",
+"n": "1"
+},
+{
+"wr": "maglificio",
+"n": "1"
+},
+{
+"wr": "tabaccheria",
+"n": "1"
+},
+{
+"wr": "bara",
+"n": "1"
+},
+{
+"wr": "seghetta",
+"n": "1"
+},
+{
+"wr": "funicolare",
+"n": "1"
+},
+{
+"wr": "ottantanove",
+"n": "1"
+},
+{
+"wr": "infermeria",
+"n": "1"
+},
+{
+"wr": "monoscopio",
+"n": "1"
+},
+{
+"wr": "tappo",
+"n": "1"
+},
+{
+"wr": "tombolo",
+"n": "1"
+},
+{
+"wr": "collant",
+"n": "1"
+},
+{
+"wr": "denaro",
+"n": "1"
+},
+{
+"wr": "brasiliano",
+"n": "1"
+},
+{
+"wr": "forchettone",
+"n": "1"
+},
+{
+"wr": "panetteria",
+"n": "1"
+},
+{
+"wr": "chiusino",
+"n": "1"
+},
+{
+"wr": "bowling",
+"n": "1"
+},
+{
+"wr": "clava",
+"n": "1"
+},
+{
+"wr": "armeno",
+"n": "1"
+},
+{
+"wr": "brigantino",
+"n": "1"
+},
+{
+"wr": "aspirina",
+"n": "1"
+},
+{
+"wr": "autoarticolato",
+"n": "1"
+},
+{
+"wr": "altoforno",
+"n": "1"
+},
+{
+"wr": "rayon",
+"n": "1"
+},
+{
+"wr": "autoscuola",
+"n": "1"
+},
+{
+"wr": "bricco",
+"n": "1"
+},
+{
+"wr": "vespa",
+"n": "1"
+},
+{
+"wr": "borchia",
+"n": "2"
+},
+{
+"wr": "fagotto",
+"n": "1"
+},
+{
+"wr": "secchiello",
+"n": "1"
+},
+{
+"wr": "grafite",
+"n": "1"
+},
+{
+"wr": "vela",
+"n": "1"
+},
+{
+"wr": "radar",
+"n": "1"
+},
+{
+"wr": "alloro",
+"n": "1"
+},
+{
+"wr": "polveriera",
+"n": "1"
+},
+{
+"wr": "industria",
+"n": "1"
+},
+{
+"wr": "curaro",
+"n": "1"
+},
+{
+"wr": "lapin",
+"n": "1"
+},
+{
+"wr": "parlamento",
+"n": "1"
+},
+{
+"wr": "centesimo",
+"n": "1"
+},
+{
+"wr": "rivista",
+"n": "1"
+},
+{
+"wr": "magnetofono",
+"n": "2"
+},
+{
+"wr": "funivia",
+"n": "1"
+},
+{
+"wr": "enteroclisma",
+"n": "1"
+},
+{
+"wr": "energetico",
+"n": "1"
+},
+{
+"wr": "battericida",
+"n": "1"
+},
+{
+"wr": "clistere",
+"n": "1"
+},
+{
+"wr": "cilindro",
+"n": "1"
+},
+{
+"wr": "ludoteca",
+"n": "1"
+},
+{
+"wr": "semaforo",
+"n": "1"
+},
+{
+"wr": "ticinese",
+"n": "1"
+},
+{
+"wr": "villino",
+"n": "1"
+},
+{
+"wr": "monolocale",
+"n": "1"
+},
+{
+"wr": "naftalina",
+"n": "1"
+},
+{
+"wr": "veliero",
+"n": "1"
+},
+{
+"wr": "pechinese",
+"n": "1"
+},
+{
+"wr": "abbeverata",
+"n": "1"
+},
+{
+"wr": "videotelefono",
+"n": "2"
+},
+{
+"wr": "stabilimento",
+"n": "1"
+},
+{
+"wr": "autodromo",
+"n": "1"
+},
+{
+"wr": "dolcificante",
+"n": "1"
+},
+{
+"wr": "perlina",
+"n": "1"
+},
+{
+"wr": "telegramma",
+"n": "1"
+},
+{
+"wr": "trascrizione",
+"n": "1"
+},
+{
+"wr": "barcaccia",
+"n": "1"
+},
+{
+"wr": "lucertola",
+"n": "1"
+},
+{
+"wr": "portabagagli",
+"n": "1"
+},
+{
+"wr": "bucchero",
+"n": "1"
+},
+{
+"wr": "piazza",
+"n": "1"
+},
+{
+"wr": "acciarino",
+"n": "1"
+},
+{
+"wr": "convertitore",
+"n": "1"
+},
+{
+"wr": "triclinio",
+"n": "2"
+},
+{
+"wr": "autopompa",
+"n": "1"
+},
+{
+"wr": "copertificio",
+"n": "1"
+},
+{
+"wr": "asciugamano",
+"n": "1"
+},
+{
+"wr": "rivoltella",
+"n": "1"
+},
+{
+"wr": "vernacolo",
+"n": "1"
+},
+{
+"wr": "panfilo",
+"n": "1"
+},
+{
+"wr": "eriometro",
+"n": "1"
+},
+{
+"wr": "prontuario",
+"n": "1"
+},
+{
+"wr": "stella",
+"n": "1"
+},
+{
+"wr": "spina",
+"n": "1"
+},
+{
+"wr": "telescopio",
+"n": "1"
+},
+{
+"wr": "tinozza",
+"n": "2"
+},
+{
+"wr": "serpente",
+"n": "1"
+},
+{
+"wr": "palla",
+"n": "1"
+},
+{
+"wr": "saliera",
+"n": "1"
+},
+{
+"wr": "branda",
+"n": "1"
+},
+{
+"wr": "aggiornamento",
+"n": "1"
+},
+{
+"wr": "orecchino",
+"n": "1"
+},
+{
+"wr": "aquilone",
+"n": "1"
+},
+{
+"wr": "marmitta",
+"n": "2"
+},
+{
+"wr": "calumet",
+"n": "1"
+},
+{
+"wr": "orologeria",
+"n": "1"
+},
+{
+"wr": "bottonificio",
+"n": "1"
+},
+{
+"wr": "mastice",
+"n": "2"
+},
+{
+"wr": "termostato",
+"n": "1"
+},
+{
+"wr": "gerontocomio",
+"n": "1"
+},
+{
+"wr": "appartamento",
+"n": "1"
+},
+{
+"wr": "ermellino",
+"n": "1"
+},
+{
+"wr": "ciabatta",
+"n": "1"
+},
+{
+"wr": "ottomana",
+"n": "2"
+},
+{
+"wr": "carrozzina",
+"n": "1"
+},
+{
+"wr": "torciera",
+"n": "1"
+},
+{
+"wr": "catapulta",
+"n": "1"
+},
+{
+"wr": "saponificio",
+"n": "1"
+},
+{
+"wr": "felpato",
+"n": "1"
+},
+{
+"wr": "rubino",
+"n": "1"
+},
+{
+"wr": "spugna",
+"n": "3"
+},
+{
+"wr": "attacco",
+"n": "1"
+},
+{
+"wr": "pattumiera",
+"n": "1"
+},
+{
+"wr": "girella",
+"n": "2"
+},
+{
+"wr": "pennacchio",
+"n": "1"
+},
+{
+"wr": "epistola",
+"n": "1"
+},
+{
+"wr": "bombardiere",
+"n": "1"
+},
+{
+"wr": "refrigeratore",
+"n": "1"
+},
+{
+"wr": "pizza",
+"n": "1"
+},
+{
+"wr": "cassettiera",
+"n": "2"
+},
+{
+"wr": "portamonete",
+"n": "1"
+},
+{
+"wr": "diadema",
+"n": "1"
+},
+{
+"wr": "digestivo",
+"n": "1"
+},
+{
+"wr": "renna",
+"n": "1"
+},
+{
+"wr": "autorizzazione",
+"n": "1"
+},
+{
+"wr": "serafino",
+"n": "1"
+},
+{
+"wr": "cavallo",
+"n": "2"
+},
+{
+"wr": "registro",
+"n": "1"
+},
+{
+"wr": "tino",
+"n": "2"
+},
+{
+"wr": "lucignolo",
+"n": "1"
+},
+{
+"wr": "trentacinque",
+"n": "1"
+},
+{
+"wr": "idroscalo",
+"n": "2"
+},
+{
+"wr": "cappio",
+"n": "1"
+},
+{
+"wr": "brogliaccio",
+"n": "1"
+},
+{
+"wr": "neurologia",
+"n": "2"
+},
+{
+"wr": "cattedra",
+"n": "1"
+},
+{
+"wr": "recipiente",
+"n": "1"
+},
+{
+"wr": "direzione",
+"n": "1"
+},
+{
+"wr": "paletto",
+"n": "2"
+},
+{
+"wr": "carrozzino",
+"n": "1"
+},
+{
+"wr": "spiedino",
+"n": "1"
+},
+{
+"wr": "fototessera",
+"n": "1"
+},
+{
+"wr": "settantasei",
+"n": "1"
+},
+{
+"wr": "graniglia",
+"n": "1"
+},
+{
+"wr": "bus",
+"n": "1"
+},
+{
+"wr": "medaglione",
+"n": "1"
+},
+{
+"wr": "antibatterico",
+"n": "1"
+},
+{
+"wr": "epitaffio",
+"n": "1"
+},
+{
+"wr": "piva",
+"n": "1"
+},
+{
+"wr": "baluardo",
+"n": "1"
+},
+{
+"wr": "yogurteria",
+"n": "1"
+},
+{
+"wr": "gonna",
+"n": "1"
+},
+{
+"wr": "attizzatoio",
+"n": "1"
+},
+{
+"wr": "lanetta",
+"n": "1"
+},
+{
+"wr": "comò",
+"n": "1"
+},
+{
+"wr": "bisaccia",
+"n": "1"
+},
+{
+"wr": "lampioncino",
+"n": "1"
+},
+{
+"wr": "aerosol",
+"n": "1"
+},
+{
+"wr": "piscina",
+"n": "1"
+},
+{
+"wr": "capestro",
+"n": "1"
+},
+{
+"wr": "cordone",
+"n": "1"
+},
+{
+"wr": "alloggio",
+"n": "2"
+},
+{
+"wr": "digitalizzatore",
+"n": "1"
+},
+{
+"wr": "supermercato",
+"n": "1"
+},
+{
+"wr": "connettore",
+"n": "1"
+},
+{
+"wr": "tibetano",
+"n": "1"
+},
+{
+"wr": "portaoggetti",
+"n": "1"
+},
+{
+"wr": "ventinove",
+"n": "1"
+},
+{
+"wr": "talmud",
+"n": "1"
+},
+{
+"wr": "solvente",
+"n": "1"
+},
+{
+"wr": "deposito",
+"n": "1"
+},
+{
+"wr": "cappuccio",
+"n": "2"
+},
+{
+"wr": "pitone",
+"n": "1"
+},
+{
+"wr": "convertibile",
+"n": "1"
+},
+{
+"wr": "pacchetto",
+"n": "1"
+},
+{
+"wr": "dondolo",
+"n": "2"
+},
+{
+"wr": "lume",
+"n": "1"
+},
+{
+"wr": "potenziometro",
+"n": "1"
+},
+{
+"wr": "corallo",
+"n": "1"
+},
+{
+"wr": "pidgin",
+"n": "1"
+},
+{
+"wr": "giornalino",
+"n": "1"
+},
+{
+"wr": "paletta",
+"n": "2"
+},
+{
+"wr": "mansarda",
+"n": "2"
+},
+{
+"wr": "metallo",
+"n": "1"
+},
+{
+"wr": "cabriolet",
+"n": "1"
+},
+{
+"wr": "pellicceria",
+"n": "2"
+},
+{
+"wr": "bicocca",
+"n": "1"
+},
+{
+"wr": "elicottero",
+"n": "1"
+},
+{
+"wr": "basco",
+"n": "1"
+},
+{
+"wr": "chiarificatore",
+"n": "1"
+},
+{
+"wr": "stemma",
+"n": "1"
+},
+{
+"wr": "veleno",
+"n": "1"
+},
+{
+"wr": "liquido",
+"n": "1"
+},
+{
+"wr": "cimice",
+"n": "2"
+},
+{
+"wr": "vigogna",
+"n": "1"
+},
+{
+"wr": "antibiotico",
+"n": "2"
+},
+{
+"wr": "sinopia",
+"n": "1"
+},
+{
+"wr": "eurocity",
+"n": "1"
+},
+{
+"wr": "letto",
+"n": "2"
+},
+{
+"wr": "birrificio",
+"n": "1"
+},
+{
+"wr": "velo",
+"n": "1"
+},
+{
+"wr": "cento",
+"n": "1"
+},
+{
+"wr": "novantatré",
+"n": "1"
+},
+{
+"wr": "opale",
+"n": "1"
+},
+{
+"wr": "castoro",
+"n": "1"
+},
+{
+"wr": "parallela",
+"n": "2"
+},
+{
+"wr": "capitello",
+"n": "1"
+},
+{
+"wr": "chiosco",
+"n": "1"
+},
+{
+"wr": "clarinetto",
+"n": "1"
+},
+{
+"wr": "rettile",
+"n": "1"
+},
+{
+"wr": "delega",
+"n": "1"
+},
+{
+"wr": "trasmettitore",
+"n": "1"
+},
+{
+"wr": "provveditorato",
+"n": "1"
+},
+{
+"wr": "vascello",
+"n": "1"
+},
+{
+"wr": "ligure",
+"n": "1"
+},
+{
+"wr": "cravattificio",
+"n": "1"
+},
+{
+"wr": "taxi",
+"n": "1"
+},
+{
+"wr": "rimorchiatore",
+"n": "1"
+},
+{
+"wr": "stele",
+"n": "2"
+},
+{
+"wr": "lapis",
+"n": "2"
+},
+{
+"wr": "tram",
+"n": "1"
+},
+{
+"wr": "anfora",
+"n": "1"
+},
+{
+"wr": "camerata",
+"n": "1"
+},
+{
+"wr": "bireattore",
+"n": "1"
+},
+{
+"wr": "museruola",
+"n": "1"
+},
+{
+"wr": "cingolato",
+"n": "1"
+},
+{
+"wr": "sangallo",
+"n": "1"
+},
+{
+"wr": "rettorato",
+"n": "1"
+},
+{
+"wr": "tapiro",
+"n": "1"
+},
+{
+"wr": "bureau",
+"n": "1"
+},
+{
+"wr": "analgesico",
+"n": "1"
+},
+{
+"wr": "stucco",
+"n": "2"
+},
+{
+"wr": "lente",
+"n": "3"
+},
+{
+"wr": "velificio",
+"n": "1"
+},
+{
+"wr": "giubbetto",
+"n": "1"
+},
+{
+"wr": "quattrocento",
+"n": "1"
+},
+{
+"wr": "maschera",
+"n": "1"
+},
+{
+"wr": "carburatore",
+"n": "1"
+},
+{
+"wr": "forte",
+"n": "1"
+},
+{
+"wr": "arma",
+"n": "2"
+},
+{
+"wr": "decodificatore",
+"n": "1"
+},
+{
+"wr": "catamarano",
+"n": "1"
+},
+{
+"wr": "pesto",
+"n": "2"
+},
+{
+"wr": "diurno",
+"n": "1"
+},
+{
+"wr": "cotone",
+"n": "1"
+},
+{
+"wr": "armatura",
+"n": "1"
+},
+{
+"wr": "impalcatura",
+"n": "1"
+},
+{
+"wr": "taffettà",
+"n": "1"
+},
+{
+"wr": "copricapo",
+"n": "1"
+},
+{
+"wr": "spinetta",
+"n": "1"
+},
+{
+"wr": "copertina",
+"n": "1"
+},
+{
+"wr": "conservatorio",
+"n": "1"
+},
+{
+"wr": "torrefazione",
+"n": "1"
+},
+{
+"wr": "igroscopio",
+"n": "1"
+},
+{
+"wr": "riformatorio",
+"n": "1"
+},
+{
+"wr": "camposanto",
+"n": "1"
+},
+{
+"wr": "ventilatore",
+"n": "1"
+},
+{
+"wr": "fionda",
+"n": "1"
+},
+{
+"wr": "cuccetta",
+"n": "1"
+},
+{
+"wr": "giubbotto",
+"n": "1"
+},
+{
+"wr": "mescolatrice",
+"n": "1"
+},
+{
+"wr": "cappella",
+"n": "1"
+},
+{
+"wr": "cinquantotto",
+"n": "1"
+},
+{
+"wr": "autogrill",
+"n": "1"
+},
+{
+"wr": "barriera",
+"n": "1"
+},
+{
+"wr": "ciondolo",
+"n": "1"
+},
+{
+"wr": "contrabbasso",
+"n": "1"
+},
+{
+"wr": "cent",
+"n": "1"
+},
+{
+"wr": "locomotrice",
+"n": "1"
+},
+{
+"wr": "gelateria",
+"n": "1"
+},
+{
+"wr": "coperchio",
+"n": "1"
+},
+{
+"wr": "sitar",
+"n": "1"
+},
+{
+"wr": "barbiturico",
+"n": "1"
+},
+{
+"wr": "stop",
+"n": "1"
+},
+{
+"wr": "doppietta",
+"n": "1"
+},
+{
+"wr": "tagliola",
+"n": "1"
+},
+{
+"wr": "cacciamine",
+"n": "1"
+},
+{
+"wr": "termitaio",
+"n": "1"
+},
+{
+"wr": "pensionato",
+"n": "1"
+},
+{
+"wr": "schifo",
+"n": "3"
+},
+{
+"wr": "affiche",
+"n": "1"
+},
+{
+"wr": "raffineria",
+"n": "1"
+},
+{
+"wr": "vessillo",
+"n": "1"
+},
+{
+"wr": "leopardo",
+"n": "1"
+},
+{
+"wr": "ambulatorio",
+"n": "2"
+},
+{
+"wr": "diesel",
+"n": "1"
+},
+{
+"wr": "canovaccio",
+"n": "1"
+},
+{
+"wr": "chincaglieria",
+"n": "1"
+},
+{
+"wr": "collirio",
+"n": "1"
+},
+{
+"wr": "falegnameria",
+"n": "1"
+},
+{
+"wr": "bilancia",
+"n": "1"
+},
+{
+"wr": "passaggio",
+"n": "1"
+},
+{
+"wr": "pancera",
+"n": "1"
+},
+{
+"wr": "idioletto",
+"n": "1"
+},
+{
+"wr": "turboreattore",
+"n": "1"
+},
+{
+"wr": "loggia",
+"n": "1"
+},
+{
+"wr": "fortilizio",
+"n": "1"
+},
+{
+"wr": "ferrarese",
+"n": "1"
+},
+{
+"wr": "scolapiatti",
+"n": "1"
+},
+{
+"wr": "portoghese",
+"n": "1"
+},
+{
+"wr": "allevamento",
+"n": "1"
+},
+{
+"wr": "piatto",
+"n": "3"
+},
+{
+"wr": "credenza",
+"n": "2"
+},
+{
+"wr": "laconico",
+"n": "1"
+},
+{
+"wr": "veletta",
+"n": "1"
+},
+{
+"wr": "lettera",
+"n": "1"
+},
+{
+"wr": "armellino",
+"n": "1"
+},
+{
+"wr": "venticinque",
+"n": "1"
+},
+{
+"wr": "galoscia",
+"n": "1"
+},
+{
+"wr": "stereotipia",
+"n": "1"
+},
+{
+"wr": "canapificio",
+"n": "1"
+},
+{
+"wr": "cordless",
+"n": "1"
+},
+{
+"wr": "sci",
+"n": "1"
+},
+{
+"wr": "cesello",
+"n": "1"
+},
+{
+"wr": "ospedale",
+"n": "2"
+},
+{
+"wr": "zuccherificio",
+"n": "1"
+},
+{
+"wr": "cromatura",
+"n": "1"
+},
+{
+"wr": "torinese",
+"n": "1"
+},
+{
+"wr": "calzificio",
+"n": "1"
+},
+{
+"wr": "sottovaso",
+"n": "1"
+},
+{
+"wr": "collante",
+"n": "1"
+},
+{
+"wr": "trincetto",
+"n": "1"
+},
+{
+"wr": "saxofono",
+"n": "1"
+},
+{
+"wr": "cinese",
+"n": "1"
+},
+{
+"wr": "tabulato",
+"n": "1"
+},
+{
+"wr": "lappone",
+"n": "1"
+},
+{
+"wr": "ventitré",
+"n": "1"
+},
+{
+"wr": "pisano",
+"n": "1"
+},
+{
+"wr": "damasco",
+"n": "1"
+},
+{
+"wr": "novanta",
+"n": "1"
+},
+{
+"wr": "pozione",
+"n": "1"
+},
+{
+"wr": "sei",
+"n": "1"
+},
+{
+"wr": "zibellino",
+"n": "1"
+},
+{
+"wr": "collo",
+"n": "1"
+},
+{
+"wr": "dragoncello",
+"n": "1"
+},
+{
+"wr": "piroga",
+"n": "1"
+},
+{
+"wr": "caviglia",
+"n": "1"
+},
+{
+"wr": "settantuno",
+"n": "1"
+},
+{
+"wr": "daga",
+"n": "1"
+},
+{
+"wr": "russo",
+"n": "1"
+},
+{
+"wr": "calzone",
+"n": "1"
+},
+{
+"wr": "monografia",
+"n": "1"
+},
+{
+"wr": "tutù",
+"n": "1"
+},
+{
+"wr": "plaid",
+"n": "2"
+},
+{
+"wr": "cloroformio",
+"n": "1"
+},
+{
+"wr": "carrozza",
+"n": "1"
+},
+{
+"wr": "numeratore",
+"n": "1"
+},
+{
+"wr": "radice",
+"n": "1"
+},
+{
+"wr": "avellinese",
+"n": "1"
+},
+{
+"wr": "pagaia",
+"n": "1"
+},
+{
+"wr": "marsigliese",
+"n": "1"
+},
+{
+"wr": "manuale",
+"n": "1"
+},
+{
+"wr": "vanga",
+"n": "1"
+},
+{
+"wr": "tagliapietre",
+"n": "1"
+},
+{
+"wr": "detergente",
+"n": "1"
+},
+{
+"wr": "tavola",
+"n": "2"
+},
+{
+"wr": "libra",
+"n": "1"
+},
+{
+"wr": "lista",
+"n": "1"
+},
+{
+"wr": "scialle",
+"n": "1"
+},
+{
+"wr": "gallese",
+"n": "1"
+},
+{
+"wr": "cannuccia",
+"n": "1"
+},
+{
+"wr": "sanatorio",
+"n": "2"
+},
+{
+"wr": "terrazza",
+"n": "1"
+},
+{
+"wr": "piccone",
+"n": "2"
+},
+{
+"wr": "monitor",
+"n": "3"
+},
+{
+"wr": "grattugia",
+"n": "1"
+},
+{
+"wr": "autografo",
+"n": "1"
+},
+{
+"wr": "finlandese",
+"n": "1"
+},
+{
+"wr": "passo",
+"n": "1"
+},
+{
+"wr": "irlandese",
+"n": "1"
+},
+{
+"wr": "crinolina",
+"n": "1"
+},
+{
+"wr": "barricata",
+"n": "1"
+},
+{
+"wr": "visone",
+"n": "1"
+},
+{
+"wr": "focolare",
+"n": "1"
+},
+{
+"wr": "acciottolato",
+"n": "1"
+},
+{
+"wr": "carniere",
+"n": "1"
+},
+{
+"wr": "autocorriera",
+"n": "1"
+},
+{
+"wr": "elibus",
+"n": "1"
+},
+{
+"wr": "zaino",
+"n": "1"
+},
+{
+"wr": "pallina",
+"n": "1"
+},
+{
+"wr": "stoppino",
+"n": "1"
+},
+{
+"wr": "novantacinque",
+"n": "1"
+},
+{
+"wr": "enciclica",
+"n": "1"
+},
+{
+"wr": "bacinella",
+"n": "1"
+},
+{
+"wr": "decappottabile",
+"n": "1"
+},
+{
+"wr": "basso",
+"n": "1"
+},
+{
+"wr": "ringhiera",
+"n": "1"
+},
+{
+"wr": "xilofono",
+"n": "1"
+},
+{
+"wr": "ovile",
+"n": "1"
+},
+{
+"wr": "ombretto",
+"n": "1"
+},
+{
+"wr": "panineria",
+"n": "1"
+},
+{
+"wr": "certosa",
+"n": "2"
+},
+{
+"wr": "laboratorio",
+"n": "5"
+},
+{
+"wr": "depuratore",
+"n": "1"
+},
+{
+"wr": "bianchetto",
+"n": "1"
+},
+{
+"wr": "sauna",
+"n": "1"
+},
+{
+"wr": "detersivo",
+"n": "1"
+},
+{
+"wr": "settantasette",
+"n": "1"
+},
+{
+"wr": "pizzicheria",
+"n": "1"
+},
+{
+"wr": "lucchese",
+"n": "1"
+},
+{
+"wr": "gessetto",
+"n": "2"
+},
+{
+"wr": "marocchino",
+"n": "1"
+},
+{
+"wr": "caloscia",
+"n": "1"
+},
+{
+"wr": "ciambella",
+"n": "1"
+},
+{
+"wr": "alabarda",
+"n": "1"
+},
+{
+"wr": "tendone",
+"n": "2"
+},
+{
+"wr": "velodromo",
+"n": "1"
+},
+{
+"wr": "gazzetta",
+"n": "1"
+},
+{
+"wr": "redingote",
+"n": "1"
+},
+{
+"wr": "palco",
+"n": "1"
+},
+{
+"wr": "essiccatoio",
+"n": "1"
+},
+{
+"wr": "paprica",
+"n": "1"
+},
+{
+"wr": "rada",
+"n": "1"
+},
+{
+"wr": "aroma",
+"n": "2"
+},
+{
+"wr": "salamoia",
+"n": "1"
+},
+{
+"wr": "diario",
+"n": "1"
+},
+{
+"wr": "sambuca",
+"n": "1"
+},
+{
+"wr": "politeama",
+"n": "1"
+},
+{
+"wr": "aereo",
+"n": "1"
+},
+{
+"wr": "pallino",
+"n": "1"
+},
+{
+"wr": "specola",
+"n": "1"
+},
+{
+"wr": "ricevitore",
+"n": "1"
+},
+{
+"wr": "madia",
+"n": "2"
+},
+{
+"wr": "portabiancheria",
+"n": "1"
+},
+{
+"wr": "settantanove",
+"n": "1"
+},
+{
+"wr": "coloniale",
+"n": "1"
+},
+{
+"wr": "yen",
+"n": "1"
+},
+{
+"wr": "stoffa",
+"n": "1"
+},
+{
+"wr": "termocauterio",
+"n": "1"
+},
+{
+"wr": "carillon",
+"n": "1"
+},
+{
+"wr": "pentolino",
+"n": "2"
+},
+{
+"wr": "chinino",
+"n": "1"
+},
+{
+"wr": "strumento",
+"n": "1"
+},
+{
+"wr": "magazzino",
+"n": "1"
+},
+{
+"wr": "abrasivo",
+"n": "2"
+},
+{
+"wr": "tavolo",
+"n": "1"
+},
+{
+"wr": "scorciatoia",
+"n": "1"
+},
+{
+"wr": "pignatta",
+"n": "1"
+},
+{
+"wr": "freccia",
+"n": "2"
+},
+{
+"wr": "catalogo",
+"n": "1"
+},
+{
+"wr": "sciovia",
+"n": "1"
+},
+{
+"wr": "dedica",
+"n": "1"
+},
+{
+"wr": "calzatura",
+"n": "1"
+},
+{
+"wr": "trespolo",
+"n": "2"
+},
+{
+"wr": "violino",
+"n": "1"
+},
+{
+"wr": "filanda",
+"n": "1"
+},
+{
+"wr": "ossidante",
+"n": "1"
+},
+{
+"wr": "parola",
+"n": "1"
+},
+{
+"wr": "locomotiva",
+"n": "1"
+},
+{
+"wr": "ascensore",
+"n": "1"
+},
+{
+"wr": "audioguida",
+"n": "1"
+},
+{
+"wr": "radiologia",
+"n": "3"
+},
+{
+"wr": "sintonizzatore",
+"n": "1"
+},
+{
+"wr": "rafano",
+"n": "1"
+},
+{
+"wr": "giacchino",
+"n": "1"
+},
+{
+"wr": "canale",
+"n": "2"
+},
+{
+"wr": "università",
+"n": "1"
+},
+{
+"wr": "pontile",
+"n": "1"
+},
+{
+"wr": "tripode",
+"n": "1"
+},
+{
+"wr": "frustino",
+"n": "1"
+},
+{
+"wr": "ventidue",
+"n": "1"
+},
+{
+"wr": "serpentina",
+"n": "2"
+},
+{
+"wr": "scansia",
+"n": "2"
+},
+{
+"wr": "scritto",
+"n": "1"
+},
+{
+"wr": "revolver",
+"n": "1"
+},
+{
+"wr": "diciotto",
+"n": "1"
+},
+{
+"wr": "danda",
+"n": "1"
+},
+{
+"wr": "copriletto",
+"n": "2"
+},
+{
+"wr": "disinfettante",
+"n": "1"
+},
+{
+"wr": "canzoniere",
+"n": "1"
+},
+{
+"wr": "cartolibreria",
+"n": "1"
+},
+{
+"wr": "beneventano",
+"n": "1"
+},
+{
+"wr": "tegola",
+"n": "1"
+},
+{
+"wr": "salvagente",
+"n": "1"
+},
+{
+"wr": "rilevatore",
+"n": "1"
+},
+{
+"wr": "isba",
+"n": "1"
+},
+{
+"wr": "trampolino",
+"n": "1"
+},
+{
+"wr": "specchiera",
+"n": "2"
+},
+{
+"wr": "alpaca",
+"n": "1"
+},
+{
+"wr": "cisterna",
+"n": "1"
+},
+{
+"wr": "rottame",
+"n": "1"
+},
+{
+"wr": "paiolo",
+"n": "1"
+},
+{
+"wr": "manifesto",
+"n": "1"
+},
+{
+"wr": "gerla",
+"n": "1"
+},
+{
+"wr": "scrigno",
+"n": "2"
+},
+{
+"wr": "detonatore",
+"n": "1"
+},
+{
+"wr": "browning",
+"n": "1"
+},
+{
+"wr": "bandierina",
+"n": "1"
+},
+{
+"wr": "scaldabagno",
+"n": "1"
+},
+{
+"wr": "palmare",
+"n": "1"
+},
+{
+"wr": "daino",
+"n": "1"
+},
+{
+"wr": "viagra",
+"n": "1"
+},
+{
+"wr": "portagioie",
+"n": "1"
+},
+{
+"wr": "pinzetta",
+"n": "1"
+},
+{
+"wr": "ostetricia",
+"n": "2"
+},
+{
+"wr": "mattatoio",
+"n": "1"
+},
+{
+"wr": "tensioattivo",
+"n": "1"
+},
+{
+"wr": "persiano",
+"n": "2"
+},
+{
+"wr": "tonneau",
+"n": "1"
+},
+{
+"wr": "nepitella",
+"n": "1"
+},
+{
+"wr": "corvetta",
+"n": "1"
+},
+{
+"wr": "dandy",
+"n": "1"
+},
+{
+"wr": "braccialetto",
+"n": "1"
+},
+{
+"wr": "mazza",
+"n": "2"
+},
+{
+"wr": "missiva",
+"n": "1"
+},
+{
+"wr": "carlino",
+"n": "1"
+},
+{
+"wr": "tredici",
+"n": "1"
+},
+{
+"wr": "seghetto",
+"n": "1"
+},
+{
+"wr": "salsa",
+"n": "1"
+},
+{
+"wr": "anticancro",
+"n": "1"
+},
+{
+"wr": "meccano",
+"n": "1"
+},
+{
+"wr": "cappelliera",
+"n": "1"
+},
+{
+"wr": "palafitta",
+"n": "1"
+},
+{
+"wr": "spadino",
+"n": "1"
+},
+{
+"wr": "catacomba",
+"n": "2"
+},
+{
+"wr": "oratorio",
+"n": "1"
+},
+{
+"wr": "trombone",
+"n": "1"
+},
+{
+"wr": "cabinato",
+"n": "1"
+},
+{
+"wr": "coccodrillo",
+"n": "1"
+},
+{
+"wr": "cicloergometro",
+"n": "1"
+},
+{
+"wr": "martora",
+"n": "1"
+},
+{
+"wr": "meridiana",
+"n": "1"
+},
+{
+"wr": "chiavica",
+"n": "1"
+},
+{
+"wr": "elettrotreno",
+"n": "1"
+},
+{
+"wr": "fruttiera",
+"n": "1"
+},
+{
+"wr": "ripostiglio",
+"n": "1"
+},
+{
+"wr": "tantra",
+"n": "1"
+},
+{
+"wr": "piastrina",
+"n": "1"
+},
+{
+"wr": "ristorante",
+"n": "1"
+},
+{
+"wr": "mensa",
+"n": "1"
+},
+{
+"wr": "gioia",
+"n": "1"
+},
+{
+"wr": "archivio",
+"n": "1"
+},
+{
+"wr": "collimatore",
+"n": "1"
+},
+{
+"wr": "medicinale",
+"n": "1"
+},
+{
+"wr": "cineclub",
+"n": "1"
+},
+{
+"wr": "fiorino",
+"n": "1"
+},
+{
+"wr": "scranno",
+"n": "1"
+},
+{
+"wr": "fucile",
+"n": "1"
+},
+{
+"wr": "doppiopetto",
+"n": "1"
+},
+{
+"wr": "sporta",
+"n": "1"
+},
+{
+"wr": "ripiano",
+"n": "1"
+},
+{
+"wr": "tenda",
+"n": "2"
+},
+{
+"wr": "timbrificio",
+"n": "1"
+},
+{
+"wr": "addensante",
+"n": "1"
+},
+{
+"wr": "insulina",
+"n": "1"
+},
+{
+"wr": "mixer",
+"n": "2"
+},
+{
+"wr": "mandolino",
+"n": "1"
+},
+{
+"wr": "cellulare",
+"n": "2"
+},
+{
+"wr": "seta",
+"n": "1"
+},
+{
+"wr": "tacheometro",
+"n": "1"
+},
+{
+"wr": "libro",
+"n": "1"
+},
+{
+"wr": "miniabito",
+"n": "1"
+},
+{
+"wr": "calzoncino",
+"n": "1"
+},
+{
+"wr": "vapore",
+"n": "1"
+},
+{
+"wr": "diluente",
+"n": "1"
+},
+{
+"wr": "teatro",
+"n": "1"
+},
+{
+"wr": "trombetta",
+"n": "1"
+},
+{
+"wr": "catanzarese",
+"n": "1"
+},
+{
+"wr": "cittadella",
+"n": "1"
+},
+{
+"wr": "fantoccio",
+"n": "1"
+},
+{
+"wr": "accappatoio",
+"n": "1"
+},
+{
+"wr": "marciapiede",
+"n": "1"
+},
+{
+"wr": "nichelino",
+"n": "1"
+},
+{
+"wr": "controporta",
+"n": "1"
+},
+{
+"wr": "tassì",
+"n": "1"
+},
+{
+"wr": "lebbrosario",
+"n": "3"
+},
+{
+"wr": "proiettore",
+"n": "1"
+},
+{
+"wr": "miscelatore",
+"n": "1"
+},
+{
+"wr": "bagnoschiuma",
+"n": "1"
+},
+{
+"wr": "colla",
+"n": "1"
+},
+{
+"wr": "angiostatina",
+"n": "1"
+},
+{
+"wr": "autolettiga",
+"n": "1"
+},
+{
+"wr": "cinquantaquattro",
+"n": "1"
+},
+{
+"wr": "abruzzese",
+"n": "1"
+},
+{
+"wr": "croce",
+"n": "1"
+},
+{
+"wr": "carica",
+"n": "1"
+},
+{
+"wr": "torre",
+"n": "3"
+},
+{
+"wr": "pavimentazione",
+"n": "1"
+},
+{
+"wr": "nerbo",
+"n": "1"
+},
+{
+"wr": "coperta",
+"n": "2"
+},
+{
+"wr": "spilla",
+"n": "2"
+},
+{
+"wr": "lazzaretto",
+"n": "3"
+},
+{
+"wr": "pugliese",
+"n": "1"
+},
+{
+"wr": "zoccolo",
+"n": "1"
+},
+{
+"wr": "mantellina",
+"n": "1"
+},
+{
+"wr": "corazza",
+"n": "1"
+},
+{
+"wr": "vaniglia",
+"n": "1"
+},
+{
+"wr": "parasole",
+"n": "1"
+},
+{
+"wr": "balaustra",
+"n": "2"
+},
+{
+"wr": "cefalosporina",
+"n": "1"
+},
+{
+"wr": "lycra",
+"n": "1"
+},
+{
+"wr": "fotocopia",
+"n": "1"
+},
+{
+"wr": "spezia",
+"n": "1"
+},
+{
+"wr": "innaffiatoio",
+"n": "1"
+},
+{
+"wr": "cardiochirurgia",
+"n": "1"
+},
+{
+"wr": "palazzotto",
+"n": "1"
+},
+{
+"wr": "emolliente",
+"n": "2"
+},
+{
+"wr": "stampante",
+"n": "1"
+},
+{
+"wr": "nacchera",
+"n": "1"
+},
+{
+"wr": "corbello",
+"n": "1"
+},
+{
+"wr": "fognatura",
+"n": "1"
+},
+{
+"wr": "radiolina",
+"n": "1"
+},
+{
+"wr": "molletta",
+"n": "2"
+},
+{
+"wr": "velluto",
+"n": "1"
+},
+{
+"wr": "canterano",
+"n": "2"
+},
+{
+"wr": "sceneggiatura",
+"n": "1"
+},
+{
+"wr": "cucirino",
+"n": "1"
+},
+{
+"wr": "cornetta",
+"n": "1"
+},
+{
+"wr": "malachite",
+"n": "1"
+},
+{
+"wr": "basilica",
+"n": "1"
+},
+{
+"wr": "tendopoli",
+"n": "1"
+},
+{
+"wr": "novantadue",
+"n": "1"
+},
+{
+"wr": "asfalto",
+"n": "1"
+},
+{
+"wr": "ginnasio",
+"n": "1"
+},
+{
+"wr": "cimitero",
+"n": "1"
+},
+{
+"wr": "latteria",
+"n": "2"
+},
+{
+"wr": "carcassa",
+"n": "1"
+},
+{
+"wr": "mattonella",
+"n": "1"
+},
+{
+"wr": "buffet",
+"n": "3"
+},
+{
+"wr": "cerbottana",
+"n": "1"
+},
+{
+"wr": "traversa",
+"n": "2"
+},
+{
+"wr": "stoviglia",
+"n": "1"
+},
+{
+"wr": "pineto",
+"n": "1"
+},
+{
+"wr": "viola",
+"n": "1"
+},
+{
+"wr": "cucchiaio",
+"n": "1"
+},
+{
+"wr": "zinco",
+"n": "2"
+},
+{
+"wr": "toletta",
+"n": "1"
+},
+{
+"wr": "slittovia",
+"n": "1"
+},
+{
+"wr": "cinquantanove",
+"n": "1"
+},
+{
+"wr": "centrotavola",
+"n": "1"
+},
+{
+"wr": "antistaminico",
+"n": "1"
+},
+{
+"wr": "won",
+"n": "1"
+},
+{
+"wr": "valigia",
+"n": "1"
+},
+{
+"wr": "fortificazione",
+"n": "1"
+},
+{
+"wr": "tirso",
+"n": "1"
+},
+{
+"wr": "molotov",
+"n": "1"
+},
+{
+"wr": "dispensa",
+"n": "3"
+},
+{
+"wr": "pentola",
+"n": "1"
+},
+{
+"wr": "proiettile",
+"n": "2"
+},
+{
+"wr": "peschereccio",
+"n": "2"
+},
+{
+"wr": "pastrano",
+"n": "1"
+},
+{
+"wr": "boccale",
+"n": "1"
+},
+{
+"wr": "viscosa",
+"n": "1"
+},
+{
+"wr": "cuccuma",
+"n": "1"
+},
+{
+"wr": "biliardo",
+"n": "1"
+},
+{
+"wr": "corona",
+"n": "2"
+},
+{
+"wr": "panificio",
+"n": "1"
+},
+{
+"wr": "emittente",
+"n": "1"
+},
+{
+"wr": "marsupio",
+"n": "1"
+},
+{
+"wr": "copione",
+"n": "1"
+},
+{
+"wr": "soffietto",
+"n": "1"
+},
+{
+"wr": "campanellino",
+"n": "1"
+},
+{
+"wr": "spazzolificio",
+"n": "1"
+},
+{
+"wr": "ferro",
+"n": "2"
+},
+{
+"wr": "rosmarino",
+"n": "1"
+},
+{
+"wr": "graticola",
+"n": "1"
+},
+{
+"wr": "microonde",
+"n": "1"
+},
+{
+"wr": "ottomila",
+"n": "1"
+},
+{
+"wr": "remo",
+"n": "1"
+},
+{
+"wr": "tascapane",
+"n": "1"
+},
+{
+"wr": "lettiga",
+"n": "1"
+},
+{
+"wr": "rastrello",
+"n": "1"
+},
+{
+"wr": "apografo",
+"n": "1"
+},
+{
+"wr": "rublo",
+"n": "1"
+},
+{
+"wr": "basilico",
+"n": "1"
+},
+{
+"wr": "norvegese",
+"n": "1"
+},
+{
+"wr": "manoscritto",
+"n": "1"
+},
+{
+"wr": "microspia",
+"n": "1"
+},
+{
+"wr": "lettino",
+"n": "2"
+},
+{
+"wr": "lince",
+"n": "1"
+},
+{
+"wr": "stereo",
+"n": "1"
+},
+{
+"wr": "pastificio",
+"n": "2"
+},
+{
+"wr": "telex",
+"n": "1"
+},
+{
+"wr": "cinquecento",
+"n": "1"
+},
+{
+"wr": "attestato",
+"n": "1"
+},
+{
+"wr": "pesciera",
+"n": "1"
+},
+{
+"wr": "segnalazione",
+"n": "1"
+},
+{
+"wr": "pineta",
+"n": "1"
+},
+{
+"wr": "botticella",
+"n": "1"
+},
+{
+"wr": "trapunta",
+"n": "2"
+},
+{
+"wr": "eliporto",
+"n": "2"
+},
+{
+"wr": "ape",
+"n": "1"
+},
+{
+"wr": "immondezzaio",
+"n": "1"
+},
+{
+"wr": "ricovero",
+"n": "1"
+},
+{
+"wr": "trentadue",
+"n": "1"
+},
+{
+"wr": "dardo",
+"n": "1"
+},
+{
+"wr": "cremlino",
+"n": "1"
+},
+{
+"wr": "campidoglio",
+"n": "1"
+}
+]

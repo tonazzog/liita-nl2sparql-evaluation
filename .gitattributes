@@ -1,0 +1,2 @@
+datasets/*.json -text
+datasets/SHA256SUMS -text

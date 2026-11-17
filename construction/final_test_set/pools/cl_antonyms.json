@@ -1,0 +1,5094 @@
+[
+{
+"wr": "materno",
+"n": "1"
+},
+{
+"wr": "lungimirante",
+"n": "1"
+},
+{
+"wr": "chiuso",
+"n": "1"
+},
+{
+"wr": "possibile",
+"n": "1"
+},
+{
+"wr": "squisito",
+"n": "2"
+},
+{
+"wr": "democratico",
+"n": "2"
+},
+{
+"wr": "scoperto",
+"n": "3"
+},
+{
+"wr": "tenero",
+"n": "2"
+},
+{
+"wr": "velato",
+"n": "1"
+},
+{
+"wr": "vecchio",
+"n": "4"
+},
+{
+"wr": "armonico",
+"n": "2"
+},
+{
+"wr": "tenue",
+"n": "1"
+},
+{
+"wr": "nuovo",
+"n": "2"
+},
+{
+"wr": "amabile",
+"n": "1"
+},
+{
+"wr": "eccessivo",
+"n": "1"
+},
+{
+"wr": "maschilista",
+"n": "1"
+},
+{
+"wr": "pietoso",
+"n": "2"
+},
+{
+"wr": "petulante",
+"n": "1"
+},
+{
+"wr": "verecondo",
+"n": "1"
+},
+{
+"wr": "colmo",
+"n": "1"
+},
+{
+"wr": "cittadino",
+"n": "1"
+},
+{
+"wr": "speziato",
+"n": "1"
+},
+{
+"wr": "fresco",
+"n": "1"
+},
+{
+"wr": "attraente",
+"n": "1"
+},
+{
+"wr": "illegittimo",
+"n": "1"
+},
+{
+"wr": "nevrastenico",
+"n": "1"
+},
+{
+"wr": "nudo",
+"n": "1"
+},
+{
+"wr": "aspro",
+"n": "3"
+},
+{
+"wr": "serio",
+"n": "3"
+},
+{
+"wr": "strampalato",
+"n": "1"
+},
+{
+"wr": "incosciente",
+"n": "2"
+},
+{
+"wr": "ambiguo",
+"n": "1"
+},
+{
+"wr": "liberale",
+"n": "2"
+},
+{
+"wr": "bizzarro",
+"n": "1"
+},
+{
+"wr": "velenoso",
+"n": "1"
+},
+{
+"wr": "estraneo",
+"n": "2"
+},
+{
+"wr": "preparato",
+"n": "1"
+},
+{
+"wr": "incomunicabile",
+"n": "1"
+},
+{
+"wr": "violento",
+"n": "2"
+},
+{
+"wr": "miliardario",
+"n": "1"
+},
+{
+"wr": "smorzato",
+"n": "1"
+},
+{
+"wr": "sapiente",
+"n": "1"
+},
+{
+"wr": "preciso",
+"n": "2"
+},
+{
+"wr": "maleducato",
+"n": "1"
+},
+{
+"wr": "ridicolo",
+"n": "2"
+},
+{
+"wr": "egocentrico",
+"n": "1"
+},
+{
+"wr": "tetro",
+"n": "2"
+},
+{
+"wr": "esteso",
+"n": "3"
+},
+{
+"wr": "furioso",
+"n": "3"
+},
+{
+"wr": "profondo",
+"n": "3"
+},
+{
+"wr": "divertente",
+"n": "1"
+},
+{
+"wr": "omogeneo",
+"n": "1"
+},
+{
+"wr": "amaro",
+"n": "1"
+},
+{
+"wr": "futuro",
+"n": "2"
+},
+{
+"wr": "probabile",
+"n": "1"
+},
+{
+"wr": "indeciso",
+"n": "1"
+},
+{
+"wr": "navigabile",
+"n": "1"
+},
+{
+"wr": "minore",
+"n": "1"
+},
+{
+"wr": "affaticato",
+"n": "1"
+},
+{
+"wr": "comune",
+"n": "3"
+},
+{
+"wr": "colorato",
+"n": "1"
+},
+{
+"wr": "esasperato",
+"n": "2"
+},
+{
+"wr": "sudicio",
+"n": "1"
+},
+{
+"wr": "pertinace",
+"n": "1"
+},
+{
+"wr": "pervicace",
+"n": "1"
+},
+{
+"wr": "vile",
+"n": "1"
+},
+{
+"wr": "torbido",
+"n": "1"
+},
+{
+"wr": "agonistico",
+"n": "1"
+},
+{
+"wr": "ipoproteico",
+"n": "1"
+},
+{
+"wr": "levigato",
+"n": "1"
+},
+{
+"wr": "abile",
+"n": "1"
+},
+{
+"wr": "elaborato",
+"n": "1"
+},
+{
+"wr": "antipatico",
+"n": "1"
+},
+{
+"wr": "simpatico",
+"n": "1"
+},
+{
+"wr": "decente",
+"n": "1"
+},
+{
+"wr": "particolare",
+"n": "4"
+},
+{
+"wr": "straziato",
+"n": "1"
+},
+{
+"wr": "disidratato",
+"n": "1"
+},
+{
+"wr": "celibe",
+"n": "1"
+},
+{
+"wr": "sommario",
+"n": "1"
+},
+{
+"wr": "ospitale",
+"n": "1"
+},
+{
+"wr": "capibile",
+"n": "1"
+},
+{
+"wr": "vittimista",
+"n": "1"
+},
+{
+"wr": "impercettibile",
+"n": "1"
+},
+{
+"wr": "affollato",
+"n": "1"
+},
+{
+"wr": "immigrato",
+"n": "1"
+},
+{
+"wr": "raffinato",
+"n": "1"
+},
+{
+"wr": "banale",
+"n": "1"
+},
+{
+"wr": "dolce",
+"n": "4"
+},
+{
+"wr": "vuoto",
+"n": "3"
+},
+{
+"wr": "inaccettabile",
+"n": "1"
+},
+{
+"wr": "remoto",
+"n": "2"
+},
+{
+"wr": "volgare",
+"n": "1"
+},
+{
+"wr": "civile",
+"n": "1"
+},
+{
+"wr": "fluido",
+"n": "2"
+},
+{
+"wr": "umile",
+"n": "3"
+},
+{
+"wr": "moderno",
+"n": "4"
+},
+{
+"wr": "combattivo",
+"n": "2"
+},
+{
+"wr": "avaro",
+"n": "1"
+},
+{
+"wr": "astruso",
+"n": "1"
+},
+{
+"wr": "pusillanime",
+"n": "1"
+},
+{
+"wr": "ateo",
+"n": "1"
+},
+{
+"wr": "permanente",
+"n": "1"
+},
+{
+"wr": "discontinuo",
+"n": "1"
+},
+{
+"wr": "scrupoloso",
+"n": "1"
+},
+{
+"wr": "impetuoso",
+"n": "1"
+},
+{
+"wr": "sospettoso",
+"n": "1"
+},
+{
+"wr": "introverso",
+"n": "1"
+},
+{
+"wr": "ingenuo",
+"n": "1"
+},
+{
+"wr": "opportuno",
+"n": "1"
+},
+{
+"wr": "irrinunciabile",
+"n": "1"
+},
+{
+"wr": "inverosimile",
+"n": "1"
+},
+{
+"wr": "totale",
+"n": "1"
+},
+{
+"wr": "attutito",
+"n": "1"
+},
+{
+"wr": "virulento",
+"n": "1"
+},
+{
+"wr": "freddo",
+"n": "1"
+},
+{
+"wr": "lucente",
+"n": "1"
+},
+{
+"wr": "odierno",
+"n": "1"
+},
+{
+"wr": "superfluo",
+"n": "1"
+},
+{
+"wr": "empio",
+"n": "2"
+},
+{
+"wr": "vivo",
+"n": "3"
+},
+{
+"wr": "giusto",
+"n": "3"
+},
+{
+"wr": "paesano",
+"n": "2"
+},
+{
+"wr": "marcato",
+"n": "1"
+},
+{
+"wr": "positivo",
+"n": "1"
+},
+{
+"wr": "nuvoloso",
+"n": "1"
+},
+{
+"wr": "marginale",
+"n": "1"
+},
+{
+"wr": "involontario",
+"n": "1"
+},
+{
+"wr": "allegro",
+"n": "1"
+},
+{
+"wr": "intemperante",
+"n": "1"
+},
+{
+"wr": "intricato",
+"n": "2"
+},
+{
+"wr": "negativo",
+"n": "1"
+},
+{
+"wr": "noto",
+"n": "1"
+},
+{
+"wr": "illuminato",
+"n": "1"
+},
+{
+"wr": "tollerante",
+"n": "1"
+},
+{
+"wr": "ringiovanito",
+"n": "1"
+},
+{
+"wr": "straniero",
+"n": "2"
+},
+{
+"wr": "asociale",
+"n": "1"
+},
+{
+"wr": "diffidente",
+"n": "1"
+},
+{
+"wr": "essiccato",
+"n": "1"
+},
+{
+"wr": "brutale",
+"n": "1"
+},
+{
+"wr": "cariato",
+"n": "1"
+},
+{
+"wr": "feroce",
+"n": "1"
+},
+{
+"wr": "angelico",
+"n": "1"
+},
+{
+"wr": "competente",
+"n": "1"
+},
+{
+"wr": "comico",
+"n": "2"
+},
+{
+"wr": "vigoroso",
+"n": "2"
+},
+{
+"wr": "disinvolto",
+"n": "1"
+},
+{
+"wr": "sproporzionato",
+"n": "1"
+},
+{
+"wr": "trasportabile",
+"n": "1"
+},
+{
+"wr": "sdrammatizzato",
+"n": "1"
+},
+{
+"wr": "sciocco",
+"n": "1"
+},
+{
+"wr": "intelligente",
+"n": "1"
+},
+{
+"wr": "collettivo",
+"n": "1"
+},
+{
+"wr": "inesperto",
+"n": "1"
+},
+{
+"wr": "invecchiato",
+"n": "1"
+},
+{
+"wr": "scuro",
+"n": "2"
+},
+{
+"wr": "conforme",
+"n": "1"
+},
+{
+"wr": "trascurabile",
+"n": "2"
+},
+{
+"wr": "adeguato",
+"n": "1"
+},
+{
+"wr": "maggiore",
+"n": "1"
+},
+{
+"wr": "ufficiale",
+"n": "1"
+},
+{
+"wr": "instabile",
+"n": "1"
+},
+{
+"wr": "irrilevante",
+"n": "1"
+},
+{
+"wr": "brutto",
+"n": "1"
+},
+{
+"wr": "costante",
+"n": "2"
+},
+{
+"wr": "abituale",
+"n": "1"
+},
+{
+"wr": "disordinato",
+"n": "1"
+},
+{
+"wr": "esuberante",
+"n": "1"
+},
+{
+"wr": "cupo",
+"n": "3"
+},
+{
+"wr": "scemo",
+"n": "1"
+},
+{
+"wr": "indigeno",
+"n": "1"
+},
+{
+"wr": "vasto",
+"n": "1"
+},
+{
+"wr": "incomprensibile",
+"n": "1"
+},
+{
+"wr": "oscuro",
+"n": "2"
+},
+{
+"wr": "rude",
+"n": "2"
+},
+{
+"wr": "arrabbiato",
+"n": "1"
+},
+{
+"wr": "perpetuo",
+"n": "1"
+},
+{
+"wr": "scomposto",
+"n": "1"
+},
+{
+"wr": "frontale",
+"n": "1"
+},
+{
+"wr": "ipocrita",
+"n": "1"
+},
+{
+"wr": "trascurato",
+"n": "2"
+},
+{
+"wr": "spesso",
+"n": "2"
+},
+{
+"wr": "favorevole",
+"n": "2"
+},
+{
+"wr": "facile",
+"n": "1"
+},
+{
+"wr": "oceanico",
+"n": "1"
+},
+{
+"wr": "tranquillo",
+"n": "1"
+},
+{
+"wr": "viscerale",
+"n": "1"
+},
+{
+"wr": "originale",
+"n": "1"
+},
+{
+"wr": "sdraiato",
+"n": "1"
+},
+{
+"wr": "ignoto",
+"n": "1"
+},
+{
+"wr": "tardo",
+"n": "2"
+},
+{
+"wr": "irretroattivo",
+"n": "1"
+},
+{
+"wr": "sobrio",
+"n": "3"
+},
+{
+"wr": "primario",
+"n": "1"
+},
+{
+"wr": "dubbio",
+"n": "1"
+},
+{
+"wr": "solito",
+"n": "2"
+},
+{
+"wr": "fascista",
+"n": "1"
+},
+{
+"wr": "insufficiente",
+"n": "1"
+},
+{
+"wr": "affascinante",
+"n": "1"
+},
+{
+"wr": "ricco",
+"n": "2"
+},
+{
+"wr": "contrario",
+"n": "1"
+},
+{
+"wr": "insignificante",
+"n": "2"
+},
+{
+"wr": "anticipato",
+"n": "1"
+},
+{
+"wr": "corrispondente",
+"n": "1"
+},
+{
+"wr": "perentorio",
+"n": "1"
+},
+{
+"wr": "ubriaco",
+"n": "1"
+},
+{
+"wr": "incredibile",
+"n": "1"
+},
+{
+"wr": "femmina",
+"n": "1"
+},
+{
+"wr": "proporzionato",
+"n": "1"
+},
+{
+"wr": "riparato",
+"n": "1"
+},
+{
+"wr": "illimitato",
+"n": "1"
+},
+{
+"wr": "diligente",
+"n": "2"
+},
+{
+"wr": "carino",
+"n": "2"
+},
+{
+"wr": "drogato",
+"n": "2"
+},
+{
+"wr": "breve",
+"n": "1"
+},
+{
+"wr": "maleodorante",
+"n": "1"
+},
+{
+"wr": "liquido",
+"n": "2"
+},
+{
+"wr": "astratto",
+"n": "1"
+},
+{
+"wr": "sagace",
+"n": "1"
+},
+{
+"wr": "snello",
+"n": "1"
+},
+{
+"wr": "delizioso",
+"n": "3"
+},
+{
+"wr": "insicuro",
+"n": "1"
+},
+{
+"wr": "pericoloso",
+"n": "4"
+},
+{
+"wr": "essenziale",
+"n": "2"
+},
+{
+"wr": "obbligatorio",
+"n": "1"
+},
+{
+"wr": "pignolo",
+"n": "1"
+},
+{
+"wr": "inapplicabile",
+"n": "1"
+},
+{
+"wr": "altezzoso",
+"n": "1"
+},
+{
+"wr": "immobile",
+"n": "1"
+},
+{
+"wr": "pagano",
+"n": "2"
+},
+{
+"wr": "meschino",
+"n": "2"
+},
+{
+"wr": "copioso",
+"n": "1"
+},
+{
+"wr": "rapido",
+"n": "1"
+},
+{
+"wr": "satanico",
+"n": "1"
+},
+{
+"wr": "infingardo",
+"n": "1"
+},
+{
+"wr": "ridotto",
+"n": "1"
+},
+{
+"wr": "acuminato",
+"n": "1"
+},
+{
+"wr": "inoffensivo",
+"n": "2"
+},
+{
+"wr": "avvenente",
+"n": "1"
+},
+{
+"wr": "estenuato",
+"n": "1"
+},
+{
+"wr": "indifferente",
+"n": "2"
+},
+{
+"wr": "soddisfatto",
+"n": "1"
+},
+{
+"wr": "robusto",
+"n": "1"
+},
+{
+"wr": "influenzabile",
+"n": "1"
+},
+{
+"wr": "insolito",
+"n": "1"
+},
+{
+"wr": "attuale",
+"n": "1"
+},
+{
+"wr": "steso",
+"n": "1"
+},
+{
+"wr": "macchiato",
+"n": "1"
+},
+{
+"wr": "insoluto",
+"n": "1"
+},
+{
+"wr": "contento",
+"n": "1"
+},
+{
+"wr": "antidemocratico",
+"n": "1"
+},
+{
+"wr": "cospicuo",
+"n": "2"
+},
+{
+"wr": "tossico",
+"n": "1"
+},
+{
+"wr": "sporco",
+"n": "1"
+},
+{
+"wr": "vivace",
+"n": "3"
+},
+{
+"wr": "coraggioso",
+"n": "1"
+},
+{
+"wr": "riuscito",
+"n": "1"
+},
+{
+"wr": "poco",
+"n": "1"
+},
+{
+"wr": "furibondo",
+"n": "2"
+},
+{
+"wr": "comunicabile",
+"n": "1"
+},
+{
+"wr": "perfetto",
+"n": "1"
+},
+{
+"wr": "continente",
+"n": "1"
+},
+{
+"wr": "internazionale",
+"n": "1"
+},
+{
+"wr": "ottenibile",
+"n": "1"
+},
+{
+"wr": "incompiuto",
+"n": "1"
+},
+{
+"wr": "egregio",
+"n": "2"
+},
+{
+"wr": "fragile",
+"n": "2"
+},
+{
+"wr": "rilassato",
+"n": "3"
+},
+{
+"wr": "acceso",
+"n": "2"
+},
+{
+"wr": "stretto",
+"n": "1"
+},
+{
+"wr": "schivo",
+"n": "1"
+},
+{
+"wr": "accaldato",
+"n": "1"
+},
+{
+"wr": "movimentato",
+"n": "1"
+},
+{
+"wr": "resistente",
+"n": "1"
+},
+{
+"wr": "alto",
+"n": "1"
+},
+{
+"wr": "eterogeneo",
+"n": "1"
+},
+{
+"wr": "prestigioso",
+"n": "1"
+},
+{
+"wr": "minuzioso",
+"n": "2"
+},
+{
+"wr": "incrinato",
+"n": "1"
+},
+{
+"wr": "militare",
+"n": "1"
+},
+{
+"wr": "prestante",
+"n": "1"
+},
+{
+"wr": "stolto",
+"n": "1"
+},
+{
+"wr": "orgoglioso",
+"n": "1"
+},
+{
+"wr": "idoneo",
+"n": "1"
+},
+{
+"wr": "dissimile",
+"n": "1"
+},
+{
+"wr": "irrorato",
+"n": "1"
+},
+{
+"wr": "affermato",
+"n": "1"
+},
+{
+"wr": "esile",
+"n": "1"
+},
+{
+"wr": "puzzolente",
+"n": "1"
+},
+{
+"wr": "irragionevole",
+"n": "1"
+},
+{
+"wr": "universale",
+"n": "1"
+},
+{
+"wr": "caldo",
+"n": "2"
+},
+{
+"wr": "coperto",
+"n": "2"
+},
+{
+"wr": "definito",
+"n": "1"
+},
+{
+"wr": "dettagliato",
+"n": "1"
+},
+{
+"wr": "avverso",
+"n": "2"
+},
+{
+"wr": "incompatibile",
+"n": "1"
+},
+{
+"wr": "assurdo",
+"n": "1"
+},
+{
+"wr": "utile",
+"n": "1"
+},
+{
+"wr": "valido",
+"n": "2"
+},
+{
+"wr": "irritabile",
+"n": "1"
+},
+{
+"wr": "difforme",
+"n": "1"
+},
+{
+"wr": "esitante",
+"n": "1"
+},
+{
+"wr": "temerario",
+"n": "1"
+},
+{
+"wr": "esaltato",
+"n": "1"
+},
+{
+"wr": "leggero",
+"n": "3"
+},
+{
+"wr": "goffo",
+"n": "2"
+},
+{
+"wr": "decolorato",
+"n": "1"
+},
+{
+"wr": "appassionato",
+"n": "1"
+},
+{
+"wr": "arretrato",
+"n": "1"
+},
+{
+"wr": "vicino",
+"n": "1"
+},
+{
+"wr": "vigliacco",
+"n": "1"
+},
+{
+"wr": "congruente",
+"n": "1"
+},
+{
+"wr": "antifascista",
+"n": "1"
+},
+{
+"wr": "greggio",
+"n": "1"
+},
+{
+"wr": "faceto",
+"n": "1"
+},
+{
+"wr": "variabile",
+"n": "1"
+},
+{
+"wr": "mutevole",
+"n": "1"
+},
+{
+"wr": "raccolto",
+"n": "3"
+},
+{
+"wr": "marcio",
+"n": "2"
+},
+{
+"wr": "comodo",
+"n": "1"
+},
+{
+"wr": "eloquente",
+"n": "1"
+},
+{
+"wr": "taciturno",
+"n": "1"
+},
+{
+"wr": "piccino",
+"n": "2"
+},
+{
+"wr": "credente",
+"n": "1"
+},
+{
+"wr": "nervoso",
+"n": "1"
+},
+{
+"wr": "autentico",
+"n": "2"
+},
+{
+"wr": "necessario",
+"n": "1"
+},
+{
+"wr": "infiammato",
+"n": "1"
+},
+{
+"wr": "ridondante",
+"n": "2"
+},
+{
+"wr": "inconsistente",
+"n": "2"
+},
+{
+"wr": "giudizioso",
+"n": "1"
+},
+{
+"wr": "definitivo",
+"n": "1"
+},
+{
+"wr": "crudo",
+"n": "2"
+},
+{
+"wr": "desolato",
+"n": "1"
+},
+{
+"wr": "imminente",
+"n": "1"
+},
+{
+"wr": "guasto",
+"n": "3"
+},
+{
+"wr": "molto",
+"n": "1"
+},
+{
+"wr": "ingiustificato",
+"n": "1"
+},
+{
+"wr": "capiente",
+"n": "1"
+},
+{
+"wr": "misurato",
+"n": "1"
+},
+{
+"wr": "preoccupato",
+"n": "1"
+},
+{
+"wr": "diradato",
+"n": "2"
+},
+{
+"wr": "popolato",
+"n": "2"
+},
+{
+"wr": "stupendo",
+"n": "1"
+},
+{
+"wr": "minuscolo",
+"n": "3"
+},
+{
+"wr": "timido",
+"n": "1"
+},
+{
+"wr": "nativo",
+"n": "1"
+},
+{
+"wr": "minuto",
+"n": "3"
+},
+{
+"wr": "deteriorabile",
+"n": "1"
+},
+{
+"wr": "partecipe",
+"n": "1"
+},
+{
+"wr": "stalinizzato",
+"n": "1"
+},
+{
+"wr": "corrotto",
+"n": "3"
+},
+{
+"wr": "lucido",
+"n": "2"
+},
+{
+"wr": "riflessivo",
+"n": "1"
+},
+{
+"wr": "agevole",
+"n": "2"
+},
+{
+"wr": "indispensabile",
+"n": "1"
+},
+{
+"wr": "colmato",
+"n": "1"
+},
+{
+"wr": "esterofilo",
+"n": "1"
+},
+{
+"wr": "smunto",
+"n": "1"
+},
+{
+"wr": "affilato",
+"n": "1"
+},
+{
+"wr": "povero",
+"n": "2"
+},
+{
+"wr": "invendibile",
+"n": "1"
+},
+{
+"wr": "prode",
+"n": "1"
+},
+{
+"wr": "solerte",
+"n": "1"
+},
+{
+"wr": "infuriato",
+"n": "1"
+},
+{
+"wr": "diverso",
+"n": "1"
+},
+{
+"wr": "impacciato",
+"n": "2"
+},
+{
+"wr": "irrazionale",
+"n": "1"
+},
+{
+"wr": "masochista",
+"n": "1"
+},
+{
+"wr": "mendace",
+"n": "1"
+},
+{
+"wr": "genuino",
+"n": "1"
+},
+{
+"wr": "ultimo",
+"n": "1"
+},
+{
+"wr": "sano",
+"n": "2"
+},
+{
+"wr": "destro",
+"n": "1"
+},
+{
+"wr": "intero",
+"n": "3"
+},
+{
+"wr": "univoco",
+"n": "1"
+},
+{
+"wr": "pudico",
+"n": "1"
+},
+{
+"wr": "bollente",
+"n": "1"
+},
+{
+"wr": "esagerato",
+"n": "2"
+},
+{
+"wr": "corto",
+"n": "1"
+},
+{
+"wr": "scarno",
+"n": "2"
+},
+{
+"wr": "differente",
+"n": "1"
+},
+{
+"wr": "denso",
+"n": "2"
+},
+{
+"wr": "forte",
+"n": "2"
+},
+{
+"wr": "grasso",
+"n": "2"
+},
+{
+"wr": "casuale",
+"n": "1"
+},
+{
+"wr": "danneggiato",
+"n": "1"
+},
+{
+"wr": "abbattuto",
+"n": "2"
+},
+{
+"wr": "stupito",
+"n": "1"
+},
+{
+"wr": "rovente",
+"n": "2"
+},
+{
+"wr": "incline",
+"n": "1"
+},
+{
+"wr": "ristretto",
+"n": "2"
+},
+{
+"wr": "enfatizzato",
+"n": "1"
+},
+{
+"wr": "familiare",
+"n": "2"
+},
+{
+"wr": "duraturo",
+"n": "1"
+},
+{
+"wr": "propenso",
+"n": "1"
+},
+{
+"wr": "entusiasta",
+"n": "1"
+},
+{
+"wr": "ordinato",
+"n": "1"
+},
+{
+"wr": "eccellente",
+"n": "1"
+},
+{
+"wr": "animato",
+"n": "3"
+},
+{
+"wr": "scarso",
+"n": "2"
+},
+{
+"wr": "nevralgico",
+"n": "1"
+},
+{
+"wr": "altruista",
+"n": "1"
+},
+{
+"wr": "bovino",
+"n": "1"
+},
+{
+"wr": "attaccabrighe",
+"n": "1"
+},
+{
+"wr": "condiscendente",
+"n": "1"
+},
+{
+"wr": "pio",
+"n": "1"
+},
+{
+"wr": "significativo",
+"n": "1"
+},
+{
+"wr": "fecondato",
+"n": "1"
+},
+{
+"wr": "maturo",
+"n": "2"
+},
+{
+"wr": "handicappato",
+"n": "1"
+},
+{
+"wr": "aperto",
+"n": "1"
+},
+{
+"wr": "grato",
+"n": "1"
+},
+{
+"wr": "argentino",
+"n": "1"
+},
+{
+"wr": "spazioso",
+"n": "1"
+},
+{
+"wr": "conservatore",
+"n": "1"
+},
+{
+"wr": "sciovinista",
+"n": "1"
+},
+{
+"wr": "minimizzato",
+"n": "1"
+},
+{
+"wr": "mistico",
+"n": "2"
+},
+{
+"wr": "momentaneo",
+"n": "1"
+},
+{
+"wr": "aggraziato",
+"n": "2"
+},
+{
+"wr": "alieno",
+"n": "2"
+},
+{
+"wr": "indisciplinato",
+"n": "1"
+},
+{
+"wr": "incolto",
+"n": "1"
+},
+{
+"wr": "grezzo",
+"n": "1"
+},
+{
+"wr": "equivoco",
+"n": "2"
+},
+{
+"wr": "periodico",
+"n": "1"
+},
+{
+"wr": "cosciente",
+"n": "1"
+},
+{
+"wr": "credibile",
+"n": "1"
+},
+{
+"wr": "ufficioso",
+"n": "1"
+},
+{
+"wr": "efficace",
+"n": "1"
+},
+{
+"wr": "progressista",
+"n": "1"
+},
+{
+"wr": "impossibile",
+"n": "2"
+},
+{
+"wr": "consumato",
+"n": "2"
+},
+{
+"wr": "ingrossato",
+"n": "2"
+},
+{
+"wr": "regolato",
+"n": "2"
+},
+{
+"wr": "irruente",
+"n": "1"
+},
+{
+"wr": "intenzionale",
+"n": "1"
+},
+{
+"wr": "confortevole",
+"n": "1"
+},
+{
+"wr": "ambivalente",
+"n": "1"
+},
+{
+"wr": "sconcio",
+"n": "1"
+},
+{
+"wr": "malato",
+"n": "1"
+},
+{
+"wr": "valente",
+"n": "1"
+},
+{
+"wr": "distratto",
+"n": "1"
+},
+{
+"wr": "continuo",
+"n": "1"
+},
+{
+"wr": "asciutto",
+"n": "2"
+},
+{
+"wr": "incandescente",
+"n": "2"
+},
+{
+"wr": "passivo",
+"n": "1"
+},
+{
+"wr": "ostinato",
+"n": "1"
+},
+{
+"wr": "educato",
+"n": "1"
+},
+{
+"wr": "ostile",
+"n": "1"
+},
+{
+"wr": "accurato",
+"n": "1"
+},
+{
+"wr": "condizionato",
+"n": "1"
+},
+{
+"wr": "estremista",
+"n": "1"
+},
+{
+"wr": "alleviato",
+"n": "1"
+},
+{
+"wr": "raggiante",
+"n": "1"
+},
+{
+"wr": "sporadico",
+"n": "1"
+},
+{
+"wr": "incoerente",
+"n": "1"
+},
+{
+"wr": "malinconico",
+"n": "1"
+},
+{
+"wr": "intempestivo",
+"n": "1"
+},
+{
+"wr": "sconosciuto",
+"n": "1"
+},
+{
+"wr": "indebolito",
+"n": "1"
+},
+{
+"wr": "successivo",
+"n": "1"
+},
+{
+"wr": "meccanico",
+"n": "2"
+},
+{
+"wr": "analogo",
+"n": "1"
+},
+{
+"wr": "secco",
+"n": "3"
+},
+{
+"wr": "tozzo",
+"n": "1"
+},
+{
+"wr": "osceno",
+"n": "2"
+},
+{
+"wr": "vittimistico",
+"n": "1"
+},
+{
+"wr": "incerto",
+"n": "3"
+},
+{
+"wr": "gretto",
+"n": "2"
+},
+{
+"wr": "molle",
+"n": "3"
+},
+{
+"wr": "complesso",
+"n": "1"
+},
+{
+"wr": "buffo",
+"n": "2"
+},
+{
+"wr": "maledetto",
+"n": "1"
+},
+{
+"wr": "imbelle",
+"n": "2"
+},
+{
+"wr": "disarmato",
+"n": "1"
+},
+{
+"wr": "logorabile",
+"n": "1"
+},
+{
+"wr": "lungo",
+"n": "3"
+},
+{
+"wr": "assennato",
+"n": "1"
+},
+{
+"wr": "cancellato",
+"n": "1"
+},
+{
+"wr": "istantaneo",
+"n": "1"
+},
+{
+"wr": "cauto",
+"n": "1"
+},
+{
+"wr": "accelerato",
+"n": "1"
+},
+{
+"wr": "folto",
+"n": "1"
+},
+{
+"wr": "pungente",
+"n": "5"
+},
+{
+"wr": "deluso",
+"n": "1"
+},
+{
+"wr": "codardo",
+"n": "1"
+},
+{
+"wr": "capillare",
+"n": "2"
+},
+{
+"wr": "indecente",
+"n": "1"
+},
+{
+"wr": "incompleto",
+"n": "1"
+},
+{
+"wr": "brusco",
+"n": "1"
+},
+{
+"wr": "pregiato",
+"n": "1"
+},
+{
+"wr": "arrogante",
+"n": "1"
+},
+{
+"wr": "turato",
+"n": "1"
+},
+{
+"wr": "attivo",
+"n": "3"
+},
+{
+"wr": "dinamico",
+"n": "1"
+},
+{
+"wr": "opposto",
+"n": "1"
+},
+{
+"wr": "modesto",
+"n": "5"
+},
+{
+"wr": "connazionale",
+"n": "1"
+},
+{
+"wr": "frenetico",
+"n": "1"
+},
+{
+"wr": "analfabeta",
+"n": "1"
+},
+{
+"wr": "splendido",
+"n": "1"
+},
+{
+"wr": "vero",
+"n": "2"
+},
+{
+"wr": "ansioso",
+"n": "1"
+},
+{
+"wr": "iniziale",
+"n": "2"
+},
+{
+"wr": "posticipato",
+"n": "1"
+},
+{
+"wr": "speciale",
+"n": "1"
+},
+{
+"wr": "difensivo",
+"n": "1"
+},
+{
+"wr": "secolare",
+"n": "1"
+},
+{
+"wr": "opaco",
+"n": "2"
+},
+{
+"wr": "attenuato",
+"n": "1"
+},
+{
+"wr": "religioso",
+"n": "1"
+},
+{
+"wr": "folle",
+"n": "1"
+},
+{
+"wr": "inabile",
+"n": "1"
+},
+{
+"wr": "benevolo",
+"n": "1"
+},
+{
+"wr": "idratato",
+"n": "1"
+},
+{
+"wr": "naturale",
+"n": "1"
+},
+{
+"wr": "ignorante",
+"n": "1"
+},
+{
+"wr": "variopinto",
+"n": "1"
+},
+{
+"wr": "infetto",
+"n": "2"
+},
+{
+"wr": "nobile",
+"n": "2"
+},
+{
+"wr": "enorme",
+"n": "1"
+},
+{
+"wr": "gioioso",
+"n": "1"
+},
+{
+"wr": "lineare",
+"n": "1"
+},
+{
+"wr": "precedente",
+"n": "2"
+},
+{
+"wr": "mesto",
+"n": "1"
+},
+{
+"wr": "spregevole",
+"n": "1"
+},
+{
+"wr": "scorretto",
+"n": "1"
+},
+{
+"wr": "disattento",
+"n": "1"
+},
+{
+"wr": "curvato",
+"n": "1"
+},
+{
+"wr": "principale",
+"n": "1"
+},
+{
+"wr": "facilone",
+"n": "1"
+},
+{
+"wr": "attonito",
+"n": "1"
+},
+{
+"wr": "sconfinato",
+"n": "3"
+},
+{
+"wr": "manchevole",
+"n": "1"
+},
+{
+"wr": "contaminato",
+"n": "2"
+},
+{
+"wr": "freudiano",
+"n": "1"
+},
+{
+"wr": "comprensivo",
+"n": "1"
+},
+{
+"wr": "istruito",
+"n": "1"
+},
+{
+"wr": "secondario",
+"n": "1"
+},
+{
+"wr": "innovativo",
+"n": "1"
+},
+{
+"wr": "erudito",
+"n": "1"
+},
+{
+"wr": "intensificato",
+"n": "1"
+},
+{
+"wr": "teatrale",
+"n": "1"
+},
+{
+"wr": "promiscuo",
+"n": "1"
+},
+{
+"wr": "extraterrestre",
+"n": "1"
+},
+{
+"wr": "deciso",
+"n": "1"
+},
+{
+"wr": "spiacevole",
+"n": "1"
+},
+{
+"wr": "allentato",
+"n": "1"
+},
+{
+"wr": "molato",
+"n": "1"
+},
+{
+"wr": "agitato",
+"n": "2"
+},
+{
+"wr": "ortodosso",
+"n": "1"
+},
+{
+"wr": "tiepido",
+"n": "1"
+},
+{
+"wr": "decolonizzato",
+"n": "1"
+},
+{
+"wr": "tondo",
+"n": "1"
+},
+{
+"wr": "verosimile",
+"n": "1"
+},
+{
+"wr": "mordace",
+"n": "1"
+},
+{
+"wr": "mite",
+"n": "2"
+},
+{
+"wr": "indiscreto",
+"n": "1"
+},
+{
+"wr": "bello",
+"n": "4"
+},
+{
+"wr": "opportunista",
+"n": "1"
+},
+{
+"wr": "espansivo",
+"n": "1"
+},
+{
+"wr": "compiuto",
+"n": "1"
+},
+{
+"wr": "scosso",
+"n": "1"
+},
+{
+"wr": "carico",
+"n": "1"
+},
+{
+"wr": "collegiale",
+"n": "1"
+},
+{
+"wr": "femminile",
+"n": "1"
+},
+{
+"wr": "uguale",
+"n": "1"
+},
+{
+"wr": "tenace",
+"n": "1"
+},
+{
+"wr": "equivalente",
+"n": "1"
+},
+{
+"wr": "svelto",
+"n": "2"
+},
+{
+"wr": "massiccio",
+"n": "1"
+},
+{
+"wr": "grave",
+"n": "3"
+},
+{
+"wr": "ampliato",
+"n": "1"
+},
+{
+"wr": "celebre",
+"n": "1"
+},
+{
+"wr": "inconsapevole",
+"n": "1"
+},
+{
+"wr": "disumano",
+"n": "1"
+},
+{
+"wr": "atterrito",
+"n": "1"
+},
+{
+"wr": "logoro",
+"n": "2"
+},
+{
+"wr": "personale",
+"n": "2"
+},
+{
+"wr": "reversibile",
+"n": "1"
+},
+{
+"wr": "nevrotico",
+"n": "1"
+},
+{
+"wr": "crudele",
+"n": "1"
+},
+{
+"wr": "gustoso",
+"n": "1"
+},
+{
+"wr": "sicuro",
+"n": "4"
+},
+{
+"wr": "puntuale",
+"n": "1"
+},
+{
+"wr": "stanco",
+"n": "2"
+},
+{
+"wr": "sbadato",
+"n": "1"
+},
+{
+"wr": "limpido",
+"n": "2"
+},
+{
+"wr": "basico",
+"n": "1"
+},
+{
+"wr": "sazio",
+"n": "2"
+},
+{
+"wr": "progredito",
+"n": "1"
+},
+{
+"wr": "minimo",
+"n": "1"
+},
+{
+"wr": "nazionale",
+"n": "1"
+},
+{
+"wr": "autolesionista",
+"n": "1"
+},
+{
+"wr": "legittimo",
+"n": "1"
+},
+{
+"wr": "inefficiente",
+"n": "1"
+},
+{
+"wr": "deteriorato",
+"n": "1"
+},
+{
+"wr": "ucciso",
+"n": "1"
+},
+{
+"wr": "rivalutato",
+"n": "1"
+},
+{
+"wr": "accentuato",
+"n": "1"
+},
+{
+"wr": "impaziente",
+"n": "1"
+},
+{
+"wr": "paziente",
+"n": "1"
+},
+{
+"wr": "disintossicato",
+"n": "1"
+},
+{
+"wr": "deserto",
+"n": "1"
+},
+{
+"wr": "duro",
+"n": "4"
+},
+{
+"wr": "lascivo",
+"n": "1"
+},
+{
+"wr": "lavorato",
+"n": "1"
+},
+{
+"wr": "tradizionale",
+"n": "2"
+},
+{
+"wr": "decrepito",
+"n": "1"
+},
+{
+"wr": "beato",
+"n": "2"
+},
+{
+"wr": "savio",
+"n": "1"
+},
+{
+"wr": "intriso",
+"n": "1"
+},
+{
+"wr": "antimperialista",
+"n": "1"
+},
+{
+"wr": "furbo",
+"n": "1"
+},
+{
+"wr": "innocuo",
+"n": "1"
+},
+{
+"wr": "agile",
+"n": "2"
+},
+{
+"wr": "conciso",
+"n": "1"
+},
+{
+"wr": "turbato",
+"n": "1"
+},
+{
+"wr": "volontario",
+"n": "1"
+},
+{
+"wr": "temperante",
+"n": "1"
+},
+{
+"wr": "ingegnoso",
+"n": "1"
+},
+{
+"wr": "moderato",
+"n": "2"
+},
+{
+"wr": "responsabile",
+"n": "1"
+},
+{
+"wr": "gentile",
+"n": "2"
+},
+{
+"wr": "appetitoso",
+"n": "1"
+},
+{
+"wr": "insofferente",
+"n": "2"
+},
+{
+"wr": "imperfetto",
+"n": "2"
+},
+{
+"wr": "improbabile",
+"n": "1"
+},
+{
+"wr": "verticale",
+"n": "1"
+},
+{
+"wr": "sveglio",
+"n": "3"
+},
+{
+"wr": "inodore",
+"n": "1"
+},
+{
+"wr": "abbondante",
+"n": "2"
+},
+{
+"wr": "intenso",
+"n": "1"
+},
+{
+"wr": "benigno",
+"n": "3"
+},
+{
+"wr": "cordiale",
+"n": "1"
+},
+{
+"wr": "rischioso",
+"n": "1"
+},
+{
+"wr": "loquace",
+"n": "2"
+},
+{
+"wr": "piacevole",
+"n": "1"
+},
+{
+"wr": "cretino",
+"n": "1"
+},
+{
+"wr": "digiuno",
+"n": "1"
+},
+{
+"wr": "pigro",
+"n": "2"
+},
+{
+"wr": "fertilizzato",
+"n": "1"
+},
+{
+"wr": "compatibile",
+"n": "1"
+},
+{
+"wr": "irrigidito",
+"n": "1"
+},
+{
+"wr": "disperato",
+"n": "1"
+},
+{
+"wr": "immediato",
+"n": "1"
+},
+{
+"wr": "particolareggiato",
+"n": "1"
+},
+{
+"wr": "desto",
+"n": "1"
+},
+{
+"wr": "egoista",
+"n": "1"
+},
+{
+"wr": "taccagno",
+"n": "1"
+},
+{
+"wr": "spiritualista",
+"n": "1"
+},
+{
+"wr": "intransigente",
+"n": "1"
+},
+{
+"wr": "decaduto",
+"n": "2"
+},
+{
+"wr": "inagibile",
+"n": "1"
+},
+{
+"wr": "limitato",
+"n": "5"
+},
+{
+"wr": "impulsivo",
+"n": "1"
+},
+{
+"wr": "sacrilego",
+"n": "1"
+},
+{
+"wr": "impotente",
+"n": "2"
+},
+{
+"wr": "obeso",
+"n": "1"
+},
+{
+"wr": "sommesso",
+"n": "1"
+},
+{
+"wr": "inflessibile",
+"n": "1"
+},
+{
+"wr": "umano",
+"n": "1"
+},
+{
+"wr": "composto",
+"n": "2"
+},
+{
+"wr": "annoiato",
+"n": "1"
+},
+{
+"wr": "temporaneo",
+"n": "1"
+},
+{
+"wr": "multilaterale",
+"n": "1"
+},
+{
+"wr": "prosciolto",
+"n": "1"
+},
+{
+"wr": "lento",
+"n": "3"
+},
+{
+"wr": "esatto",
+"n": "2"
+},
+{
+"wr": "sfavorevole",
+"n": "1"
+},
+{
+"wr": "depresso",
+"n": "2"
+},
+{
+"wr": "immaturo",
+"n": "1"
+},
+{
+"wr": "svantaggioso",
+"n": "1"
+},
+{
+"wr": "integro",
+"n": "2"
+},
+{
+"wr": "spregiudicato",
+"n": "1"
+},
+{
+"wr": "caotico",
+"n": "1"
+},
+{
+"wr": "lieve",
+"n": "4"
+},
+{
+"wr": "equilibrato",
+"n": "1"
+},
+{
+"wr": "misero",
+"n": "3"
+},
+{
+"wr": "indelicato",
+"n": "1"
+},
+{
+"wr": "fisso",
+"n": "1"
+},
+{
+"wr": "armonioso",
+"n": "2"
+},
+{
+"wr": "paragonabile",
+"n": "1"
+},
+{
+"wr": "simile",
+"n": "1"
+},
+{
+"wr": "degenerato",
+"n": "1"
+},
+{
+"wr": "indolente",
+"n": "1"
+},
+{
+"wr": "individualista",
+"n": "1"
+},
+{
+"wr": "pratico",
+"n": "2"
+},
+{
+"wr": "calloso",
+"n": "1"
+},
+{
+"wr": "pronto",
+"n": "1"
+},
+{
+"wr": "sfrontato",
+"n": "1"
+},
+{
+"wr": "accessibile",
+"n": "3"
+},
+{
+"wr": "sfortunato",
+"n": "1"
+},
+{
+"wr": "indecoroso",
+"n": "1"
+},
+{
+"wr": "trasparente",
+"n": "2"
+},
+{
+"wr": "incapace",
+"n": "1"
+},
+{
+"wr": "eroico",
+"n": "1"
+},
+{
+"wr": "sadico",
+"n": "1"
+},
+{
+"wr": "giustificato",
+"n": "1"
+},
+{
+"wr": "parziale",
+"n": "2"
+},
+{
+"wr": "fiero",
+"n": "2"
+},
+{
+"wr": "plebeo",
+"n": "2"
+},
+{
+"wr": "schietto",
+"n": "1"
+},
+{
+"wr": "lieto",
+"n": "1"
+},
+{
+"wr": "frenato",
+"n": "2"
+},
+{
+"wr": "floscio",
+"n": "3"
+},
+{
+"wr": "contorto",
+"n": "2"
+},
+{
+"wr": "meticoloso",
+"n": "2"
+},
+{
+"wr": "inerte",
+"n": "1"
+},
+{
+"wr": "contemporaneo",
+"n": "1"
+},
+{
+"wr": "affettuoso",
+"n": "1"
+},
+{
+"wr": "intatto",
+"n": "1"
+},
+{
+"wr": "posteriore",
+"n": "1"
+},
+{
+"wr": "consueto",
+"n": "2"
+},
+{
+"wr": "dimagrito",
+"n": "1"
+},
+{
+"wr": "amichevole",
+"n": "1"
+},
+{
+"wr": "indignato",
+"n": "1"
+},
+{
+"wr": "discreto",
+"n": "1"
+},
+{
+"wr": "difficile",
+"n": "1"
+},
+{
+"wr": "prolisso",
+"n": "2"
+},
+{
+"wr": "diabolico",
+"n": "1"
+},
+{
+"wr": "curato",
+"n": "1"
+},
+{
+"wr": "notevole",
+"n": "2"
+},
+{
+"wr": "illogico",
+"n": "1"
+},
+{
+"wr": "autoritario",
+"n": "1"
+},
+{
+"wr": "irreversibile",
+"n": "1"
+},
+{
+"wr": "incommerciabile",
+"n": "1"
+},
+{
+"wr": "noioso",
+"n": "1"
+},
+{
+"wr": "nubile",
+"n": "1"
+},
+{
+"wr": "sollecito",
+"n": "2"
+},
+{
+"wr": "fiacco",
+"n": "2"
+},
+{
+"wr": "cristallino",
+"n": "2"
+},
+{
+"wr": "smussato",
+"n": "1"
+},
+{
+"wr": "sufficiente",
+"n": "1"
+},
+{
+"wr": "provvisorio",
+"n": "1"
+},
+{
+"wr": "automatico",
+"n": "2"
+},
+{
+"wr": "stupefatto",
+"n": "1"
+},
+{
+"wr": "pregevole",
+"n": "1"
+},
+{
+"wr": "malvagio",
+"n": "2"
+},
+{
+"wr": "riservato",
+"n": "1"
+},
+{
+"wr": "suggestionabile",
+"n": "1"
+},
+{
+"wr": "scortese",
+"n": "1"
+},
+{
+"wr": "indigente",
+"n": "1"
+},
+{
+"wr": "fermo",
+"n": "1"
+},
+{
+"wr": "sofferente",
+"n": "1"
+},
+{
+"wr": "sbalordito",
+"n": "1"
+},
+{
+"wr": "guerriero",
+"n": "1"
+},
+{
+"wr": "magnifico",
+"n": "1"
+},
+{
+"wr": "compiaciuto",
+"n": "1"
+},
+{
+"wr": "caratteristico",
+"n": "2"
+},
+{
+"wr": "depravato",
+"n": "1"
+},
+{
+"wr": "decentrato",
+"n": "1"
+},
+{
+"wr": "conclusivo",
+"n": "1"
+},
+{
+"wr": "enfatico",
+"n": "1"
+},
+{
+"wr": "nequitoso",
+"n": "1"
+},
+{
+"wr": "cattivo",
+"n": "2"
+},
+{
+"wr": "ninfomane",
+"n": "1"
+},
+{
+"wr": "fatale",
+"n": "2"
+},
+{
+"wr": "passato",
+"n": "2"
+},
+{
+"wr": "innocente",
+"n": "2"
+},
+{
+"wr": "plausibile",
+"n": "1"
+},
+{
+"wr": "centrale",
+"n": "1"
+},
+{
+"wr": "gonfio",
+"n": "3"
+},
+{
+"wr": "generale",
+"n": "1"
+},
+{
+"wr": "convinto",
+"n": "1"
+},
+{
+"wr": "ingordo",
+"n": "1"
+},
+{
+"wr": "confuso",
+"n": "3"
+},
+{
+"wr": "identico",
+"n": "1"
+},
+{
+"wr": "grosso",
+"n": "3"
+},
+{
+"wr": "deficiente",
+"n": "1"
+},
+{
+"wr": "notorio",
+"n": "1"
+},
+{
+"wr": "scontento",
+"n": "1"
+},
+{
+"wr": "riposato",
+"n": "1"
+},
+{
+"wr": "desideroso",
+"n": "1"
+},
+{
+"wr": "anarchico",
+"n": "2"
+},
+{
+"wr": "stupido",
+"n": "1"
+},
+{
+"wr": "appariscente",
+"n": "1"
+},
+{
+"wr": "insensibile",
+"n": "1"
+},
+{
+"wr": "solido",
+"n": "1"
+},
+{
+"wr": "inalterabile",
+"n": "1"
+},
+{
+"wr": "immobilizzato",
+"n": "1"
+},
+{
+"wr": "grande",
+"n": "4"
+},
+{
+"wr": "largo",
+"n": "2"
+},
+{
+"wr": "circospetto",
+"n": "1"
+},
+{
+"wr": "interessato",
+"n": "1"
+},
+{
+"wr": "assetato",
+"n": "2"
+},
+{
+"wr": "normale",
+"n": "1"
+},
+{
+"wr": "efficiente",
+"n": "1"
+},
+{
+"wr": "persistente",
+"n": "1"
+},
+{
+"wr": "completo",
+"n": "1"
+},
+{
+"wr": "inutile",
+"n": "1"
+},
+{
+"wr": "alterno",
+"n": "1"
+},
+{
+"wr": "virtuoso",
+"n": "2"
+},
+{
+"wr": "anteriore",
+"n": "1"
+},
+{
+"wr": "concreto",
+"n": "1"
+},
+{
+"wr": "coerente",
+"n": "1"
+},
+{
+"wr": "inevitabile",
+"n": "1"
+},
+{
+"wr": "brillante",
+"n": "3"
+},
+{
+"wr": "sinistro",
+"n": "1"
+},
+{
+"wr": "straordinario",
+"n": "2"
+},
+{
+"wr": "chiaroveggente",
+"n": "1"
+},
+{
+"wr": "scapolo",
+"n": "1"
+},
+{
+"wr": "antartico",
+"n": "1"
+},
+{
+"wr": "destalinizzato",
+"n": "1"
+},
+{
+"wr": "voluto",
+"n": "1"
+},
+{
+"wr": "carente",
+"n": "1"
+},
+{
+"wr": "esauriente",
+"n": "1"
+},
+{
+"wr": "tortuoso",
+"n": "1"
+},
+{
+"wr": "astioso",
+"n": "1"
+},
+{
+"wr": "inconciliabile",
+"n": "1"
+},
+{
+"wr": "prudente",
+"n": "1"
+},
+{
+"wr": "placido",
+"n": "2"
+},
+{
+"wr": "popolare",
+"n": "2"
+},
+{
+"wr": "strappato",
+"n": "1"
+},
+{
+"wr": "umido",
+"n": "1"
+},
+{
+"wr": "nullo",
+"n": "2"
+},
+{
+"wr": "contenuto",
+"n": "2"
+},
+{
+"wr": "animoso",
+"n": "1"
+},
+{
+"wr": "superficiale",
+"n": "1"
+},
+{
+"wr": "abietto",
+"n": "1"
+},
+{
+"wr": "audace",
+"n": "1"
+},
+{
+"wr": "appannato",
+"n": "1"
+},
+{
+"wr": "raro",
+"n": "4"
+},
+{
+"wr": "veritiero",
+"n": "2"
+},
+{
+"wr": "nefando",
+"n": "1"
+},
+{
+"wr": "florido",
+"n": "1"
+},
+{
+"wr": "abortivo",
+"n": "1"
+},
+{
+"wr": "sposato",
+"n": "1"
+},
+{
+"wr": "divorziato",
+"n": "1"
+},
+{
+"wr": "vorace",
+"n": "1"
+},
+{
+"wr": "misantropo",
+"n": "1"
+},
+{
+"wr": "strambo",
+"n": "1"
+},
+{
+"wr": "impudico",
+"n": "1"
+},
+{
+"wr": "invadente",
+"n": "1"
+},
+{
+"wr": "ozioso",
+"n": "1"
+},
+{
+"wr": "concitato",
+"n": "1"
+},
+{
+"wr": "costoso",
+"n": "1"
+},
+{
+"wr": "unto",
+"n": "1"
+},
+{
+"wr": "lordo",
+"n": "1"
+},
+{
+"wr": "scorso",
+"n": "1"
+},
+{
+"wr": "monotono",
+"n": "1"
+},
+{
+"wr": "applicabile",
+"n": "1"
+},
+{
+"wr": "libero",
+"n": "2"
+},
+{
+"wr": "cinico",
+"n": "1"
+},
+{
+"wr": "imprevidente",
+"n": "1"
+},
+{
+"wr": "prospero",
+"n": "1"
+},
+{
+"wr": "esanime",
+"n": "1"
+},
+{
+"wr": "tradizionalista",
+"n": "1"
+},
+{
+"wr": "tiranno",
+"n": "1"
+},
+{
+"wr": "ausiliare",
+"n": "1"
+},
+{
+"wr": "acquiescente",
+"n": "1"
+},
+{
+"wr": "spento",
+"n": "2"
+},
+{
+"wr": "stravagante",
+"n": "2"
+},
+{
+"wr": "bonario",
+"n": "1"
+},
+{
+"wr": "dimesso",
+"n": "1"
+},
+{
+"wr": "decorato",
+"n": "1"
+},
+{
+"wr": "impressionato",
+"n": "1"
+},
+{
+"wr": "tempestivo",
+"n": "1"
+},
+{
+"wr": "pieno",
+"n": "1"
+},
+{
+"wr": "svogliato",
+"n": "1"
+},
+{
+"wr": "bagnato",
+"n": "1"
+},
+{
+"wr": "perplesso",
+"n": "1"
+},
+{
+"wr": "esiguo",
+"n": "2"
+},
+{
+"wr": "vano",
+"n": "2"
+},
+{
+"wr": "sbagliato",
+"n": "1"
+},
+{
+"wr": "dispiaciuto",
+"n": "1"
+},
+{
+"wr": "credulo",
+"n": "1"
+},
+{
+"wr": "spiritoso",
+"n": "1"
+},
+{
+"wr": "debole",
+"n": "2"
+},
+{
+"wr": "autorizzato",
+"n": "1"
+},
+{
+"wr": "accessorio",
+"n": "1"
+},
+{
+"wr": "apprezzabile",
+"n": "2"
+},
+{
+"wr": "magro",
+"n": "2"
+},
+{
+"wr": "facondo",
+"n": "1"
+},
+{
+"wr": "storto",
+"n": "1"
+},
+{
+"wr": "offensivo",
+"n": "1"
+},
+{
+"wr": "balordo",
+"n": "3"
+},
+{
+"wr": "benedetto",
+"n": "1"
+},
+{
+"wr": "odiato",
+"n": "1"
+},
+{
+"wr": "grazioso",
+"n": "1"
+},
+{
+"wr": "repentino",
+"n": "1"
+},
+{
+"wr": "collerico",
+"n": "1"
+},
+{
+"wr": "logico",
+"n": "1"
+},
+{
+"wr": "dannoso",
+"n": "1"
+},
+{
+"wr": "cucinato",
+"n": "1"
+},
+{
+"wr": "cortese",
+"n": "1"
+},
+{
+"wr": "insonnolito",
+"n": "1"
+},
+{
+"wr": "curioso",
+"n": "2"
+},
+{
+"wr": "cristallizzato",
+"n": "1"
+},
+{
+"wr": "materialista",
+"n": "1"
+},
+{
+"wr": "imprevedibile",
+"n": "1"
+},
+{
+"wr": "impensabile",
+"n": "1"
+},
+{
+"wr": "diluito",
+"n": "1"
+},
+{
+"wr": "sincero",
+"n": "1"
+},
+{
+"wr": "assolto",
+"n": "2"
+},
+{
+"wr": "recente",
+"n": "1"
+},
+{
+"wr": "frastornato",
+"n": "1"
+},
+{
+"wr": "eterodosso",
+"n": "1"
+},
+{
+"wr": "arido",
+"n": "2"
+},
+{
+"wr": "vulnerabile",
+"n": "2"
+},
+{
+"wr": "vergognoso",
+"n": "2"
+},
+{
+"wr": "ordinario",
+"n": "2"
+},
+{
+"wr": "cosmopolita",
+"n": "1"
+},
+{
+"wr": "corrente",
+"n": "1"
+},
+{
+"wr": "infelice",
+"n": "1"
+},
+{
+"wr": "umidificato",
+"n": "1"
+},
+{
+"wr": "rivoluzionario",
+"n": "1"
+},
+{
+"wr": "saldo",
+"n": "2"
+},
+{
+"wr": "aderente",
+"n": "2"
+},
+{
+"wr": "acuto",
+"n": "4"
+},
+{
+"wr": "orribile",
+"n": "1"
+},
+{
+"wr": "triste",
+"n": "2"
+},
+{
+"wr": "ghiotto",
+"n": "1"
+},
+{
+"wr": "aggressivo",
+"n": "1"
+},
+{
+"wr": "grigliato",
+"n": "1"
+},
+{
+"wr": "venturo",
+"n": "1"
+},
+{
+"wr": "franco",
+"n": "2"
+},
+{
+"wr": "buono",
+"n": "4"
+},
+{
+"wr": "accademico",
+"n": "1"
+},
+{
+"wr": "sfollato",
+"n": "1"
+},
+{
+"wr": "demente",
+"n": "1"
+},
+{
+"wr": "spudorato",
+"n": "1"
+},
+{
+"wr": "rinunciabile",
+"n": "1"
+},
+{
+"wr": "devoto",
+"n": "2"
+},
+{
+"wr": "prevedibile",
+"n": "1"
+},
+{
+"wr": "basso",
+"n": "3"
+},
+{
+"wr": "ricorrente",
+"n": "1"
+},
+{
+"wr": "evidente",
+"n": "1"
+},
+{
+"wr": "disabitato",
+"n": "1"
+},
+{
+"wr": "ricercato",
+"n": "1"
+},
+{
+"wr": "settario",
+"n": "1"
+},
+{
+"wr": "rilevante",
+"n": "1"
+},
+{
+"wr": "prepotente",
+"n": "1"
+},
+{
+"wr": "sciatto",
+"n": "1"
+},
+{
+"wr": "atossico",
+"n": "1"
+},
+{
+"wr": "palese",
+"n": "1"
+},
+{
+"wr": "duttile",
+"n": "1"
+},
+{
+"wr": "distante",
+"n": "1"
+},
+{
+"wr": "nocivo",
+"n": "1"
+},
+{
+"wr": "obiettivo",
+"n": "1"
+},
+{
+"wr": "fazioso",
+"n": "1"
+},
+{
+"wr": "pesante",
+"n": "1"
+},
+{
+"wr": "disciplinato",
+"n": "2"
+},
+{
+"wr": "abusivo",
+"n": "1"
+},
+{
+"wr": "innovatore",
+"n": "1"
+},
+{
+"wr": "fastoso",
+"n": "1"
+},
+{
+"wr": "femminista",
+"n": "1"
+},
+{
+"wr": "paterno",
+"n": "1"
+},
+{
+"wr": "ingrato",
+"n": "2"
+},
+{
+"wr": "chiaro",
+"n": "3"
+},
+{
+"wr": "morbido",
+"n": "2"
+},
+{
+"wr": "antico",
+"n": "1"
+},
+{
+"wr": "comprensibile",
+"n": "1"
+},
+{
+"wr": "accettabile",
+"n": "1"
+},
+{
+"wr": "eccezionale",
+"n": "2"
+},
+{
+"wr": "anziano",
+"n": "1"
+},
+{
+"wr": "insoddisfatto",
+"n": "1"
+},
+{
+"wr": "perturbato",
+"n": "1"
+},
+{
+"wr": "interessante",
+"n": "1"
+},
+{
+"wr": "attaccabile",
+"n": "1"
+},
+{
+"wr": "innamorato",
+"n": "1"
+},
+{
+"wr": "stoico",
+"n": "1"
+},
+{
+"wr": "capace",
+"n": "3"
+},
+{
+"wr": "burocratico",
+"n": "1"
+},
+{
+"wr": "disgustoso",
+"n": "2"
+},
+{
+"wr": "stereo",
+"n": "1"
+},
+{
+"wr": "onesto",
+"n": "1"
+},
+{
+"wr": "coscienzioso",
+"n": "1"
+},
+{
+"wr": "infreddolito",
+"n": "1"
+},
+{
+"wr": "ruvido",
+"n": "3"
+},
+{
+"wr": "istintivo",
+"n": "3"
+},
+{
+"wr": "saggio",
+"n": "1"
+},
+{
+"wr": "armato",
+"n": "1"
+},
+{
+"wr": "luminoso",
+"n": "3"
+},
+{
+"wr": "radicale",
+"n": "2"
+},
+{
+"wr": "ampio",
+"n": "2"
+},
+{
+"wr": "sodo",
+"n": "1"
+},
+{
+"wr": "seguente",
+"n": "1"
+},
+{
+"wr": "rotto",
+"n": "1"
+},
+{
+"wr": "contraddittorio",
+"n": "1"
+},
+{
+"wr": "corretto",
+"n": "1"
+},
+{
+"wr": "frivolo",
+"n": "1"
+},
+{
+"wr": "leggibile",
+"n": "1"
+},
+{
+"wr": "garbato",
+"n": "2"
+},
+{
+"wr": "elevato",
+"n": "3"
+},
+{
+"wr": "conscio",
+"n": "1"
+},
+{
+"wr": "perenne",
+"n": "1"
+},
+{
+"wr": "fortuito",
+"n": "1"
+},
+{
+"wr": "ineluttabile",
+"n": "1"
+},
+{
+"wr": "razionale",
+"n": "1"
+},
+{
+"wr": "astronomico",
+"n": "1"
+},
+{
+"wr": "inquinato",
+"n": "1"
+},
+{
+"wr": "ingrassato",
+"n": "1"
+},
+{
+"wr": "analcolico",
+"n": "1"
+},
+{
+"wr": "imparziale",
+"n": "1"
+},
+{
+"wr": "semplice",
+"n": "3"
+},
+{
+"wr": "finito",
+"n": "2"
+},
+{
+"wr": "sterilizzato",
+"n": "2"
+},
+{
+"wr": "gaio",
+"n": "1"
+},
+{
+"wr": "condannato",
+"n": "1"
+},
+{
+"wr": "appropriato",
+"n": "1"
+},
+{
+"wr": "idealista",
+"n": "2"
+},
+{
+"wr": "giovane",
+"n": "1"
+},
+{
+"wr": "altero",
+"n": "1"
+},
+{
+"wr": "incauto",
+"n": "1"
+},
+{
+"wr": "corpulento",
+"n": "1"
+},
+{
+"wr": "manuale",
+"n": "2"
+},
+{
+"wr": "uterino",
+"n": "1"
+},
+{
+"wr": "incredulo",
+"n": "1"
+},
+{
+"wr": "caro",
+"n": "2"
+},
+{
+"wr": "ingiusto",
+"n": "1"
+},
+{
+"wr": "incrostato",
+"n": "1"
+},
+{
+"wr": "incivile",
+"n": "1"
+},
+{
+"wr": "eccitato",
+"n": "1"
+},
+{
+"wr": "sereno",
+"n": "2"
+},
+{
+"wr": "stufo",
+"n": "1"
+},
+{
+"wr": "indefinito",
+"n": "1"
+},
+{
+"wr": "pulito",
+"n": "1"
+},
+{
+"wr": "intento",
+"n": "1"
+},
+{
+"wr": "economico",
+"n": "1"
+},
+{
+"wr": "spaccato",
+"n": "3"
+},
+{
+"wr": "grigio",
+"n": "1"
+},
+{
+"wr": "conciliante",
+"n": "1"
+},
+{
+"wr": "scabro",
+"n": "2"
+},
+{
+"wr": "occasionale",
+"n": "1"
+},
+{
+"wr": "ellittico",
+"n": "1"
+},
+{
+"wr": "cotto",
+"n": "1"
+},
+{
+"wr": "gradevole",
+"n": "1"
+},
+{
+"wr": "allagato",
+"n": "1"
+},
+{
+"wr": "solenne",
+"n": "1"
+},
+{
+"wr": "monofonico",
+"n": "1"
+},
+{
+"wr": "terminale",
+"n": "1"
+},
+{
+"wr": "libertino",
+"n": "1"
+},
+{
+"wr": "retroattivo",
+"n": "1"
+},
+{
+"wr": "acido",
+"n": "3"
+},
+{
+"wr": "svalutato",
+"n": "1"
+},
+{
+"wr": "laconico",
+"n": "1"
+},
+{
+"wr": "impregnato",
+"n": "1"
+},
+{
+"wr": "farcito",
+"n": "1"
+},
+{
+"wr": "complicato",
+"n": "1"
+},
+{
+"wr": "stolido",
+"n": "1"
+},
+{
+"wr": "alcolico",
+"n": "1"
+},
+{
+"wr": "idiota",
+"n": "1"
+},
+{
+"wr": "rivitalizzato",
+"n": "1"
+},
+{
+"wr": "irregolare",
+"n": "1"
+},
+{
+"wr": "riprovevole",
+"n": "1"
+},
+{
+"wr": "concentrato",
+"n": "1"
+},
+{
+"wr": "afflitto",
+"n": "1"
+},
+{
+"wr": "apprensivo",
+"n": "1"
+},
+{
+"wr": "anticattolico",
+"n": "1"
+},
+{
+"wr": "ammalato",
+"n": "1"
+},
+{
+"wr": "sciupato",
+"n": "1"
+},
+{
+"wr": "esperto",
+"n": "1"
+},
+{
+"wr": "risolto",
+"n": "1"
+},
+{
+"wr": "frequente",
+"n": "1"
+},
+{
+"wr": "veridico",
+"n": "1"
+},
+{
+"wr": "frammentario",
+"n": "1"
+},
+{
+"wr": "arduo",
+"n": "1"
+},
+{
+"wr": "netto",
+"n": "2"
+},
+{
+"wr": "agguerrito",
+"n": "1"
+},
+{
+"wr": "falso",
+"n": "2"
+},
+{
+"wr": "vago",
+"n": "1"
+},
+{
+"wr": "buio",
+"n": "2"
+},
+{
+"wr": "iperproteico",
+"n": "1"
+},
+{
+"wr": "fedele",
+"n": "1"
+},
+{
+"wr": "vendibile",
+"n": "1"
+},
+{
+"wr": "grossolano",
+"n": "4"
+},
+{
+"wr": "intrattabile",
+"n": "1"
+},
+{
+"wr": "casto",
+"n": "2"
+},
+{
+"wr": "importante",
+"n": "2"
+},
+{
+"wr": "faticoso",
+"n": "1"
+},
+{
+"wr": "alterato",
+"n": "3"
+},
+{
+"wr": "unilaterale",
+"n": "1"
+},
+{
+"wr": "amato",
+"n": "1"
+},
+{
+"wr": "centralizzato",
+"n": "1"
+},
+{
+"wr": "veloce",
+"n": "3"
+},
+{
+"wr": "ebete",
+"n": "1"
+},
+{
+"wr": "imbecille",
+"n": "1"
+},
+{
+"wr": "sciolto",
+"n": "2"
+},
+{
+"wr": "conciliabile",
+"n": "1"
+},
+{
+"wr": "futile",
+"n": "1"
+},
+{
+"wr": "timoroso",
+"n": "1"
+},
+{
+"wr": "deceduto",
+"n": "1"
+},
+{
+"wr": "piccolo",
+"n": "5"
+},
+{
+"wr": "accogliente",
+"n": "2"
+},
+{
+"wr": "autorevole",
+"n": "1"
+},
+{
+"wr": "maschio",
+"n": "2"
+},
+{
+"wr": "vario",
+"n": "2"
+},
+{
+"wr": "artificioso",
+"n": "1"
+},
+{
+"wr": "depurato",
+"n": "1"
+},
+{
+"wr": "inospitale",
+"n": "1"
+},
+{
+"wr": "abitato",
+"n": "1"
+},
+{
+"wr": "acerbo",
+"n": "1"
+},
+{
+"wr": "perspicace",
+"n": "1"
+},
+{
+"wr": "profumato",
+"n": "2"
+},
+{
+"wr": "stabile",
+"n": "2"
+},
+{
+"wr": "incongruente",
+"n": "1"
+},
+{
+"wr": "scontroso",
+"n": "1"
+},
+{
+"wr": "fine",
+"n": "6"
+},
+{
+"wr": "antiabortivo",
+"n": "1"
+},
+{
+"wr": "fosco",
+"n": "1"
+},
+{
+"wr": "impassibile",
+"n": "1"
+},
+{
+"wr": "colonizzato",
+"n": "1"
+},
+{
+"wr": "antiquato",
+"n": "1"
+},
+{
+"wr": "odoroso",
+"n": "1"
+},
+{
+"wr": "maligno",
+"n": "2"
+},
+{
+"wr": "detestabile",
+"n": "1"
+},
+{
+"wr": "multiplo",
+"n": "1"
+},
+{
+"wr": "conosciuto",
+"n": "1"
+},
+{
+"wr": "impietoso",
+"n": "1"
+},
+{
+"wr": "otturato",
+"n": "1"
+},
+{
+"wr": "partigiano",
+"n": "1"
+},
+{
+"wr": "evoluto",
+"n": "1"
+},
+{
+"wr": "individuale",
+"n": "2"
+},
+{
+"wr": "vergine",
+"n": "1"
+},
+{
+"wr": "purificato",
+"n": "1"
+},
+{
+"wr": "generoso",
+"n": "2"
+},
+{
+"wr": "fiorente",
+"n": "1"
+},
+{
+"wr": "finale",
+"n": "1"
+},
+{
+"wr": "vitale",
+"n": "2"
+},
+{
+"wr": "garantito",
+"n": "1"
+},
+{
+"wr": "inerme",
+"n": "1"
+},
+{
+"wr": "leale",
+"n": "2"
+},
+{
+"wr": "effimero",
+"n": "1"
+},
+{
+"wr": "nitido",
+"n": "4"
+},
+{
+"wr": "fesso",
+"n": "2"
+},
+{
+"wr": "rovinato",
+"n": "1"
+},
+{
+"wr": "irresponsabile",
+"n": "1"
+},
+{
+"wr": "imprudente",
+"n": "1"
+},
+{
+"wr": "alterabile",
+"n": "2"
+},
+{
+"wr": "spietato",
+"n": "1"
+},
+{
+"wr": "perverso",
+"n": "1"
+},
+{
+"wr": "terrestre",
+"n": "1"
+},
+{
+"wr": "inadeguato",
+"n": "1"
+},
+{
+"wr": "imbottito",
+"n": "1"
+},
+{
+"wr": "irrequieto",
+"n": "1"
+},
+{
+"wr": "clemente",
+"n": "2"
+},
+{
+"wr": "ragionevole",
+"n": "2"
+},
+{
+"wr": "pazzo",
+"n": "1"
+},
+{
+"wr": "morto",
+"n": "1"
+},
+{
+"wr": "socievole",
+"n": "1"
+},
+{
+"wr": "sottile",
+"n": "3"
+},
+{
+"wr": "pallido",
+"n": "3"
+},
+{
+"wr": "leggiadro",
+"n": "1"
+},
+{
+"wr": "prezioso",
+"n": "2"
+},
+{
+"wr": "inopportuno",
+"n": "1"
+},
+{
+"wr": "sonoro",
+"n": "2"
+},
+{
+"wr": "ottuso",
+"n": "1"
+},
+{
+"wr": "delicato",
+"n": "4"
+},
+{
+"wr": "eguale",
+"n": "1"
+},
+{
+"wr": "durevole",
+"n": "1"
+},
+{
+"wr": "puro",
+"n": "3"
+},
+{
+"wr": "coniugato",
+"n": "1"
+},
+{
+"wr": "superbo",
+"n": "1"
+},
+{
+"wr": "regolare",
+"n": "2"
+},
+{
+"wr": "illustre",
+"n": "1"
+},
+{
+"wr": "preistorico",
+"n": "1"
+},
+{
+"wr": "affamato",
+"n": "2"
+},
+{
+"wr": "irritato",
+"n": "1"
+},
+{
+"wr": "fortunato",
+"n": "2"
+},
+{
+"wr": "funzionante",
+"n": "1"
+},
+{
+"wr": "flessibile",
+"n": "1"
+},
+{
+"wr": "evitabile",
+"n": "1"
+},
+{
+"wr": "incantevole",
+"n": "1"
+},
+{
+"wr": "spigliato",
+"n": "1"
+},
+{
+"wr": "reazionario",
+"n": "1"
+},
+{
+"wr": "disarmonico",
+"n": "1"
+},
+{
+"wr": "addormentato",
+"n": "1"
+},
+{
+"wr": "compassionevole",
+"n": "1"
+},
+{
+"wr": "felice",
+"n": "2"
+},
+{
+"wr": "asettico",
+"n": "2"
+},
+{
+"wr": "isterico",
+"n": "1"
+},
+{
+"wr": "incostante",
+"n": "1"
+},
+{
+"wr": "pacato",
+"n": "2"
+},
+{
+"wr": "consapevole",
+"n": "1"
+},
+{
+"wr": "livellato",
+"n": "1"
+},
+{
+"wr": "vischioso",
+"n": "1"
+},
+{
+"wr": "uniforme",
+"n": "2"
+},
+{
+"wr": "risoluto",
+"n": "1"
+},
+{
+"wr": "attento",
+"n": "1"
+},
+{
+"wr": "tempista",
+"n": "1"
+},
+{
+"wr": "eretico",
+"n": "1"
+},
+{
+"wr": "disuguale",
+"n": "3"
+},
+{
+"wr": "spavaldo",
+"n": "1"
+},
+{
+"wr": "diretto",
+"n": "1"
+},
+{
+"wr": "orizzontale",
+"n": "1"
+},
+{
+"wr": "amplificato",
+"n": "2"
+},
+{
+"wr": "meraviglioso",
+"n": "1"
+},
+{
+"wr": "affetto",
+"n": "1"
+},
+{
+"wr": "dissetato",
+"n": "1"
+},
+{
+"wr": "emotivo",
+"n": "1"
+},
+{
+"wr": "elegante",
+"n": "2"
+},
+{
+"wr": "commerciabile",
+"n": "1"
+},
+{
+"wr": "cieco",
+"n": "3"
+},
+{
+"wr": "inanimato",
+"n": "1"
+},
+{
+"wr": "decentralizzato",
+"n": "1"
+},
+{
+"wr": "immunodepresso",
+"n": "1"
+},
+{
+"wr": "lacerato",
+"n": "1"
+},
+{
+"wr": "presente",
+"n": "1"
+},
+{
+"wr": "accondiscendente",
+"n": "1"
+},
+{
+"wr": "diritto",
+"n": "1"
+},
+{
+"wr": "teso",
+"n": "2"
+},
+{
+"wr": "innavigabile",
+"n": "1"
+},
+{
+"wr": "statico",
+"n": "1"
+},
+{
+"wr": "scomodo",
+"n": "1"
+},
+{
+"wr": "fallito",
+"n": "2"
+},
+{
+"wr": "passeggero",
+"n": "1"
+},
+{
+"wr": "disagevole",
+"n": "1"
+},
+{
+"wr": "rado",
+"n": "2"
+},
+{
+"wr": "imbarazzato",
+"n": "1"
+},
+{
+"wr": "fanatico",
+"n": "1"
+},
+{
+"wr": "bravo",
+"n": "2"
+},
+{
+"wr": "certo",
+"n": "2"
+},
+{
+"wr": "incontinente",
+"n": "1"
+},
+{
+"wr": "roseo",
+"n": "1"
+},
+{
+"wr": "rigido",
+"n": "2"
+},
+{
+"wr": "elettrico",
+"n": "1"
+},
+{
+"wr": "vantaggioso",
+"n": "1"
+},
+{
+"wr": "tirchio",
+"n": "1"
+},
+{
+"wr": "pacifico",
+"n": "2"
+},
+{
+"wr": "influenzato",
+"n": "2"
+},
+{
+"wr": "centenario",
+"n": "2"
+},
+{
+"wr": "soffice",
+"n": "1"
+},
+{
+"wr": "vistoso",
+"n": "1"
+},
+{
+"wr": "indeterminato",
+"n": "1"
+},
+{
+"wr": "approssimativo",
+"n": "1"
+},
+{
+"wr": "imperialista",
+"n": "1"
+},
+{
+"wr": "scellerato",
+"n": "1"
+},
+{
+"wr": "mobile",
+"n": "3"
+},
+{
+"wr": "deodorato",
+"n": "1"
+},
+{
+"wr": "immenso",
+"n": "2"
+},
+{
+"wr": "sprovveduto",
+"n": "2"
+},
+{
+"wr": "assonnato",
+"n": "1"
+},
+{
+"wr": "potente",
+"n": "4"
+},
+{
+"wr": "prossimo",
+"n": "1"
+},
+{
+"wr": "contraffatto",
+"n": "1"
+},
+{
+"wr": "inerente",
+"n": "1"
+},
+{
+"wr": "mediocre",
+"n": "1"
+},
+{
+"wr": "inquieto",
+"n": "1"
+},
+{
+"wr": "liscio",
+"n": "1"
+},
+{
+"wr": "artico",
+"n": "1"
+},
+{
+"wr": "condensato",
+"n": "1"
+},
+{
+"wr": "intollerante",
+"n": "1"
+},
+{
+"wr": "doppio",
+"n": "2"
+},
+{
+"wr": "consistente",
+"n": "2"
+},
+{
+"wr": "calmo",
+"n": "3"
+},
+{
+"wr": "verboso",
+"n": "1"
+},
+{
+"wr": "maschile",
+"n": "1"
+},
+{
+"wr": "divertito",
+"n": "1"
+},
+{
+"wr": "conformista",
+"n": "1"
+},
+{
+"wr": "colpevole",
+"n": "1"
+},
+{
+"wr": "sensibile",
+"n": "1"
+},
+{
+"wr": "acre",
+"n": "2"
+},
+{
+"wr": "colto",
+"n": "1"
+},
+{
+"wr": "squallido",
+"n": "1"
+},
+{
+"wr": "sgradevole",
+"n": "3"
+},
+{
+"wr": "nascosto",
+"n": "1"
+},
+{
+"wr": "fitto",
+"n": "1"
+},
+{
+"wr": "aristocratico",
+"n": "2"
+},
+{
+"wr": "contingente",
+"n": "1"
+},
+{
+"wr": "intraprendente",
+"n": "1"
+},
+{
+"wr": "tonto",
+"n": "1"
+},
+{
+"wr": "disteso",
+"n": "3"
+},
+{
+"wr": "rozzo",
+"n": "3"
+},
+{
+"wr": "transitorio",
+"n": "1"
+},
+{
+"wr": "odioso",
+"n": "1"
+},
+{
+"wr": "infedele",
+"n": "1"
+},
+{
+"wr": "verace",
+"n": "2"
+},
+{
+"wr": "sorpreso",
+"n": "1"
+}
+]

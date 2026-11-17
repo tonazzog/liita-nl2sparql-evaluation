@@ -1,0 +1,242 @@
+[
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "219"
+},
+{
+"a": "http://w3id.org/elita/Fiducia",
+"b": "http://w3id.org/elita/Gioia",
+"n": "502"
+},
+{
+"a": "http://w3id.org/elita/Dominanza",
+"b": "http://w3id.org/elita/Paura",
+"n": "7"
+},
+{
+"a": "http://w3id.org/elita/Gioia",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "35"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Gioia",
+"n": "745"
+},
+{
+"a": "http://w3id.org/elita/Fiducia",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "214"
+},
+{
+"a": "http://w3id.org/elita/Gioia",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "57"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Paura",
+"n": "63"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Disgusto",
+"n": "15"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "30"
+},
+{
+"a": "http://w3id.org/elita/Fiducia",
+"b": "http://w3id.org/elita/Paura",
+"n": "75"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Disgusto",
+"n": "8"
+},
+{
+"a": "http://w3id.org/elita/Sorpresa",
+"b": "http://w3id.org/elita/Valenza",
+"n": "3"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Gioia",
+"n": "11"
+},
+{
+"a": "http://w3id.org/elita/Paura",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "444"
+},
+{
+"a": "http://w3id.org/elita/Gioia",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "381"
+},
+{
+"a": "http://w3id.org/elita/Rabbia",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "74"
+},
+{
+"a": "http://w3id.org/elita/Dominanza",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "2"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Dominanza",
+"n": "1"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "297"
+},
+{
+"a": "http://w3id.org/elita/Paura",
+"b": "http://w3id.org/elita/Valenza",
+"n": "30"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Gioia",
+"n": "693"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Fiducia",
+"n": "7"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "413"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Paura",
+"n": "155"
+},
+{
+"a": "http://w3id.org/elita/Paura",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "419"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Dominanza",
+"n": "5"
+},
+{
+"a": "http://w3id.org/elita/Sorpresa",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "69"
+},
+{
+"a": "http://w3id.org/elita/Dominanza",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "6"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Fiducia",
+"n": "599"
+},
+{
+"a": "http://w3id.org/elita/Rabbia",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "438"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Aspettativa",
+"n": "628"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "75"
+},
+{
+"a": "http://w3id.org/elita/Dominanza",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "7"
+},
+{
+"a": "http://w3id.org/elita/Rabbia",
+"b": "http://w3id.org/elita/Valenza",
+"n": "32"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "41"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "298"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Fiducia",
+"n": "612"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Paura",
+"n": "233"
+},
+{
+"a": "http://w3id.org/elita/Fiducia",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "37"
+},
+{
+"a": "http://w3id.org/elita/Dominanza",
+"b": "http://w3id.org/elita/Valenza",
+"n": "3"
+},
+{
+"a": "http://w3id.org/elita/Fiducia",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "31"
+},
+{
+"a": "http://w3id.org/elita/Paura",
+"b": "http://w3id.org/elita/Sorpresa",
+"n": "146"
+},
+{
+"a": "http://w3id.org/elita/Amore",
+"b": "http://w3id.org/elita/Rabbia",
+"n": "32"
+},
+{
+"a": "http://w3id.org/elita/Disgusto",
+"b": "http://w3id.org/elita/Valenza",
+"n": "30"
+},
+{
+"a": "http://w3id.org/elita/Aspettativa",
+"b": "http://w3id.org/elita/Tristezza",
+"n": "79"
+},
+{
+"a": "http://w3id.org/elita/Gioia",
+"b": "http://w3id.org/elita/Paura",
+"n": "76"
+},
+{
+"a": "http://w3id.org/elita/Tristezza",
+"b": "http://w3id.org/elita/Valenza",
+"n": "32"
+}
+]

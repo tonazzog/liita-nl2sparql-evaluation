@@ -1,0 +1,630 @@
+[
+{
+"type": "http://simpleOntology#A23-SocialProperty",
+"n": "553"
+},
+{
+"type": "http://simpleOntology#5721-People",
+"n": "1137"
+},
+{
+"type": "http://simpleOntology#62-Psych_property",
+"n": "624"
+},
+{
+"type": "http://simpleOntology#94-Act",
+"n": "335"
+},
+{
+"type": "http://simpleOntology#972-Cause_Change_Location",
+"n": "179"
+},
+{
+"type": "http://simpleOntology#942-Relational_Act",
+"n": "1236"
+},
+{
+"type": "http://simpleOntology#9621-Transaction",
+"n": "119"
+},
+{
+"type": "http://simpleOntology#9322-Constitutive_State",
+"n": "35"
+},
+{
+"type": "http://simpleOntology#943-Move",
+"n": "371"
+},
+{
+"type": "http://simpleOntology#516-Artifactual_area",
+"n": "173"
+},
+{
+"type": "http://simpleOntology#962-Change_of_Possession",
+"n": "105"
+},
+{
+"type": "http://simpleOntology#541-Artifact_Food",
+"n": "365"
+},
+{
+"type": "http://simpleOntology#5723-Profession",
+"n": "3372"
+},
+{
+"type": "http://simpleOntology#953-Perception",
+"n": "206"
+},
+{
+"type": "http://simpleOntology#9422-Purpose_Act",
+"n": "2083"
+},
+{
+"type": "http://simpleOntology#535-Instrument",
+"n": "2358"
+},
+{
+"type": "http://simpleOntology#9421-Cooperative_Activity",
+"n": "106"
+},
+{
+"type": "http://simpleOntology#57221-Ideo",
+"n": "734"
+},
+{
+"type": "http://simpleOntology#912-Disease",
+"n": "1413"
+},
+{
+"type": "http://simpleOntology#941-Non_Relational_Act",
+"n": "360"
+},
+{
+"type": "http://simpleOntology#5724-Agent_of_temporary_activity",
+"n": "2234"
+},
+{
+"type": "http://simpleOntology#A16-ObjectRelated",
+"n": "365"
+},
+{
+"type": "http://simpleOntology#A22-PsychologicalProperty",
+"n": "1363"
+},
+{
+"type": "http://simpleOntology#591-Artifactual_drink",
+"n": "119"
+},
+{
+"type": "http://simpleOntology#9441-Speech_Act",
+"n": "163"
+},
+{
+"type": "http://simpleOntology#952-Experience_Event",
+"n": "529"
+},
+{
+"type": "http://simpleOntology#9613-Change_of_Value",
+"n": "66"
+},
+{
+"type": "http://simpleOntology#58-Substance",
+"n": "763"
+},
+{
+"type": "http://simpleOntology#572-Human",
+"n": "3754"
+},
+{
+"type": "http://simpleOntology#963-Change_of_Location",
+"n": "161"
+},
+{
+"type": "http://simpleOntology#921-Cause_Aspectual",
+"n": "66"
+},
+{
+"type": "http://simpleOntology#51-Location",
+"n": "206"
+},
+{
+"type": "http://simpleOntology#531-Furniture",
+"n": "169"
+},
+{
+"type": "http://simpleOntology#41-Part",
+"n": "1305"
+},
+{
+"type": "http://simpleOntology#71-Domain",
+"n": "1200"
+},
+{
+"type": "http://simpleOntology#86-Metalanguage",
+"n": "261"
+},
+{
+"type": "http://simpleOntology#A26-RelationalProperty",
+"n": "114"
+},
+{
+"type": "http://simpleOntology#5713-Water_animal",
+"n": "162"
+},
+{
+"type": "http://simpleOntology#974-Creation",
+"n": "34"
+},
+{
+"type": "http://simpleOntology#9712-Cause_Change_of_State",
+"n": "1271"
+},
+{
+"type": "http://simpleOntology#5722-Role",
+"n": "122"
+},
+{
+"type": "http://simpleOntology#94412-Reporting_Event",
+"n": "77"
+},
+{
+"type": "http://simpleOntology#A21-PhysicalProperty",
+"n": "832"
+},
+{
+"type": "http://simpleOntology#61-Quality",
+"n": "1315"
+},
+{
+"type": "http://simpleOntology#515-Building",
+"n": "602"
+},
+{
+"type": "http://simpleOntology#6-Property",
+"n": "252"
+},
+{
+"type": "http://simpleOntology#537-Vehicle",
+"n": "359"
+},
+{
+"type": "http://simpleOntology#A12-Temporal",
+"n": "27"
+},
+{
+"type": "http://simpleOntology#913-Stimulus",
+"n": "91"
+},
+{
+"type": "http://simpleOntology#538-Semiotic_artifact",
+"n": "343"
+},
+{
+"type": "http://simpleOntology#83-Information",
+"n": "365"
+},
+{
+"type": "http://simpleOntology#5725-Agent_of_persistent_activity",
+"n": "553"
+},
+{
+"type": "http://simpleOntology#7-Abstract_entity",
+"n": "185"
+},
+{
+"type": "http://simpleOntology#74-Cognitive_Fact",
+"n": "78"
+},
+{
+"type": "http://simpleOntology#954-Modal_Event",
+"n": "96"
+},
+{
+"type": "http://simpleOntology#9-Event",
+"n": "378"
+},
+{
+"type": "http://simpleOntology#94415-Expressive_Speech_Act",
+"n": "151"
+},
+{
+"type": "http://simpleOntology#55-Physical_entity",
+"n": "76"
+},
+{
+"type": "http://simpleOntology#95-Psychological_Event",
+"n": "273"
+},
+{
+"type": "http://simpleOntology#91-Phenomenon",
+"n": "698"
+},
+{
+"type": "http://simpleOntology#512-Geopolitical_location",
+"n": "384"
+},
+{
+"type": "http://simpleOntology#944-Cause_Act",
+"n": "99"
+},
+{
+"type": "http://simpleOntology#81-Language",
+"n": "224"
+},
+{
+"type": "http://simpleOntology#53-Artifact",
+"n": "97"
+},
+{
+"type": "http://simpleOntology#4-Constitutive",
+"n": "416"
+},
+{
+"type": "http://simpleOntology#75-Movement_of_thought",
+"n": "683"
+},
+{
+"type": "http://simpleOntology#5732-Flower",
+"n": "49"
+},
+{
+"type": "http://simpleOntology#5731-Plant",
+"n": "481"
+},
+{
+"type": "http://simpleOntology#A11-Modal",
+"n": "187"
+},
+{
+"type": "http://simpleOntology#951-Cognitive_Event",
+"n": "249"
+},
+{
+"type": "http://simpleOntology#9741-Physical_Creation",
+"n": "74"
+},
+{
+"type": "http://simpleOntology#93-State",
+"n": "547"
+},
+{
+"type": "http://simpleOntology#5726-Patient_of_Event",
+"n": "223"
+},
+{
+"type": "http://simpleOntology#421-Human_group",
+"n": "436"
+},
+{
+"type": "http://simpleOntology#911-Weather_verb",
+"n": "19"
+},
+{
+"type": "http://simpleOntology#94414-Directive_Speech_Act",
+"n": "77"
+},
+{
+"type": "http://simpleOntology#1-Entity",
+"n": "57"
+},
+{
+"type": "http://simpleOntology#9711-Cause_Constitutive_Change",
+"n": "279"
+},
+{
+"type": "http://simpleOntology#77-Convention",
+"n": "237"
+},
+{
+"type": "http://simpleOntology#9612-Change_of_State",
+"n": "612"
+},
+{
+"type": "http://simpleOntology#9744-Copy_Creation",
+"n": "43"
+},
+{
+"type": "http://simpleOntology#2-Telic",
+"n": "181"
+},
+{
+"type": "http://simpleOntology#52-Material",
+"n": "27"
+},
+{
+"type": "http://simpleOntology#82-Sign",
+"n": "122"
+},
+{
+"type": "http://simpleOntology#9431-Cause_Motion",
+"n": "86"
+},
+{
+"type": "http://simpleOntology#532-Clothing",
+"n": "341"
+},
+{
+"type": "http://simpleOntology#513-Area",
+"n": "127"
+},
+{
+"type": "http://simpleOntology#411-Body_part",
+"n": "565"
+},
+{
+"type": "http://simpleOntology#965-Acquire_Knowledge",
+"n": "47"
+},
+{
+"type": "http://simpleOntology#97-Cause_Change",
+"n": "244"
+},
+{
+"type": "http://simpleOntology#573-Vegetal_entity",
+"n": "104"
+},
+{
+"type": "http://simpleOntology#511-3_D_location",
+"n": "105"
+},
+{
+"type": "http://simpleOntology#539-Artifactual_material",
+"n": "269"
+},
+{
+"type": "http://simpleOntology#8-Representation",
+"n": "258"
+},
+{
+"type": "http://simpleOntology#96-Change",
+"n": "116"
+},
+{
+"type": "http://simpleOntology#581-Natural_substance",
+"n": "537"
+},
+{
+"type": "http://simpleOntology#9743-Symbolic_Creation",
+"n": "239"
+},
+{
+"type": "http://simpleOntology#9742-Mental_Creation",
+"n": "87"
+},
+{
+"type": "http://simpleOntology#971-Cause_Relational_Change",
+"n": "119"
+},
+{
+"type": "http://simpleOntology#9321-Identificational_State",
+"n": "63"
+},
+{
+"type": "http://simpleOntology#9713-Cause_Change_of_Value",
+"n": "106"
+},
+{
+"type": "http://simpleOntology#533-Container",
+"n": "347"
+},
+{
+"type": "http://simpleOntology#94411-Cooperative_Speech_Act",
+"n": "71"
+},
+{
+"type": "http://simpleOntology#574-Micro-organism",
+"n": "105"
+},
+{
+"type": "http://simpleOntology#5733-Fruit",
+"n": "69"
+},
+{
+"type": "http://simpleOntology#A24-TemporalProperty",
+"n": "110"
+},
+{
+"type": "http://simpleOntology#9521-Cause_Experience_Event",
+"n": "254"
+},
+{
+"type": "http://simpleOntology#632-Color",
+"n": "119"
+},
+{
+"type": "http://simpleOntology#76-Institution",
+"n": "142"
+},
+{
+"type": "http://simpleOntology#961-Relational_Change",
+"n": "36"
+},
+{
+"type": "http://simpleOntology#A25-IntensifyingProperty",
+"n": "64"
+},
+{
+"type": "http://simpleOntology#932-Relational_State",
+"n": "88"
+},
+{
+"type": "http://simpleOntology#5734-Vegetable",
+"n": "68"
+},
+{
+"type": "http://simpleOntology#57223-Social_status",
+"n": "307"
+},
+{
+"type": "http://simpleOntology#42-Group",
+"n": "461"
+},
+{
+"type": "http://simpleOntology#5711-Earth_animal",
+"n": "362"
+},
+{
+"type": "http://simpleOntology#582-Substance_food",
+"n": "143"
+},
+{
+"type": "http://simpleOntology#5712-Air_animal",
+"n": "237"
+},
+{
+"type": "http://simpleOntology#56-Organic_entity",
+"n": "29"
+},
+{
+"type": "http://simpleOntology#57222-Kinship",
+"n": "143"
+},
+{
+"type": "http://simpleOntology#72-Time",
+"n": "293"
+},
+{
+"type": "http://simpleOntology#5-Concrete_entity",
+"n": "103"
+},
+{
+"type": "http://simpleOntology#931-Exist",
+"n": "22"
+},
+{
+"type": "http://simpleOntology#514-Opening",
+"n": "104"
+},
+{
+"type": "http://simpleOntology#9324-Stative_Possession",
+"n": "15"
+},
+{
+"type": "http://simpleOntology#534-Artwork",
+"n": "142"
+},
+{
+"type": "http://simpleOntology#973-Cause_Natural_Transition",
+"n": "42"
+},
+{
+"type": "http://simpleOntology#536-Money",
+"n": "60"
+},
+{
+"type": "http://simpleOntology#9511-Judgement",
+"n": "28"
+},
+{
+"type": "http://simpleOntology#85-Unit_of_measurement",
+"n": "118"
+},
+{
+"type": "http://simpleOntology#9323-Stative_Location",
+"n": "92"
+},
+{
+"type": "http://simpleOntology#571-Animal",
+"n": "157"
+},
+{
+"type": "http://simpleOntology#43-Amount",
+"n": "317"
+},
+{
+"type": "http://simpleOntology#975-Give_Knowledge",
+"n": "96"
+},
+{
+"type": "http://simpleOntology#73-Moral_standard",
+"n": "63"
+},
+{
+"type": "http://simpleOntology#542-Flavouring",
+"n": "33"
+},
+{
+"type": "http://simpleOntology#63-Physical_property",
+"n": "239"
+},
+{
+"type": "http://simpleOntology#A15-Emphasizer",
+"n": "14"
+},
+{
+"type": "http://simpleOntology#54-Food",
+"n": "61"
+},
+{
+"type": "http://simpleOntology#633-Shape",
+"n": "77"
+},
+{
+"type": "http://simpleOntology#84-Number",
+"n": "126"
+},
+{
+"type": "http://simpleOntology#78-Abstract_Location",
+"n": "34"
+},
+{
+"type": "http://simpleOntology#964-Natural_Transition",
+"n": "34"
+},
+{
+"type": "http://simpleOntology#94413-Commissive_Speech_Act",
+"n": "11"
+},
+{
+"type": "http://simpleOntology#92-Aspectual",
+"n": "46"
+},
+{
+"type": "http://simpleOntology#9611-Constitutive_Change",
+"n": "56"
+},
+{
+"type": "http://simpleOntology#31-Cause",
+"n": "53"
+},
+{
+"type": "http://simpleOntology#3-Agentive",
+"n": "60"
+},
+{
+"type": "http://simpleOntology#57-Living_entity",
+"n": "82"
+},
+{
+"type": "http://simpleOntology#A27-NumeralProperty",
+"n": "11"
+},
+{
+"type": "http://simpleOntology#A17-OrdinalNumeral",
+"n": "15"
+},
+{
+"type": "http://simpleOntology#A13-Emotive",
+"n": "19"
+},
+{
+"type": "http://simpleOntology#A14-Manner",
+"n": "44"
+},
+{
+"type": "http://simpleOntology#64-Social_Property",
+"n": "15"
+},
+{
+"type": "http://simpleOntology#631-Physical_power",
+"n": "11"
+},
+{
+"type": "http://simpleOntology#59-Drink",
+"n": "9"
+},
+{
+"type": "http://simpleOntology#94416-Declarative_Speech_Act",
+"n": "23"
+}
+]

@@ -1,0 +1,3238 @@
+[
+{
+"t": "T1010#TemplateADJSuperTypeExtensional",
+"n": "3300"
+},
+{
+"t": "T1011#Subtype: Intersective",
+"n": "639"
+},
+{
+"t": "T1015#SyntacticTypeAttrPredPROT",
+"n": "2640"
+},
+{
+"t": "T865#DurationPersistentESS",
+"n": "2227"
+},
+{
+"t": "T102#ScalarPlusPROT",
+"n": "1586"
+},
+{
+"t": "M1086#Religion@Neutral",
+"n": "18"
+},
+{
+"t": "T19#TemplateSuperTypeHumanPROT",
+"n": "1286"
+},
+{
+"t": "T323#PSYCHOLOGICAL_FEATURE",
+"n": "1323"
+},
+{
+"t": "T686#PLUS_MENTAL",
+"n": "1205"
+},
+{
+"t": "T739#TemplateSuperTypePropertyPROT",
+"n": "2401"
+},
+{
+"t": "T834#EventTypeProcess",
+"n": "4687"
+},
+{
+"t": "T790#TemplateSuperTypeEventPROT",
+"n": "2050"
+},
+{
+"t": "T317#OPERATION",
+"n": "216"
+},
+{
+"t": "T1305#AgentiveCauseYesPROT",
+"n": "2082"
+},
+{
+"t": "T835#EventTypeTransition",
+"n": "2682"
+},
+{
+"t": "T1003#TemplateSuperTypeCause_ChangePROT",
+"n": "474"
+},
+{
+"t": "T784#MOTION",
+"n": "501"
+},
+{
+"t": "T274#ACTIVITY",
+"n": "2906"
+},
+{
+"t": "T796#TemplateSuperTypeActPROT",
+"n": "2235"
+},
+{
+"t": "T1297#ResultingStateYesPROT",
+"n": "1473"
+},
+{
+"t": "T1275#AgentiveYesPROT",
+"n": "3418"
+},
+{
+"t": "T786#POSSESSION",
+"n": "153"
+},
+{
+"t": "T816#TemplateSuperTypeChange_of_PossessionPROT",
+"n": "122"
+},
+{
+"t": "T836#EventTypeState",
+"n": "1787"
+},
+{
+"t": "T788#STATIVE",
+"n": "386"
+},
+{
+"t": "T795#TemplateSuperTypeRelational_StatePROT",
+"n": "208"
+},
+{
+"t": "T859#MeronymYesESS",
+"n": "25"
+},
+{
+"t": "T1273#TelicYesPROT",
+"n": "2438"
+},
+{
+"t": "T24#UnificationPathLocation-ArtifactAgentive-TelicPROT",
+"n": "802"
+},
+{
+"t": "T71#Dimension2PROT",
+"n": "231"
+},
+{
+"t": "T299#FUNCTIONAL_SPACE",
+"n": "179"
+},
+{
+"t": "T420#TRANSPORT",
+"n": "60"
+},
+{
+"t": "T351#MILITARY",
+"n": "228"
+},
+{
+"t": "T1002#UnificationPathChange-AgentivePROT",
+"n": "388"
+},
+{
+"t": "T35#SUBSTANCE",
+"n": "1250"
+},
+{
+"t": "T667#FOOD",
+"n": "348"
+},
+{
+"t": "T675#PLUS_EDIBLE",
+"n": "928"
+},
+{
+"t": "T10#UnificationPathConcreteEntity-ArtifactAgentive-FoodTelicPROT",
+"n": "372"
+},
+{
+"t": "T17#UnificationPathHuman-TelicPROT",
+"n": "4105"
+},
+{
+"t": "T803#TemplateSuperTypePsychological_EventPROT",
+"n": "476"
+},
+{
+"t": "T785#PERCEPTION",
+"n": "172"
+},
+{
+"t": "T906#IntentionalityYesESS",
+"n": "45"
+},
+{
+"t": "T828#UnificationPathRelationalAct-TelicPROT",
+"n": "2205"
+},
+{
+"t": "T6#UnificationPathConcreteEntity-ArtifactAgentive-TelicPROT",
+"n": "4104"
+},
+{
+"t": "T32#INSTRUMENT",
+"n": "724"
+},
+{
+"t": "T764#GYMNASTICS",
+"n": "21"
+},
+{
+"t": "T827#UnificationPathRelationalAct-AgentivePROT",
+"n": "99"
+},
+{
+"t": "T20#TemplateSuperTypeRolePROT",
+"n": "1256"
+},
+{
+"t": "T832#UnificationPathPhenomenon-AgentivePROT",
+"n": "1515"
+},
+{
+"t": "T18#UnificationPathHuman-AgentivePROT",
+"n": "2479"
+},
+{
+"t": "T283#ATTRIBUTE",
+"n": "857"
+},
+{
+"t": "T103#ScalarMinusPROT",
+"n": "1659"
+},
+{
+"t": "T1261#SyntacticTypeAttrPROT",
+"n": "539"
+},
+{
+"t": "T1009#TemplateADJSuperTypeIntensional",
+"n": "689"
+},
+{
+"t": "T1012#Subtype: Subsective",
+"n": "2019"
+},
+{
+"t": "M1042#Behaviour@Positive",
+"n": "121"
+},
+{
+"t": "T412#DRINK",
+"n": "111"
+},
+{
+"t": "T12#UnificationPathSubstance-ArtifactAgentive-TelicPROT",
+"n": "119"
+},
+{
+"t": "T778#COMMUNICATION",
+"n": "470"
+},
+{
+"t": "T99#ConnotationNegativeESS",
+"n": "1212"
+},
+{
+"t": "T1421#AgentiveExperienceYesPROT",
+"n": "393"
+},
+{
+"t": "T783#EMOTION",
+"n": "808"
+},
+{
+"t": "T805#UnificationPathPsychologicalEvent-AgentivePROT",
+"n": "536"
+},
+{
+"t": "T776#CHANGE",
+"n": "1827"
+},
+{
+"t": "T927#DirectionDownPROT",
+"n": "46"
+},
+{
+"t": "T1004#UnificationPathRelationalChange-AgentivePROT",
+"n": "768"
+},
+{
+"t": "T14#TemplateSuperTypeConcrete_EntityPROT",
+"n": "1174"
+},
+{
+"t": "T620#PHARMACY",
+"n": "140"
+},
+{
+"t": "T95#StateLiquidESS",
+"n": "85"
+},
+{
+"t": "T679#PLUS_HUMAN",
+"n": "4081"
+},
+{
+"t": "T15#TemplateSuperTypeLiving_EntityPROT",
+"n": "3687"
+},
+{
+"t": "T326#SITU",
+"n": "1459"
+},
+{
+"t": "T831#UnificationPathAspectual-CauseAgentivePROT",
+"n": "70"
+},
+{
+"t": "T91#SexFemaleESS",
+"n": "116"
+},
+{
+"t": "T763#HEALTH_AND_MEDICINE",
+"n": "96"
+},
+{
+"t": "T53#LOCATION",
+"n": "528"
+},
+{
+"t": "T31#FURNITURE",
+"n": "166"
+},
+{
+"t": "T519#FURNISHING",
+"n": "129"
+},
+{
+"t": "T692#PLUS_PART",
+"n": "1463"
+},
+{
+"t": "T750#TemplateSuperTypeConstitutivePROT",
+"n": "2177"
+},
+{
+"t": "T316#OCCUPATION",
+"n": "524"
+},
+{
+"t": "T737#TemplateSuperTypeAbstract_EntityPROT",
+"n": "1587"
+},
+{
+"t": "M1044#Behaviour@Neutral",
+"n": "107"
+},
+{
+"t": "T740#TemplateSuperTypeRepresentationPROT",
+"n": "1225"
+},
+{
+"t": "T921#LegalNoESS",
+"n": "88"
+},
+{
+"t": "T670#PLUS_ANIMAL",
+"n": "971"
+},
+{
+"t": "T16#TemplateSuperTypeAnimalPROT",
+"n": "761"
+},
+{
+"t": "T1005#TemplateSuperTypeCause_Relational_ChangePROT",
+"n": "1717"
+},
+{
+"t": "T596#ELECTRICITY",
+"n": "23"
+},
+{
+"t": "T44#OCCUPATION_AGENT",
+"n": "1124"
+},
+{
+"t": "T601#HISTORY",
+"n": "132"
+},
+{
+"t": "T830#UnificationPathSpeechAct-TelicPROT",
+"n": "342"
+},
+{
+"t": "T863#DurationTemporaryESS",
+"n": "382"
+},
+{
+"t": "M1149#Space@Neutral",
+"n": "10"
+},
+{
+"t": "M1043#Behaviour@Negative",
+"n": "129"
+},
+{
+"t": "T285#BUILDING",
+"n": "770"
+},
+{
+"t": "T72#Dimension3PROT",
+"n": "728"
+},
+{
+"t": "T695#PLUS_PROFESSIONAL",
+"n": "5"
+},
+{
+"t": "T2#TemplateSuperTypeEntityPROT",
+"n": "941"
+},
+{
+"t": "T938#DirectionUnderspecifiedPROT",
+"n": "71"
+},
+{
+"t": "T499#POLITICS_AND_GOVERNMENT",
+"n": "146"
+},
+{
+"t": "T34#VEHICLE",
+"n": "324"
+},
+{
+"t": "T478#ROAD_TRANSPORT",
+"n": "113"
+},
+{
+"t": "T437#MANUFACTURING_INDUSTRY",
+"n": "145"
+},
+{
+"t": "T342#CHEMISTRY",
+"n": "272"
+},
+{
+"t": "T610#OIL_INDUSTRY",
+"n": "6"
+},
+{
+"t": "T320#PHENOMENON",
+"n": "269"
+},
+{
+"t": "T908#IntentionalityNoESS",
+"n": "92"
+},
+{
+"t": "T28#ARTIFACT",
+"n": "976"
+},
+{
+"t": "T696#PLUS_SEMIOTIC",
+"n": "817"
+},
+{
+"t": "T273#ABSTRACT",
+"n": "1367"
+},
+{
+"t": "T592#PHILOSOPHY",
+"n": "105"
+},
+{
+"t": "T287#COGNITIVE_FACT",
+"n": "181"
+},
+{
+"t": "T746#UnificationPathAbstractEntity-AgentivePROT",
+"n": "1039"
+},
+{
+"t": "T374#POLITICS",
+"n": "204"
+},
+{
+"t": "T327#STATE",
+"n": "308"
+},
+{
+"t": "T854#PossibleYesPROT",
+"n": "90"
+},
+{
+"t": "T872#UnificationPathPsychologicalEvent-TelicPROT",
+"n": "101"
+},
+{
+"t": "T294#EVENT",
+"n": "571"
+},
+{
+"t": "T654#SHOWS",
+"n": "21"
+},
+{
+"t": "T55#OBJECT",
+"n": "138"
+},
+{
+"t": "T101#ConnotationPositiveESS",
+"n": "569"
+},
+{
+"t": "T333#MEDICINE",
+"n": "470"
+},
+{
+"t": "T54#GEOGRAPHY",
+"n": "510"
+},
+{
+"t": "T22#TemplateSuperTypeLocationPROT",
+"n": "748"
+},
+{
+"t": "T826#UnificationPathAct-CauseAgentivePROT",
+"n": "103"
+},
+{
+"t": "T48#ETHNOS",
+"n": "263"
+},
+{
+"t": "T467#ETHNOLOGY",
+"n": "281"
+},
+{
+"t": "T1306#PLUS_CONVENTIONAL",
+"n": "761"
+},
+{
+"t": "T3#UnificationPathConcreteEntity-Agentive-TelicPROT",
+"n": "95"
+},
+{
+"t": "T558#SMOKING",
+"n": "15"
+},
+{
+"t": "T671#PLUS_COLLECTIVE",
+"n": "1482"
+},
+{
+"t": "T1#TemplateSuperTypeTopPROT",
+"n": "726"
+},
+{
+"t": "T27#NOTION",
+"n": "342"
+},
+{
+"t": "T410#MAIL",
+"n": "47"
+},
+{
+"t": "T328#SYSTEM_OF_THOUGHT",
+"n": "200"
+},
+{
+"t": "T343#BOTANY",
+"n": "632"
+},
+{
+"t": "T21#TemplateSuperTypeVegetalEntityPROT",
+"n": "668"
+},
+{
+"t": "T51#FLOWER",
+"n": "65"
+},
+{
+"t": "T321#PLANT",
+"n": "247"
+},
+{
+"t": "T777#COGNITION",
+"n": "275"
+},
+{
+"t": "T1280#ModalityFeatureIntrinsicESS",
+"n": "55"
+},
+{
+"t": "T1279#ModalityTypePossiblePROT",
+"n": "57"
+},
+{
+"t": "T368#SEA_TRANSPORT",
+"n": "129"
+},
+{
+"t": "T782#CREATION",
+"n": "353"
+},
+{
+"t": "T822#TemplateSuperTypeCreationPROT",
+"n": "455"
+},
+{
+"t": "T13#TemplateSuperTypeGroupPROT",
+"n": "773"
+},
+{
+"t": "T45#HUMAN",
+"n": "789"
+},
+{
+"t": "T433#MUSIC",
+"n": "285"
+},
+{
+"t": "T789#WEATHER",
+"n": "17"
+},
+{
+"t": "T791#TemplateSuperTypePhenomenonPROT",
+"n": "19"
+},
+{
+"t": "T46#IDEO",
+"n": "125"
+},
+{
+"t": "T362#RELIGION",
+"n": "216"
+},
+{
+"t": "T8#UnificationPathConcreteEntity-TelicPROT",
+"n": "122"
+},
+{
+"t": "T829#UnificationPathMove-CauseAgentivePROT",
+"n": "91"
+},
+{
+"t": "T425#JEWELRY",
+"n": "69"
+},
+{
+"t": "T482#SKIING",
+"n": "18"
+},
+{
+"t": "T57#BODY_PART",
+"n": "309"
+},
+{
+"t": "T25#TemplateSuperTypePartPROT",
+"n": "571"
+},
+{
+"t": "T1292#PLUS_ANIMATE",
+"n": "224"
+},
+{
+"t": "T888#PresuppositionNewESS",
+"n": "53"
+},
+{
+"t": "T910#ContactYesESS",
+"n": "176"
+},
+{
+"t": "T873#UnificationPathEvent-CauseAgentivePROT",
+"n": "251"
+},
+{
+"t": "T459#MINING-GENERAL",
+"n": "7"
+},
+{
+"t": "T866#DurationUnderspecifiedPROT",
+"n": "522"
+},
+{
+"t": "M1138#Taste@Positive",
+"n": "10"
+},
+{
+"t": "T29#MATTER",
+"n": "220"
+},
+{
+"t": "T4#UnificationPathConcreteEntity-ArtifactAgentive-MaterialTelicPROT",
+"n": "270"
+},
+{
+"t": "T93#StateSolidESS",
+"n": "371"
+},
+{
+"t": "T390#EDUCATION",
+"n": "109"
+},
+{
+"t": "T563#HYDROGRAPHY",
+"n": "9"
+},
+{
+"t": "T663#HYDROLOGY",
+"n": "14"
+},
+{
+"t": "T748#UnificationPathEntity-Agentive-TelicPROT",
+"n": "258"
+},
+{
+"t": "T275#AFFECTION",
+"n": "161"
+},
+{
+"t": "T461#PSYCHIATRY",
+"n": "121"
+},
+{
+"t": "T355#PSYCHOLOGY",
+"n": "41"
+},
+{
+"t": "M1089#Political@Neutral",
+"n": "27"
+},
+{
+"t": "T331#TREE",
+"n": "83"
+},
+{
+"t": "T26#TemplateSuperTypeSubstancePROT",
+"n": "545"
+},
+{
+"t": "T476#CONSTRUCTION",
+"n": "123"
+},
+{
+"t": "T509#FURNITURE",
+"n": "37"
+},
+{
+"t": "T341#LINGUISTICS",
+"n": "64"
+},
+{
+"t": "T1420#IndirectTelicYesPROT",
+"n": "104"
+},
+{
+"t": "T628#POETICS",
+"n": "11"
+},
+{
+"t": "T542#ROMAN_CATHOLICISM",
+"n": "65"
+},
+{
+"t": "T1017#RealityConcrete",
+"n": "157"
+},
+{
+"t": "M1046#Adequacy@Negative",
+"n": "17"
+},
+{
+"t": "M1161#SpaceDistribution@Neutral",
+"n": "20"
+},
+{
+"t": "M1094#Economy@Negative",
+"n": "10"
+},
+{
+"t": "T414#MATHEMATICS",
+"n": "168"
+},
+{
+"t": "T851#MannerYesESS",
+"n": "288"
+},
+{
+"t": "T338#FILM",
+"n": "85"
+},
+{
+"t": "T1293#PLUS_CONCRETE",
+"n": "249"
+},
+{
+"t": "T471#METEOROLOGY",
+"n": "97"
+},
+{
+"t": "T290#CONTAINER",
+"n": "254"
+},
+{
+"t": "T350#SPORTS_AND_LEISURE",
+"n": "40"
+},
+{
+"t": "M1168#Consistency@Positive",
+"n": "12"
+},
+{
+"t": "T346#ANATOMY",
+"n": "237"
+},
+{
+"t": "T584#CARDIOLOGY",
+"n": "27"
+},
+{
+"t": "T480#CREATIVE_WRITING",
+"n": "111"
+},
+{
+"t": "T802#TemplateSuperTypeSpeech_ActPROT",
+"n": "72"
+},
+{
+"t": "T49#MICROORGANISM",
+"n": "38"
+},
+{
+"t": "T458#HEMATOLOGY",
+"n": "34"
+},
+{
+"t": "M1067#Normalcy@Negative",
+"n": "13"
+},
+{
+"t": "T298#FRUIT",
+"n": "130"
+},
+{
+"t": "T653#ACOUSTICS",
+"n": "47"
+},
+{
+"t": "M1203#Past@Neutral",
+"n": "12"
+},
+{
+"t": "M1221#Durative@Neutral",
+"n": "32"
+},
+{
+"t": "M1112#Constitution@Negative",
+"n": "23"
+},
+{
+"t": "T1284#TemporalityTypeFutureESS",
+"n": "1"
+},
+{
+"t": "T1287#PERIODE",
+"n": "64"
+},
+{
+"t": "M1233#Age@Neutral",
+"n": "13"
+},
+{
+"t": "T487#MEDIA",
+"n": "192"
+},
+{
+"t": "T806#UnificationPathPsychologicalEvent-CauseAgentivePROT",
+"n": "259"
+},
+{
+"t": "T738#TemplateSuperTypePhysicalPropertyPROT",
+"n": "207"
+},
+{
+"t": "T288#COLOR",
+"n": "115"
+},
+{
+"t": "T453#METALLURGY",
+"n": "60"
+},
+{
+"t": "T527#WATER_SPORT",
+"n": "4"
+},
+{
+"t": "M1075#Orderliness@Positive",
+"n": "11"
+},
+{
+"t": "M1129#Hearing@Positive",
+"n": "14"
+},
+{
+"t": "T276#AGENCY",
+"n": "121"
+},
+{
+"t": "T745#UnificationPathAbstractEntity-Agentive-TelicPROT",
+"n": "143"
+},
+{
+"t": "T353#SPORT",
+"n": "118"
+},
+{
+"t": "T781#CONTACT",
+"n": "168"
+},
+{
+"t": "T384#PHYSIOLOGY",
+"n": "63"
+},
+{
+"t": "T443#BIOCHEMISTRY",
+"n": "61"
+},
+{
+"t": "M1256#Power@Negative",
+"n": "16"
+},
+{
+"t": "T794#TemplateSuperTypeStatePROT",
+"n": "110"
+},
+{
+"t": "T646#GEOGRAPHY",
+"n": "505"
+},
+{
+"t": "T106#ScalarPlusESS",
+"n": "186"
+},
+{
+"t": "T365#FRUIT_AND_VEGETABLES",
+"n": "81"
+},
+{
+"t": "T547#ATHLETICS",
+"n": "6"
+},
+{
+"t": "T396#COMMERCE",
+"n": "156"
+},
+{
+"t": "T481#PHYSICS",
+"n": "74"
+},
+{
+"t": "T282#APPARATUS",
+"n": "145"
+},
+{
+"t": "T307#MAMMAL",
+"n": "192"
+},
+{
+"t": "T335#ZOOLOGY",
+"n": "379"
+},
+{
+"t": "T41#HabitatEarthPROT",
+"n": "247"
+},
+{
+"t": "T11#UnificationPathSubstance-FoodTelicPROT",
+"n": "144"
+},
+{
+"t": "T582#FASHION",
+"n": "111"
+},
+{
+"t": "M1200#Temporal@Neutral",
+"n": "4"
+},
+{
+"t": "M1186#Integrity@Positive",
+"n": "10"
+},
+{
+"t": "T858#MeronymYesPROT",
+"n": "62"
+},
+{
+"t": "T40#HabitatAirPROT",
+"n": "114"
+},
+{
+"t": "T400#ORNITHOLOGY",
+"n": "116"
+},
+{
+"t": "T284#BIRD",
+"n": "105"
+},
+{
+"t": "T356#MAMMALOGY",
+"n": "29"
+},
+{
+"t": "T451#SOCCER",
+"n": "27"
+},
+{
+"t": "T698#PLUS_SYMBOLIC",
+"n": "185"
+},
+{
+"t": "T306#LETTER",
+"n": "23"
+},
+{
+"t": "M1021#Experience@Positive",
+"n": "54"
+},
+{
+"t": "T540#MAGIC_AND_WITCHCRAFT",
+"n": "34"
+},
+{
+"t": "T604#BUILDING",
+"n": "81"
+},
+{
+"t": "T367#SAILING_YACHTING_AND_BOATING",
+"n": "15"
+},
+{
+"t": "T405#HYGIENE",
+"n": "3"
+},
+{
+"t": "T605#BEEKEEPING",
+"n": "7"
+},
+{
+"t": "T1016#RealityAbstract",
+"n": "111"
+},
+{
+"t": "M1023#Experience@Neutral",
+"n": "63"
+},
+{
+"t": "M1119#BodilySensation@Neutral",
+"n": "6"
+},
+{
+"t": "T588#PAINTMAKING",
+"n": "7"
+},
+{
+"t": "T595#CIVIL_ENGINEERING",
+"n": "52"
+},
+{
+"t": "T456#AGRICULTURE",
+"n": "127"
+},
+{
+"t": "T23#UnificationPathLocation-AgentivePROT",
+"n": "99"
+},
+{
+"t": "T379#CLOTHING_INDUSTRY",
+"n": "280"
+},
+{
+"t": "T30#GARMENT",
+"n": "296"
+},
+{
+"t": "T463#GAMES",
+"n": "45"
+},
+{
+"t": "T76#AgeYoungESS",
+"n": "55"
+},
+{
+"t": "T434#LEISURE",
+"n": "84"
+},
+{
+"t": "T300#GAME",
+"n": "41"
+},
+{
+"t": "T424#TEXTILES",
+"n": "116"
+},
+{
+"t": "T408#FINANCE",
+"n": "34"
+},
+{
+"t": "T444#OPHTHALMOLOGY-OPTOMETRY",
+"n": "17"
+},
+{
+"t": "T381#PENAL_SYSTEM",
+"n": "39"
+},
+{
+"t": "T635#ARCHAEOLOGY",
+"n": "15"
+},
+{
+"t": "T436#ARTS",
+"n": "236"
+},
+{
+"t": "T289#CONCRETE",
+"n": "35"
+},
+{
+"t": "T430#GRAPHIC_ARTS",
+"n": "68"
+},
+{
+"t": "T5#UnificationPathConcreteEntity-ArtifactAgentivePROT",
+"n": "144"
+},
+{
+"t": "T469#GEOLOGY",
+"n": "91"
+},
+{
+"t": "T775#BODY",
+"n": "44"
+},
+{
+"t": "T345#ECONOMICS",
+"n": "105"
+},
+{
+"t": "T33#CURRENCY",
+"n": "47"
+},
+{
+"t": "T348#BANKING",
+"n": "54"
+},
+{
+"t": "T804#UnificationPathCognitiveEvent-TelicPROT",
+"n": "29"
+},
+{
+"t": "T952#PresupposedYesPROT",
+"n": "27"
+},
+{
+"t": "T339#THEATER",
+"n": "104"
+},
+{
+"t": "T308#MEASURE_UNIT",
+"n": "73"
+},
+{
+"t": "T504#BUILDING_CRAFTS",
+"n": "9"
+},
+{
+"t": "T501#CUISINE",
+"n": "266"
+},
+{
+"t": "T680#PLUS_ICONIC",
+"n": "66"
+},
+{
+"t": "T665#MYCOLOGY",
+"n": "12"
+},
+{
+"t": "T312#MUSHROOM",
+"n": "8"
+},
+{
+"t": "M1302#MovementofThought@Neutral",
+"n": "13"
+},
+{
+"t": "M1036#Moral@Positive",
+"n": "39"
+},
+{
+"t": "T603#KNITTING",
+"n": "5"
+},
+{
+"t": "T636#WOOL_INDUSTRY",
+"n": "7"
+},
+{
+"t": "T42#HabitatWaterPROT",
+"n": "91"
+},
+{
+"t": "M1128#Visual@Neutral",
+"n": "45"
+},
+{
+"t": "T1286#COULEUR",
+"n": "33"
+},
+{
+"t": "M1101#Nationality@Neutral",
+"n": "109"
+},
+{
+"t": "T1285#GEOG",
+"n": "107"
+},
+{
+"t": "M1080#Style@Neutral",
+"n": "127"
+},
+{
+"t": "T513#HOROLOGY",
+"n": "8"
+},
+{
+"t": "T432#RESTAURATION",
+"n": "29"
+},
+{
+"t": "M1140#Taste@Neutral",
+"n": "12"
+},
+{
+"t": "T416#GOVERNMENT-ADMINISTRATION",
+"n": "38"
+},
+{
+"t": "T640#OFFICE_EQUIPMENT",
+"n": "9"
+},
+{
+"t": "T916#AttitudeAgainstESS",
+"n": "55"
+},
+{
+"t": "T466#AIRFORCE",
+"n": "4"
+},
+{
+"t": "T472#ELECTRONIC_ENGINEERING",
+"n": "14"
+},
+{
+"t": "T278#AMOUNT",
+"n": "247"
+},
+{
+"t": "T684#PLUS_MAMMAL",
+"n": "5"
+},
+{
+"t": "T334#OBSTETRICS",
+"n": "20"
+},
+{
+"t": "T630#MINERALOGY",
+"n": "66"
+},
+{
+"t": "T939#AudiencePublicESS",
+"n": "39"
+},
+{
+"t": "M1039#Esthetic@Positive",
+"n": "33"
+},
+{
+"t": "T83#Dimension2ESS",
+"n": "5"
+},
+{
+"t": "T429#ARCHITECTURE",
+"n": "150"
+},
+{
+"t": "T324#REPTILE",
+"n": "26"
+},
+{
+"t": "T406#HERPETOLOGY",
+"n": "31"
+},
+{
+"t": "M1097#Law@Negative",
+"n": "5"
+},
+{
+"t": "T359#DENTISTRY",
+"n": "16"
+},
+{
+"t": "M1025#PsychState@Negative",
+"n": "13"
+},
+{
+"t": "M1116#Illness@Neutral",
+"n": "12"
+},
+{
+"t": "T382#CRIME",
+"n": "70"
+},
+{
+"t": "T660#CRIMINAL_LAW",
+"n": "14"
+},
+{
+"t": "T787#SOCIAL",
+"n": "62"
+},
+{
+"t": "T561#CIRCUS",
+"n": "16"
+},
+{
+"t": "T391#PRIMARY_AND_SECONDARY_EDUCATION",
+"n": "7"
+},
+{
+"t": "M1107#Body@Neutral",
+"n": "16"
+},
+{
+"t": "M1030#AttitudeSalience@Positive",
+"n": "52"
+},
+{
+"t": "T606#FISHING",
+"n": "24"
+},
+{
+"t": "T473#FIRE",
+"n": "6"
+},
+{
+"t": "T1294#PLUS_ABSTRACT",
+"n": "93"
+},
+{
+"t": "T415#ANGLING",
+"n": "5"
+},
+{
+"t": "T97#StateGasESS",
+"n": "18"
+},
+{
+"t": "T87#HabitatWaterESS",
+"n": "23"
+},
+{
+"t": "T279#AMPHIBIAN",
+"n": "10"
+},
+{
+"t": "M1135#Smell@Positive",
+"n": "8"
+},
+{
+"t": "M1049#Effort@Negative",
+"n": "13"
+},
+{
+"t": "M1255#Power@Positive",
+"n": "45"
+},
+{
+"t": "M1131#Hearing@Neutral",
+"n": "8"
+},
+{
+"t": "T507#SEWING",
+"n": "25"
+},
+{
+"t": "T332#LIFE_SCIENCES",
+"n": "31"
+},
+{
+"t": "M1077#Orderliness@Neutral",
+"n": "4"
+},
+{
+"t": "T319#PERIOD",
+"n": "37"
+},
+{
+"t": "T706#PunctualNoESS",
+"n": "161"
+},
+{
+"t": "T297#FORM",
+"n": "72"
+},
+{
+"t": "T586#GEOMETRY",
+"n": "58"
+},
+{
+"t": "T678#PLUS_GEOMETRIC",
+"n": "46"
+},
+{
+"t": "M1070#Intelligence@Negative",
+"n": "30"
+},
+{
+"t": "M1118#BodilySensation@Negative",
+"n": "12"
+},
+{
+"t": "M1028#Cognition@Negative",
+"n": "12"
+},
+{
+"t": "M1037#Moral@Negative",
+"n": "73"
+},
+{
+"t": "T395#LAW",
+"n": "105"
+},
+{
+"t": "T477#MECHANICAL_ENGINEERING",
+"n": "28"
+},
+{
+"t": "T639#MYTHOLOGY",
+"n": "32"
+},
+{
+"t": "T677#PLUS_FICTIVE",
+"n": "63"
+},
+{
+"t": "T516#BUS_TRANSPORT",
+"n": "7"
+},
+{
+"t": "T305#INSECT",
+"n": "48"
+},
+{
+"t": "T439#ENTOMOLOGY",
+"n": "29"
+},
+{
+"t": "T890#PresuppositionPresupposedESS",
+"n": "12"
+},
+{
+"t": "T344#ANESTHESIOLOGY",
+"n": "5"
+},
+{
+"t": "T383#SHOEMAKING",
+"n": "30"
+},
+{
+"t": "T1270#ConnotationUnderspecifiedESS",
+"n": "86"
+},
+{
+"t": "T329#TIME_PERIOD",
+"n": "132"
+},
+{
+"t": "T617#ANTIQUITY",
+"n": "41"
+},
+{
+"t": "T705#IterativeMinusPROT",
+"n": "5"
+},
+{
+"t": "T302#ILLNESS",
+"n": "155"
+},
+{
+"t": "T427#CHRISTIANITY",
+"n": "73"
+},
+{
+"t": "T315#NUMBER",
+"n": "108"
+},
+{
+"t": "M1187#Integrity@Negative",
+"n": "46"
+},
+{
+"t": "M1040#Esthetic@Negative",
+"n": "7"
+},
+{
+"t": "T534#NUCLEAR_ENGINEERING",
+"n": "4"
+},
+{
+"t": "T366#ASTRONOMY",
+"n": "64"
+},
+{
+"t": "M1068#Normalcy@Neutral",
+"n": "8"
+},
+{
+"t": "T89#SexMaleESS",
+"n": "81"
+},
+{
+"t": "M1061#Security@Negative",
+"n": "8"
+},
+{
+"t": "T658#PEDIATRICS",
+"n": "13"
+},
+{
+"t": "T435#BABY_CARE",
+"n": "21"
+},
+{
+"t": "T986#GASTROENTEROLOGY",
+"n": "11"
+},
+{
+"t": "T545#CYTOLOGY",
+"n": "15"
+},
+{
+"t": "T524#PRINTING",
+"n": "11"
+},
+{
+"t": "T925#DirectionUpPROT",
+"n": "65"
+},
+{
+"t": "M1093#Economy@Positive",
+"n": "12"
+},
+{
+"t": "M1267#Society@Negative",
+"n": "14"
+},
+{
+"t": "M1247#Comparison@Negative",
+"n": "8"
+},
+{
+"t": "M1072#Competency@Positive",
+"n": "17"
+},
+{
+"t": "M1053#Functionality@Neutral",
+"n": "19"
+},
+{
+"t": "T537#EAR-NOSE-THROAT",
+"n": "21"
+},
+{
+"t": "T935#DirectionBackwardPROT",
+"n": "1"
+},
+{
+"t": "T293#ENTITY",
+"n": "86"
+},
+{
+"t": "T441#COMPUTING",
+"n": "42"
+},
+{
+"t": "T598#ECOLOGY",
+"n": "19"
+},
+{
+"t": "T310#MOLLUSC",
+"n": "17"
+},
+{
+"t": "T380#BOXING",
+"n": "7"
+},
+{
+"t": "T615#SOCIOLOGY",
+"n": "36"
+},
+{
+"t": "T984#DirectionUnderspecifiedESS",
+"n": "21"
+},
+{
+"t": "M1069#Intelligence@Positive",
+"n": "30"
+},
+{
+"t": "T659#CIVIL_LAW",
+"n": "6"
+},
+{
+"t": "T691#PLUS_ORGANIC",
+"n": "2"
+},
+{
+"t": "T874#VoiceQualityHighESS",
+"n": "18"
+},
+{
+"t": "T413#DRUGS",
+"n": "19"
+},
+{
+"t": "T583#HUNTING_AND_SHOOTING",
+"n": "59"
+},
+{
+"t": "M1054#Precision@Positive",
+"n": "21"
+},
+{
+"t": "T303#INANIMATE",
+"n": "47"
+},
+{
+"t": "T914#AttitudeForESS",
+"n": "57"
+},
+{
+"t": "M1031#AttitudeSalience@Negative",
+"n": "18"
+},
+{
+"t": "T1277#ModalityTypeEpistemicPROT",
+"n": "28"
+},
+{
+"t": "T567#INTELLIGENCE",
+"n": "10"
+},
+{
+"t": "T457#WOODWORKING",
+"n": "22"
+},
+{
+"t": "M1126#Visual@Positive",
+"n": "17"
+},
+{
+"t": "M1189#Quantity@Positive",
+"n": "18"
+},
+{
+"t": "M1150#Dimension@Positive",
+"n": "21"
+},
+{
+"t": "T448#DISTILLING",
+"n": "4"
+},
+{
+"t": "M1022#Experience@Negative",
+"n": "66"
+},
+{
+"t": "T280#ANIMAL",
+"n": "56"
+},
+{
+"t": "T645#LOCKSMITHING",
+"n": "14"
+},
+{
+"t": "M1169#Consistency@Negative",
+"n": "14"
+},
+{
+"t": "T577#RADIOLOGY_AND_RADIOTHERAPY",
+"n": "5"
+},
+{
+"t": "M1170#Consistency@Neutral",
+"n": "36"
+},
+{
+"t": "M1248#Comparison@Neutral",
+"n": "22"
+},
+{
+"t": "T38#LIVING_BEING",
+"n": "28"
+},
+{
+"t": "T848#AspectTerminativePROT",
+"n": "39"
+},
+{
+"t": "T515#DANCE",
+"n": "38"
+},
+{
+"t": "M1209#Future@Neutral",
+"n": "12"
+},
+{
+"t": "T488#HIGHER_EDUCATION",
+"n": "19"
+},
+{
+"t": "T361#HAIR",
+"n": "38"
+},
+{
+"t": "T644#PLASTICS",
+"n": "5"
+},
+{
+"t": "T951#PresupposedYesESS",
+"n": "13"
+},
+{
+"t": "T313#MUSICAL_INSTRUMENT",
+"n": "77"
+},
+{
+"t": "T656#SOCIAL_ACTION",
+"n": "6"
+},
+{
+"t": "T570#HUMAN_SCIENCES",
+"n": "10"
+},
+{
+"t": "T571#NEWSPAPER_PUBLISHING",
+"n": "12"
+},
+{
+"t": "M1163#Shape@Negative",
+"n": "1"
+},
+{
+"t": "T557#SCULPTURE",
+"n": "14"
+},
+{
+"t": "T502#BAKERY",
+"n": "88"
+},
+{
+"t": "T423#HORSE_RACING",
+"n": "18"
+},
+{
+"t": "T932#DirectionForwardESS",
+"n": "26"
+},
+{
+"t": "M1164#Shape@Neutral",
+"n": "21"
+},
+{
+"t": "T572#FEUDALISM",
+"n": "7"
+},
+{
+"t": "M1245#SetMembership@Neutral",
+"n": "17"
+},
+{
+"t": "M1066#Normalcy@Positive",
+"n": "16"
+},
+{
+"t": "T560#ENOLOGY",
+"n": "48"
+},
+{
+"t": "T357#SURGERY",
+"n": "40"
+},
+{
+"t": "T614#NEUROLOGY",
+"n": "34"
+},
+{
+"t": "T449#GOLF",
+"n": "2"
+},
+{
+"t": "M1184#Cleanliness@Negative",
+"n": "10"
+},
+{
+"t": "T489#TELECOMMUNICATIONS",
+"n": "24"
+},
+{
+"t": "T643#HORSESHOEING",
+"n": "5"
+},
+{
+"t": "T685#PLUS_MEASURABLE",
+"n": "40"
+},
+{
+"t": "T627#CRAFT_INDUSTRY",
+"n": "48"
+},
+{
+"t": "T651#SERVICE_INDUSTRY",
+"n": "7"
+},
+{
+"t": "T780#CONSUMPTION",
+"n": "42"
+},
+{
+"t": "M1194#Material@Neutral",
+"n": "27"
+},
+{
+"t": "T930#DirectionOutwardESS",
+"n": "2"
+},
+{
+"t": "T460#EARTH_SCIENCES",
+"n": "15"
+},
+{
+"t": "T419#CARDS",
+"n": "31"
+},
+{
+"t": "M1127#Visual@Negative",
+"n": "7"
+},
+{
+"t": "T387#LIVESTOCK_FARMING",
+"n": "16"
+},
+{
+"t": "T47#BIO",
+"n": "147"
+},
+{
+"t": "T78#AgeOldESS",
+"n": "10"
+},
+{
+"t": "T860#MeronymNoPROT",
+"n": "85"
+},
+{
+"t": "T833#TemplateSuperTypeAgentivePROT",
+"n": "54"
+},
+{
+"t": "T1289#FOLKLORE",
+"n": "32"
+},
+{
+"t": "T322#PROCESS",
+"n": "39"
+},
+{
+"t": "M1132#Touch@Positive",
+"n": "12"
+},
+{
+"t": "T392#GARDENING",
+"n": "17"
+},
+{
+"t": "T369#AIR_TRANSPORT",
+"n": "44"
+},
+{
+"t": "T528#OPTICS",
+"n": "19"
+},
+{
+"t": "M1034#AttitudeEvaluation@Negative",
+"n": "20"
+},
+{
+"t": "T440#AEROSPACE_ENGINEERING",
+"n": "22"
+},
+{
+"t": "M1033#AttitudeEvaluation@Positive",
+"n": "25"
+},
+{
+"t": "M1106#Body@Negative",
+"n": "5"
+},
+{
+"t": "T1278#ModalityTypeDeonticPROT",
+"n": "10"
+},
+{
+"t": "T1281#ModalityFeatureExtrinsicESS",
+"n": "17"
+},
+{
+"t": "T607#BACTERIOLOGY",
+"n": "8"
+},
+{
+"t": "T622#VIROLOGY",
+"n": "16"
+},
+{
+"t": "T431#HOTEL_BUSINESS",
+"n": "20"
+},
+{
+"t": "M1113#Constitution@Neutral",
+"n": "6"
+},
+{
+"t": "M1230#Iterative@Neutral",
+"n": "25"
+},
+{
+"t": "T337#PUBLISHING",
+"n": "18"
+},
+{
+"t": "T485#CATTLE_FARMING",
+"n": "9"
+},
+{
+"t": "T388#MONARCHY",
+"n": "24"
+},
+{
+"t": "T371#TAXATION",
+"n": "13"
+},
+{
+"t": "T407#HEALTH",
+"n": "7"
+},
+{
+"t": "T370#COSMETICS",
+"n": "49"
+},
+{
+"t": "T844#AspectInchoativePROT",
+"n": "33"
+},
+{
+"t": "T846#AspectDurativePROT",
+"n": "12"
+},
+{
+"t": "T508#PHOTOGRAPHY",
+"n": "35"
+},
+{
+"t": "T591#TILING",
+"n": "12"
+},
+{
+"t": "M1055#Precision@Negative",
+"n": "10"
+},
+{
+"t": "T578#THEOLOGY",
+"n": "11"
+},
+{
+"t": "M1102#PhysicalProperty@Positive",
+"n": "6"
+},
+{
+"t": "T1304#GRAMMAR",
+"n": "72"
+},
+{
+"t": "T1427#CardinalwithOrdinalMeaningPROT",
+"n": "11"
+},
+{
+"t": "M1063#Activeness@Positive",
+"n": "7"
+},
+{
+"t": "T108#IterativePlusESS",
+"n": "20"
+},
+{
+"t": "M1032#AttitudeSalience@Neutral",
+"n": "7"
+},
+{
+"t": "M1124#Perception@Negative",
+"n": "7"
+},
+{
+"t": "T500#HOME_AND_GARDEN",
+"n": "12"
+},
+{
+"t": "M1165#Substance@Positive",
+"n": "3"
+},
+{
+"t": "M1177#Temperature@Positive",
+"n": "9"
+},
+{
+"t": "T549#CYCLING",
+"n": "15"
+},
+{
+"t": "M1160#SpaceDistribution@Negative",
+"n": "7"
+},
+{
+"t": "T421#NAVY",
+"n": "14"
+},
+{
+"t": "T428#HERALDRY",
+"n": "4"
+},
+{
+"t": "T1276#AgentiveYesESS",
+"n": "9"
+},
+{
+"t": "M1148#Space@Negative",
+"n": "3"
+},
+{
+"t": "T693#PLUS_PATHOLOGICAL",
+"n": "34"
+},
+{
+"t": "T608#FLOWER_GROWING",
+"n": "3"
+},
+{
+"t": "T454#ELECTRICAL_ENGINEERING",
+"n": "13"
+},
+{
+"t": "T325#SHRUB",
+"n": "49"
+},
+{
+"t": "T411#INSURANCE",
+"n": "2"
+},
+{
+"t": "T539#SCIENCES",
+"n": "44"
+},
+{
+"t": "T575#MASONRY",
+"n": "3"
+},
+{
+"t": "M1266#Society@Positive",
+"n": "8"
+},
+{
+"t": "T619#FENCING",
+"n": "4"
+},
+{
+"t": "M1064#Activeness@Negative",
+"n": "8"
+},
+{
+"t": "M1082#SocialProperty@Negative",
+"n": "3"
+},
+{
+"t": "T613#RAIL_TRANSPORT",
+"n": "36"
+},
+{
+"t": "T664#LITURGY",
+"n": "7"
+},
+{
+"t": "T386#BUSINESS",
+"n": "37"
+},
+{
+"t": "T493#HOME_LAUNDRY",
+"n": "11"
+},
+{
+"t": "T1283#TemporalityTypePresentESS",
+"n": "3"
+},
+{
+"t": "M1078#Style@Positive",
+"n": "10"
+},
+{
+"t": "M1206#Present@Neutral",
+"n": "7"
+},
+{
+"t": "T475#CLEANING",
+"n": "26"
+},
+{
+"t": "T465#DIPLOMACY",
+"n": "11"
+},
+{
+"t": "T919#LegalYesESS",
+"n": "19"
+},
+{
+"t": "T296#FISH",
+"n": "56"
+},
+{
+"t": "T589#PAPERHANGING",
+"n": "2"
+},
+{
+"t": "T955#PartitiveYesESS",
+"n": "2"
+},
+{
+"t": "T758#AGRICULTURE-FISHING-FORESTRY",
+"n": "12"
+},
+{
+"t": "T1291#SexUnderspecifiedESS",
+"n": "13"
+},
+{
+"t": "M1074#Competency@Neutral",
+"n": "3"
+},
+{
+"t": "T993#StrengthUnderspecifiedESS",
+"n": "12"
+},
+{
+"t": "M1141#Movement@Positive",
+"n": "7"
+},
+{
+"t": "T522#ISLAM",
+"n": "14"
+},
+{
+"t": "T568#UTILITIES",
+"n": "10"
+},
+{
+"t": "T626#EMBRYOLOGY",
+"n": "1"
+},
+{
+"t": "M1045#Adequacy@Positive",
+"n": "29"
+},
+{
+"t": "M1115#Illness@Negative",
+"n": "33"
+},
+{
+"t": "T404#FAMILY_PLANNING",
+"n": "8"
+},
+{
+"t": "T372#ARMY",
+"n": "25"
+},
+{
+"t": "T336#DEATH",
+"n": "29"
+},
+{
+"t": "T710#PunctualYesESS",
+"n": "10"
+},
+{
+"t": "T291#DAY",
+"n": "40"
+},
+{
+"t": "M1178#Temperature@Negative",
+"n": "5"
+},
+{
+"t": "T525#CLIMBING",
+"n": "14"
+},
+{
+"t": "M1029#Cognition@Neutral",
+"n": "12"
+},
+{
+"t": "T641#ONCOLOGY",
+"n": "17"
+},
+{
+"t": "M1085#Religion@Negative",
+"n": "2"
+},
+{
+"t": "T947#ExplicitnessExplicitESS",
+"n": "18"
+},
+{
+"t": "T446#RADIO-TELEVISION",
+"n": "26"
+},
+{
+"t": "M1108#Life@Positive",
+"n": "5"
+},
+{
+"t": "M1109#Life@Negative",
+"n": "7"
+},
+{
+"t": "T532#POTTERY",
+"n": "7"
+},
+{
+"t": "T544#JUDAISM",
+"n": "15"
+},
+{
+"t": "M1249#Normal@Positive",
+"n": "13"
+},
+{
+"t": "M1051#Functionality@Positive",
+"n": "22"
+},
+{
+"t": "T490#LIBRARIANSHIP",
+"n": "19"
+},
+{
+"t": "M1158#Place@Neutral",
+"n": "9"
+},
+{
+"t": "T541#COKING_INDUSTRY",
+"n": "3"
+},
+{
+"t": "M1052#Functionality@Negative",
+"n": "14"
+},
+{
+"t": "T768#ADMINISTRATIVE_LAW",
+"n": "5"
+},
+{
+"t": "T468#PHONETICS",
+"n": "13"
+},
+{
+"t": "T399#VOLCANOLOGY",
+"n": "3"
+},
+{
+"t": "M1076#Orderliness@Negative",
+"n": "10"
+},
+{
+"t": "M1250#Normal@Negative",
+"n": "9"
+},
+{
+"t": "T474#LOGIC",
+"n": "3"
+},
+{
+"t": "M1027#Cognition@Positive",
+"n": "18"
+},
+{
+"t": "T517#CAR_TRANSPORT",
+"n": "2"
+},
+{
+"t": "T418#VETERINARY_MEDICINE",
+"n": "8"
+},
+{
+"t": "T526#FORTIFICATION",
+"n": "13"
+},
+{
+"t": "T566#DEMOGRAPHY",
+"n": "9"
+},
+{
+"t": "M1268#Society@Neutral",
+"n": "17"
+},
+{
+"t": "T924#DirectionUpESS",
+"n": "15"
+},
+{
+"t": "T518#TRUCKING",
+"n": "8"
+},
+{
+"t": "T649#BUDDHISM",
+"n": "5"
+},
+{
+"t": "T878#VoiceQualityClearESS",
+"n": "11"
+},
+{
+"t": "M1175#Wetness@Negative",
+"n": "4"
+},
+{
+"t": "T523#GLASSMAKING",
+"n": "11"
+},
+{
+"t": "T926#DirectionDownESS",
+"n": "14"
+},
+{
+"t": "T767#MORMONISM",
+"n": "2"
+},
+{
+"t": "T594#ORTHODOX_CHURCH",
+"n": "5"
+},
+{
+"t": "T749#UnificationPathProperty-AgentivePROT",
+"n": "8"
+},
+{
+"t": "T503#DYEING",
+"n": "2"
+},
+{
+"t": "M1111#Constitution@Positive",
+"n": "14"
+},
+{
+"t": "M1103#PhysicalProperty@Negative",
+"n": "4"
+},
+{
+"t": "T484#FORESTRY",
+"n": "8"
+},
+{
+"t": "T393#ICHTHYOLOGY",
+"n": "8"
+},
+{
+"t": "T409#RETAIL",
+"n": "79"
+},
+{
+"t": "T569#SOCIAL_SECURITY",
+"n": "19"
+},
+{
+"t": "T770#COMMERCIAL_LAW",
+"n": "3"
+},
+{
+"t": "T376#EQUESTRIAN_SPORT",
+"n": "8"
+},
+{
+"t": "T340#DERMATOLOGY",
+"n": "16"
+},
+{
+"t": "M1073#Competency@Negative",
+"n": "6"
+},
+{
+"t": "T642#PERFUMERY",
+"n": "10"
+},
+{
+"t": "T612#RHETORIC",
+"n": "24"
+},
+{
+"t": "T311#MONTH",
+"n": "14"
+},
+{
+"t": "T585#CARTOGRAPHY",
+"n": "12"
+},
+{
+"t": "T349#AUDIOVISUAL",
+"n": "19"
+},
+{
+"t": "M1191#Quantity@Neutral",
+"n": "5"
+},
+{
+"t": "M1246#Comparison@Positive",
+"n": "6"
+},
+{
+"t": "M1098#Law@Neutral",
+"n": "12"
+},
+{
+"t": "T662#VITICULTURE",
+"n": "11"
+},
+{
+"t": "M1173#Stability@Neutral",
+"n": "9"
+},
+{
+"t": "T1272#PresuppositionUnderspecifiedESS",
+"n": "1"
+},
+{
+"t": "T981#AudienceUnderspecifiedESS",
+"n": "1"
+},
+{
+"t": "T462#PHYSICAL_SCIENCES",
+"n": "2"
+},
+{
+"t": "T936#DirectionAroundESS",
+"n": "6"
+},
+{
+"t": "T625#GLAZING",
+"n": "1"
+},
+{
+"t": "M1130#Hearing@Negative",
+"n": "3"
+},
+{
+"t": "M1083#SocialProperty@Neutral",
+"n": "6"
+},
+{
+"t": "T389#ARABLE_FARMING",
+"n": "8"
+},
+{
+"t": "T363#ARBORICULTURE",
+"n": "7"
+},
+{
+"t": "T530#ROWING",
+"n": "4"
+},
+{
+"t": "M1190#Quantity@Negative",
+"n": "12"
+},
+{
+"t": "T997#DurationUnderspecifiedESS",
+"n": "5"
+},
+{
+"t": "T876#VoiceQualityLowESS",
+"n": "10"
+},
+{
+"t": "M1155#Direction@Neutral",
+"n": "5"
+},
+{
+"t": "M1152#Dimension@Neutral",
+"n": "7"
+},
+{
+"t": "T597#TYPOGRAPHY",
+"n": "16"
+},
+{
+"t": "T402#TENNIS",
+"n": "5"
+},
+{
+"t": "M1048#Effort@Positive",
+"n": "7"
+},
+{
+"t": "T470#AUTOMOBILE_ENGINEERING",
+"n": "24"
+},
+{
+"t": "T550#BULLFIGHTING",
+"n": "1"
+},
+{
+"t": "T631#PARAPSYCHOLOGY",
+"n": "4"
+},
+{
+"t": "M1379#Esthetic@Neutral",
+"n": "1"
+},
+{
+"t": "T880#VoiceQualityUnclearESS",
+"n": "5"
+},
+{
+"t": "T564#PALEOBIOLOGY",
+"n": "3"
+},
+{
+"t": "T452#RUGBY",
+"n": "4"
+},
+{
+"t": "T765#SURFING",
+"n": "4"
+},
+{
+"t": "T647#ASTROLOGY",
+"n": "27"
+},
+{
+"t": "T447#BREWING",
+"n": "13"
+},
+{
+"t": "M1122#Gender@Neutral",
+"n": "2"
+},
+{
+"t": "M1095#Economy@Neutral",
+"n": "5"
+},
+{
+"t": "T9#UnificationPathSubstance-TelicPROT",
+"n": "9"
+},
+{
+"t": "M1151#Dimension@Negative",
+"n": "17"
+},
+{
+"t": "T759#AUTOMATION",
+"n": "2"
+},
+{
+"t": "T347#PSYCHOANALYSIS",
+"n": "10"
+},
+{
+"t": "T611#TOWN_AND_COUNTRY_PLANNING",
+"n": "8"
+},
+{
+"t": "M1136#Smell@Negative",
+"n": "5"
+},
+{
+"t": "M1133#Touch@Negative",
+"n": "6"
+},
+{
+"t": "T538#GENETICS",
+"n": "5"
+},
+{
+"t": "T898#StrengthLowESS",
+"n": "3"
+},
+{
+"t": "T949#ExplicitnessImplicitESS",
+"n": "3"
+},
+{
+"t": "T491#ACCOUNTING",
+"n": "9"
+},
+{
+"t": "M1188#Integrity@Neutral",
+"n": "5"
+},
+{
+"t": "T426#SWIMMING",
+"n": "10"
+},
+{
+"t": "T554#POLO",
+"n": "1"
+},
+{
+"t": "T934#DirectionBackwardESS",
+"n": "4"
+},
+{
+"t": "M1142#Movement@Negative",
+"n": "14"
+},
+{
+"t": "T965#IntensityHighESS",
+"n": "5"
+},
+{
+"t": "M1144#Speed@Positive",
+"n": "4"
+},
+{
+"t": "M1224#Punctual@Neutral",
+"n": "20"
+},
+{
+"t": "T638#KITCHEN_EQUIPMENT",
+"n": "4"
+},
+{
+"t": "T699#PLUS_SYMPTOMATIC",
+"n": "2"
+},
+{
+"t": "T84#Dimension3ESS",
+"n": "5"
+},
+{
+"t": "T861#MeronymNoESS",
+"n": "6"
+},
+{
+"t": "T378#MARRIAGE",
+"n": "11"
+},
+{
+"t": "T1274#TelicYesESS",
+"n": "13"
+},
+{
+"t": "M1060#Security@Positive",
+"n": "7"
+},
+{
+"t": "M1171#Stability@Positive",
+"n": "7"
+},
+{
+"t": "T536#PETROLOGY",
+"n": "1"
+},
+{
+"t": "T495#TANNING",
+"n": "1"
+},
+{
+"t": "T442#BASKETBALL",
+"n": "6"
+},
+{
+"t": "T394#SHEEP_FARMING",
+"n": "7"
+},
+{
+"t": "T510#STEEL_INDUSTRY",
+"n": "4"
+},
+{
+"t": "M1081#SocialProperty@Positive",
+"n": "7"
+},
+{
+"t": "T546#ARCHERY",
+"n": "7"
+},
+{
+"t": "T933#DirectionForwardPROT",
+"n": "11"
+},
+{
+"t": "M1117#BodilySensation@Positive",
+"n": "6"
+},
+{
+"t": "T496#PAPERMAKING",
+"n": "11"
+},
+{
+"t": "T556#CRYSTALLOGRAPHY",
+"n": "2"
+},
+{
+"t": "M1251#Normal@Neutral",
+"n": "7"
+},
+{
+"t": "T892#AffectednessPositiveESS",
+"n": "1"
+},
+{
+"t": "T944#ObligationWeakESS",
+"n": "1"
+},
+{
+"t": "M1092#Military@Neutral",
+"n": "7"
+},
+{
+"t": "M1174#Wetness@Positive",
+"n": "9"
+},
+{
+"t": "T486#BUTCHERY",
+"n": "8"
+},
+{
+"t": "T385#SEX",
+"n": "17"
+},
+{
+"t": "T80#AgeAdultESS",
+"n": "14"
+},
+{
+"t": "M1179#Temperature@Neutral",
+"n": "3"
+},
+{
+"t": "T401#POULTRY_FARMING",
+"n": "3"
+},
+{
+"t": "T521#TOPOGRAPHY",
+"n": "7"
+},
+{
+"t": "T855#PossibleYesESS",
+"n": "2"
+},
+{
+"t": "T974#ReciprocalYesPROT",
+"n": "2"
+},
+{
+"t": "T929#DirectionInwardPROT",
+"n": "1"
+},
+{
+"t": "M1181#Weight@Negative",
+"n": "2"
+},
+{
+"t": "T593#PROTESTANTISM",
+"n": "4"
+},
+{
+"t": "T464#CHESS",
+"n": "16"
+},
+{
+"t": "T652#SUBWAY_TRANSPORT",
+"n": "2"
+},
+{
+"t": "M1166#Substance@Negative",
+"n": "4"
+},
+{
+"t": "M1243#SetMembership@Positive",
+"n": "1"
+},
+{
+"t": "T277#ALTERATION",
+"n": "2"
+},
+{
+"t": "M1172#Stability@Negative",
+"n": "6"
+},
+{
+"t": "M1147#Space@Positive",
+"n": "1"
+},
+{
+"t": "T559#BILLIARDS",
+"n": "5"
+},
+{
+"t": "T511#HISTOLOGY",
+"n": "1"
+},
+{
+"t": "T314#NON_LIVING",
+"n": "1"
+},
+{
+"t": "T531#CERAMICS",
+"n": "8"
+},
+{
+"t": "T884#PolarityPositiveESS",
+"n": "3"
+},
+{
+"t": "M1240#Possession@Positive",
+"n": "2"
+},
+{
+"t": "T707#PunctualNoPROT",
+"n": "7"
+},
+{
+"t": "M1227#Terminative@Neutral",
+"n": "5"
+},
+{
+"t": "T304#INDIVIDUAL_NAMES",
+"n": "10"
+},
+{
+"t": "T529#BALLET",
+"n": "1"
+},
+{
+"t": "T580#PYROTECHNICS",
+"n": "10"
+},
+{
+"t": "T483#EMPLOYMENT",
+"n": "5"
+},
+{
+"t": "T655#METROLOGY",
+"n": "1"
+},
+{
+"t": "M1212#TempDistribution@Neutral",
+"n": "2"
+},
+{
+"t": "T82#Dimension1ESS",
+"n": "1"
+},
+{
+"t": "M1079#Style@Negative",
+"n": "9"
+},
+{
+"t": "M1087#Political@Positive",
+"n": "1"
+},
+{
+"t": "M1159#SpaceDistribution@Positive",
+"n": "4"
+},
+{
+"t": "T492#MEETING",
+"n": "5"
+},
+{
+"t": "T661#CHURCH_OF_ENGLAND",
+"n": "1"
+},
+{
+"t": "M1114#Illness@Positive",
+"n": "4"
+},
+{
+"t": "M1258#Frequency@Positive",
+"n": "3"
+},
+{
+"t": "M1084#Religion@Positive",
+"n": "4"
+},
+{
+"t": "T587#ADVERTISING",
+"n": "1"
+},
+{
+"t": "M1231#Age@Positive",
+"n": "2"
+},
+{
+"t": "T688#PLUS_MINERAL",
+"n": "1"
+},
+{
+"t": "T673#PLUS_CHEMICAL",
+"n": "6"
+},
+{
+"t": "T761#NUCLEAR_PHYSICS",
+"n": "3"
+},
+{
+"t": "T479#WATER",
+"n": "9"
+},
+{
+"t": "T648#PALMISTRY",
+"n": "1"
+},
+{
+"t": "T973#ReciprocalYesESS",
+"n": "2"
+},
+{
+"t": "M1393#Precision@Negative",
+"n": "1"
+},
+{
+"t": "M1162#Shape@Positive",
+"n": "3"
+},
+{
+"t": "T364#CEREAL_FARMING",
+"n": "1"
+},
+{
+"t": "M1104#PhysicalProperty@Neutral",
+"n": "9"
+},
+{
+"t": "M1105#Body@Positive",
+"n": "2"
+},
+{
+"t": "M1197#TemporalProperty@Neutral",
+"n": "1"
+},
+{
+"t": "T957#PartitiveNoESS",
+"n": "3"
+},
+{
+"t": "M1218#Inchoative@Neutral",
+"n": "1"
+},
+{
+"t": "T506#AIR_CONDITIONING",
+"n": "1"
+},
+{
+"t": "T856#PossibleNoPROT",
+"n": "2"
+},
+{
+"t": "T535#HOUSE_PAINTING",
+"n": "2"
+},
+{
+"t": "T497#GEOPOLITICS",
+"n": "2"
+},
+{
+"t": "T896#StrengthHighESS",
+"n": "9"
+},
+{
+"t": "M1153#Direction@Positive",
+"n": "2"
+},
+{
+"t": "M1096#Law@Positive",
+"n": "6"
+},
+{
+"t": "T913#ContactNoESS",
+"n": "2"
+},
+{
+"t": "T375#INLAND_WATERWAY_TRANSPORT",
+"n": "2"
+},
+{
+"t": "M1301#MovementofThought@Positive",
+"n": "2"
+},
+{
+"t": "T514#MARKETING",
+"n": "2"
+},
+{
+"t": "M1180#Weight@Positive",
+"n": "2"
+},
+{
+"t": "T632#ELECTRICAL_WORK",
+"n": "1"
+},
+{
+"t": "M1193#Material@Negative",
+"n": "1"
+},
+{
+"t": "M1110#Life@Neutral",
+"n": "1"
+},
+{
+"t": "M1167#Substance@Neutral",
+"n": "5"
+},
+{
+"t": "T853#MannerNoESS",
+"n": "2"
+},
+{
+"t": "T907#IntentionalityYesPROT",
+"n": "1"
+},
+{
+"t": "T403#BASEBALL",
+"n": "3"
+},
+{
+"t": "M1375#Moral@Negative",
+"n": "2"
+},
+{
+"t": "M1381#Behaviour@Negative",
+"n": "2"
+},
+{
+"t": "M1123#Perception@Positive",
+"n": "2"
+},
+{
+"t": "T666#INTERNATIONAL_LAW",
+"n": "3"
+},
+{
+"t": "T498#INTERNATIONAL_AFFAIRS",
+"n": "3"
+},
+{
+"t": "T945#ObligationStrongESS",
+"n": "1"
+},
+{
+"t": "M1145#Speed@Negative",
+"n": "1"
+},
+{
+"t": "M1242#Possession@Neutral",
+"n": "1"
+},
+{
+"t": "T422#WASTE_TREATMENT",
+"n": "2"
+},
+{
+"t": "M1018#PsychologicalProperty@Positive",
+"n": "2"
+},
+{
+"t": "T438#SHIP_BUILDING",
+"n": "6"
+},
+{
+"t": "T330#TOOLS",
+"n": "4"
+},
+{
+"t": "T565#OPERA",
+"n": "2"
+},
+{
+"t": "T621#TOBACCO_INDUSTRY",
+"n": "2"
+},
+{
+"t": "T953#PresupposedNoESS",
+"n": "6"
+},
+{
+"t": "M1244#SetMembership@Negative",
+"n": "2"
+},
+{
+"t": "T886#PolarityNegativeESS",
+"n": "3"
+},
+{
+"t": "T543#OCEANOGRAPHY",
+"n": "4"
+},
+{
+"t": "T889#PresuppositionNewPROT",
+"n": "1"
+},
+{
+"t": "T629#SEISMOLOGY",
+"n": "3"
+},
+{
+"t": "T771#CONSTITUTIONAL_LAW",
+"n": "1"
+},
+{
+"t": "M1139#Taste@Negative",
+"n": "2"
+},
+{
+"t": "T650#GAS",
+"n": "6"
+},
+{
+"t": "M1035#AttitudeEvaluation@Neutral",
+"n": "1"
+},
+{
+"t": "M1088#Political@Negative",
+"n": "1"
+},
+{
+"t": "M1154#Direction@Negative",
+"n": "1"
+},
+{
+"t": "T576#PLUMBING",
+"n": "5"
+},
+{
+"t": "T963#IntensityLowESS",
+"n": "1"
+},
+{
+"t": "T633#MILITARY_LAW",
+"n": "2"
+},
+{
+"t": "M1185#Cleanliness@Neutral",
+"n": "1"
+},
+{
+"t": "T616#PHILATELY",
+"n": "1"
+},
+{
+"t": "T602#FIREFIGHTING",
+"n": "1"
+},
+{
+"t": "T623#PACKAGING",
+"n": "1"
+},
+{
+"t": "T1298#ResultingStateYesESS",
+"n": "2"
+},
+{
+"t": "M1090#Military@Positive",
+"n": "3"
+},
+{
+"t": "T85#HabitatEarthESS",
+"n": "2"
+},
+{
+"t": "T397#MANAGEMENT",
+"n": "8"
+},
+{
+"t": "T915#AttitudeForPROT",
+"n": "1"
+},
+{
+"t": "T562#STATISTICS",
+"n": "2"
+},
+{
+"t": "M1041#Esthetic@Neutral",
+"n": "1"
+},
+{
+"t": "M1183#Cleanliness@Positive",
+"n": "8"
+},
+{
+"t": "M1192#Material@Positive",
+"n": "1"
+},
+{
+"t": "T574#BOOKBINDING",
+"n": "2"
+},
+{
+"t": "T1262#SyntacticTypePredPROT",
+"n": "1"
+},
+{
+"t": "T301#GROUP_NAMES",
+"n": "2"
+},
+{
+"t": "T674#PLUS_DERMIC",
+"n": "1"
+},
+{
+"t": "T494#HINDUISM",
+"n": "3"
+},
+{
+"t": "M1026#PsychState@Neutral",
+"n": "1"
+},
+{
+"t": "T360#SHAVING",
+"n": "1"
+},
+{
+"t": "M1143#Movement@Neutral",
+"n": "1"
+},
+{
+"t": "M1071#Intelligence@Neutral",
+"n": "1"
+},
+{
+"t": "T988#LegalUnderspecifiedESS",
+"n": "1"
+}
+]

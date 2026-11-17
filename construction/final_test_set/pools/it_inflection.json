@@ -1,0 +1,62 @@
+[
+{
+"infl": "http://liita.it/ontologies/liita/c2i",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "729"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c3i",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "92"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c2",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "330"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c2r",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "476"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c1r",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "3673"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c1i",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "35"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c3",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "1055"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c2p",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "24"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c3r",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "608"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c1p",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "73"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c3p",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "7"
+},
+{
+"infl": "http://liita.it/ontologies/liita/c1",
+"pos": "http://lila-erc.eu/ontologies/lila/verb",
+"n": "9387"
+}
+]
